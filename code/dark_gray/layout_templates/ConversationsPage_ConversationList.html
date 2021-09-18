@@ -1,0 +1,60 @@
+{foreach $[conversation]}
+	<tr class="buffer">
+        <td colspan="2">
+            <div style="height: 0; float: left; position: relative; left: 114px; top: 8px; font-size: 11px;">
+                $[conversation.labels]
+            </div>
+        </td>
+	</tr>
+	<tr id="$[conversation.content_id]" class="$[conversation.content_class]">
+        <td class="checkbox clickable" style="border-bottom: none !important;">
+            <span></span>
+            $[conversation.checkbox]
+        </td>
+        <td style="border-bottom: none !important;">
+            <div class="bulk">
+                <table style="width: 100%;">
+                    <tr>
+                        <td class="user-avatar">
+                            $[conversation.created_by.avatar]
+                        </td>
+                        <td class="main">
+                            <span class="createdby">
+                                created by $[conversation.created_by]
+                            </span>
+                            <span class="link target">
+                                $[conversation]
+                            </span>
+                        </td>
+                        <td class="stats">
+                            <div class="top">
+                                $[conversation.num_messages] message{if $[conversation.num_messages] != 1}s{/if}
+                            </div>
+                            <div class="bottom">
+                                $[conversation.num_other_participants] participaent{if $[conversation.num_other_participants] != 1}s{/if}
+                            </div>
+                        </td>
+                        <td class="lp">
+                            <div class="last-post">
+                                last message sent $[conversation.last_message.created_on]
+                            </div>
+                            <div class="lp-author">
+                                by $[conversation.last_message.created_by]
+                            </div>
+                            {if $[thread.pagination]}
+                            <div class="ui-micro-pagination">
+                                pages $[conversation.pagination]
+                            </div>
+                            {/if}
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+	</tr>
+{/foreach}
+{if !$[conversation]}
+	<tr class="last">
+		<td class="last center" colspan="6">No messages were found</td>
+	</tr>
+{/if}

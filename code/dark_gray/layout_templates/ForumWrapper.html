@@ -1,0 +1,413 @@
+<!DOCTYPE HTML>
+	<!-- ELOQUENCE PREMADE THEME © PUNKI 2018 -->
+	$[tag.html.open]
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,700|Raleway:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+		<title>$[title] | $[forum.name]</title>
+		$[head]
+        <script>
+            $(document).ready(function() {
+                var t = document.getElementById('tooltip-span');
+				
+                $('.avatar-wrapper').addClass('tooltip');
+                $('.user-link').addClass('tooltip');
+                
+				window.onmousemove = function (e) {
+					var x = e.clientX,
+	    			y = e.clientY;
+
+					t.style.top = (y + 20) + 'px';
+					t.style.left = (x + 20) + 'px';
+				};
+                
+                $('.tooltip').mouseenter(function() {
+				var tooltipContent = $(this).attr('title');
+                    if (tooltipContent) {
+						$(this).attr('title', null);
+						$('#tooltip-span').empty().append(tooltipContent).css('display', 'inline-block');
+                    } else {
+                        $('#tooltip-span').css('display', 'none');
+                    }
+				}).mouseleave(function() {
+					var tooltipContent = $('#tooltip-span').text();
+					$('#tooltip-span').css('display','none');
+					$(this).attr('title',tooltipContent);
+				});
+                
+                var b = 1;
+                
+                function materialize(element) {
+                    $(element).animate({'opacity':'1'},1000);
+                    b++;
+                }
+                function vanish() {
+                    $('.background2, .background3, .background4, .background5, .background6').animate({'opacity':'0'},1000);
+                    b = 1;
+                }
+                
+                function banner() {
+                    if (b == 1) {
+                        materialize($('.background2'));
+                    } else if (b == 2) {
+                        materialize($('.background3'));
+                    } else if (b == 3) {
+                        materialize($('.background4'));
+                    } else if (b == 4) {
+                        materialize($('.background5'));
+                    } else if (b == 5) {
+                    	materialize($('.background6'));
+                    } else if (b == 6) {
+                        vanish();
+                    }
+                }
+                
+                window.setInterval(banner,15000);
+                
+                var modHeight = window.innerHeight;
+                
+                $('.modal').css('height',modHeight + 'px');
+                
+                function openSesame(element) {
+                    $('.modal').css('display','block');
+                    var id = $(element).attr('modal');
+                    
+                    $('#' + id).css('display','block');
+                }
+                
+                function closeIt() {
+                    $('.modal').css('display','none');
+                    $('#about, #staff, #awards, #nav, #credit').css('display','none');
+                }
+                
+                $('.p-banner .modals a').click(function() {
+                    openSesame(this);
+                });
+                
+                $('.modal').click(function() {
+                    closeIt()
+                });
+                
+                var $next = $('.ui-pagination-next > a');
+                var $prev = $('.ui-pagination-prev > a');
+                $next.text($next.text().replace('»', ''));
+                $prev.text($prev.text().replace('«', ''));
+            });
+        </script>
+        <script>
+                var audio;
+                var selectAudio;
+                var active;
+            	var m = false;
+                
+                function playAudio(element) {
+                    selectAudio = element.getAttribute('mp3');
+                    active = $(element).hasClass('active');
+                    if (!m) {
+                        audio = new Audio(selectAudio);
+                        audio.play();
+                        $(element).addClass('active').empty().append('<i class="fas fa-pause"></i>');
+                        m = true;
+                    } else if (!active) {
+                        audio.pause();
+                        audio = new Audio(selectAudio);
+                        audio.play();
+                        $('.music').removeClass('active').empty().append('<i class="fas fa-play" style="margin-left: 2px;"></i>');
+                        $(element).addClass('active').empty().append('<i class="fas fa-pause"></i>');
+                    } else {
+                        audio.pause();
+                        $(element).removeClass('active').empty().append('<i class="fas fa-play" style="margin-left: 2px;"></i>');
+                        m = false;
+                    }
+                }
+        </script>
+	</head>
+	<body>
+        <!-- BANNER & HEADER REMODELS © PUNKI 2018 -->
+        <span id="tooltip-span"></span>
+        <div class="modal"></div>
+        <div id="about">
+        	<div class="picture"></div>
+            <div class="sayhi">
+                <!-- About title text -->
+                welcome to <b>alo test</b>
+            </div>
+            <div class="text">
+                <div style="overflow: auto; max-height: 100%;">
+                    <!-- Your actual about/welcome message -->
+                    WELCOME TO ALOHOMORA! WE ARE A POST POTTER RPG WITH A PLOT HEAVILY INFLUENCED BY STAFF AND MEMBERS ALIKE. WHAT ADVENTURES LIE IN STORE THIS YEAR?
+                </div>
+            </div>
+        </div>
+        <div id="staff">
+            <div class="picture">
+                <!-- Staffer links and portraits - see Style Sheet to change image url's -->
+                <a href="stafferlink" class="staffer1 tooltip" title="admin sora"></a>
+                <a href="stafferlink" class="staffer2 tooltip" title="admin lisa"></a>
+                <a href="stafferlink" class="staffer3 tooltip" title="mod vanessa"></a>
+                <a href="stafferlink" class="staffer4 tooltip" title="mod ana"></a>
+                <a href="stafferlink" class="staffer5 tooltip" title="mod seph"></a>
+                <a href="stafferlink" class="staffer6 tooltip" title="mod audrey"></a>
+            </div>
+        </div>
+        <div id="awards">
+            <div class="picture"></div>
+            <!-- Four award spaces -->
+            <table>
+                <tr>
+                    <td>
+                        <div class="awardee">
+                            MoTM
+                        </div>
+                        <a href="awardeelink" class="award-1 tooltip" title="award title">
+                        	<div class="overlay">
+                                <i class="fas fa-award"></i>
+                            </div>
+                        </a>
+                    </td>
+                    <td>
+                        <div class="awardee">
+                            ToTM
+                        </div>
+                        <a href="awardeelink" class="award-2 tooltip" title="award title">
+                        	<div class="overlay">
+                                <i class="fas fa-award"></i>
+                            </div>
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="awardee">
+                            CoTM
+                        </div>
+                        <a href="awardeelink" class="award-3 tooltip" title="award title">
+                        	<div class="overlay">
+                                <i class="fas fa-award"></i>
+                            </div>
+                        </a>
+                    </td>
+                    <td>
+                        <div class="awardee">
+                            OTM
+                        </div>
+                        <a href="awardeelink" class="award-4 tooltip" title="award title">
+                        	<div class="overlay">
+                                <i class="fas fa-award"></i>
+                            </div>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="nav">
+            <div class="table">
+                <!-- Eight navigation links -->
+                <a href="link">
+                    rules
+                </a>
+                <a href="link">
+                    plot
+                </a>
+                <a href="link">
+                    application
+                </a>
+                <a href="link">
+                    canons
+                </a>
+                <a href="link">
+                    playby claim
+                </a>
+                <a href="link">
+                    claims
+                </a>
+                <a href="link">
+                    galleon shop
+                </a>
+                <a href="link" style="margin: 0;">
+                    ads
+                </a>
+            </div>
+            <div class="picture"></div>
+        </div>
+        <div id="credit">
+            <div class="bulk">
+                <div class="topper">
+                    premade theme <i>eloquence</i>
+                </div>
+                <div class="text">
+                    <!-- My credit - refrain from altering -->
+                    <i>Eloquence</i> is a Proboards v5 free premade theme, designed by <a href="http://lessthanperfectdesigns.tumblr.com">punki</a> of <a href="http://adoxographyv2.boards.net/">Adoxography</a> and <a href="http://pixel-perfect.boards.net">Pixel Perfect</a>. This theme is best optimized for Mozilla Firefox. Free-to-use photos by various artists of <a href="http://unsplash.com">Unsplash</a>. Forum icons by <a href="http://fontawesome.com/">Font Awesome</a>.
+                </div>
+                <div class="topper">
+                    <i>alo test</i>
+                </div>
+                <div class="text">
+                    <!-- YOUR credit - alter to fit your needs, but be wary of limited space -->
+                    <b>alo test</b> is the product of the minds of <b>VEE</b>; all contents are copyright their original owners. All characters belong to their original creators, and may not be used or replicated without permission. All images are copyright their original owners.
+                </div>
+            </div>
+        </div>
+		{if $[maintenance_mode]}
+			<div class="maintenance-header">
+				{if $[can.disable_maintenance]}<p>Finished with maintenance? $[disable_maintenance_link].</p>{/if}
+			</div>
+		{/if}
+        <div id="wrapper">
+            <div class="pagefollower">
+            	<a href="/" class="tooltip" title="Home">
+                    <i class="fas fa-home"></i>
+                </a>
+                <a href="/members" class="tooltip" title="Members">
+                    <i class="fas fa-users"></i>
+                </a>
+                <a href="/search" class="tooltip" title="Search">
+                    <i class="fas fa-search"></i>
+                </a>
+                {if !$[current_user.is_guest]}
+                <a href="/user/$[current_user.id]" class="tooltip" title="Profile">
+                    <i class="fas fa-user"></i>
+                </a>
+                {/if}
+                {if $[current_user.can_admin]}
+                <a href="/admin" class="tooltip" title="Admin">
+                    <i class="fas fa-cog"></i>
+                </a>
+                {/if}
+                <span></span>
+                {if !$[current_user.is_guest]}
+                <a href="$[logout_link.href]" class="tooltip" title="Log Out" style="margin-bottom: 0;">
+                    <i class="fas fa-power-off"></i>
+                </a>
+                {else}
+                <a href="$[login_link.href]" class="tooltip" title="Log In">
+                    <i class="fas fa-power-off"></i>
+                </a>
+                <a href="$[register_link.href]" class="tooltip" title="Register" style="margin-bottom: 0;">
+                    <i class="fas fa-plus"></i>
+                </a>
+                {/if}
+        	</div>
+        	<div class="p-banner">
+                <div class="background2">
+                    <div class="background3">
+                        <div class="background4">
+                        	<div class="background5">
+                                <div class="background6"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="title-text">
+                    <div class="subtitle">
+                        <!-- Put your subtitle here -->
+                        a post potter rpg
+                    </div>
+                    <!-- Put your forum title here -->
+                    alo test
+                    <div class="modals">
+                        <a id="m-about" modal="about">
+                            about
+                        </a>
+                        <a id="m-staff" modal="staff">
+                            staff
+                        </a>
+                        <a id="m-awards" modal="awards">
+                            awards
+                        </a>
+                        <a id="m-nav" modal="nav">
+                            navigation
+                        </a>
+                        <a id="m-credit" modal="credit">
+                            credit
+                        </a>
+                    </div>
+                </div>
+                <div class="links">
+                    {if !$[current_user.is_guest]}
+                    <a href="/user/$[current_user.id]/notifications" class="{if $[current_user.new_notifications] > 0}alert {/if}tooltip" title="{if $[current_user.new_notifications] > 0}$[current_user.new_notifications] {/if}notification{if $[current_user.new_notifications] != 1}s{/if}">
+                        <i class="fas fa-bell"></i>
+                    </a>
+                    <a href="/conversations" class="{if $[current_user.messages.new] > 0}alert {/if}tooltip" title="{if $[current_user.messages.new] > 0}$[current_user.messages.new] {/if}message{if $[current_user.messages.new] != 1}s{/if}">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="$[participated_threads_link.href]" class="$[participated_threads_link.class] {if $[current_user.has_new_recent_threads]}alert {/if}tooltip" title="{if $[current_user.has_new_recent_threads]}<b>new</b> {/if}participated">
+                        <i class="fas fa-bolt"></i>
+                    </a>
+                    {else}
+                    <a href="$[login_link.href]" class="tooltip" title="log in">
+                        <i class="fas fa-power-off"></i>
+                    </a>
+                    <a href="$[register_link.href]" class="tooltip" title="register">
+                        <i class="fas fa-plus"></i>
+                    </a>
+                    {/if}
+                </div>
+            </div>
+            {if $[navigation.tree]}
+			<div id="navigation-tree">
+                $[navigation.tree]
+            </div>
+            {/if}
+            <div class="dashboard">
+                <div class="user-avatar">
+                    $[current_user.avatar]
+                </div>
+                <!-- Event or advertisement, whatever you wanna do -->
+                <a href="EVENTLINK" class="event">
+                    <div class="info">
+                        event title
+                    </div>
+                </a>
+                <div class="bulk">
+                    <div class="welcometext">
+                        {if !$[current_user.is_guest]}welcome back, {if $[current_user.name]}$[current_user.name]{else}$[current_user.username]{/if}{else}welcome to <b>eloquence</b>, guest{/if}
+                    </div>
+                    <div class="updates">
+                        <!-- Put your dated updates here -->
+                        <b>DD/MM/YY</b><br>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin in mauris a ultricies. Sed quis laoreet augue. Fusce ut lacinia elit. Nunc eleifend rutrum ipsum, id efficitur leo. Suspendisse vehicula iaculis vehicula. Integer congue ultricies enim nec mattis. Nulla varius vehicula sodales. Nunc lacinia lectus id maximus dictum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed porttitor justo sed consequat sollicitudin. Nullam at eleifend velit, ut consectetur tellus.<br><br>
+                        <b>DD/MM/YY</b><br>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin in mauris a ultricies. Sed quis laoreet augue. Fusce ut lacinia elit. Nunc eleifend rutrum ipsum, id efficitur leo. Suspendisse vehicula iaculis vehicula. Integer congue ultricies enim nec mattis. Nulla varius vehicula sodales. Nunc lacinia lectus id maximus dictum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed porttitor justo sed consequat sollicitudin. Nullam at eleifend velit, ut consectetur tellus.
+                    </div>
+                </div>
+            </div>
+            <div id="header">
+				$[header]
+            </div>
+			<div id="content" role="main">
+				{if $[notice]}
+				<div class="container">
+					<div class="title-bar"><h2>$[notice.title]</h2></div>
+					<div class="content pad-all cap-bottom">
+						$[notice.message]
+					</div>
+				</div>
+				{/if}
+				$[content]
+			</div>
+            <div class="affiliates">
+                <!-- Global affiliates table -->
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+                <a href="AFFILIATELINK" class="tooltip" title="AFFILIATE TITLE" style="background-image: url('http://placehold.it/88x31');"></a>
+            </div>
+            <div class="cbox">
+                <!-- Replace the following line with the code for your chatbox - please be mindful that the shoutbox has not been altered to fit this theme. -->
+                <img src="http://placehold.it/878x250?text=CBOX+HERE">
+            </div>
+            <div id="footer">
+				$[footer]
+            </div>
+		</div>
+		{if $[is_mobile_browser]}
+			<br /><p class="center mobile-view-prompt">Switch to the $[mobile_switch_link].</p>
+		{/if}
+	</body>
+</html>
