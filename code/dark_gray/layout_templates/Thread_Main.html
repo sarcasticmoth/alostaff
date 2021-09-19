@@ -1,0 +1,39 @@
+<div class="container posts">
+    <div class="t-icons">
+        {if $[thread.is_announcement]}<i class="fas fa-bullhorn tooltip" title="announcement"></i>{/if}{if $[thread.is_locked]}<i class="fas fa-lock tooltip" title="locked"></i>{/if}{if $[thread.is_poll]}<i class="far fa-chart-bar tooltip" title="poll"></i>{/if}{if $[thread.is_sticky]}<i class="fas fa-thumbtack tooltip" title="stickied"></i>{/if}{if $[thread.is_bookmarked]}<i class="fas fa-bookmark tooltip" title="bookmarked"></i>{/if}
+    </div>
+    {if $[reply_button]}
+    	<div align="right" style="height: 15px; padding-right: 30px;">
+        	<a class="c-thread" href="$[reply_button.href]">
+            	<left></left>
+            	<right></right>
+            	reply to thread
+        	</a>
+    </div>
+    {/if}
+	<div class="title-bar">
+        <div style="float: right">
+            $[thread.labels]
+        </div>
+		<h1>$[thread.subject]</h1>
+	</div>
+	<div class="control-bar ui-helper-clearfix $[scroll_class]">
+		$[search]
+		<div class="controls">
+			$[action_menu]
+		</div>
+		$[pagination]
+	</div>
+	<div class="content cap-bottom">
+		$[poll]
+		<table class="list" role="presentation">
+			<tbody class="$[list_class]">
+				$[post_list]
+			</tbody>
+		</table>
+		{if !$[quick_reply]}{if $[bottom_reply_button]}
+			<div class="reply_button pad-all-double">$[bottom_reply_button]<br class="clear" /></div>
+		{/if}{/if}
+	</div>
+</div>
+$[quick_reply]
