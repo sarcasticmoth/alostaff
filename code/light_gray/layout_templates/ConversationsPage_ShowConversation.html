@@ -1,0 +1,31 @@
+<div class="container posts">
+    <div align="right" style="height: 15px; padding-right: 30px;">
+        <a class="c-thread" href="$[reply_button.href]">
+            <left></left>
+            <right></right>
+            reply to thread
+        </a>
+    </div>
+	<div class="title-bar">
+		<h1>$[conversation.subject]</h1>
+	</div>
+	<div class="control-bar ui-helper-clearfix $[scroll_class]">
+		$[search]
+		<div class="controls">
+			$[action_menu]
+		</div>
+		$[pagination]
+	</div>
+	<div class="content cap-bottom">
+			<div class="participants">Participants: $[participants]</div>
+		<table class="list" role="presentation">
+			<tbody class="$[list_class]">
+				$[message_list]
+			</tbody>
+		</table>
+		{if !$[quick_reply]}
+			<div class="reply_button pad-all-double">$[bottom_reply_button]<br class="clear" /></div>
+		{/if}
+	</div>
+</div>
+$[quick_reply]

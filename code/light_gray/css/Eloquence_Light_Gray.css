@@ -23,17 +23,17 @@
 @nav-picture: 'https://i.imgur.com/XRePE79.jpg'; /* 300 pixels by 50 pixels */
 @credit-picture: 'https://i.imgur.com/EY9affx.jpg'; /* 500 pixels by 260 pixels */
 @event-picture: 'https://i.imgur.com/ZWwS0xa.jpg'; /* 290 pixels by 130 pixels */
-@first-staffer: 'http://placehold.it/60x60'; /* 60 x 60 for all six */
-@second-staffer: 'http://placehold.it/60x60';
-@third-staffer: 'http://placehold.it/60x60';
-@fourth-staffer: 'http://placehold.it/60x60';
-@fifth-staffer: 'http://placehold.it/60x60';
-@sixth-staffer: 'http://placehold.it/60x60';
-@first-award: 'http://placehold.it/160x100'; /* 160 x 100 for all four */
-@second-award: 'http://placehold.it/160x100';
-@third-award: 'http://placehold.it/160x100';
+@first-staffer: 'https://i.imgur.com/b9eQFO9.png'; /* 60 x 60 for all six */
+@second-staffer: 'https://i.imgur.com/qFZ7dks.png';
+@third-staffer: 'https://i.imgur.com/qOPYhm3.png';
+@fourth-staffer: 'https://i.imgur.com/FQkt6ID.png';
+@fifth-staffer: 'https://i.imgur.com/QDxpJU0.png';
+@sixth-staffer: 'https://i.imgur.com/tF5WrIT.png';
+@first-award: 'https://i.imgur.com/6xEcfzs.png'; /* 160 x 100 for all four */
+@second-award: 'https://i.imgur.com/tY4LN2g.png';
+@third-award: 'https://i.imgur.com/VGMVsOx.png';
 @fourth-award: 'http://placehold.it/160x100';
-@default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; /* 300 pixels by 120 pixels */
+@default-board-image: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/defaults/default_board_image_light.jpg'; /* 300 pixels by 120 pixels */
 @default-miniprofile-image: 'https://i.imgur.com/iL2MzSm.jpg'; /* 250 pixels by 400 pixels */
 @default-miniprofile-smaller-image: 'https://i.imgur.com/Thxg9xq.jpg'; /* 190 pixels by 100 pixels */
 
@@ -361,7 +361,7 @@
 @banner_background_position: left center;
 @banner_text_color: #FFFFFF;
 @banner_text_align: left;
-@wrapper_width: 1000px;
+@wrapper_width: 950px;
 @all_gradients: url('@{images_path}/gradients/wave.png');
 @body_background_image: none;
 

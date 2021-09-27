@@ -1,0 +1,99 @@
+<!-- BOARD LIST REMODEL © PUNKI 2018 -->
+<table class="board-list" role="grid">
+	<tbody>
+		{foreach $[board]}
+        <tr class="board-spacing">
+            <td>
+                {if !$[board.is_redirect]}
+                <div class="stats">
+                    <div class="left"></div>
+                    <div class="right"></div>
+                    <table style="width: 80%; margin: auto;">
+                        <tr>
+                            <td>
+                                $[board.threads] <i class="fas fa-list-ul tooltip" title="thread{if $[board.threads] != 1}s{/if}"></i>
+                            </td>
+                            <td>
+                                $[board.posts] <i class="fas fa-bolt tooltip" title="post{if $[board.posts] != 1}s{/if}"></i>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                {else}
+                <div class="stats">
+                    <div class="left"></div>
+                    <div class="right"></div>
+                    redirect
+                </div>
+                {/if}
+                <a href="$[board.href]" class="board-title">
+                    <div class="left"></div>
+                    <div class="right"></div>
+                    <span></span>
+                    $[board.display_name]
+                    <span></span>
+                </a>
+                <div class="board-body {if $[board.is_new]} new{/if}" id="$[board.content_id]">
+                    <div class="main">
+                        <div class="link">
+                            $[board]
+                        </div>
+                        <div class="description">
+                            $[board.description]
+                        </div>
+                    </div>
+                    <script>
+                        $(document).ready(function() {
+                        	var image$[board.id] = $('#$[board.content_id] .main img').attr('src');
+                        	if (image$[board.id] != null) {
+                        		$('#$[board.content_id] .picture').css('background-image','url("' + image$[board.id] + '")');
+                            }
+                        });
+                    </script>
+                    <div class="picture">
+                        <div class="blurb"{if $[board.is_redirect]} style="width: 840px;"{/if}>
+                            <div class="text">
+                                $[board.description]
+                            </div>
+                        </div>
+                    </div>
+                    {if !$[board.is_redirect]}
+                    <div class="last-post">
+                        <a href="$[board.last_thread.last_post.created_by.href]" class="user-avatar">
+                            $[board.last_thread.last_post.created_by.avatar]
+                        </a>
+                        <div class="lp">
+                            {if $[board.posts] > 0}
+                            <a href="$[board.last_thread.recent_link.href]" class="lp-subject">
+                                $[board.last_thread.subject]
+                            </a>
+                            <div>
+                                updated $[board.last_thread.last_post.created_on]
+                            </div>
+                            {else}
+                            <span class="lp-subject"></span>
+                            <span class="no-posts">
+                                no posts were found
+                            </span>
+                            {/if}
+                        </div>
+                    </div>
+                    {/if}
+                </div>
+                {if $[board.sub_board]}
+                <div class="subs">
+                    {foreach $[board.sub_board]}
+                    <a href="$[board.sub_board.href]" class="sub{if $[board.sub_board.index] == $[board.sub_board.lastIndex]} last{/if}">
+                        $[board.sub_board.display_name]
+                    </a>
+                    {/foreach}
+                </div>
+                {/if}
+            </td>
+        </tr>
+		{/foreach}
+		{if !$[board]}
+        <tr class="board-spacing"><td align="center"><div class="no-boards">no boards were found</div></td></tr>
+		{/if}
+	</tbody>
+</table>

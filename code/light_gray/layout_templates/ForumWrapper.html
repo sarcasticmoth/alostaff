@@ -36,17 +36,10 @@
 					$(this).attr('title',tooltipContent);
 				});
                 
-                function getRandomInt(min, max) {
-                    min = Math.ceil(min);
-  					max = Math.floor(max);
-  					return Math.floor(Math.random() * (max - min) + min);
-                }
-                
                 var b = 1;
                 
                 function materialize(element) {
                     $(element).animate({'opacity':'1'},1000);
-                    //b = getRandomInt(1, 7);
                     b++;
                 }
                 function vanish() {
@@ -150,8 +143,8 @@
         <div id="staff">
             <div class="picture">
                 <!-- Staffer links and portraits - see Style Sheet to change image url's -->
-				<a href="stafferlink" class="staffer2 tooltip" title="admin lisa"></a>
                 <a href="stafferlink" class="staffer1 tooltip" title="admin sora"></a>
+                <a href="stafferlink" class="staffer2 tooltip" title="admin lisa"></a>
                 <a href="stafferlink" class="staffer3 tooltip" title="mod vanessa"></a>
                 <a href="stafferlink" class="staffer4 tooltip" title="mod ana"></a>
                 <a href="stafferlink" class="staffer5 tooltip" title="mod seph"></a>
@@ -165,9 +158,9 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            MoTM - Jenny
+                            MoTM
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/1419" class="award-1 tooltip" title="Member of the Month">
+                        <a href="awardeelink" class="award-1 tooltip" title="award title">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -175,9 +168,9 @@
                     </td>
                     <td>
                         <div class="awardee">
-                            ToTM - Night Scrimmage
+                            ToTM
                         </div>
-                        <a href="https://alohomorax0.proboards.com/post/94684/thread" class="award-2 tooltip" title="Thread of the Month">
+                        <a href="awardeelink" class="award-2 tooltip" title="award title">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -187,15 +180,15 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            CoTM - Fae Cloudbreaker
+                            CoTM
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/1267" class="award-3 tooltip" title="Character of the Month">
+                        <a href="awardeelink" class="award-3 tooltip" title="award title">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
                     </td>
-                    <!--<td>
+                    <td>
                         <div class="awardee">
                             OTM
                         </div>
@@ -204,7 +197,7 @@
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
-                    </td>-->
+                    </td>
                 </tr>
             </table>
         </div>
@@ -373,10 +366,10 @@
                     </div>
                     <div class="updates">
                         <!-- Put your dated updates here -->
-                        <b>01 JAN 2026</b><br>
-                        MYSTERIOUS ISLAND APPEARS
-                        <br><b>01 OCT 2025</b><br>
-                        HY-BRASIL CREATURES ON THE LOOSE
+                        <b>DD/MM/YY</b><br>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin in mauris a ultricies. Sed quis laoreet augue. Fusce ut lacinia elit. Nunc eleifend rutrum ipsum, id efficitur leo. Suspendisse vehicula iaculis vehicula. Integer congue ultricies enim nec mattis. Nulla varius vehicula sodales. Nunc lacinia lectus id maximus dictum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed porttitor justo sed consequat sollicitudin. Nullam at eleifend velit, ut consectetur tellus.<br><br>
+                        <b>DD/MM/YY</b><br>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin in mauris a ultricies. Sed quis laoreet augue. Fusce ut lacinia elit. Nunc eleifend rutrum ipsum, id efficitur leo. Suspendisse vehicula iaculis vehicula. Integer congue ultricies enim nec mattis. Nulla varius vehicula sodales. Nunc lacinia lectus id maximus dictum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed porttitor justo sed consequat sollicitudin. Nullam at eleifend velit, ut consectetur tellus.
                     </div>
                 </div>
             </div>
