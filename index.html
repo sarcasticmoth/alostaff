@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>t e s t</title>
+		<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	</head>
+	<body>
+	<div class="background1">
+			<div class="background2">
+				<div class="background3"></div>
+			</div>
+		</div>
+        <style type="text/css">
+			body{
+				background-color:#e5e5e5;
+			}
+			.banner1 {
+				background-image: image("images/memberbanners/AddilynSlater_Vanessa_Banner.jpg");
+				height: 500px;
+			}
+			.banner2 {
+				background-image: image("images/memberbanners/AnastasiaKarkaroff_Vanessa_Banner.jpg");
+				opacity: 0;
+				height: 500px;
+			}
+			.banner3 {
+				background-image: image("images/memberbanners/RhysGreyback_Vanessa_Banner.jpg");
+				opacity: 0;
+				height: 500px;
+			}
+		</style>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                
+                function getRandomInt(min, max) {
+                    min = Math.ceil(min);
+  					max = Math.floor(max);
+  					return Math.floor(Math.random() * (max - min) + min);
+                }
+                
+                var b = 1;
+                
+                function materialize(element) {
+                    $(element).animate({'opacity':'1'},1000);
+                    //b = getRandomInt(1, 7);
+                    b++;
+                }
+                function vanish() {
+                    $('.background2, .background3, .background4, .background5, .background6').animate({'opacity':'0'},1000);
+                    b = 1;
+                }
+                
+                function banner() {
+                    if (b == 1) {
+                        materialize($('.background2'));
+                    } else if (b == 2) {
+                        materialize($('.background3'));
+                    } else if (b == 3) {
+                        materialize($('.background4'));
+                    } else if (b == 4) {
+                        materialize($('.background5'));
+                    } else if (b == 5) {
+                    	materialize($('.background6'));
+                    } else if (b == 6) {
+                        vanish();
+                    }
+                }
+                
+                window.setInterval(banner,15000);
+            });
+        </script>
+	</body>
+</html>
