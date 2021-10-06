@@ -1,4 +1,4 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A98998;"][font color="#555555"]character[/font][font color="#A98998"]affiliations[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td]This is where you can claim what groups you are affiliated with. Some of these groups have been disbanded, but are still included as a way of reference.
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A98998;"][font color="#555555"]character[/font][font color="#A98998"]affiliations[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]This is where you can claim what groups you are affiliated with. Some of these groups have been disbanded, but are still included as a way of reference.
 
 [div style="text-align:center;"][a href="https://alohomorax0.proboards.com/thread/4746/who-knows"]WHO KNOWS WHAT[/a][/div][ul type="circle"]
 [li]You can only play 1 leader per affiliation. This includes leaders of subgroups. (This is subject to change if we get lots of members wanting to play leaders and no positions are open/some members are playing multiple leaders)[/li]
@@ -6,15 +6,11 @@
 [li]These are the members of an affiliation. Affiliations have 'supporters' that aren't members (These can be suppliers, aurors who turn a blind eye to the group, information brokers). If you are don't want to commit to membership (and the potential consequences that come with being a member), please consider playing a support role instead of full membership.[/li]
 [li]If you would like to make a double-agent (someone in two groups at the same time) please message staff so it can be discussed in more depth. Before pursuing these plots please note that there may be extreme consequences if you are ever caught.[/li]
 [li]Some affiliations have subgroups. We may call on a subgroup for plots. If you have multiple characters in the same affiliation try to spread your characters between all the subgroups so as not to hinder one. If staff feels you are too character heavy in a subgroup staff may reassign some of your characters.[/li]
-[li]Witch Hunters don't have "official" groups but we include them here so they can organize themselves into likeminded "unofficial" groups. (basically we include them so Witch Hunters have a list where they see what other witch hunters they work with, since we know they can have different methods, goals, etc.)[/li]
-[/ul]
+[li]Witch Hunters don't have "official" groups but we include them here so they can organize themselves into likeminded "unofficial" groups. (basically we include them so Witch Hunters have a list where they see what other witch hunters they work with, since we know they can have different methods, goals, etc.)[/li][/ul]
 [b]TO CLAIM:[/b]
 [code]@tag character -
 list group
-(if applicable, position in the group)
-[/code]
-
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]ORDER OF THE PHOENIX (REUNITED)[/div]
+(if applicable, position in the group)[/code][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]ORDER OF THE PHOENIX (REUNITED)[/div]
 The Order of the Phoenix reunified in January 2026. With their recent reunification the Order has decided to steer away from "leaders" and instead keep the Order as a pure democracy. While they have also decided to break themselves into squads, senior members are more guides, and not actually leaders.
 
 [div style="text-align:center;"]** students are NOT allowed in this group **[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -23,48 +19,48 @@ senior member: open
 
 The Brains - Those in specialized research fields (Curse Breaking, Magizoologists, etc.)
 Will handle any magical or cursed items for the Order (to use or destroy)[/div][div style="margin-left:10px;margin-right:10px;"]
-@astrid              
-@blair              
-@raleigh              
-@vanessa              
+@astrid               
+@blair               
+@raleigh               
+@vanessa               
 
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SECRET KEEPERS - 1 OPEN[/div]
 not an official group, the Secret-Keepers of the Order safe house
 
-@harry               - AVALON
-@anastasia               - THE POISONED SPINDLE[/div][div style="margin-left:10px;margin-right:10px;"]
+@harry                - AVALON
+@anastasia                - THE POISONED SPINDLE[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MINISTRY LIASON[/div]
-senior member: @anastasia              
+senior member: @anastasia               
 
 The Brawn - Government Employees, Law Enforcement, etc, deal with any Ministry interference.
 
-@bianca              
-@claire              
-@jamesp              
-@luke              
-@elliot              [/div][div style="margin-left:10px;margin-right:10px;"]
+@bianca               
+@claire               
+@jamesp               
+@luke               
+@elliot               [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]PUBLIC RELATIONS[/div]
-senior member: @harry              
+senior member: @harry               
 
 Those in fields where they can keep an ear open for information, this group has the most variety of specialties
 
-@cade              
-@parvati              [/div][div style="margin-left:10px;margin-right:10px;"]
+@cade               
+@parvati               [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEALERS[/div]
 senior member: open (min 25-years-old)
 
 Those in healing specialities
 
-@ariadne             
-@eeva             
-@shreya             [/div][div style="margin-left:10px;margin-right:10px;"]
+@ariadne              
+@eeva              
+@shreya              [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]members[/div]
 
-@jasper             
-@jim             
-@levi             
-@sav             
-@victoire             [/div]
+@jasper              
+@jim              
+@levi              
+@sav              
+@victoire              [/div]
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]THE PURIFIERS[/div]
 The Purifiers are a group of revolutionaries. This group was started at Hogwarts by Elaine Dupree, during her seventh year when she murdered several muggle-born students to show her dominance and strength. In recent years The Purifiers have grown 'quiet' in the destructive sense, but they are are still lurking in the shadows, making connections and alliances to bolster their forces.
@@ -73,44 +69,44 @@ The Purifiers are broken into sections based on their skills. The heads are the 
 
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]LEADER[/div]
-@elaine        
+@elaine         
 [/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]COUNCIL[/div]
 the leaders of each section, and anyone Elaine personally appoints
 
-@ares         
+@ares          
 
 [/div][div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]FRONT LINE[/div]
- head: @ares         
+ head: @ares          
 
  power, strength, and brute force
 
-@ares         [/div][div style="margin-left:10px;margin-right:10px;"]
+@ares          [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]infiltration[/div]
 head: asher
 
 stealth, deception, and secrets
 
-@asher         
-@dianab         
-@sarah         
-@sutton         [/div][div style="margin-left:10px;margin-right:10px;"]
+@asher          
+@dianab          
+@sarah          
+@sutton          [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]LAB[/div]
 head: open
 
 creation, testing, and experimentation
 
-@emmanuelle         
-@priscilla         
-@rue         [/div][div style="margin-left:10px;margin-right:10px;"]
+@emmanuelle          
+@priscilla          
+@rue          [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DIPLOMACY[/div]
 head: open
 
 building alliances, finding recruits
 
-@ivy         
-@ondina         [/div]
+@ivy          
+@ondina          [/div]
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]STUDENT ONLY ORGANIZATIONS[/div]
 Our students, of course, are just as diverse as our adults. While some of the adult organizations do permit student membership, none of the student organizations permit adult membership at this time. So, to avoid any confusion we've separated them a bit.
@@ -119,26 +115,26 @@ Our students, of course, are just as diverse as our adults. While some of the ad
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]PHOENIX RISING[/div]
 This new rendition of Phoenix Rising is focused on learning defensive spells outside of the standard Hogwarts curriculum, and preparing themselves for danger that could arise due to the Purifier threat. They have some connection with the Order of the Phoenix and are the most likely students to be recruited after graduation.
 
-@addy       
-@brigh       
-@katiya       
-@simon       
-@penelope       
-@maxima       [/div][div style="margin-left:10px;margin-right:10px;"]
+@addy        
+@brigh        
+@katiya        
+@simon        
+@penelope        
+@maxima        [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]THE SOCIETY FOR THE PRESERVATION OF MAGICAL HERITAGE[/div]
 The Society for the Preservation of Magical Heritage, or SPMH, is a student founded and run organization that strives to protect, save, and preserve the magical history, artifacts, heritage, etc that is at risk. After the destruction of irreplaceable knowledge and artifacts at Ilvermorny these students are determined to make sure nothing like that can ever happen again.
 
  [b]PRESIDENT:[/b] open
 
-@kaylee       
+@kaylee        
 
 [/div][div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A98998;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WITCH HUNTERS/SECOND SALEMERS[/div]
  Please refer to [a href="https://alohomorax0.proboards.com/post/59460/thread"]MAGICAL AMERICAN CULTURE[/a] for information about these individuals. Witch Hunters don't have to be claimed here. But, for those interested in forming "mini-groups" with other witch hunters, they can do so! Basically this is just an easy way for them to keep track of those they work with since witch hunters can have vastly different motives/methods/plans. Some Witch Hunters can ally with multiple witch hunter groups.
 
 [b]THE HUBBARD FAMILY[/b]
-[i]Dogmatic/ideologically inclined, old fashioned. Created by @audrey       
+[i]Dogmatic/ideologically inclined, old fashioned. Created by @audrey        
 
-[/i]@muffet       
+[/i]@muffet        
 [/div]
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]ORGANIZATIONS NO LONGER IN USE[/div]
@@ -158,19 +154,4 @@ A group  that was dedicated to preserving the Order of the Phoenix as it origina
 
 [/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 
-[newclass=".user-link"]text-transform:uppercase !important;[/newclass]
-[newclass=".user-link.group-5"]color: #520A00 !important; [/newclass]
-[newclass=".user-link.group-6"]color: #8F8300 !important; [/newclass]
-[newclass=".user-link.group-7"]color: #002652 !important; [/newclass]
-[newclass=".user-link.group-8"]color: #005205 !important; [/newclass]
-
-[newclass=".user-link.group-10"]color: #883607 !important; [/newclass]
-[newclass=".user-link.group-12"]color: #987183 !important; [/newclass]
-[newclass=".user-link.group-15"]color: #3100B8 !important; [/newclass]
-[newclass=".user-link.group-23"]color: #556E8B !important; [/newclass]
-[newclass=".user-link.group-24"]color: #417109 !important; [/newclass]
-
-[newclass=".user-link.group-22"]color: #168D71 !important; [/newclass]
-[newclass=".user-link.group-3"]color: #4B8176 !important; [/newclass]
-[newclass=".user-link.group-4"]color: #4B8176 !important; [/newclass]
-[newclass=".user-link.group-1"]color: #4B8176 !important; [/newclass]
+[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #520A00 !important; [/newclass][newclass=".user-link.group-6"]color: #8F8300 !important; [/newclass][newclass=".user-link.group-7"]color: #002652 !important; [/newclass][newclass=".user-link.group-8"]color: #005205 !important; [/newclass][newclass=".user-link.group-10"]color: #883607 !important; [/newclass][newclass=".user-link.group-12"]color: #987183 !important; [/newclass][newclass=".user-link.group-15"]color: #3100B8 !important; [/newclass][newclass=".user-link.group-23"]color: #556E8B !important; [/newclass][newclass=".user-link.group-24"]color: #417109 !important; [/newclass][newclass=".user-link.group-22"]color: #168D71 !important; [/newclass][newclass=".user-link.group-3"]color: #4B8176 !important; [/newclass][newclass=".user-link.group-4"]color: #4B8176 !important; [/newclass][newclass=".user-link.group-1"]color: #4B8176 !important; [/newclass]
