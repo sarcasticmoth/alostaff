@@ -4,3 +4,30 @@
 [li]Some jobs require special training. The job will specify if special training is required.[/li]
 [li]Most our jobs permit unlimited played characters in the position, but some jobs are limited to only one played character (primarily heads, owners, all Hogwarts positions).[/li][/ul]
 [/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
+
+job:
+[code]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div][i]job notes[/i][/div]
+@tag
+[/div]
+[/code]
+
+DEPARTMENT:
+[code]
+[tr][td]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]DEPARTMENT[/div]
+
+[i]department description[/i]
+
+<-- future start spoiler tag -->
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div][i]job notes[/i][/div]
+@tag
+[/div]
+
+[/div]
+[/td][/tr]
+[/code]
