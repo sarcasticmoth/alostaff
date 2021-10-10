@@ -1,0 +1,34 @@
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A367A8;"][font color="#555555"]professional[/font][font color="#A367A8"]quidditch[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]minimum requirement of school graduate.
+captains can not have a part time job.
+
+**we are willing to add more teams if people claim them**[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MANAGEMENT[/div]
+
+[i]Quidditch is the most popular Wizarding sport in magical world. While the Quidditch teams get most of the ‘glory’, they’d be nothing it if wasn’t for these individuals. From the announcers, to the reporters, to referees and more.[/i]
+
+<-- future start spoiler tag -->
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANNOUNCER &amp; COMMENTARY[/div]
+[div]official commentators for the league
+[/div]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]
+[/div][/div]
+<-- future end spoiler tag -->
+
+[/div]
+[/td][/tr][tr][td]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]TEAMS[/div]
+
+[i]department description[/i]
+
+<-- future start spoiler tag -->
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[i]job notes[/i]
+@tag
+[/div]
+
+<-- future end spoiler tag -->
+
+[/div]
+[/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
+

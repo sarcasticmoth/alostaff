@@ -1,1 +1,60 @@
-[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #520A00 !important; [/newclass][newclass=".user-link.group-6"]color: #8F8300 !important; [/newclass][newclass=".user-link.group-7"]color: #002652 !important; [/newclass][newclass=".user-link.group-8"]color: #005205 !important; [/newclass][newclass=".user-link.group-10"]color: #883607 !important; [/newclass][newclass=".user-link.group-12"]color: #E7717D !important; [/newclass][newclass=".user-link.group-15"]color: #3100B8 !important; [/newclass][newclass=".user-link.group-23"]color: #556E8B !important; [/newclass][newclass=".user-link.group-24"]color: #417109 !important; [/newclass][newclass=".user-link.group-22"]color: #168D71 !important; [/newclass][newclass=".user-link.group-3"]color: #4B8176 !important; [/newclass][newclass=".user-link.group-4"]color: #4B8176 !important; [/newclass][newclass=".user-link.group-1"]color: #4B8176 !important; [/newclass]
+[newclass=".user-link"]text-transform:uppercase !important;[/newclass]
+[newclass=".user-link.group-5"]color: #520A00 !important; [/newclass]
+[newclass=".user-link.group-6"]color: #8F8300 !important; [/newclass]
+[newclass=".user-link.group-7"]color: #002652 !important; [/newclass]
+[newclass=".user-link.group-8"]color: #005205 !important; [/newclass]
+[newclass=".user-link.group-10"]color: #883607 !important; [/newclass]
+[newclass=".user-link.group-12"]color: #E7717D !important; [/newclass]
+[newclass=".user-link.group-15"]color: #3100B8 !important; [/newclass]
+[newclass=".user-link.group-22"]color: #168D71 !important; [/newclass]
+[newclass=".user-link.group-23"]color: #556E8B !important; [/newclass]
+[newclass=".user-link.group-24"]color: #417109 !important; [/newclass]
+
+[newclass=".user-link.group-3"]color: #4B8176 !important; [/newclass]
+[newclass=".user-link.group-4"]color: #4B8176 !important; [/newclass]
+[newclass=".user-link.group-1"]color: #4B8176 !important; [/newclass]
+
+
+[ USER GROUP COLORS FOR CLAIMS ]
+
+1---[ADMINISTRATOR]:        #4B8176 --- [WINDERGREEN DREAM]
+3---[MODERATOR]:            #4B8176 --- [WINDERGREEN DREAM]
+4---[CO-ADMIN]:             #4B8176 --- [WINDERGREEN DREAM]
+
+5---[GRYFFINDOR]:           #520A00 --- [BLOOD RED]
+6---[HUFFLEPUFF]:           #8F8300 --- [OLIVE]
+7---[RAVENCLAW]:            #002652 --- [OXFORD BLUE]
+8---[SLYTHERIN]:            #005205 --- [LINCOLN GREEN]
+10--[HOGWARTS STAFF]:       #883607 --- [SADDLE BROWN]
+12--[MINISTRY]:             #E7717D --- [CANDY PINK]
+15--[WIZARDING ADULT]:      #3100B8 --- [TRYPAN BLUE]
+22--[OOC ACCOUNT]:          #168D71 --- [ILLUMINATING EMERALD]
+23--[OTHER]:                #556E8B --- [QUEEN BLUE]
+24--[DRUID]:                #417109 --- [SAP GREEN]
+
+[ CLAIMS ]
+
+---[APPLICATION]:           #759FBC --- [AIR SUPERIORITY BLUE]
+---[INITIAL CLAIMS]:        #013B61 --- [INDIGO DYE]
+---[FACE CLAIM]:            #690505 --- [BLOOD RED]
+---[JOBS CLAIM]:            #A367A8 --- [PEARLY PURPLE]
+---[CANON CLAIM]:           #6D95B3 --- [CERULEAN FROST]
+---[WHOS WHO]:              #737373 --- [SONIC SILVER]
+---[STUDENT CLAIM]:         # --- []
+
+[ OPT-CLAIMS ]
+
+---[STUDENT CLAIMS]:        # --- []
+---[WYRD TOUCH]:            # --- []
+---[CAREER PLANS]:          # --- []
+---[PATRONI, SHIP, ORIGIN]: # --- []
+---[CUSTOM ABILITIES]:      # --- []
+---[SPECIAL ABILITIES]:     # --- []
+---[AFFILIATION CLAIM]:     # --- []
+---[CAREER PLANS]:          #048BA8 --- [BLUE MUNSELL]
+
+[ SAVED COLORS ]
+
+#B3C0A4 --- [LAUREL GREEN]
+#DCC48E --- [GOLD CRAYOLA]
+#AC3B61 --- [MAROON X 11]

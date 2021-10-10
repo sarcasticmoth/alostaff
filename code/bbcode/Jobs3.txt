@@ -1,47 +1,43 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #3185FC;"][font color="#555555"]st.[/font][font color="#3185FC"]mungos[/font][font color="#555555"]hospital[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;"]
-Head Healers/Head Mediwizard have an age minimum requirement of 30-years-old.
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A367A8;"][font color="#555555"]st.[/font][font color="#A367A8"]mungos[/font][font color="#555555"]hospital[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Head Healers/Head Mediwizard have an age minimum requirement of 30-years-old.
 Healing requires 2 years of training.
-Nursing requires 6 months of training
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]HEAD STAFF[/div]
+Nursing requires 6 months of training[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HEAD STAFF[/div]
 
 [i]Running a hospital is quite a bit of work. These individuals are responsible for ensuring St. Mungos is able to function and provide the amazing medical services it is known for.[/i]
 
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DIRECTOR[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DIRECTOR[/div]
 [div][i]40+ age requirement, previous healer experience
 In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ASSISTANT DIRECTOR[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ASSISTANT DIRECTOR[/div]
 [i]Help the director with anything they may need, may at times act in the directors stead
 [/i]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]LAWYER[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]LAWYER[/div]
 [div][i]Ensure the hospital stays compliant with laws and handle any lawsuits brought against it[/i][/div]@tag[/div]
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]RECEPTION[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]RECEPTION[/div]
 
 [i]From walk ins, to record keeping, Reception is the face of St. Mungos.[/i]
 
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WELCOME WITCH[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WELCOME WITCH[/div]
 [i]front desk, and the first person you see. They handle all check ins and check outs[/i]
-@ophelialee
+@ophelialee     
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MEDICAL BILLING [/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MEDICAL BILLING [/div]
 [i]In charge of the financial side of the hospital[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]RECORD KEEPING[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]RECORD KEEPING[/div]
 [i]Medical records, employee records, supplier records, etc[/i]
-@calliope[/div]
+@calliope     [/div]
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]ARTIFACT ACCIDENTS[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ARTIFACT ACCIDENTS[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -50,13 +46,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]CREATURE-INDUCED INJURIES[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]CREATURE-INDUCED INJURIES[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -65,13 +61,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]MAGICAL BUGS AND DISEASES[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MAGICAL BUGS AND DISEASES[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -80,13 +76,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]POTIONS AND PLANT POISONING[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]POTIONS AND PLANT POISONING[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -95,13 +91,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]SPELL DAMAGE[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]SPELL DAMAGE[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -110,13 +106,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]MATERNITY[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MATERNITY[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -125,13 +121,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]PSYCHIATRIC[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]PSYCHIATRIC[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -140,13 +136,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]DENTAL &amp; VISION[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DENTAL &amp; VISION[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -155,13 +151,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]MEDIWIZARD SQUAD[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MEDIWIZARD SQUAD[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -170,13 +166,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]TEAROOM &amp; SHOP[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]TEAROOM &amp; SHOP[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]
@@ -185,13 +181,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 
 [/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #3185FC;"]LABORATORY[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]LABORATORY[/div]
 
 [i]department description[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
 [i]job notes[/i]
 @tag
 [/div]

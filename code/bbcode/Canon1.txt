@@ -1,5 +1,4 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid rgb(58, 134, 166);"][font color="#555555"]canon[/font][font color="#668F80"]list[/font][/div]
-[table style="color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]On this Canon list we have five sections! For simplicity sake below is a break down of the sections. Each section also includes a notation of if it is, or isn't, canon. What this is referring to how much you can change about the family.
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #6D95B3;"][font color="#555555"]canon[/font][font color="#6D95B3"]list[/font][/div][table style="color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]On this Canon list we have five sections! For simplicity sake below is a break down of the sections. Each section also includes a notation of if it is, or isn't, canon. What this is referring to how much you can change about the family.
 
 Canon: Many parts of the character/family make up are set in stone. You can discuss changes with staff, but some changes might not be approved due to lore reasons.
 Not Canon: The family isn't established yet (wizarding family lists) so you can make them what you want, or a member made the family (original next gen) and may be willing to discuss changes if you reach out to them.
@@ -14,13 +13,13 @@ The kids of characters we knew existed in the series. These are canon.
 [/b]For those that made original families (or used a wizarding family name to create a family) that want to put their families up for reference. These are not canon.
 [/div]
 [div style="text-align:center;"][b]WIZARDING FAMILIES[/b]
-This is a list of names we have found in the books, movies, games, etc. Basically they exist, but we know little to nothing, so you can take them and make them your own. These are not canon.[/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #668F80;"]ADULT CANONS[/div][div align="center"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/4BAWeHv.png" style="max-width:100px;"]
-[div][b]@blaise                             [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/RptvOBv.png" style="max-width:100px;"]
-[b]@charles                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/x0XL5iP.png" style="max-width:100px;"]
-[b]@harry                          [/b][/div][/td][td][div][img src="https://i.imgur.com/rRBlYAe.png" style="max-width:100px;"]
-[b]@parvati                                    [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-[b]@tag                                    [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #668F80;"]DECEASED[/div][div align="center"]
+This is a list of names we have found in the books, movies, games, etc. Basically they exist, but we know little to nothing, so you can take them and make them your own. These are not canon.[/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]ADULT CANONS[/div][div align="center"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/4BAWeHv.png"]
+[div][b]@blaise                                 [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/RptvOBv.png" style="max-width:100px;"]
+[b]@charles                                        [/b][/div][/td][td][div][img src="https://i.imgur.com/x0XL5iP.png" style="max-width:100px;"]
+[b]@harry                              [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/rRBlYAe.png"]
+[b]@parvati                                        [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
+[b]@tag                                    [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]DECEASED[/div][div align="center"]
 [div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]hermione granger-weasley[/b]
 
 19 Sep 1979 - 10 Jun 2025
@@ -31,9 +30,9 @@ Killed in Quidditch Finals accident[/div][/td][/tr][tr style="vertical-align:top
 
 1960 - Jul 2022
 Husband to Hestia Jones
-Father to @severus            , @gabrielle            , and Abigail
+Father to @severus                , @gabrielle                , and Abigail
 
-Murdered by Alastor Draven[/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]marcus flint[/b]
+Murdered by Alastor Draven[/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]marcus flint[/b]
 
 15 Mar 1974 - Dec 2023
 Husband to Pansy Parkinson

@@ -2,38 +2,38 @@
 [/div]
 [hr][div align="center"][div style="width:550px;margin-top:20px;font:10px Verdana;"][div style="height:100%;max-width:550px;border-bottom:1px solid rgb(58, 134, 166);"][div style="width:550px;background-color:rgb(255, 255, 255);"]
 [div style="color:rgb(85, 85, 85);"][img alt=" " style="max-width:100%;" src="https://via.placeholder.com/600x200?text=YOUR%20OWN%20IMAGE"][/div]
-[div style="padding-bottom:10px;width:500px;text-align:center;font:20px Georgia;text-transform:uppercase;letter-spacing:2px;"][font color="#555555"]first [/font][font color="#3066BE"][/font][font color="#555555"]middle[/font] [font style="color:rgb(58, 134, 166);" color="#555555"]LAST[/font][/div][/div][/div]
+[div style="padding-bottom:10px;width:500px;text-align:center;font:20px Georgia;text-transform:uppercase;letter-spacing:2px;"][font color="#555555"]first [/font][font color="#4C6472"][/font][font color="#555555"]middle[/font] [font style="color:rgb(58, 134, 166);" color="#555555"]LAST[/font][/div][/div][/div]
 [div style="color:rgb(85, 85, 85);width:530px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-12px;"][table][tbody][tr][td style="width:375px;vertical-align:top;"]
-[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]SCHOOLING[/td][td]STATUS[/td][/tr][tr][td]school - house &amp; year/homeschool (if applicable)[/td][td]graduated/dropout/expelled[/td][/tr][/tbody][/table][/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]WAND[/div]
+[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]SCHOOLING[/td][td]STATUS[/td][/tr][tr][td]school - house &amp; year/homeschool (if applicable)[/td][td]graduated/dropout/expelled[/td][/tr][/tbody][/table][/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]WAND[/div]
 if you own one: length, wood, core, flexibility
 [/div]
-[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]CURRENT JOB[/td][td]PREVIOUS JOBS[/td][/tr][tr][td]students: mark N/A
+[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]CURRENT JOB[/td][td]PREVIOUS JOBS[/td][/tr][tr][td]students: mark N/A
 adults: what does your character do for a living?[/td][td]students: mark N/A
 adults: previous jobs (if any)[/td][/tr][/tbody][/table][/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]APPEARANCE[/div]
-Your character's height, as well as notable differences between your character and your playby (e.g. glasses, scars, constant accessories) if any. This can be super short, not really required![/div][/td][td style="width:135px;vertical-align:top;"][div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]pronunciation
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]APPEARANCE[/div]
+Your character's height, as well as notable differences between your character and your playby (e.g. glasses, scars, constant accessories) if any. This can be super short, not really required![/div][/td][td style="width:135px;vertical-align:top;"][div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]pronunciation
 [/div]
 How do you pronounce your character's name? (please spell out phonetically)
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]nickname
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]nickname
 [/div]
 Any nicknames your character may go by
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]age &amp; birthday[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]age &amp; birthday[/div]
 age
 dd mmm yyyy
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]gender &amp; pronouns[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]gender &amp; pronouns[/div]
 What do they identify as and pronouns they prefer.
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]blood status[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]blood status[/div]
 Pureblood, half-blood, muggleborn, squib, muggle, etc. Also include any Demi human status if applicable.
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]sexuality[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]sexuality[/div]
 Attraction. Straight, homosexual, bisexual, pansexual, etc.
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]face claim[/div]
-Celebrity playby.[/td][/tr][tr][td colspan="2"][div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]LIKES[/td][td]DISLIKES[/td][/tr][tr][td]● min 5 likes
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]face claim[/div]
+Celebrity playby.[/td][/tr][tr][td colspan="2"][div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]LIKES[/td][td]DISLIKES[/td][/tr][tr][td]● min 5 likes
 ●&nbsp;
 ●&nbsp;
 ●&nbsp;
@@ -44,12 +44,12 @@ Celebrity playby.[/td][/tr][tr][td colspan="2"][div style="background-color:#fff
 ●&nbsp;
 ●&nbsp;
 [/td][/tr][/tbody][/table][/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]PERSONALITY[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]PERSONALITY[/div]
 Give us at least 2-3 paragraphs about your character's personality. Please include both positive and negative personality traits. Please include any dreams, aspirations, and fears, as applicable.
 
  
 [/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]ORIGIN &amp; RELATIONS[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]ORIGIN &amp; RELATIONS[/div]
 Where is your character from/raised?
 
 Name - relation to character, age, any other relevant info.
@@ -59,48 +59,48 @@ Name - relation to character, age, any other relevant info.
 Must include parents, known or unknown to your character.
 
 Include any other individuals that are important in your character's life, such as siblings, significant others, children, cousins (if important), grandparents (if important) guardians (if applicable, step parents, step siblings, etc.[/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]HISTORY[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]HISTORY[/div]
 Tell us about your character's life up until this point. We ask that you at least cover the basics of early life, teenage years, and beyond. MUST include site events as applicable. 
 [/div]
-[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]OOC[/div][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]name[/td][td]pronouns[/td][td]age[/td][/tr][tr][td style="text-align:center;"]The name you would like to go by on Alohomora[/td][td style="text-align:center;"]he/him she/her they/them etc.[/td][td][div style="text-align:center;"]How old are you? (Must be 18-years-old or older)
+[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]OOC[/div][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]name[/td][td]pronouns[/td][td]age[/td][/tr][tr][td style="text-align:center;"]The name you would like to go by on Alohomora[/td][td style="text-align:center;"]he/him she/her they/them etc.[/td][td][div style="text-align:center;"]How old are you? (Must be 18-years-old or older)
 [/div][/td][/tr][/tbody][/table][/div]
 [/td][/tr][/tbody][/table][/div]
 [div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"][a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 
 [code][div align="center"][div style="width:550px;margin-top:20px;font:10px Verdana;"][div style="height:100%;max-width:550px;border-bottom:1px solid rgb(58, 134, 166);"][div style="width:550px;background-color:rgb(255, 255, 255);"]
 [div style="color:rgb(85, 85, 85);"][img style="max-width:100%;" alt=" " src="https://via.placeholder.com/600x200?text=YOUR%20OWN%20IMAGE"][/div]
-[div style="padding-bottom:10px;width:500px;text-align:center;font:20px Georgia;text-transform:uppercase;letter-spacing:2px;"][font color="#555555"]first [/font][font color="#3066BE"][/font][font color="#555555"]middle[/font] [font style="color:rgb(58, 134, 166);" color="#555555"]LAST[/font][/div][/div][/div]
+[div style="padding-bottom:10px;width:500px;text-align:center;font:20px Georgia;text-transform:uppercase;letter-spacing:2px;"][font color="#555555"]first [/font][font color="#4C6472"][/font][font color="#555555"]middle[/font] [font style="color:rgb(58, 134, 166);" color="#555555"]LAST[/font][/div][/div][/div]
 [div style="color:rgb(85, 85, 85);width:530px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-12px;"][table][tbody][tr][td style="width:375px;vertical-align:top;"]
-[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]SCHOOLING[/td][td]STATUS[/td][/tr][tr][td]school - house &amp; year/homeschool (if applicable)[/td][td]graduated/dropout/expelled[/td][/tr][/tbody][/table][/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]WAND[/div]
+[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]SCHOOLING[/td][td]STATUS[/td][/tr][tr][td]school - house &amp; year/homeschool (if applicable)[/td][td]graduated/dropout/expelled[/td][/tr][/tbody][/table][/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]WAND[/div]
 if you own one: length, wood, core, flexibility
 [/div]
-[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]CURRENT JOB[/td][td]PREVIOUS JOBS[/td][/tr][tr][td]students: mark N/A
+[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]CURRENT JOB[/td][td]PREVIOUS JOBS[/td][/tr][tr][td]students: mark N/A
 adults: what does your character do for a living?[/td][td]students: mark N/A
 adults: previous jobs (if any)[/td][/tr][/tbody][/table][/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]APPEARANCE[/div]
-Your character's height, as well as notable differences between your character and your playby (e.g. glasses, scars, constant accessories) if any. This can be super short, not really required![/div][/td][td style="width:135px;vertical-align:top;"][div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]pronunciation
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]APPEARANCE[/div]
+Your character's height, as well as notable differences between your character and your playby (e.g. glasses, scars, constant accessories) if any. This can be super short, not really required![/div][/td][td style="width:135px;vertical-align:top;"][div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]pronunciation
 [/div]
 How do you pronounce your character's name? (please spell out phonetically)
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]nickname
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-top:10px;margin-bottom:-10px;"]nickname
 [/div]
 Any nicknames your character may go by
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]age &amp; birthday[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]age &amp; birthday[/div]
 age
 dd mmm yyyy
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]gender &amp; pronouns[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]gender &amp; pronouns[/div]
 What do they identify as and pronouns they prefer.
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]blood status[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]blood status[/div]
 Pureblood, half-blood, muggleborn, squib, muggle, etc. Also include any Demi human status if applicable.
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]sexuality[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]sexuality[/div]
 Attraction. Straight, homosexual, bisexual, pansexual, etc.
 
-[div style="font:12px Georgia;border-bottom:solid 1px #3066BE;text-align:left;padding-right:5px;margin-bottom:-10px;"]face claim[/div]
-Celebrity playby.[/td][/tr][tr][td colspan="2"][div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]LIKES[/td][td]DISLIKES[/td][/tr][tr][td]● min 5 likes
+[div style="font:12px Georgia;border-bottom:solid 1px #4C6472;text-align:left;padding-right:5px;margin-bottom:-10px;"]face claim[/div]
+Celebrity playby.[/td][/tr][tr][td colspan="2"][div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]LIKES[/td][td]DISLIKES[/td][/tr][tr][td]● min 5 likes
 ● 
 ● 
 ● 
@@ -111,12 +111,12 @@ Celebrity playby.[/td][/tr][tr][td colspan="2"][div style="background-color:#fff
 ● 
 ● 
 [/td][/tr][/tbody][/table][/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]PERSONALITY[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]PERSONALITY[/div]
 Give us at least 2-3 paragraphs about your character's personality. Please include both positive and negative personality traits. Please include any dreams, aspirations, and fears, as applicable.
 
  
 [/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]ORIGIN &amp; RELATIONS[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]ORIGIN &amp; RELATIONS[/div]
 Where is your character from/raised?
 
 Name - relation to character, age, any other relevant info.
@@ -126,10 +126,10 @@ Name - relation to character, age, any other relevant info.
 Must include parents, known or unknown to your character.
 
 Include any other individuals that are important in your character's life, such as siblings, significant others, children, cousins (if important), grandparents (if important) guardians (if applicable, step parents, step siblings, etc.[/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]HISTORY[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]HISTORY[/div]
 Tell us about your character's life up until this point. We ask that you at least cover the basics of early life, teenage years, and beyond. MUST include site events as applicable. 
 [/div]
-[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;font:12px Georgia;border-bottom:solid 1px #3066BE;"]OOC[/div][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #3066BE;"][td]name[/td][td]pronouns[/td][td]age[/td][/tr][tr][td style="text-align:center;"]The name you would like to go by on Alohomora[/td][td style="text-align:center;"]he/him she/her they/them etc.[/td][td][div style="text-align:center;"]How old are you? (Must be 18-years-old or older)
+[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;font:12px Georgia;border-bottom:solid 1px #4C6472;"]OOC[/div][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #4C6472;"][td]name[/td][td]pronouns[/td][td]age[/td][/tr][tr][td style="text-align:center;"]The name you would like to go by on Alohomora[/td][td style="text-align:center;"]he/him she/her they/them etc.[/td][td][div style="text-align:center;"]How old are you? (Must be 18-years-old or older)
 [/div][/td][/tr][/tbody][/table][/div]
 [/td][/tr][/tbody][/table][/div]
 [div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"][a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div][/code]
