@@ -32,9 +32,12 @@
 23--[OTHER]:                #556E8B --- [QUEEN BLUE]
 24--[DRUID]:                #417109 --- [SAP GREEN]
 
-[ CLAIMS ]
+[ APPLICATION ]
 
 ---[APPLICATION]:           #759FBC --- [AIR SUPERIORITY BLUE]
+
+[ CLAIMS ]
+
 ---[INITIAL CLAIMS]:        #013B61 --- [INDIGO DYE]
 ---[FACE CLAIM]:            #690505 --- [BLOOD RED]
 ---[JOBS CLAIM]:            #A367A8 --- [PEARLY PURPLE]
@@ -45,12 +48,11 @@
 [ OPT-CLAIMS ]
 
 ---[STUDENT CLAIMS]:        # --- []
----[WYRD TOUCH]:            # --- []
----[CAREER PLANS]:          # --- []
+---[WYRD TOUCH]:            #CAC4CE --- [LAVENDER GRAY]
 ---[PATRONI, SHIP, ORIGIN]: # --- []
 ---[CUSTOM ABILITIES]:      # --- []
 ---[SPECIAL ABILITIES]:     # --- []
----[AFFILIATION CLAIM]:     # --- []
+---[AFFILIATION CLAIM]:     #4DBFB8 --- [MAXIMUM BLUE GREEN]
 ---[CAREER PLANS]:          #048BA8 --- [BLUE MUNSELL]
 
 [ SAVED COLORS ]

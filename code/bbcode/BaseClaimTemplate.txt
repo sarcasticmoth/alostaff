@@ -12,7 +12,13 @@ asdfasdfasdf
 <-- END -->[/td][/tr][tr][td]<-- START -->
 [div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]HEADER[/div]
 
-asdfasdfasdf
+<-- START -->
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[i]job notes[/i]
+@tag
+[/div]
+<-- END -->
 
 [/div]<-- END -->
 [/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
