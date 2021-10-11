@@ -15,7 +15,7 @@
 [newclass=".user-link.group-1"]color: #4B8176 !important; [/newclass]
 
 
-[ USER GROUP COLORS FOR CLAIMS ]
+[ USER GROUP COLORS FOR CLAIMS LISTS ]
 
 1---[ADMINISTRATOR]:        #4B8176 --- [WINDERGREEN DREAM]
 3---[MODERATOR]:            #4B8176 --- [WINDERGREEN DREAM]
@@ -47,13 +47,13 @@
 
 [ OPT-CLAIMS ]
 
----[STUDENT CLAIMS]:        # --- []
+---[EXTRA STUDENT CLAIMS]:  # --- []
 ---[WYRD TOUCH]:            #CAC4CE --- [LAVENDER GRAY]
 ---[PATRONI, SHIP, ORIGIN]: # --- []
 ---[CUSTOM ABILITIES]:      # --- []
 ---[SPECIAL ABILITIES]:     # --- []
 ---[AFFILIATION CLAIM]:     #4DBFB8 --- [MAXIMUM BLUE GREEN]
----[CAREER PLANS]:          #048BA8 --- [BLUE MUNSELL]
+---[STUDENT CAREER PLANS]:  #048BA8 --- [BLUE MUNSELL]
 
 [ SAVED COLORS ]
 
