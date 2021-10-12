@@ -21,14 +21,14 @@ Prefects are responsible for patrolling the hallways and to make sure students d
 Ilvermorny transfer students are able to be Prefects.
 [div style="padding-left:10px;padding-right:10px;text-align:justify;"]
 [b]HEAD BOY:[/b] OPEN
-[b]HEAD GIRL:[/b] @lusie                             
+[b]HEAD GIRL:[/b] @lusie                                          
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GRYFFINDOR[/b][/div]
 [div style="margin-left:10px;"][b]7th year[/b]
 [div style="margin-left:10px;"]male: open
-female: @jimmie                           [/div]
+female: @jimmie                                        [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]male: @arlo                         
+[div style="margin-left:10px;"]male: @arlo                                      
 female: open[/div]
 [b]5th year[/b]
 [div style="margin-left:10px;"]male: open
@@ -38,7 +38,7 @@ female: open[/div][/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="margin-left:10px;"]male: open
 female: open [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]male: @newt                         
+[div style="margin-left:10px;"]male: @newt                                      
 female: open[/div]
 [b]5th year[/b]
 [div style="margin-left:10px;"]male: open
@@ -56,336 +56,513 @@ female: open[/div][/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SLYTHERIN[/b][/div]
 [div style="margin-left:10px;"][b]7th year[/b]
 [div style="margin-left:10px;"]male: open
-female: @maxima                          [/div]
+female: @maxima                                       [/div]
 [b]6th year[/b]
 [div style="margin-left:10px;"]male: open
-female: @isabeau                         [/div]
+female: @isabeau                                      [/div]
 [b]5th year[/b]
 [div style="margin-left:10px;"]male: open
 female: open[/div][/div]
 [/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]QUIDDITCH TEAMS[/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GRYFFINDOR[/b][/div]
-[div style="margin-left:10px;"][b]captain:[/b] @simon                
+[div style="margin-left:10px;"][b]captain:[/b] @simon                             
 
 [b]seeker:[/b] open
 [b]keeper:[/b] open
-[b]beater:[/b] @nora                
-[b]beater:[/b] @catsie             
-[b]chaser:[/b] @jimmie                
-[b]chaser:[/b] @simon                
-[b]chaser:[/b] @arlo                
+[b]beater:[/b] @nora                             
+[b]beater:[/b] @catsie                          
+[b]chaser:[/b] @jimmie                             
+[b]chaser:[/b] @simon                             
+[b]chaser:[/b] @arlo                             
 
 [b]reserve:[/b] open
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HUFFLEPUFF[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 
-[b]seeker:[/b] @raphael                
+[b]seeker:[/b] @raphael                             
 [b]keeper:[/b] open
-[b]beater:[/b] @newt                
+[b]beater:[/b] @newt                             
 [b]beater:[/b] open
-[b]chaser:[/b] @brody                
+[b]chaser:[/b] @brody                             
 [b]chaser:[/b] open
 [b]chaser:[/b] open
 
 [b]reserve:[/b] open[/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RAVENCLAW[/b][/div]
-[div style="margin-left:10px;"][b]captain:[/b] @caillen                
+[div style="margin-left:10px;"][b]captain:[/b] @caillen                             
 
-[b]seeker:[/b] @dasha               
+[b]seeker:[/b] @dasha                            
 [b]keeper:[/b] open
 [b]beater:[/b] open
 [b]beater:[/b] open
 [b]chaser:[/b] open
-[b]chaser:[/b] @caillen                
-[b]chaser:[/b] @zen                
+[b]chaser:[/b] @caillen                             
+[b]chaser:[/b] @zen                             
 
 [b]reserve:[/b] open[/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SLYTHERIN[/b][/div]
-[div style="margin-left:10px;"][b]captain:[/b] @addy                
+[div style="margin-left:10px;"][b]captain:[/b] @addy                             
 
-[b]seeker:[/b] @sunday                
-[b]keeper:[/b] @lulu                
+[b]seeker:[/b] @sunday                             
+[b]keeper:[/b] @lulu                             
 [b]beater:[/b]&nbsp;open
-[b]beater:[/b]&nbsp;@luna                
-[b]chaser:[/b] @addy                
-[b]chaser:[/b] @selene                
-[b]chaser:[/b] @phoebe                
+[b]beater:[/b]&nbsp;@luna                             
+[b]chaser:[/b] @addy                             
+[b]chaser:[/b] @selene                             
+[b]chaser:[/b] @phoebe                             
 
 [b]reserve:[/b] open[/div]
 [/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]CORE CLASSES[/div]
-
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ASTRONOMY[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@oliwia       
-@xena       [/div]
+[div style="margin-left:10px;"]@oliwia                    
+@xena                    [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@brody       
-@chrissy       
-@dasha       
-@gideon       
-@richard       
-@sunday       
-@yvonne       [/div]
+[div style="margin-left:10px;"]@brody                    
+@chrissy                    
+@dasha                    
+@gideon                    
+@richard                    
+@sunday                    
+@yvonne                    [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@evy       
-@isabeau       
-@catsie       
-@phoebe       [/div]
+[div style="margin-left:10px;"]@evy                    
+@isabeau                    
+@catsie                    
+@phoebe                    [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@kaylee       
-@penelope       
-@claudia       
-@steve       
-@lily       
-@tobias       
-@bryelle       
-@zen       
-@monday       
-@raphael       [/div][/div][/div]
+[div style="margin-left:10px;"]@kaylee                    
+@penelope                    
+@claudia                    
+@steve                    
+@lily                    
+@tobias                    
+@bryelle                    
+@zen                    
+@monday                    
+@raphael                    [/div][/div][/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CHARMS[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@oliwia     
-@xena     [/div]
+[div style="margin-left:10px;"]@oliwia                  
+@xena                  [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@brody     
+[div style="margin-left:10px;"]@brody                  
 @chrissie
-@dasha     
-@gideon     
-@richard     
-@sunday     
-@yvonne     [/div]
+@dasha                  
+@gideon                  
+@richard                  
+@sunday                  
+@yvonne                  [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@evy     
-@isabeau     
-@thomas     
-@catsie     
-@lulu     
-@luna     
-@phoebe     [/div]
+[div style="margin-left:10px;"]@evy                  
+@isabeau                  
+@thomas                  
+@catsie                  
+@lulu                  
+@luna                  
+@phoebe                  [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@kaylee     
-@maxima     
-@penelope     
-@lusie     
-@claudia     
-@steve     
-@lily     
-@tobias     
-@bryelle     
-@zen     
-@monday     
-@raphael     
-@addy     
-@brigh     [/div][/div][/div]
+[div style="margin-left:10px;"]@kaylee                  
+@maxima                  
+@penelope                  
+@lusie                  
+@claudia                  
+@steve                  
+@lily                  
+@tobias                  
+@bryelle                  
+@zen                  
+@monday                  
+@raphael                  
+@addy                  
+@brigh                  [/div][/div][/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DEFENSE AGAINST THE DARK ARTS[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@oliwia   
-@xena   [/div]
+[div style="margin-left:10px;"]@oliwia                
+@xena                [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@brody   
+[div style="margin-left:10px;"]@brody                
 @chrissie
-@dasha   
-@gideon   
-@richard   
-@sunday   
-@yvonne   [/div]
+@dasha                
+@gideon                
+@richard                
+@sunday                
+@yvonne                [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@evy   
-@isabeau   
-@thomas   
-@catsie   
-@lulu   
-@luna   
-@phoebe   [/div]
+[div style="margin-left:10px;"]@evy                
+@isabeau                
+@thomas                
+@catsie                
+@lulu                
+@luna                
+@phoebe                [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@kaylee   
-@maxima   
-@penelope   
-@lusie   
-@steve   
-@lily   
-@tobias   
-@bryelle   
-@zen   
-@raphael   
-@addy   
-@brigh   [/div][/div][/div]
+[div style="margin-left:10px;"]@kaylee                
+@maxima                
+@penelope                
+@lusie                
+@steve                
+@lily                
+@tobias                
+@bryelle                
+@zen                
+@raphael                
+@addy                
+@brigh                [/div][/div][/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HERBOLOGY[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@oliwia 
-@xena [/div]
+[div style="margin-left:10px;"]@oliwia              
+@xena              [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@brody 
-@chrissy 
-@dasha 
-@gideon 
-@richard 
-@sunday 
-@yvonne 
-@raphael [/div]
+[div style="margin-left:10px;"]@brody              
+@chrissy              
+@dasha              
+@gideon              
+@richard              
+@sunday              
+@yvonne              
+@raphael              [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@isabeau 
-@thomas 
-@phoebe [/div]
+[div style="margin-left:10px;"]@isabeau              
+@thomas              
+@phoebe              [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@maxima 
-@kaylee 
-@lusie 
-@claudia 
-@steve 
-@tobias 
-@bryelle 
-@zen 
-@addy 
-@brigh [/div][/div][/div]
+[div style="margin-left:10px;"]@maxima              
+@kaylee              
+@lusie              
+@claudia              
+@steve              
+@tobias              
+@bryelle              
+@zen              
+@addy              
+@brigh              [/div][/div][/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HISTORY OF MAGIC[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@oliwia
-@xena[/div]
+[div style="margin-left:10px;"]@oliwia             
+@xena             [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@brody
-@chrissy
-@dasha
-@gideon
-@richard
-@sunday
-@yvonne[/div]
+[div style="margin-left:10px;"]@brody             
+@chrissy             
+@dasha             
+@gideon             
+@richard             
+@sunday             
+@yvonne             [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@isabeau
-@luna[/div]
+[div style="margin-left:10px;"]@isabeau             
+@luna             [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@monday
-@brigh
-@kaylee
-@lusie
-@steve
-@zen
-@raphael[/div][/div][/div]
+[div style="margin-left:10px;"]@monday             
+@brigh             
+@kaylee             
+@lusie             
+@steve             
+@zen             
+@raphael             [/div][/div][/div]
 
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HOME ECONOMICS AND LIFE SKILLS[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
+[div style="margin-left:10px;"]@oliwia           
+@xena           [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
+[div style="margin-left:10px;"]@brody           
+@chrissy           
+@dasha           
+@gideon           
+@richard           
+@sunday           
+@yvonne           [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
+[div style="margin-left:10px;"]@phoebe           [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
+[div style="margin-left:10px;"]@maxima           
+@lusie           
+@lily           
+@steve           [/div][/div][/div]
 
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]POTIONS[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
+[div style="margin-left:10px;"]@oliwia           
+
+@xena           
 [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
+[div style="margin-left:10px;"]@brody           
+@chrissy           
+@dasha           
+@gideon           
+@richard           
+@sunday           
+@yvonne           [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
+[div style="margin-left:10px;"]@isabeau           
+@thomas           
+@catsie           
+@lulu           
+@luna           [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
+[div style="margin-left:10px;"]@maxima           
+@penelope           
+@lusie           
+@claudia           
+@tobias           
+@bryelle           
+@zen           
+@monday           
+@raphael           
+@addy           
+@brigh           [/div][/div][/div]
 
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TRANSFIGURATION[/div]
 [div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
+[div style="margin-left:10px;"]@oliwia           
+@xena           
 [/div]
 [b]5th year[/b]
-[div style="margin-left:10px;"]@tag
+[div style="margin-left:10px;"]@brody           
+@chrissy           
+@dasha           
+@gideon           
+@richard           
+@sunday           
+@yvonne           
 [/div]
 [b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
+[div style="margin-left:10px;"]@evy           
+@isabeau           
+@thomas           
+@catsie           
+@luna           [/div]
 [b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
-
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
-[div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]5th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
-
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
-[div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]5th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
-
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
-[div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]5th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
-
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
-[div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]5th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
-
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]class[/div]
-[div style="margin-left:10px;"][b]4th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]5th year[/b]
-[div style="margin-left:10px;"]@tag
-[/div]
-[b]6th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[b]7th year[/b]
-[div style="margin-left:10px;"]@tag[/div]
-[/div][/div]
-
+[div style="margin-left:10px;"]@maxima           
+@penelope           
+@lusie           
+@claudia           
+@steve           
+@lily           
+@simon           
+@bryelle           
+@zen           
+@raphael           
+@addy           [/div][/div][/div]
+[/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]ELECTIVES[/div]
-<-- START -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
+[spoiler]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ALCHEMY[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
 [/div]
-<-- END -->
+[b]5th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@evy        
+@isabeau        
+@luna        [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@addy        
+@brigh        
+@maxima        
+@zen        [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANCIENT RUNES[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]@xena        
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@dasha        
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@catsie        [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@zen        
+@addy        
+@brigh        [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANCIENT STUDIES[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@catsie        [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]- - -[/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ARITHMANCY[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@chrissy        
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@evy        
+@isabeau        [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@zen        
+@addy        
+@brigh        [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ART[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]- - -[/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]- - -[/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CARE OF MAGICAL CREATURES[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]@oliwia        
+@xena        [/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@brody        
+@gideon        
+@chrissy        [/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@thomas        [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@tobias        
+@bryelle        
+@zen        [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DIVINATION[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@yvonne        
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@phoebe        [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@claudia        
+@penelope        
+@tobias        
+@bryelle        
+@zen        [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DUELING[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@dasha      
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@evy      
+@isabeau      
+@thomas      
+@catsie      [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@kaylee      
+@lily      
+@bryelle      [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]FLYING SPECIAL SKILLS[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@brody      
+@dasha      [/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@catsie      
+@evy      
+@luna      [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@raphael     [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MAGIC THEORY[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]@xena     
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]- - -[/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@addy     [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MAGICAL FIRST AID[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]@catsie     
+@evy     [/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@kaylee     
+@maxima     
+@monday     [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MUGGLE STUDIES[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]@oliwia     
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@yvonne     
+[/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]- - -[/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@kaylee     
+@steve     
+@monday     [/div][/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NATIVE AMERICAN MAGIC[/div]
+[div style="margin-left:10px;"][b]4th year[/b]
+[div style="margin-left:10px;"]- - -
+[/div]
+[b]5th year[/b]
+[div style="margin-left:10px;"]@brody     
+@chrissy     [/div]
+[b]6th year[/b]
+[div style="margin-left:10px;"]- - -[/div]
+[b]7th year[/b]
+[div style="margin-left:10px;"]@kaylee     
+@steve     
+@monday     [/div][/div][/div]
+[/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]SPECIAL[/div]
-<-- START -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END -->
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPARITION (6TH YEAR ONLY)[/div]
+[div style="margin-left:10px;"]@charlie 
+@evy 
+@friday 
+@isabeau 
+@lulu 
+@luna 
+@madeleine 
+@nessa 
+@thursday 
+@thomas 
+@catsie [/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WANDLESS MAGIC (7TH YEAR ONLY)[/div]
+[div style="margin-left:10px;"]@addy 
+@brigh 
+@bryelle 
+@claudia 
+@jimmie 
+@katiya 
+@kaylee 
+@lily 
+@lusie 
+@maxima 
+@monday 
+@nathaniel 
+@penelope 
+@raphael 
+@simon 
+@steve 
+@tobias 
+@zen [/div][/div]
+
 [/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
