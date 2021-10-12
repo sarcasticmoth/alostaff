@@ -43,7 +43,7 @@
 ---[JOBS CLAIM]:            #A367A8 --- [PEARLY PURPLE]
 ---[CANON CLAIM]:           #6D95B3 --- [CERULEAN FROST]
 ---[WHOS WHO]:              #737373 --- [SONIC SILVER]
----[STUDENT CLAIM]:         # --- []
+---[STUDENT CLAIM]:         #68AB8F --- [POLISHED PINE]
 
 [ OPT-CLAIMS ]
 
