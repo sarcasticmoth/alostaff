@@ -1,10 +1,17 @@
-<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]business[/div]
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]business[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]job[/b][/div]
 [i]job description[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]job[/b][/div]
 [i]job description[/i]
 @tag[/div][/div]
 <-- business end -->
+
+
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]job[/b][/div]
+[i]job notes[/i]
+@tag
+[/div]
