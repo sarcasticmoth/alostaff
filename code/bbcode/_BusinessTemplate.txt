@@ -1,0 +1,10 @@
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]business[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[i]job description[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
+[i]job description[/i]
+@tag[/div][/div]
+<-- business end -->

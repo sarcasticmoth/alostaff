@@ -1,212 +1,156 @@
 [div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A367A8;"][font color="#555555"]magical[/font][font color="#A367A8"]education[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Age requirement of at least 25-years-old for all employees.
-Headmasters do not teach classes and Deputy headmasters can not be head of houses.[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HIGH STAFF[/div]
+Headmasters do not teach classes and Deputy headmasters can not be head of houses.[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - HIGH STAFF[/div]
 
-[i]Running a hospital is quite a bit of work. These individuals are responsible for ensuring St. Mungos is able to function and provide the amazing medical services it is known for.[/i]
+[i]The Headmaster and heads of houses. These individuals run Hogwarts and also create any rules when necessary.[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEADMASTER[/div]
-[div]in charge of hogwarts, staff and students
-[/div]
-@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div]in charge of Hogwarts, staff and students
+[/div]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DEPUTY HEADMASTER[/div]
 [i]acts in headmaster's place if needed, in charge of head of houses
-[/i]
-@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[/i]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]GRYFFINDOR HEAD OF HOUSE[/div]
-[div][i]in charge of Gryffindor house and its students[/i][/div]
-@parvati  
+[div][i]in charge of Gryffindor house and its students[/i][/div]@parvati        
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HUFFLEPUFF HEAD OF HOUSE[/div]
-[div][i]in charge of Hufflepuff house and its students[/i][/div]
-@shawn  
+[div][i]in charge of Hufflepuff house and its students[/i][/div]@shawn        
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]RAVENCLAW HEAD OF HOUSE[/div]
-[div][i]in charge of Ravenclaw house and its students[/i][/div]
-@aymeric  
+[div][i]in charge of Ravenclaw house and its students[/i][/div]@aymeric        
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SLYTHERIN HEAD OF HOUSE[/div]
-[div][i]in charge of Slytherin house and its students[/i][/div]
-@blaise  
+[div][i]in charge of Slytherin house and its students[/i][/div]@blaise        
 [/div]
 <-- future end spoiler tag -->
 
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]PROFESSORS[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - PROFESSORS[/div]
 
-[i]department description[/i]
+[i]All the staff at Hogwarts that teaches a class. The Professors enforce the rules set forth by the High Staff and help supply the best possible education possible for their students.[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ALCHEMY[/div]
+[i]teaches the four basic elements as well as the transmutation of substances.[/i]
+@hazel 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANCIENT RUNES[/div]
+[i]teaches the ancient runic scripts of magic[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANCIENT STUDIES[/div]
+[i]Learn and study about the ancient magical cultures, magic, and magical practices around the world.[/i]
+@frank 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPARITION[/div]
+[i]teaches how to apparate in order to receive an apparition license.[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ART[/div]
+[i]learn and study magical art. From how enchanted portraits are crafted, to magical photography.[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ASTRONOMY[/div]
+[i]teaches names of stars, constellations, and planets as well as their locations and movements.[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ARITHMANCY[/div]
+[i]teaches how to predict the future using numbers, write essays, consult complex number charts.[/i]
+@octavian 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CARE OF MAGICAL CREATURES[/div]
+[i]teaches the wide range of magical creatures in the wizarding world.[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CHARMS[/div]
+[i]teaches charms such as wingardium leviosa, accio, &amp; aguamenti.[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DEFENSE AGAINST THE DARK ARTS [/div]
+[i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
+@blaise 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DIVINATION[/div]
+[i]teaches methods of divining the future or gathering insights into future events through various rituals and tools.[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DUELING[/div]
+[i]teaches how to use defensive and offensive magic against your fellow classmates in controlled battle simulations.[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]FLYING[/div]
+[i]teaches special skills and advanced techniques to flying a broom[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HERBOLOGY[/div]
+[i]teaches the magical properties of plants and what they are used for.[/i]
+@alfie 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HISTORY OF MAGIC[/div]
+[i]teaches all there is to know about magical history.[/i]
+@renfri 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HOME ECONOMICS &amp; LIFE SKILLS[/div]
+[i]teaches how to cook, keep a house, find a job, stay organized, deal with relationships, and much more![/i]
+@deva 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MAGICAL THEORY[/div]
+[i]a purely theoretical class in which you study the principles and theory of why magic works.[/i]
+@ivy 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MUGGLE STUDIES[/div]
+[i]teaches about the daily lives of muggles and how they cope with electricity and not magic.[/i]
+@severus 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NATIVE AMERiCAN MAGIC[/div]
+[i]teaches the ancient magic styling of the Native American People, including alternative forms of healing &amp; plant based magic.[/i]
+@clarence 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]POTIONS[/div]
+[i]teaches correct ways to brew potions by following specific recipes with magical ingredients.[/i]
+@aymeric 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TRANSFIGURATION[/div]
+[i]teaches the art of changing the form and appearance of an object.[/i]
+@shawn 
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WANDLESS MAGIC[/div]
+[i]teaches how to use spells without your wand.[/i]
 @tag
 [/div]
 
 <-- future end spoiler tag -->
 
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]OTHER STAFF[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - OTHER STAFF[/div]
 
-[i]department description[/i]
+[i]Although these individuals are not professors, their roles are vital to Hogwart's operations. They support the school and students in their unique roles.[/i]
 
 <-- future start spoiler tag -->
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CARETAKER[/div]
+[i]takes care of the castle[/i]
 @tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ILVERMORNY - HIGH STAFF[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]GROUNDSKEEPER[/div]
+[i]takes care of the grounds and forbidden forest[/i]
 @tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ILVERMORNY - PROFESSORS[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]LIBRARIAN[/div]
+[i]takes care of the library[/i]
 @tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ILVERMORNY - OTHER STAFF[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEAD NURSE[/div]
+[i]in charge of the hospital wing[/i]
 @tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPT[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NURSES[/div]
+[i]assists the head nurse in the hospital wing[/i]
 @tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPT[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPT[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPT[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPT[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPT[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-
-<-- future end spoiler tag -->
-
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPT[/div]
-
-[i]department description[/i]
-
-<-- future start spoiler tag -->
-[div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]COUNSELOR[/div]
+[i]assists students, offers advice and guidance[/i]
+@parvati
 [/div]
 
 <-- future end spoiler tag -->

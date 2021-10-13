@@ -1,61 +1,675 @@
 [div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A367A8;"][font color="#555555"]magical[/font][font color="#A367A8"]shopping[/font][font color="#555555"]districts[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"][ul type="circle"][li]Shop owners/co-owners have an age minimum requirement of 30-years-old.[/li][li]Owning/co-owning a shop and curse breaking are considered careers and can't be part time/paired with other jobs.
-[/li][li]Curse Breaking requires 2 years of training.[/li][/ul][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DIAGON ALLEY[/div]
+[/li][li]Curse Breaking requires 2 years of training.[/li][/ul][/div][/td][/tr][tr][td]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DIAGON ALLEY[/div]
 
-[i]One of the most popular and largest magical districts in the UK. Centuries of history has made Diagon Alley one of the best places to go for a huge variety of supplies and goods.[/i]
+[i][/i][i]One of the most popular and largest magical districts in the UK. Centuries of history has made Diagon Alley one of the best places to go for a huge variety of supplies and goods.[/i]
 
-<-- future start spoiler tag -->
+[spoiler]
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]ALDERTON'S BAKERY AND SWEETS[/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
 @tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BAKER[/div]
+[i]handles all the baked goods in the shop[/i]
+@jacob                     
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CANDY MAKER[/div]
+[i]handles all the sweets/candy in the shop[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]EEYLOP'S OWL EMPORIUM[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CARETAKER[/div]
+[i]take care of the owls on a day to day basis[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]FLOREAN FORTESCUE'S ICE CREAM PARLOUR[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+FLOREAN FORTESCUE JR. &amp; ABIGAIL FORTESCUE
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ICE CREAM ARTISAN
 [/div]
-<-- future end spoiler tag -->
+[i]create the ice cream that is sold[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@cara                  - part time
+@felix                 [/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]FLOURISH &amp; BLOTT'S[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@mina                 [/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]GRINGOTT'S WIZARDING BANK[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEAD GOBLIN[/div]
+[i]must have goblin heritage
 
+in charge of the bank[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]LAWYER[/div]
+[i]handle the legal side of the bank handle ministry intervention[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TELLER[/div]
+[i]help customers deposit or withdraw money[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CURSE BREAKER[/div]
+[i]travel the world searching for magical treasures[/i]
+@ilija              
+@nixie              
+@raleigh              
+@vanessa              [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CURSE BREAKER IN TRAINING[/div]
+[i]training to become curse breakers[/i]
+@dahlia              
+@irinarose             
+@malcolm              [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SECURITY HANDLER[/div]
+[i]in charge of the bank's security measures and creatures employed[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]MADAM MALKIN'S ROBES FOR ALL OCCASIONS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SEAMSTRESS[/div]
+[i]tailor robes to sell, and custom fit robes for clients[/i]
+@ophelialee               - part time[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]MAGICAL MENAGRIE[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MAGICAL VETERINARIAN[/div]
+[i]healers who specialize in caring for magical creatures[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]VETERINARIAN ASSISTANT[/div]
+[i]assist the veterinarian in procedures[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]MYSTERY INK ARTS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]RECEPTIONIST[/div]
+[i]greets all patrons and handles scheduling for the artists[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TATTOO ARTIST[/div]
+[i]the full fledged and proven tattoo artists in the shop[/i]
+@idris          
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPRENTICE TATTOO ARTIST[/div]
+[i]those still learning the art of magical tattooing[/i]
+@blair         [/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]OLLIVANDER'S[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WANDMAKERS[/div]
+[i]create wands for the shop[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPRENTICE WANDMAKER[/div]
+[i]learning how to make wands[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]QUALITY QUIDDITCH SUPPLIES[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BROOM MAKER[/div]
+[i]create brooms for the shop[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]SLUG &amp; JIGGER'S APOTHECARY[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]POTIONEER[/div]
+[i]create potions to sell[/i]
+@tag
+
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]TWILFITT AND TATTING'S[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TAILOR[/div]
+[i]tailor robes to sell and custom fit robes for clients[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag
+[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]WEASLEY'S WIZARD WHEEZES[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]JOKE MAKER[/div]
+[i]invent items to sell in the shop[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@tag
+[/div][/div]
+<-- business end -->
+[/spoiler]
 [/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]KNOCKTURN ALLEY[/div]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]KNOCKTURN ALLEY[/div]
 
 [i]Just off of Diagon Alley and down a dark alleyway you’ll find Knockturn Alley. The dark twin of Diagon Alley, Knockturn is just as old and rich in history. While infamous for supplying dark and illegal goods, Knockturn alley is far more than that and provides many goods that can’t be found in any other Magical District.[/i]
 
-<-- future start spoiler tag -->
+[spoiler]
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]BORGIN &amp; BURKE'S[/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@cas     
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]THE COFFIN HOUSE[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
 @tag
-[/div]
-
-<-- future end spoiler tag -->
-
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]DYSTYL PHAELANGES[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]THE BRASS RING[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]NOGGIN &amp; BONCE[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+[/spoiler]
 [/div]
 [/td][/tr][tr][td]
 [div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HORIZONT ALLEY[/div]
 
 [i]A relatively new neighborhood, Horizont is making a name for itself as exotic and whimsical. Many of the businesses here do their best to think outside the box and supply creative and exciting products you can’t find anywhere else.[/i]
 
-<-- future start spoiler tag -->
+[spoiler]
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]BLISHWICK MATCHMAKING SERVICES[/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER &amp; HEAD MATCHMAKER[/div]
+[i]owner of the shop and in charge of matchmaking[/i]
+@jimbo   
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPRENTICE MATCHMAKER[/div]
+[i]learning the art of matchmaking[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]RECEPTIONIST[/div]
+[i]runs the front of house, and scheduling[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]CLAUSTRUM DE LUPUS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
 @tag
-[/div]
-
-<-- future end spoiler tag -->
-
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]INN KEEPERS[/div]
+[i]maintain the inn[/i]
+@emma   [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]POTIONEERS[/div]
+[i]create the wolfsbane potion and any others werewolves might need[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SOCIAL WORKERS[/div]
+[i]help werewolves find jobs, housing, and counselling[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]FLIMFLAM’S LANTERNS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]FORGET-ME-KNOT FLORIST[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@rusti   
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]THE FOUNTAIN OF FAIR FORTUNE[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BARTENDER[/div]
+[i]run the bar and alcoholic drinks[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WAITER/WAITRESS[/div]
+[i]serve food, help customers, and keep things running[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]GAMBLIN GALLEONS CASINO[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@pollo   
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEAD OF SECURITY[/div]
+[i]in charge of the security guards[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SECURITY GUARD[/div]
+[i]maintain the peace, and enforce rules[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DEALERS[/div]
+[i]run the gambling games[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]HONEY'S CAT CAFE[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@honey   
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WAITER/WAITRESS[/div]
+[i]serve customers, take orders[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BARISTA[/div]
+[i]coffee, tea, etc. they supply the drinks[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CAT CARER[/div]
+[i]responsible for the day-to-day care of the cats at the café[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]OBSCURUS BOOKS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]EDITOR[/div]
+[i]ensure books are ready for print[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ILLUSTRATOR[/div]
+[i]artists that work on books[/i]
+@clodagh  [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]AUTHOR[/div]
+[i]writers that publish with the shop[/i]
+@clodagh  [/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]THE PI PÂTISSERIE[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+DECIMA VECTOR
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BAKER[/div]
+[i]handles all the baked goods in the shop[/i]
+@nova  [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]PILLIWINKLE’S PLAYTHINGS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TOYMAKER[/div]
+[i]invent items to sell in the shop[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]THE QUEEN'S WANDS AND WOODWORKS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@nell  
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPRENTICE WANDMAKER[/div]
+[i]learning how to make wands[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]RIPAM DE SANGUINEM[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NURSES[/div]
+[i]draw blood, test it, and supply to vampires[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NIGHT TELLERS[/div]
+[i]run the shop at night[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SECURITY[/div]
+[i]maintain the peace[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]SUGARPLUM’S SWEETS SHOP[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]VIOLET HOUND PUB[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER AND CHEF[/div]
+[i]owner of the pub and head cook[/i]
+@vasilia  
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BARTENDER[/div]
+[i]run the bar and all alcoholic drinks[/i]
+@lyra  [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]COOK[/div]
+[i]helps out in the kitchen[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]WILDSMITH TRAVEL AGENCY[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TRAVEL AGENTS[/div]
+[i]organize travel for wizards[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]RECEPTIONIST[/div]
+[i]runs the front of house and scheduling[/i]
+@tag[/div][/div]
+<-- business end -->
+[/spoiler]
 [/div]
 [/td][/tr][tr][td]
 [div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGSMEADE[/div]
 
 [i]Hogsmeade is not just a magical district, it’s an entire village. Located outside Hogwarts school, Many of Hogsmeade’s shops and businesses cater heavily to the students of Hogwarts and any other visiting witches and wizards. In a nutshell, you’ll find plenty of sweets, cafes, and other novelty shops.[/i]
 
-<-- future start spoiler tag -->
+[spoiler]
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]C'EST LA VIE BOUTIQUE[/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
 @tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]DOMINIC MAESTRO'S[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SHOPKEEPER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]HAPPILY EVER AFTER PIZZA EMPORIUM[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@jimbo
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MANAGER[/div]
+[i]run the business day to day[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]COOK[/div]
+[i]make all the pizzas[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DELIVERY FLYER[/div]
+[i]will delivery pizza anywhere in the UK[/i]
+@newt[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]THE HOG'S HEAD[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BARTENDER[/div]
+[i]run the bar and all alcoholic drinks[/i]
+@ares[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]HOGSMEADE STATION[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CONDUCTER[/div]
+[i]drive the trains[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TROLLEY DRIVER[/div]
+[i]handle the trolley's on the trains[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]HONEYDUKE'S[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CANDY MAKER[/div]
+[i]create all the candy sold in the shop[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@kaylee - part time[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]MADAME PUDDIFOOT'S[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BARISTA[/div]
+[i]coffee, tea, etc. They supply the drinks[/i]
+@noah[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]PASTRY CHEF[/div]
+[i]they bake all the pastries that are sold[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WAITER/WAITRESS[/div]
+[i]serve customers, take orders, and ensure customers are taken care of[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]MAGICAL WILDLIFE REHABILITATION CENTER[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEAD[/div]
+[i]run the rehabilitation center[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]VETERINARIAN[/div]
+[i]specializes in healing and physical care of magical creatures[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPRENTICE VETERINARIAN[/div]
+[i]studying to become a full fledged veterinarian[/i]
+@aidan[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MAGICAL CREATURE RESEARCHER[/div]
+[i]research and try to learn more about magical creatures[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPRENTICE RESEARCHER
 [/div]
-
-<-- future end spoiler tag -->
-
+[i]studying to become a magical creature researcher[/i]
+@elijah[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CARE TAKER[/div]
+[i]take care of the creatures on a day to day basis[/i]
+@tobias - part time[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CAPTURE &amp; RELEASE SPECIALIST[/div]
+[i]in charge of catching creatures in need of care, and releasing them once they are strong enough[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SECURITY &amp; SAFETY SPECIALIST[/div]
+[i]ensure the center is safe for creatures and visitors[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HOGWARTS EDUCATION LIAISON
+[/div]
+[i]works with Hogwarts to supply creatures for educational purposes[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]POST OFFICE[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]PARCEL CHECKER[/div]
+[i]make sure no contraband is brought in[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]THE THREE BROOMSTICKS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BARTENDER[/div]
+[i]run the bar and all alcoholic drinks[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CHEF[/div]
+[i]run the kitchen[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]COOK[/div]
+[i]work under the chef, and prepare the fun[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WAITER/WAITRESS[/div]
+[i]serve customers[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]WIZARDING WIRELESS NETWORK HEADQUARTERS[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BOARD OPERATOR[/div]
+[i]make sure everything runs smoothly[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MUSIC DIRECTOR[/div]
+[i]in charge of the music[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]PROMOTION DIRECTOR[/div]
+[i]advertising and promotion of the station[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DJ[/div]
+[i]create music mixes for the station[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MUSICIAN[/div]
+[i]music performers that work exclusively for the station[/i]
+@tag[/div][/div]
+<-- business end -->
+<-- business start -->[div style="margin-left:10px;margin-right:10px;"][div style="font:16px Georgia;border-bottom:solid 1px #A367A8;text-align:center;text-transform:lowercase;margin-bottom:-10px;"]ZONKO'S JOKE SHOP[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]OWNER[/div]
+[i]owner of the shop[/i]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]JOKE INVENTOR[/div]
+[i]create unique joke items to sell[/i]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CASHIER[/div]
+[i]employees of the shop, help customers[/i]
+@tag[/div][/div]
+<-- business end -->
+[/spoiler]
 [/div]
 [/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 
