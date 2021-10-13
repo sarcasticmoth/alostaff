@@ -4,6 +4,7 @@ Nursing requires 6 months of training[/div][/td][/tr][tr][td][div style="backgro
 
 [i]Running a hospital is quite a bit of work. These individuals are responsible for ensuring St. Mungos is able to function and provide the amazing medical services it is known for.[/i]
 
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DIRECTOR[/b][/div]
 [div][i]40+ age requirement, previous healer experience
 In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -12,15 +13,16 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/i]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LAWYER[/b][/div]
 [div][i]Ensure the hospital stays compliant with laws and handle any lawsuits brought against it[/i][/div]@tag[/div]
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]RECEPTION[/div]
+[/spoiler]
+
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]RECEPTION[/div]
 
 [i]From walk ins, to record keeping, Reception is the face of St. Mungos.[/i]
 
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WELCOME WITCH[/b][/div]
 [i]front desk, and the first person you see. They handle all check ins and check outs[/i]
-@ophelialee               
+@ophelialee                  
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MEDICAL BILLING [/b][/div]
 [i]In charge of the financial side of the hospital[/i]
@@ -28,13 +30,14 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RECORD KEEPING[/b][/div]
 [i]Medical records, employee records, supplier records, etc[/i]
-@calliope               [/div]
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ARTIFACT ACCIDENTS[/div]
+@calliope                  [/div]
+[/spoiler]
+
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ARTIFACT ACCIDENTS[/div]
 
 [i]Magical items can be a help or a hindrance. Whether it’s due to a malfunction of the artifact, or a curse, magical artifacts can cause quite a bit of damage. Those that work on this floor specialize in handling any sort of ailment caused by a magical artifact.[/i]
 
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -53,11 +56,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE NURSE[/b][/div]
 [i]training to become a nurse[/i]
 @tag[/div]
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]CREATURE-INDUCED INJURIES[/div]
+[/spoiler]
+
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]CREATURE-INDUCED INJURIES[/div]
 
 [i]Magical creatures can cause temporary and lasting damage. Whether it’s an accident, such as handling a magical creature incorrectly, or an attack, you’ll be in good hands if you seek medical treatment here.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
@@ -79,12 +84,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [i]training to become a nurse[/i]
 @tag
 [/div]
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MAGICAL BUGS AND DISEASES[/div]
+[/spoiler]
+
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MAGICAL BUGS AND DISEASES[/div]
 
 [i]While magic can heal all muggle bugs and diseases, several magical ones have popped up over the years. These ailments require specialized knowledge and treatment, and even then sometimes they aren’t always curable.[/i]
 
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
@@ -105,12 +111,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE NURSE[/b][/div]
 [i]training to become a nurse[/i]
 @tag[/div]
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]POTIONS AND PLANT POISONING[/div]
+[/spoiler]
+
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]POTIONS AND PLANT POISONING[/div]
 
 [i]Sometimes witches and wizards ingest, or are exposed to, things that can really mess with their system. Sometimes potions go wrong, and have a bad effect, or you mishandle a magical plant. Overall, these hard working healers and nurses specialize in poisons and reversing the damage.[/i]
 
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
@@ -131,12 +138,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE NURSE[/b][/div]
 [i]training to become a nurse[/i]
 @tag[/div]
+[/spoiler]
 
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]SPELL DAMAGE[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]SPELL DAMAGE[/div]
 
 [i]Duel gone wrong? Hit by a wayward curse? Spells can do some pretty big damage if you aren’t careful and their effects can be mild to devastating. Not all spell damage can be repaired, but these healers and nurses will do their best to heal every patient in their ward.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
@@ -157,11 +165,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE NURSE[/b][/div]
 [i]training to become a nurse[/i]
 @tag[/div]
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MATERNITY[/div]
+[/spoiler]
+
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MATERNITY[/div]
 
 [i]Ah, the maternity ward. Prenatal care, delivery, even fertilization treatment. They specialize in everything maternity and paternity related.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
@@ -169,7 +179,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEALER[/b][/div]
 [i]in charge of the care and treatment of patients in their ward[/i]
-@ariadne   
+@ariadne      
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE HEALER[/b][/div]
 [i]training to become a healer[/i]
@@ -182,11 +192,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE NURSE[/b][/div]
 [i]training to become a nurse[/i]
 @tag[/div]
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]PSYCHIATRIC[/div]
+[/spoiler]
+
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]PSYCHIATRIC[/div]
 
 [i]Mental health is just as big a concern in the Magical world as non magical. Therapy, psychology, and unfortunately even a Psychiatric unit. These caring witches and wizards help patients cope with any struggle they might be going through and also do everything they can to make them feel safe and comfortable.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
@@ -194,7 +206,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PSYCHIATRIST[/b][/div]
 [i]in charge of the mental health of their patients[/i]
-@alix  
+@alix     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE PSYCHIATRIST[/b][/div]
 [i]training to become a magical psychiatrist[/i]
@@ -207,12 +219,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE THERAPIST[/b][/div]
 [i]training to become a magical therapist[/i]
 @tag[/div]
+[/spoiler]
 
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DENTAL &amp; VISION[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DENTAL &amp; VISION[/div]
 
 [i]Oral and visual health, while often overlooked, are very important. These two magical healing branches required a very specialized knowledge and training due to the uniqueness of them. But you know you’ll be in good hands, as St. Mungos provides one of the best Dental and Vision training in the business.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HEALER[/b][/div]
 [i]the head 'doctor' of the floor, and in charge of the entire floor[/i]
@@ -233,12 +246,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]VISUAL ASSISTANT[/b][/div]
 [i]assist the magical ophthalmologist in their procedures[/i]
 @tag[/div]
+[/spoiler]
 
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MEDIWIZARD SQUAD[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MEDIWIZARD SQUAD[/div]
 
 [i]When there is an emergency it’s sometimes impossible to get to St. Mungos. The Mediwizard unit is the Emergency healing services of the magical world. They’ll hit the ground running to try and stabilize patients so that they can be safely transported to St. Mungos. Mediwizards are a jack of all trades when it comes to healing, knowing a bit of everything but not experts in any.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD MEDIWIZARD[/b][/div]
 [i]the head 'doctor' of the squad[/i]
@@ -248,14 +262,15 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEES[/b][/div]
 [i]training to become a mediwizard[/i]
-@thompson 
-@shreya [/div]
+@thompson    
+@shreya    [/div]
+[/spoiler]
 
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]TEAROOM &amp; SHOP[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]TEAROOM &amp; SHOP[/div]
 
 [i]When you are visiting family sometimes you need some space to just relax outside of the hospital rooms. The Tearoom is a great place to unwind, and just take some time for yourself. The shop is also a great place to buy gifts for the person you are visiting, or to pick up a few things you might have forgotten in your rush to get down to the hospital.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]in charge of the tearoom and shop[/i]
@@ -265,12 +280,13 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [i]run the tearoom and shop[/i]
 @tag
 [/div]
+[/spoiler]
 
-[/div]
-[/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]LABORATORY[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]LABORATORY[/div]
 
 [i]Healers and nurses, while being amazing healing individuals, aren’t able to do everything. The lab works behind the scenes to support all the wards at St. Mungos so they can provide the best care possible. These talented researchers and scientists run tests needed for ailment diagnostics, research and develop new/better healing methods, and create intricate and complex magical prosthetics.[/i]
+
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD RESEARCHER[/b][/div]
 [i]the head researcher of the floor, and in charge of the entire floor[/i]
@@ -278,11 +294,11 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POTIONEER[/b][/div]
 [i]create all the potions for the hospital[/i]
-@adelaide
+@adelaide   
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PHLEBOTOMIST[/b][/div]
 [i]run lab tests for the hospital[/i]
-@dusti
+@dusti   
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEALING RESEARCHER[/b][/div]
 [i]research and develop new methods of healing[/i]
@@ -292,6 +308,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [i]create magical prosthetics[/i]
 @tag
 [/div]
+[/spoiler]
 
 [/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 

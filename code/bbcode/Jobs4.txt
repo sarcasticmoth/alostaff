@@ -3,157 +3,155 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 
 [i]The Headmaster and heads of houses. These individuals run Hogwarts and also create any rules when necessary.[/i]
 
-<-- future start spoiler tag -->
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEADMASTER[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEADMASTER[/b][/div]
 [div]in charge of Hogwarts, staff and students
 [/div]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DEPUTY HEADMASTER[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DEPUTY HEADMASTER[/b][/div]
 [i]acts in headmaster's place if needed, in charge of head of houses
 [/i]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]GRYFFINDOR HEAD OF HOUSE[/div]
-[div][i]in charge of Gryffindor house and its students[/i][/div]@parvati        
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GRYFFINDOR HEAD OF HOUSE[/b][/div]
+[div][i]in charge of Gryffindor house and its students[/i][/div]@parvati           
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HUFFLEPUFF HEAD OF HOUSE[/div]
-[div][i]in charge of Hufflepuff house and its students[/i][/div]@shawn        
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HUFFLEPUFF HEAD OF HOUSE[/b][/div]
+[div][i]in charge of Hufflepuff house and its students[/i][/div]@shawn           
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]RAVENCLAW HEAD OF HOUSE[/div]
-[div][i]in charge of Ravenclaw house and its students[/i][/div]@aymeric        
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RAVENCLAW HEAD OF HOUSE[/b][/div]
+[div][i]in charge of Ravenclaw house and its students[/i][/div]@aymeric           
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SLYTHERIN HEAD OF HOUSE[/div]
-[div][i]in charge of Slytherin house and its students[/i][/div]@blaise        
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SLYTHERIN HEAD OF HOUSE[/b][/div]
+[div][i]in charge of Slytherin house and its students[/i][/div]@blaise           
 [/div]
-<-- future end spoiler tag -->
+[/spoiler]
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - PROFESSORS[/div]
 
 [i]All the staff at Hogwarts that teaches a class. The Professors enforce the rules set forth by the High Staff and help supply the best possible education possible for their students.[/i]
 
-<-- future start spoiler tag -->
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ALCHEMY[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ALCHEMY[/b][/div]
 [i]teaches the four basic elements as well as the transmutation of substances.[/i]
-@hazel 
+@hazel    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANCIENT RUNES[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ANCIENT RUNES[/b][/div]
 [i]teaches the ancient runic scripts of magic[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANCIENT STUDIES[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ANCIENT STUDIES[/b][/div]
 [i]Learn and study about the ancient magical cultures, magic, and magical practices around the world.[/i]
-@frank 
+@frank    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]APPARITION[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPARITION[/b][/div]
 [i]teaches how to apparate in order to receive an apparition license.[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ART[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ART[/b][/div]
 [i]learn and study magical art. From how enchanted portraits are crafted, to magical photography.[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ASTRONOMY[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASTRONOMY[/b][/div]
 [i]teaches names of stars, constellations, and planets as well as their locations and movements.[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ARITHMANCY[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ARITHMANCY[/b][/div]
 [i]teaches how to predict the future using numbers, write essays, consult complex number charts.[/i]
-@octavian 
+@octavian    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CARE OF MAGICAL CREATURES[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CARE OF MAGICAL CREATURES[/b][/div]
 [i]teaches the wide range of magical creatures in the wizarding world.[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CHARMS[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CHARMS[/b][/div]
 [i]teaches charms such as wingardium leviosa, accio, &amp; aguamenti.[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DEFENSE AGAINST THE DARK ARTS [/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DEFENSE AGAINST THE DARK ARTS [/b][/div]
 [i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
-@blaise 
+@blaise    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DIVINATION[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DIVINATION[/b][/div]
 [i]teaches methods of divining the future or gathering insights into future events through various rituals and tools.[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]DUELING[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DUELING[/b][/div]
 [i]teaches how to use defensive and offensive magic against your fellow classmates in controlled battle simulations.[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]FLYING[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]FLYING[/b][/div]
 [i]teaches special skills and advanced techniques to flying a broom[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HERBOLOGY[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HERBOLOGY[/b][/div]
 [i]teaches the magical properties of plants and what they are used for.[/i]
-@alfie 
+@alfie    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HISTORY OF MAGIC[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HISTORY OF MAGIC[/b][/div]
 [i]teaches all there is to know about magical history.[/i]
-@renfri 
+@renfri    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HOME ECONOMICS &amp; LIFE SKILLS[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HOME ECONOMICS &amp; LIFE SKILLS[/b][/div]
 [i]teaches how to cook, keep a house, find a job, stay organized, deal with relationships, and much more![/i]
-@deva 
+@deva    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MAGICAL THEORY[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL THEORY[/b][/div]
 [i]a purely theoretical class in which you study the principles and theory of why magic works.[/i]
-@ivy 
+@ivy    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]MUGGLE STUDIES[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MUGGLE STUDIES[/b][/div]
 [i]teaches about the daily lives of muggles and how they cope with electricity and not magic.[/i]
-@severus 
+@severus    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NATIVE AMERiCAN MAGIC[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]NATIVE AMERiCAN MAGIC[/b][/div]
 [i]teaches the ancient magic styling of the Native American People, including alternative forms of healing &amp; plant based magic.[/i]
-@clarence 
+@clarence    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]POTIONS[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POTIONS[/b][/div]
 [i]teaches correct ways to brew potions by following specific recipes with magical ingredients.[/i]
-@aymeric 
+@aymeric    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]TRANSFIGURATION[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRANSFIGURATION[/b][/div]
 [i]teaches the art of changing the form and appearance of an object.[/i]
-@shawn 
+@shawn    
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]WANDLESS MAGIC[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WANDLESS MAGIC[/b][/div]
 [i]teaches how to use spells without your wand.[/i]
 @tag
 [/div]
-
-<-- future end spoiler tag -->
+[/spoiler]
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - OTHER STAFF[/div]
 
 [i]Although these individuals are not professors, their roles are vital to Hogwart's operations. They support the school and students in their unique roles.[/i]
 
-<-- future start spoiler tag -->
+[spoiler]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CARETAKER[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CARETAKER[/b][/div]
 [i]takes care of the castle[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]GROUNDSKEEPER[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GROUNDSKEEPER[/b][/div]
 [i]takes care of the grounds and forbidden forest[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]LIBRARIAN[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LIBRARIAN[/b][/div]
 [i]takes care of the library[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]HEAD NURSE[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD NURSE[/b][/div]
 [i]in charge of the hospital wing[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NURSES[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]NURSES[/b][/div]
 [i]assists the head nurse in the hospital wing[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]COUNSELOR[/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]COUNSELOR[/b][/div]
 [i]assists students, offers advice and guidance[/i]
-@parvati
+@parvati   
 [/div]
-
-<-- future end spoiler tag -->
+[/spoiler]
 
 [/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 
