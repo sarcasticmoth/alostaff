@@ -12,19 +12,18 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [i]acts in headmaster's place if needed, in charge of head of houses
 [/i]@tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GRYFFINDOR HEAD OF HOUSE[/b][/div]
-[div][i]in charge of Gryffindor house and its students[/i][/div]@parvati           
+[div][i]in charge of Gryffindor house and its students[/i][/div]@parvati            
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HUFFLEPUFF HEAD OF HOUSE[/b][/div]
-[div][i]in charge of Hufflepuff house and its students[/i][/div]@shawn           
+[div][i]in charge of Hufflepuff house and its students[/i][/div]@shawn            
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RAVENCLAW HEAD OF HOUSE[/b][/div]
-[div][i]in charge of Ravenclaw house and its students[/i][/div]@aymeric           
+[div][i]in charge of Ravenclaw house and its students[/i][/div]@aymeric            
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SLYTHERIN HEAD OF HOUSE[/b][/div]
-[div][i]in charge of Slytherin house and its students[/i][/div]@blaise           
+[div][i]in charge of Slytherin house and its students[/i][/div]@blaise            
 [/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - PROFESSORS[/div]
 
 [i]All the staff at Hogwarts that teaches a class. The Professors enforce the rules set forth by the High Staff and help supply the best possible education possible for their students.[/i]
@@ -33,7 +32,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ALCHEMY[/b][/div]
 [i]teaches the four basic elements as well as the transmutation of substances.[/i]
-@hazel    
+@hazel     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ANCIENT RUNES[/b][/div]
 [i]teaches the ancient runic scripts of magic[/i]
@@ -41,7 +40,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ANCIENT STUDIES[/b][/div]
 [i]Learn and study about the ancient magical cultures, magic, and magical practices around the world.[/i]
-@frank    
+@frank     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPARITION[/b][/div]
 [i]teaches how to apparate in order to receive an apparition license.[/i]
@@ -57,7 +56,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ARITHMANCY[/b][/div]
 [i]teaches how to predict the future using numbers, write essays, consult complex number charts.[/i]
-@octavian    
+@octavian     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CARE OF MAGICAL CREATURES[/b][/div]
 [i]teaches the wide range of magical creatures in the wizarding world.[/i]
@@ -69,7 +68,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DEFENSE AGAINST THE DARK ARTS [/b][/div]
 [i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
-@blaise    
+@blaise     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DIVINATION[/b][/div]
 [i]teaches methods of divining the future or gathering insights into future events through various rituals and tools.[/i]
@@ -85,42 +84,41 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HERBOLOGY[/b][/div]
 [i]teaches the magical properties of plants and what they are used for.[/i]
-@alfie    
+@alfie     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HISTORY OF MAGIC[/b][/div]
 [i]teaches all there is to know about magical history.[/i]
-@renfri    
+@renfri     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HOME ECONOMICS &amp; LIFE SKILLS[/b][/div]
 [i]teaches how to cook, keep a house, find a job, stay organized, deal with relationships, and much more![/i]
-@deva    
+@deva     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL THEORY[/b][/div]
 [i]a purely theoretical class in which you study the principles and theory of why magic works.[/i]
-@ivy    
+@ivy     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MUGGLE STUDIES[/b][/div]
 [i]teaches about the daily lives of muggles and how they cope with electricity and not magic.[/i]
-@severus    
+@severus     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]NATIVE AMERiCAN MAGIC[/b][/div]
 [i]teaches the ancient magic styling of the Native American People, including alternative forms of healing &amp; plant based magic.[/i]
-@clarence    
+@clarence     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POTIONS[/b][/div]
 [i]teaches correct ways to brew potions by following specific recipes with magical ingredients.[/i]
-@aymeric    
+@aymeric     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRANSFIGURATION[/b][/div]
 [i]teaches the art of changing the form and appearance of an object.[/i]
-@shawn    
+@shawn     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WANDLESS MAGIC[/b][/div]
 [i]teaches how to use spells without your wand.[/i]
 @tag
 [/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - OTHER STAFF[/div]
 
 [i]Although these individuals are not professors, their roles are vital to Hogwart's operations. They support the school and students in their unique roles.[/i]
@@ -149,9 +147,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]COUNSELOR[/b][/div]
 [i]assists students, offers advice and guidance[/i]
-@parvati   
+@parvati    
 [/div]
 [/spoiler]
-
 [/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
-
