@@ -29,7 +29,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RECORD KEEPING[/b][/div]
 [i]Medical records, employee records, supplier records, etc[/i]
-@calliope                    [/div]
+@tag[/div]
 [/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ARTIFACT ACCIDENTS[/div]
 
