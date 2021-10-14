@@ -1,4 +1,4 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A367A8;"][font color="#555555"]ministry[/font][font color="#A367A8"]of[/font][font color="#555555"]magic[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Department Heads have an age minimum requirement of 30-years-old.
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A367A8;"][font color="#555555"]ministry[/font][font color="#A367A8"]of[/font][font color="#555555"]magic[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Department Heads require 5+ years relevant experience.
 Graduates employed by the Ministry are interns the first 6 months of their career.
 Auror/Hit Wizard/magical Interpol require 2 years of training.[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MINISTER &amp; SUPPORT STAFF[/div]
 
@@ -6,18 +6,15 @@ Auror/Hit Wizard/magical Interpol require 2 years of training.[/div][/td][/tr][t
 
 [spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]minister for magic[/b][/div]
-[div][i]age minimum requirement of 30-years-old
+[div][i]10+ years Ministry experience
 Head of the Wizarding World in the UK[/i][/div]
 Viktor Krum[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ADVISOR TO THE MINISTER OF MAGIC[/b][/div]
-[i]age minimum requirement of 30-years-old
-Advises the Minister on current affairs. Sometimes used as a figurehead in place of the Minister for public appearances
+[i]Advises the Minister on current affairs. Sometimes used as a figurehead in place of the Minister for public appearances
 [/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SENIOR UNDERSECRETARY TO THE MINISTER OF MAGIC[/b][/div]
-[div][i]age minimum requirement of 30-years-old
-
-Responsible for the Minister's schedule, coordination, logistics[/i][/div]
+[div][i]Responsible for the Minister's schedule, coordination, logistics[/i][/div]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]JUNIOR ASSISTANT TO THE MINISTER OF MAGIC[/b][/div]
@@ -28,7 +25,6 @@ Responsible for the Minister's schedule, coordination, logistics[/i][/div]
 [div][i]Guards the Minister and high staff. Always on the lookout for danger and a potential threat[/i][/div]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPARTMENT OF MAGICAL LAW ENFORCEMENT[/div]
 
 [i]Charged with the overall safety of the UK, the Magical Law Enforcement department is responsible for upholding the law, creating the law, and prosecuting lawbreaking.[/i]
@@ -36,7 +32,7 @@ Responsible for the Minister's schedule, coordination, logistics[/i][/div]
 [spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD OF DEPARTMENT[/b][/div]
 [i]Oversees the department, communicates with other departments and Ministry staff as necessary[/i]
-@bianca                                      [/div][div style="margin-left:10px;margin-right:10px;"]
+@bianca                                       [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DEPUTY HEAD[/b][/div]
 [i]Assists the department head as necessary[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -54,8 +50,8 @@ Responsible for the Minister's schedule, coordination, logistics[/i][/div]
 [i]Specifically focuses on muggle-targeting and baiting as well as breaches of the International Statute of Secrecy.
 
 This is a voluntary interagency group with representatives from Law Enforcement, Interpol, Foreign Aid, Magical Accidents and Catastrophes, the Wizengamot and the Minister's office, but falls under the jurisdiction of Law Enforcement.[/i]
-@bianca                                      
-@jamesp                                      [/div]
+@bianca                                       
+@jamesp                                       [/div]
 
 [div style="font-weight:bold;font:16px Georgia;"]AUROR OFFICE[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD AUROR[/b][/div]
@@ -65,7 +61,7 @@ This is a voluntary interagency group with representatives from Law Enforcement,
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUROR[/b][/div]
 [i]2 IC years of auror training
 Wizarding police. Charged with keeping the day-to-day peace in the wizarding world[/i]
-@claire                                   
+@claire                                    
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUROR TRAINER[/b][/div]
 [i]Trains the new Aurors[/i]
@@ -73,11 +69,11 @@ Wizarding police. Charged with keeping the day-to-day peace in the wizarding wor
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUROR IN TRAINING[/b][/div]
 [i]Those looking to become an Auror must first pass training[/i]
-@albus                                   
-@johanson                                   
-@luke                                   
-@lockhart                                   
-@virvatuli                                   [/div]
+@albus                                    
+@johanson                                    
+@luke                                    
+@lockhart                                    
+@virvatuli                                    [/div]
 [div style="font-weight:bold;font:16px Georgia;"]HITWIZARD OFFICE[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD HITWIZARD[/b][/div]
 [i]Oversees the rest of the hitwizards[/i]
@@ -85,13 +81,12 @@ Wizarding police. Charged with keeping the day-to-day peace in the wizarding wor
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HIT WIZARD/WITCH[/b][/div]
 [i]trained to deal with highly dangerous combat situations where death may be the only solution. High Risk, similar to SWAT[/i]
-@edward                                   
-@jamesp                                   [/div][div style="margin-left:10px;margin-right:10px;"]
+@edward                                    
+@jamesp                                    [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HIT WIZARD/WITCH IN TRAINING[/b][/div]
 [i]Those looking to become a Hit Wizard must first pass training[/i]
-@lestrange          [/div]
+@lestrange           [/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPARTMENT OF MAGICAL ACCIDENTS AND CATASTROPHIES[/div]
 
 [i]When trouble strikes, Magical Accidents and Catastrophes are on the seen. These Ministry employees often deal with covering up magical incidents, and preventing muggles from discovering the magical world.[/i]
@@ -105,7 +100,7 @@ Wizarding police. Charged with keeping the day-to-day peace in the wizarding wor
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OBLIVIATOR HEADQUARTERS[/b][/div]
 [i]Charged with obliviating muggles who witnessed magic[/i]
-@sutton                                [/div][div style="margin-left:10px;margin-right:10px;"]
+@sutton                                 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MUGGLE-WORTHY EXCUSE COMMITTEE[/b][/div]
 [i]In charge of making excuses for wizarding affairs to tell muggle politicians to keep the statue-of-secrecy.[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -119,7 +114,6 @@ Wizarding police. Charged with keeping the day-to-day peace in the wizarding wor
 [i]Someone looking to work in their field but without prior experience or training, they do all the grunt work of the department[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPARTMENT FOR THE REGULATION AND CONTROL OF MAGICAL CREATURES[/div]
 
 [i]Not just magical creatures, but all magical beings, this department is over all magical creature and being related situations.[/i]
@@ -131,10 +125,10 @@ Wizarding police. Charged with keeping the day-to-day peace in the wizarding wor
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BEAST DIVISION[/b][/div]
 [i]Responsible for the control and keeping of Magical Beasts[/i]
-@renard                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@renard                              [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BEING DIVISION[/b][/div]
 [i]Responsible for the control and keeping of Magical Beings[/i]
-@susanvictoria                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@susanvictoria                              [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SPIRIT DIVISION[/b][/div]
 [i]Responsible for the control and keeping of Magical Spirits[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -154,7 +148,6 @@ Wizarding police. Charged with keeping the day-to-day peace in the wizarding wor
 [i]Someone looking to work in their field but without prior experience or training, they do all the grunt work of the department[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]EPARTMENT OF INTERNATIONAL MAGICAL COOPERATION[/div]
 
 [i]Diplomacy and negotiations is a delicate art, in which these are the experts. They are charged with navigating the intricate world of global politics. You will also find the UK's branch of Magical Interpol's headquarters here.[/i]
@@ -168,7 +161,7 @@ Wizarding police. Charged with keeping the day-to-day peace in the wizarding wor
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERNATIONAL MAGICAL OFFICE OF LAW[/b][/div]
 [i]Works to enforce international wizarding laws[/i]
-@ondina                          [/div][div style="margin-left:10px;margin-right:10px;"]
+@ondina                           [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERNATIONAL CONFEDERATION OF WIZARDS[/b][/div]
 [i]Represents the UK at the United Nations of the Wizarding World[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -196,7 +189,7 @@ technically employed by multiple nations, magical Interpol handles international
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERNATIONAL CRIME TASK FORCE[/b][/div]
 [i]International Wizard police force, charged with Crime cases[/i]
-@anastasia                          [/div][div style="margin-left:10px;margin-right:10px;"]
+@anastasia                           [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]STATUTE OF SECRECY TASK FORCE[/b][/div]
 [i]International Wizard police force, charged with Secrecy cases[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -205,10 +198,9 @@ technically employed by multiple nations, magical Interpol handles international
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL INTERPOL TRAINEE[/b][/div]
 [i]Someone training to become a magical Interpol agent[/i]
-@elliot                        
-  @ezekiel          [/div]
+@elliot                         
+  @ezekiel           [/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPARTMENT OF MAGICAL TRANSPORTATION[/div]
 
 [i]This department regulates and controls magical transportation in the UK. Need to enter a fireplace to the floor powder network? Want to learn to apparate? Or maybe you did something stupid and got issued an international travel ban. Everything is handled here.[/i]
@@ -242,7 +234,6 @@ technically employed by multiple nations, magical Interpol handles international
 [i]Someone looking to work in their field but without prior experience or training[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPARTMENT OF MAGICAL GAMES AND SPORTS[/div]
 
 [i]The sports and games of the magical world are often dangerous and need a more official authority regulating things. This office is also charged with organizing international events such as the Quidditch World Cup.[/i]
@@ -270,7 +261,7 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LUDICROUS PATENTS OFFICE[/b][/div]
 [i]Deals with the licensing of patents for "Ludicrous" games and sports[/i]
-@jim                   
+@jim                    
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RECEPTIONIST[/b][/div]
 [i]Charged with maintaining the office and communication throughout other offices[/i]
@@ -280,7 +271,6 @@ technically employed by multiple nations, magical Interpol handles international
 [i]Someone looking to work in their field but without prior experience or training[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPARTMENT OF MYSTERIES[/div]
 
 [i]A very secretive department. The Department of Mysteries is the 'researchers' of the Ministry, and they will guard their secrets to the grave. Known as Unspeakables, Department of Mysteries employees cannot discuss their work with anyone. Not even the Minister knows everything going on down here. Those working in this department must be highly skilled and worthy of trust.[/i]
@@ -289,7 +279,7 @@ technically employed by multiple nations, magical Interpol handles international
 [div style="text-align:center;"][i]-It is highly encouraged for unspeakables to learn occlumency-[/i][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD OF DEPARTMENT[/b][/div]
 [i]Oversees the department, communicates with other departments and Ministry staff as necessary[/i]
-@asher                  
+@asher                   
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INFORMATION LIASON[/b][/div]
 [i]Has the responsibility of determining what information gets told to who[/i]
@@ -301,7 +291,7 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SPACE CHAMBER[/b][/div]
 [i]Researches space, tests the limits of space and time via magic[/i]
-@felixt                  
+@felixt                   
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DEATH CHAMBER[/b][/div]
 [i]Researches death, the fragility of human life, and cross communication beyond the veil of death[/i]
@@ -325,9 +315,8 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]	Someone looking to work in their field but without prior experience or training, they do all the grunt work of the department[/i]
-@seph          [/div]
+@seph           [/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]DEPARTMENT OF MAGICAL EDUCATION[/div]
 
 [i]Ensuring the next generation is receiving the best education possible, the Department of Magical Education regulates the OWL and NEWT exams.[/i]
@@ -335,7 +324,7 @@ technically employed by multiple nations, magical Interpol handles international
 [spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD OF DEPARTMENT[/b][/div]
 [i]Oversees the department, communicates with other departments and Ministry staff as necessary[/i]
-@keir               
+@keir                
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWL EXAMS COUNCIL[/b][/div]
 [i]Prepare the OWL exams each year, and grade them[/i]
@@ -349,7 +338,6 @@ technically employed by multiple nations, magical Interpol handles international
 [i]Someone looking to work in their field but without prior experience or training[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HUMAN RESOURCES[/div]
 
 [i]Like any good business, an HR department is necessary for the Ministry. They handle all public affairs, hiring employees, and handling Ministry complaints and situations.[/i]
@@ -368,7 +356,8 @@ technically employed by multiple nations, magical Interpol handles international
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LAWYER[/b][/div]
-[i]Acts in accordance to the Wizard Laws, represents the Ministry[/i]
+[i]2+ years training required
+Acts in accordance to the Wizard Laws, represents the Ministry[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LEGAL ASSISTANT[/b][/div]
@@ -393,13 +382,12 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LINGUIST[/b][/div]
 [i]Translators used for interviewing and other purposes, who works across all departments.[/i]
-@zephyr              
+@zephyr               
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]Someone looking to work in their field but without prior experience or training[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]MAINTENANCE &amp; SUPPLY DEPARTMENT[/div]
 
 [i]If it weren't for Maintenance and Supply, the Ministry would sink fast. These Ministry employees ensure all the other departments at the Ministry are able to do their jobs, and also have the supplies and means to do so.[/i]
@@ -427,13 +415,12 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]IT[/b][/div]
 [i]They are in charge of the electronic maintenance at the Ministry[/i]
-@leonardo             
+@leonardo              
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]Someone looking to work in their field but without prior experience or training[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]ARTIFACTS AND DEVELOPMENT DEPARTMENT[/div]
 
 [i]Artifacts and Development works hard to ensure witches and wizards are getting the best magical items possible. From patenting new inventions, to ensuring artifacts are not misused.[/i]
@@ -461,13 +448,12 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL ARTIFACTS DEVELOPMENT AND TESTING OFFICE[/b][/div]
 [i]Tests and develops new magic technology and artifacts[/i]
-@harper            
-@scorpius            [/div][div style="margin-left:10px;margin-right:10px;"]
+@harper             
+@scorpius             [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]Someone looking to work in their field but without prior experience or training[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]TREASURY DEPARTMENT[/div]
 
 [i]The Treasury controls all the funds of the Ministry. From their yearly budget, to market forecasting, if it weren't for these individuals the Ministry would be in a world of debt.[/i]
@@ -497,7 +483,6 @@ technically employed by multiple nations, magical Interpol handles international
 [i]Converts currency from Muggle to Magical and across counties[/i]
 @tag[/div]
 [/spoiler]
-
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]FOREIGN AIDS[/div]
 
 [i]Due to the mass Prison break many foreign governments have sent aid in the form of resources and agents, to assist in the rebuilding of Azkaban, and the recapture of all the escaped inmates. This office is newly formed department.[/i]
@@ -514,7 +499,7 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INVESTIGATOR[/b][/div]
 [i]Investigating the outbreak of prisoners; what caused it and how to fix it[/i]
-@alyra          
+@alyra           
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AZKABAN RESTRAINT DEVELOPER[/b][/div]
 [i]Charged with how to keep the prisoners restrained in Azkaban[/i]
@@ -530,15 +515,14 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL INTERPOL RECAPTURE UNIT[/b][/div]
 [i]Those working on the ground level to recapture inmates[/i]
-@sarah          
+@sarah           
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MACUSA AUROR CAPTAIN[/b][/div]
 [i]Head Auror from the MACUSA sent to aid with the recapture and investigation[/i]
-@colton          
+@colton           
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MACUSA AUROR[/b][/div]
 [i]Wizard Police from America[/i]
-@nottingham          [/div]
+@nottingham           [/div]
 [/spoiler]
-
 [/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
