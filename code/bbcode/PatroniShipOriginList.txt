@@ -66,7 +66,6 @@ to have a Patronus added just use this code:
 @layla                       – robin 
 @leonardo                       – greyhound
 @lily                       - St. Bernard
-@luthien                       - box jellyfish
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]M, N, O, P[/div]
 [div style="padding-left:10px;padding-right:10px;"]@maxima                      - cornish rex
@@ -187,8 +186,6 @@ CODE FOR NORTH AMERICA:
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]EUROPE[/div]
 [div style="padding-left:10px;padding-right:10px;"]
-@luthien             - Oberzeiring, [b]Austria[/b]
-
 @sienna             - brussels, [b]belgium[/b]
 
 @iliana             - kaisieva gradina, [b]bulgaria[/b]

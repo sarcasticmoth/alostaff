@@ -158,7 +158,6 @@ These are abilities that exist but aren’t permitted to be used without staff a
 @blaise    
 @elaine    
 @jacob    
-@luthien    
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]METAMORPHMAGUS[/div]
@@ -183,7 +182,6 @@ Metamorphagi have the ability to change their appearance at will. They are extre
 @dianab    
 @edward    
 @fae    
-@luthien    
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]OCCLUMENCY[/div]
