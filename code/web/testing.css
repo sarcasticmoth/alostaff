@@ -1,0 +1,11 @@
+.background1 {
+    background: url("images/main_banner.jpg");
+    height: 500px;
+    width: 950px;
+}
+.background2 {
+    background: url("images/CasKarkaroff_Jenny_Banner.png");
+    opacity: 0;
+    height: 500px;
+    width: 950px;
+}

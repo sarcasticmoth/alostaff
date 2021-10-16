@@ -50,7 +50,7 @@ option 1 2 or 3 (refer to guide above)[/code]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #000000;"]TO DROP A CHARACTER[/div]
 If you want to drop a character, just post it here, so we know, and can do all the updates/changes.
 
-When you drop a character(s) you will have to wait 5 days for each character dropped (with a maximum of 30 days) before posting a new app (finished or WIP).
+When you drop a character(s) you will have to wait 10 days before staff will accept new character.
 
 [code]@tagcharacter
 [b]Galleon amount[/b]: (how many galleons does the account have)
@@ -62,4 +62,5 @@ list threads that will be discontinued because of this drop:
 
 Vault items:
 (please list where you want any vault items assigned to this character. If you don't specify they will be moved to unassigned)[/code]
-[/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
+[/div][/td][/tr][/tbody][/table][/div][/div]
+[div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div]
