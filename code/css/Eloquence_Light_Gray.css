@@ -10,7 +10,7 @@
 @banner-text: @white; /* Banner text color */
 @decorative-font: 'Josefin Sans'; /* Large font */
 @small-font: 'Raleway'; /* Smaller text font */
-@banner-image-1: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/AddilynSlater_Vanessa_Banner.jpg'; /* 1000 pixels x 500 pixels for all four */
+@banner-image-1: 'https://i.imgur.com/niHizfl.jpg'; /* 950 pixels x 500 pixels for all four */
 @banner-image-2: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/AnastasiaKarkaroff_Vanessa_Banner.jpg';
 @banner-image-3: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/RhysGreyback_Vanessa_Banner.png';
 @banner-image-4: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/SeverusShacklebolt_RoadRoo_Banner.jpg';
@@ -22,18 +22,19 @@
 @awards-picture: 'https://i.imgur.com/IN0GQNX.jpg'; /* 50 pixels by 400 pixels */
 @nav-picture: 'https://i.imgur.com/XRePE79.jpg'; /* 300 pixels by 50 pixels */
 @credit-picture: 'https://i.imgur.com/EY9affx.jpg'; /* 500 pixels by 260 pixels */
-@event-picture: 'https://i.imgur.com/ZWwS0xa.jpg'; /* 290 pixels by 130 pixels */
-@first-staffer: 'http://placehold.it/60x60'; /* 60 x 60 for all six */
-@second-staffer: 'http://placehold.it/60x60';
-@third-staffer: 'http://placehold.it/60x60';
-@fourth-staffer: 'http://placehold.it/60x60';
-@fifth-staffer: 'http://placehold.it/60x60';
-@sixth-staffer: 'http://placehold.it/60x60';
-@first-award: 'http://placehold.it/160x100'; /* 160 x 100 for all four */
-@second-award: 'http://placehold.it/160x100';
-@third-award: 'http://placehold.it/160x100';
+@event-picture: 'https://i.imgur.com/F2RHdEy.jpg'; /* 290 pixels by 130 pixels */
+@first-staffer: 'https://i.imgur.com/b9eQFO9.png'; /* 60 x 60 for all six */
+@second-staffer: 'https://i.imgur.com/qFZ7dks.png';
+@third-staffer: 'https://i.imgur.com/qOPYhm3.png';
+@fourth-staffer: 'https://i.imgur.com/FQkt6ID.png';
+@fifth-staffer: 'https://i.imgur.com/QDxpJU0.png';
+@sixth-staffer: 'https://i.imgur.com/tF5WrIT.png';
+@first-award: 'https://i.imgur.com/6xEcfzs.png'; /* 160 x 100 for all four */
+@second-award: 'https://i.imgur.com/tY4LN2g.png';
+@third-award: 'https://i.imgur.com/VGMVsOx.png';
 @fourth-award: 'http://placehold.it/160x100';
-@default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; /* 300 pixels by 120 pixels */
+/* @default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; */
+@default-board-image: 'https://i.imgur.com/6ZqzV4U.jpg'; /* 300 pixels by 120 pixels */
 @default-miniprofile-image: 'https://i.imgur.com/iL2MzSm.jpg'; /* 250 pixels by 400 pixels */
 @default-miniprofile-smaller-image: 'https://i.imgur.com/Thxg9xq.jpg'; /* 190 pixels by 100 pixels */
 
@@ -77,7 +78,8 @@
 #credit .topper { height: 30px; text-align: center; line-height: 36px; font-family: @decorative-font; color: @gray-2; text-transform: uppercase; letter-spacing: 1px; font-size: 12px; }
 #credit .text { height: 50px; overflow: auto; font-size: 10px; line-height: 15px; text-align: justify; color: @gray-2; padding: 10px; padding-top: 0; }
 
-.pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; position: fixed; margin-left: -60px; }
+/* .pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; position: fixed; margin-left: -60px; } */
+.pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; margin-left:200px;}
 .pagefollower a { display: block; width: 24px; height: 24px; border: 1px solid @pale-gray-3; color: @gray-1; font-size: 12px; text-align: center; line-height: 24px; margin-bottom: 7px; }
 .pagefollower a:hover { color: @gray-2; border-color: @gray-1; }
 .pagefollower span { display: block; height: 1px; width: 40px; margin-left: -7px; background: @pale-gray-2; margin-bottom: 7px; }
@@ -251,6 +253,9 @@
 .mp .mp3-hover { padding: 30px 0; height: 40px; text-align: center; opacity: 0; transition: 0.5s; background: rgba(0,0,0,0.4); }
 .mp .music { cursor: pointer; display: inline-block; width: 40px; height: 40px; border-radius: 50%; background: rgba(0,0,0,0.4); text-align: center; line-height: 40px; color: @pale-gray-1; font-size: 15px; }
 .mp .smaller:hover .mp3-hover { opacity: 1; }
+.mp .played-by { background: @pale-gray-1; vertical-align: bottom; line-height: 10px; text-align: center; font-family: @small-font; font-size: 75%; text-transform: uppercase; letter-spacing: 1px; margin-top:10px; }
+.mp .personal-text { background: @pale-gray-1; vertical-align: bottom; line-height: 10px; font-family: @small-font; font-size: 75%; text-transform: uppercase; letter-spacing: 1px; margin:10px; margin-top:10px; }
+.mp .personal-text div { width: 225px; height: 1px; background: @gray-1; vertical-align: middle; display: inline-block; margin-bottom:10px; }
 
 .quick-reply .content { background: @pale-gray-1 !important; border-top: 1px solid @pale-gray-3 !important; }
 
@@ -283,7 +288,7 @@
 .profile .stats { height: 100px; width: 60%; margin: auto; }
 .profile .stats td { width: 33.3%; text-align: center; font-size: 12px; font-family: @small-font; line-height: 12px; text-transform: uppercase; letter-spacing: 1px; }
 .profile .stats span { display: block; font-family: @decorative-font; font-size: 30px; line-height: 28px; }
-.profile .fields { width: 60%; margin: auto; border-spacing: collapse; background: @pale-gray-1; }
+.profile .fields { width: 80%; margin: auto; border-spacing: collapse; background: @pale-gray-1; }
 .profile .fields td { border: 1px solid @pale-gray-3; font-family: @small-font; font-size: 12px; line-height: 40px; text-transform: uppercase; letter-spacing: 1px; }
 .profile .fields .p-icon { width: 40px; height: 40px; text-align: center; }
 .profile .p-links { text-align: center; }
@@ -357,11 +362,11 @@
 /* Required for proper functioning of the Colors & Theme Creator */
 @banner_height: 100px;
 @banner_background_color: #006CB7;
-@banner_background_image: url('@{images_path}/banners/image-default.png');
+@banner_background_image: url('https://i.imgur.com/niHizfl.jpg');
 @banner_background_position: left center;
 @banner_text_color: #FFFFFF;
 @banner_text_align: left;
-@wrapper_width: 1000px;
+@wrapper_width: 950px;
 @all_gradients: url('@{images_path}/gradients/wave.png');
 @body_background_image: none;
 
@@ -439,7 +444,7 @@
 @shadow_color: #333333;
 * { word-wrap: break-word; }
 body { background-color: @body_background_color; background-image: url(@seamless); background-attachment: @body_background_attachment; background-repeat: @body_background_repeat; background-position: @body_background_position; line-height: 1.2; color: @default_forum_text_color; font-style: @default_forum_text_font_style; font-weight: @default_forum_text_font_weight; font-size: @default_forum_text_font_size; font-family: @default_forum_text_font_family; text-decoration: @default_forum_text_decoration; text-transform: @default_forum_text_case; font-variant: @default_forum_text_caps; }
-#wrapper { width: @wrapper_width; margin: 0 auto; background: @pale-gray-1; }
+#wrapper { width: @wrapper_width; margin: 0 auto; background: @pale-gray-1; overflow-x:hidden; margin-left:290px; }
 table { table-layout: fixed; }
 a { cursor: pointer; transition: 0.3s; color: @link_color; font: @link_font; text-decoration: @link_decoration; }
 :visited { color: @link_visited_color; text-decoration: @link_visited_decoration; }
@@ -1911,5 +1916,5 @@ body:empty .ui-tabMenu ul li { height: 27px; }
 
 @images_path: '//storage.proboards.com/forum/images';
 
-/* avatars in online section */
-.info-avies .avatar_size_small img { border-radius: 100%; }
+/* avatars in online section 
+.info-avies .avatar_size_small img { border-radius: 100%; } */
