@@ -1,5 +1,5 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A367A8;"][font color="#555555"]magical[/font][font color="#A367A8"]education[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Age requirement of at least 25-years-old for all employees.
-Headmasters do not teach classes and Deputy headmasters can not be head of houses.[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - HIGH STAFF[/div]
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #8B4972;"][font color="#555555"]magical[/font][font color="#8B4972"]education[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Age requirement of at least 25-years-old for all employees.
+Headmasters do not teach classes and Deputy headmasters can not be head of houses.[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]HOGWARTS - HIGH STAFF[/div]
 
 [i]The Headmaster and heads of houses. These individuals run Hogwarts and also create any rules when necessary.[/i]
 
@@ -24,7 +24,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [div][i]in charge of Slytherin house and its students[/i][/div]@blaise            
 [/div]
 [/spoiler]
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - PROFESSORS[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]HOGWARTS - PROFESSORS[/div]
 
 [i]All the staff at Hogwarts that teaches a class. The Professors enforce the rules set forth by the High Staff and help supply the best possible education possible for their students.[/i]
 
@@ -119,7 +119,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 @tag
 [/div]
 [/spoiler]
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A367A8;"]HOGWARTS - OTHER STAFF[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]HOGWARTS - OTHER STAFF[/div]
 
 [i]Although these individuals are not professors, their roles are vital to Hogwart's operations. They support the school and students in their unique roles.[/i]
 

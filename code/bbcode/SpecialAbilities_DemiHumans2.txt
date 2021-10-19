@@ -1,4 +1,4 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A98998;"][font color="#555555"]demi[/font][font color="#A98998"]humans[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td]
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #4A7482;"][font color="#555555"]demi[/font][font color="#4A7482"]humans[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td]
 [div style="padding:10px;text-align:justify;"]All playable races are either part human, or were human at some point that are recognized by the Ministry as magical beings with magical capabilities, and thus permitted to own wands and practice magic like any witch or wizard.
 
 Some of these characteristics may differ slightly from other sites or even HP lore. We would like to avoid any one demihuman race being too powerful though, so these changes were made to bring these demihuman races into compliance with our rules. In some cases they were either watered down, or changed completely.
@@ -12,7 +12,7 @@ Some of these characteristics may differ slightly from other sites or even HP lo
 [li]Druid technically aren't demi-human but they are included here for organizational purposes[/li]
 [/ul]
 [/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]PART GIANT[/div]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]PART GIANT[/div]
 [div style="text-align:center;"]cannot be combined with legilimency[/div][div style="text-align:center;"]cannot be combined with occlumency[/div][div style="text-align:center;"]cannot play professional quidditch[/div]
 
 Part giants are tanks, with heightened strength and resistance to magic, but also have a difficult time learning how to use magic.
@@ -51,7 +51,7 @@ Because of their physical capabilities they have been banned from competing in a
 @kalju         - half
 @malcolm         - quarter
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]PART GOBLIN[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]PART GOBLIN[/div]
 [div style="text-align:center;"]cannot play professional quidditch[/div]
 
 Part goblins are magical hot springs, with endless potential. On the other hand, they are quite frail and social outcasts to both goblins and humans.
@@ -81,7 +81,7 @@ Because of how frail they are part goblins are unable to play contact sports (su
 
 @monday        
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]VAMPIRE AND PART VAMPIRE[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]VAMPIRE AND PART VAMPIRE[/div]
 [div style="text-align:center;"]full vampires cannot be students[/div][div style="text-align:center;"]full vampires cannot play profession quidditch[/div][div style="text-align:center;"]full vampires cannot be combined with any special abilities[/div]
 
 Vampires have an affinity for biting humans on their neck and sucking their blood.
@@ -170,7 +170,7 @@ Individuals less than a quarter vampire may retain a pale complexion, but they a
 @thursday         - half
 @zen         - half
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]VEELA AND PART VEELA[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]VEELA AND PART VEELA[/div]
 [div style="text-align:center;"]full vampires cannot be students[/div][div style="text-align:center;"]full vampires cannot play profession quidditch[/div][div style="text-align:center;"]full vampires cannot be combined with any special abilities[/div]
 
 Vampires have an affinity for biting humans on their neck and sucking their blood.
@@ -211,7 +211,7 @@ Like all other demi-humans Part Veelas are unable to use transfiguration magic o
 @tamatha         - half
 @victoire         - eighth
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]WEREWOLF[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WEREWOLF[/div]
 Often misunderstood, werewolves magically transform into wolves every full moon.
 
 On Alohomora werewolves can only be turned, and the trait is not hereditary. Werewolves may also receive a mating Bond with another werewolf, which is a connection deeper than love. Not every werewolf has or discovers their Bond.  
@@ -263,7 +263,7 @@ St. Mungos has also opened a clinic to assist Werewolves in obtaining the Wolfsb
 @sarah        
 @sunday        
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]DRUIDS
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DRUIDS
 
 [/div]
 Druids are witches and wizards that have deep roots to their Celtic ancestors. They are not a different "species", but instead simply practice a different way of life then modern wizardkind. Due to centuries of separation though, there are some very real difference between Druids and modern wizardkind. We will accept full blood and half blood druids for this claim. Anything less than half is too diluted to have the druid skills.

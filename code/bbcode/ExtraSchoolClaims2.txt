@@ -1,12 +1,12 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A98998;"][font color="#555555"]hogwarts[/font][font color="#A98998"]clubs[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Clubs at Hogwarts are a fun way to explore interests and get more involved! Sign up and make some friends![/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]CLUBS[/div]
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #000000;"][font color="#555555"]hogwarts[/font][font color="#000000"]clubs[/font][/div][table style="width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding:10px;"]Clubs at Hogwarts are a fun way to explore interests and get more involved! Sign up and make some friends![/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #000000;"]CLUBS[/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Anti-Bullying club[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Anti-Bullying club[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 @penelope    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Art club[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Art club[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
@@ -17,21 +17,21 @@
 @thomas    
 @phoebe    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Astronomy club[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Astronomy club[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 @evy         
 @steve    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Black Student Union[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Black Student Union[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 @catsie           
 @newt    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Charms [/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Charms [/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] @richard    
 
@@ -43,7 +43,7 @@
 @evy         
 @caillen    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Chess [/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Chess [/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b]&nbsp;@addy    
 [b]co-captain:[/b] open
 
@@ -53,13 +53,13 @@
 @addy    
 
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Chudley Cannons fan club[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Chudley Cannons fan club[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 @luna    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Dueling[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Dueling[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] @catsie    
 
@@ -69,7 +69,7 @@
 @catsie       
 @caillen    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]flying[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]flying[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] @caillen     
 
@@ -78,14 +78,14 @@
 @luna            
 @caillen    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]frog choir[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]frog choir[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 - - -
 
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Gay-Straight Alliance[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Gay-Straight Alliance[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
@@ -93,13 +93,13 @@
 @bryelle                
 @xena    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Gobstones [/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Gobstones [/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b]&nbsp;@brigh    
 [b]co-captain:[/b] open
 
 @brigh    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Herbology[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Herbology[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b]&nbsp;@newt    
 
@@ -109,7 +109,7 @@
 @newt    
 
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Knitting[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Knitting[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b]&nbsp;@maxima    
 [b]co-captain:[/b] open
 
@@ -117,19 +117,19 @@
 @selene              
 @lulu    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Magical Creatures[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Magical Creatures[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 @brody    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Muggle Football[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Muggle Football[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 - - -[/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Newspaper[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Newspaper[/b][/div]
 [div style="margin-left:10px;"][b]editor in chief:[/b] open
 [b]lead reporter:[/b] @jimmie  
 [b]head photographer:[/b]&nbsp;@raphael  
@@ -139,7 +139,7 @@
 @newt       
 @evy  [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Orchestra [/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Orchestra [/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] @catsie             
 [b]co-captain:[/b] open
 
@@ -147,27 +147,27 @@
 @catsie             
 @selene  [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Potions[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Potions[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 @bryelle  
 @zen  [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Transfiguration [/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Transfiguration [/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 
 @catsie  [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Wand club[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Wand club[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] @gideon  
 
 @gideon              
 @catsie  [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Wizard Cards collectors club[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Wizard Cards collectors club[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 [b]co-captain:[/b] open
 

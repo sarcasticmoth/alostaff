@@ -1,4 +1,4 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid rgb(58, 134, 166);"][font color="#555555"]original[/font][font color="#6D95B3"]canons[/font][/div][table style="color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding-right:10px;"][ul type="circle"]
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid rgb(58, 134, 166);"][font color="#555555"]original[/font][font color="#4A7482"]canons[/font][/div][table style="color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding-right:10px;"][ul type="circle"]
 [li]We don't include gender/gender identity. You get to decide when you make the character[/li]
 [li]If a surname is in brackets it means they are related to the father but don't have the father's surname, and the surname is open to you[/li]
 [li]These are families made by a member[/li]
@@ -9,7 +9,7 @@
 [ul type="square"]
 [li][b]A[/b] - adult[/li][li][b]S[/b] - student[/li][li][b]U[/b] - underage (not in school)[/li][li][b]*[/b] - twins[/li][li][b][d][/b] - deceased[/li][li][b][s][/s][sq][/b] - squib[s][s][/s][/s][/li][li][b][m][/b] - muggle/no-maj[/li][li][b][v][/b] - vampire[/li][li][b][g][/b] - part giant[/li][li][b][pv][/b] - part veela[/li][li][b][pg][/b] - part goblin[/li][li][b][dr][/b] - druid[/li][li][strike]unavailable/underage[/strike][/li][/ul][/blockquote][/blockquote][/div]
 [/td][/tr][tr][td]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]BAINBRIDGE[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]BAINBRIDGE[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=NPC" style="max-width:100px;"]
 [b]eoin banbridge[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=NPC"]
 [b]raisa bainbridge[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -30,7 +30,7 @@ persephone ___ BAINBRIDGE
 * S/7th[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]
 [a href="https://alohomorax0.proboards.com/thread/6539/colins-wants-everybody-3-available"]SEE WANT AD[/a][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]BLISHWICK[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]BLISHWICK[/div][div align="center"]
 [i]related to all other blishwick families[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:bottom;"][td][table style="width:100%;"][tbody][tr style="vertical-align:bottom;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/j7wcyOd.png"]
@@ -81,7 +81,7 @@ S/5TH[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @colin
 
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]BURKE[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]BURKE[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]caradoc burke[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]helena burke[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/TRn8QJC.png" style="max-width:100px;"]
@@ -92,7 +92,7 @@ A/GRAD 2016[/div][/td][td][div][img src="https://i.imgur.com/iqs495s.png" style=
 @hazel                                                      
 A/GRAD 2017[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @thevanessa                                                     , @ana                                                     , @jenny                                                     [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]COURTEMANCE[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]COURTEMANCE[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]gregory courtemance[/b][/td][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]adriana courtemance[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/L4Ue17q.png"]
@@ -103,7 +103,7 @@ A/GRAD 2020[/div][/td][td][div][img src="https://i.imgur.com/XBsehVv.png" style=
 @alix                                                   
 A/GRAD 2021[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @sephy                                                   [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]DE LAPIN[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DE LAPIN[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]hugo de lapin[/b][/div][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]louise de lapin[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/JMuKJ4j.png"]
@@ -112,7 +112,7 @@ A/GRAD 2016[/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff
 @tag
 S/6TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @sora                                                 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]DE SNAIJER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DE SNAIJER[/div][div align="center"]
 [i]from the usa[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -126,7 +126,7 @@ ___ ___ DE SNAIJER
 * S/5TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]DUBOIS[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DUBOIS[/div][div align="center"]
 [i]from usa[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -140,7 +140,7 @@ ___ ___ DUBOIS
 * S/5TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]KARKAROFF[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]KARKAROFF[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:415px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] oskar karkaroff[/b][/div][/td][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=NPC" style="max-width:100px;"]
 [b]tesia karkaroff[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/Hs6fiNw.png" style="max-width:100px;"]
@@ -154,7 +154,7 @@ A/GRAD 2015[/div][/td][td][div][img src="https://i.imgur.com/CF1fNfo.png" style=
 A/GRAD 2018[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @jenny        
 [a href="https://alohomorax0.proboards.com/thread/10953/jennys-wanted-2-available"]SEE WANT AD[/a][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]KOWALSKI[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]KOWALSKI[/div][div align="center"]
 [i]from new york[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -168,7 +168,7 @@ ___ ___ KOWALSKI
 S/5TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]KROK[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]KROK[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]olav krok[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]hilde krok[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/cFLayyF.png" style="max-width:100px;"]
@@ -179,7 +179,7 @@ A/GRAD 2015[/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" 
 tove ___ KROK[/div]A/GRAD 2021[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @sora        
 [a href="https://alohomorax0.proboards.com/thread/10807/soras-psychotic-wants-12-available"]SEE WANT AD[/a][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]MAHI'AI[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]MAHI'AI[/div][div align="center"]
 [i]from usa[/i]
 
 [table style="text-align:center;font:12px;max-width:415px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -194,7 +194,7 @@ U/10[/strike][/div][/td][td][div][img style="max-width:100px;" src="https://via.
 [strike]___ ___ MAHI'AI
 U/7[/strike][/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][a href="https://alohomorax0.proboards.com/thread/7133/ohana-4"]SEE WANT AD[/a][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]MCCOY
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]MCCOY
 [/div][div align="center"]
 [i]from usa[/i]
 
@@ -211,7 +211,7 @@ S/4TH[/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" 
 U/2ND[/strike][/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]MOSTAFA[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]MOSTAFA[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]balraj mostafa[/b][/div][/td][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] astrid ivanova[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -219,7 +219,7 @@ ___ ___ MOSTAFA
 A/GRAD 2011[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]OLIVEIRA[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]OLIVEIRA[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b][w] deran oliveira[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b][w] stella oliveira[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
@@ -235,7 +235,7 @@ A/GRAD 2022[/div][/td][td][div][img style="max-width:100px;" src="https://i.imgu
 S/6TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]OLLIVANDER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]OLLIVANDER[/div][div align="center"]
 [i]related to all ollivander families[/i]
 
 [table style="text-align:center;font:12px;max-width:415px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -258,7 +258,7 @@ A/GRAD 2022[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @chane
 S/5TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @chanel                         and @colin       
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]ROSIER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ROSIER[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]eustace rosier[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]agrippina rosier[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -274,7 +274,7 @@ ___ ___ (née ROSIER)
 A/GRAD 2018[/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/hiBIyP5.png"]
 @priscilla                       [/div]A/EXPELLED 2025[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @audrey                      [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]SELWYN[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]SELWYN[/div][div align="center"]
 [i]related to all selwyn families[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
@@ -296,7 +296,7 @@ CREE ___ SELWYN
 [a href="https://alohomorax0.proboards.com/thread/8903/rissy-wants-gets"]SEE WANT AD[/a]
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]SLATER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]SLATER[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]tim slater[/b][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]shela slater[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/bL8o1vx.png" style="max-width:100px;"]
@@ -308,14 +308,14 @@ A/GRAD 2024[/div][/td][td][div][img src="https://i.imgur.com/miy749X.png" style=
 S/7TH[/div]
 [/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @colin                   [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]TRAVERS[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]TRAVERS[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]lorcan travers[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]lisanne travers[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/SqbBviR.jpg" style="max-width:100px;"]
 @luka    
 A/GRAD 2010[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @sephy   [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]TRELAWNEY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]TRELAWNEY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]silas trelawney[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]asteria trelawney[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -330,7 +330,7 @@ A/GRAD 2025[/div][/td][td][div][img src="https://i.imgur.com/pxWqtQm.png" style=
 ___ ___ TRELAWNEY
 * S/3RD[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @ana                 , @sephy                 , @sophi                 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]VECTOR[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]VECTOR[/div][div align="center"]
 [i]related to smith and vector families[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
@@ -366,7 +366,7 @@ LEONHARD ___ VECTOR
 * S/4TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @thevanessa              &amp; COLIN
 [/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]YAXLEY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]YAXLEY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]helius yaxley[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]seychelle volant[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -379,7 +379,7 @@ A/GRAD 2014[/div]
 [/td][/tr][/tbody][/table][/td][/tr][/tbody][/table]CREATED BY @sophi        
 [a href="https://alohomorax0.proboards.com/thread/9585/sophis-wants-11-available"]SEE WANT AD[/a][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]WINDSOR[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WINDSOR[/div][div align="center"]
 [i]muggle UK royalty[/i]
 
 [table style="text-align:center;font:12px;max-width:415px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]

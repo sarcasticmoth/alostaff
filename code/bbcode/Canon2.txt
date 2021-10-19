@@ -1,4 +1,4 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid rgb(58, 134, 166);"][font color="#555555"]next[/font][font color="#6D95B3"]generation[/font][/div][table style="color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding-right:10px;"][ul type="circle"]
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid rgb(58, 134, 166);"][font color="#555555"]next[/font][font color="#4A7482"]generation[/font][/div][table style="color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:justify;padding-right:10px;"][ul type="circle"]
 [li]We don't include gender/gender identity. You get to decide when you make the character[/li]
 [li]If a surname is in brackets it means they are related to the father but don't have the father's surname, and the surname is open to you[/li]
 [li]The first maker of a family can decide the current situation with the parents (if the parents aren't played). You can decide if they are alive and married, divorced, separated, never married, one is dead, both are dead, etc[/li]
@@ -8,7 +8,7 @@
 [blockquote][blockquote]KEY:
 [ul type="square"]
 [li][b]A[/b] - adult[/li][li][b]S[/b] - student[/li][li][b]U[/b] - underage (not in school)[/li][li][b]*[/b] - twins[/li][li][b][d][/b] - deceased[/li][li][b][s][/s][sq][/b] - squib[s][s][/s][/s][/li][li][b][m][/b] - muggle/no-maj[/li][li][b][v][/b] - vampire[/li][li][b][g][/b] - part giant[/li][li][b][pv][/b] - part veela[/li][li][b][pg][/b] - part goblin[/li][li][b][dr][/b] - druid[/li][li][strike]unavailable/underage[/strike][/li][/ul][/blockquote][/blockquote][/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]ACKERLY[/div][div align="center"]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ACKERLY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]stewart ackerly[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]lisa turpin[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -19,7 +19,7 @@ S/6TH[/div][/td][td][img src="https://via.placeholder.com/100x100/525252/EBEBEB/
 [strike]___ ___ ACKERLY
 S/3RD[/strike][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]BELBY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]BELBY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]marcus belby[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]susan bones[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -28,7 +28,7 @@ A/GRAD 2025[/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff
 ___ ___ BELBY
 S/6TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]CAULDWELL[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]CAULDWELL[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]owen cauldwell[/b][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]eloise midgen[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -39,7 +39,7 @@ S/2ND[/strike][/td][td][div][img style="max-width:100px;" src="https://via.place
 [strike]___ ___ CAULDWELL
 U/10[/strike][/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]CORNER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]CORNER[/div][div align="center"]
 [i]divorced
 part asian family[/i]
 
@@ -53,7 +53,7 @@ S/7TH[/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style=
 ___ ___ CORNER
 S/4TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]CREEVEY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]CREEVEY[/div][div align="center"]
 [i]related to (bill and fleur) weasley family[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -64,7 +64,7 @@ ___ ___ CREEVEY
 ___ ___ CREEVEY
 [pv] S/5TH[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]DAVIES[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DAVIES[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]roger davies[/b][/div][/td][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]penelope clearwater[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -75,7 +75,7 @@ S/5TH[/td][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/0
 [strike]___ ___ DAVIES
 S/3RD[/strike][/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]FINCH-FLETCHLEY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]FINCH-FLETCHLEY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]justin finch-fletchley[/b][/div][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]laura madley[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -84,7 +84,7 @@ A/GRAD 2025[/td][td][img src="https://via.placeholder.com/100/09f/fff.png" style
 ___ ___ FINCH-FLETCHLEY
 S/6TH[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]FINNIGAN[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]FINNIGAN[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]seamus finnigan[/b][/div][/td][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]lavender brown[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -93,7 +93,7 @@ A/GRAD 2024[/div][/td][td][img style="max-width:100px;" src="https://via.placeho
 ___ ___ FINNIGAN
 S/6TH[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]FLINT[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]FLINT[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] marcus flint[/b][/td][td][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] pansy parkinson[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img style="max-width:100px;" src="https://i.imgur.com/RPJHV5h.png"]
@@ -102,7 +102,7 @@ A/GRAD 2023[/td][td][img style="max-width:100px;" src="https://via.placeholder.c
 ___ ___ FLINT
 A/GRAD 2025[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]FORTESCUE[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]FORTESCUE[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] florean fortescue jr[/b][/div][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]abigail scott[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://i.imgur.com/2LCFuaG.png" style="max-width:100px;"]
@@ -113,7 +113,7 @@ A/GRAD 2018[/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/
 @felix                                                                 
 A/GRAD 2025[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]GOLDSTEIN[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]GOLDSTEIN[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]anthony goldstein[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]marietta edgecomb[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -122,7 +122,7 @@ S/4TH[/div][/td][td][div][img src="https://via.placeholder.com/100x100/525252/EB
 [strike]___ ___ GOLDSTEIN
 S/3RD[/strike][/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]GOYLE[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]GOYLE[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]gregory goyle[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]millicent bulstrode[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/ApSIY4M.png" style="max-width:100px;"]
@@ -131,7 +131,7 @@ A/GRAD 2021[/div][/td][td][div][img style="max-width:100px;" src="https://i.imgu
 @bryelle                                                          
 S/7TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]GREYBACK[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]GREYBACK[/div][div align="center"]
 [i]can be half of any racial background &amp; any surname[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -159,7 +159,7 @@ S/7TH[/div][/td][td][div][img src="https://i.imgur.com/sofaZkS.png" style="max-w
 [dr] S/14[/div]
 [/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]HAGRID[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]HAGRID[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [g] rubeus hagrid[/div][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 olympe maxime[/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/SnXhVsC.png"]
@@ -168,7 +168,7 @@ olympe maxime[/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"
 ___ ___ HAGRID
 [g] S/6TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]HIGGS[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]HIGGS[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]terence higgs[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]romilda vane[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -177,7 +177,7 @@ S/6TH[/div][/td][td][img src="https://via.placeholder.com/100/09f/fff.png" style
 ___ ___ HIGGS
 S/5TH[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]HOOPER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]HOOPER[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]geoffrey hooper[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]vickey frobisher[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -189,7 +189,7 @@ ___ ___ HOOPER
 S/5TH
 [/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]KRUM[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]KRUM[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:415px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]viktor krum[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]elena eldritch[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -204,7 +204,7 @@ A/GRAD 2025[/div]
 S/7th[/div]
 [/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]LESTRANGE[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]LESTRANGE[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] rabastan lestrange[/b][/td][td][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] morgana black[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/pxwFKMo.png" style="max-width:100px;"]
@@ -215,7 +215,7 @@ A/GRAD 2023[/div][/td][td][div][img style="max-width:100px;" src="https://i.imgu
 @lestrange                                          
 A/GRAD 2024[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]LONGBOTTOM[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]LONGBOTTOM[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]neville longbottom[/b][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]hannah abbott[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
@@ -227,14 +227,14 @@ ___ ___ LONGBOTTOM
 A/GRAD 2025[/div]
 [/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]LUPIN[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]LUPIN[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED"]
 [b][d] remus lupin[/b][/div][/td][td][div][img src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED" style="max-width:100px;"]
 [b][d] nymphadora tonks[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://i.imgur.com/J2CIhxX.png" style="max-width:100px;"]
 @edward 
 A/GRAD 2016[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]MALFOY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]MALFOY[/div][div align="center"]
 [i]related to the Zabini Family[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -243,7 +243,7 @@ A/GRAD 2016[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 @scorpius 
 A/GRAD 2024[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]MCLAGGEN[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]MCLAGGEN[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]cormac mclaggen[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]mandy brocklehurst[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/XoOFCTo.png" style="max-width:100px;"]
@@ -254,7 +254,7 @@ A/GRAD 2025[/div][/td][td][div][img src="https://i.imgur.com/WbfdpLB.png" style=
 @raphael                                    
 S/7TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]MACMILLAN[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]MACMILLAN[/div][div align="center"]
 [i]divorced
 part indian family[/i]
 
@@ -276,7 +276,7 @@ related to (marcus and pansy) flint family and (ernest and parvati) macmillan fa
 @rusti                                  
 * A/GRAD 2024[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]POTTER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]POTTER[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/x0XL5iP.png" style="max-width:100px;"]
 @harry                                 [/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]ginerva molly weasley[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/gSYdswb.png" style="max-width:100px;"]
@@ -287,7 +287,7 @@ A/GRAD 2024[/div][/td][td][div][img style="max-width:100px;" src="https://i.imgu
 @lily                                
 [w] S/7TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]PRITCHARD[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]PRITCHARD[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]graham pritchard[/b][/div][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]sally-anne perks[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -296,7 +296,7 @@ S/4TH[/div][/td][td][img src="https://via.placeholder.com/100x100/525252/EBEBEB/
 [strike]___ ___ PRITCHARD
 S/3RD[/strike][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]PUCEY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]PUCEY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]adrian pucey[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]patricia stimpsom[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -307,7 +307,7 @@ S/5TH[/div][/td][td][div][img src="https://via.placeholder.com/100x100/525252/EB
 [strike]___ ___ PUCEY
 S/1ST[/strike][/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]SANDERS[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]SANDERS[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]richard sanders[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]orla quircke[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -318,7 +318,7 @@ ___ ___ SANDERS
 ___ ___ SANDERS
 S/6TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]SCAMANDER[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]SCAMANDER[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]rolf scamander[/b][/div][/td][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]luna lovegood[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -327,7 +327,7 @@ lorcan ___ SCAMANDER
 lysander ___ SCAMANDER
 * A/GRAD 2024[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]SHACKLEBOLT[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]SHACKLEBOLT[/div][div align="center"]
 [i]part black[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100x100/525252/EBEBEB/09f/fff.png?text=DECEASED"]
@@ -340,14 +340,14 @@ abigail elliot SHACKLEBOLT
 @gabrielle                           
 * A/GRAD 2023[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]SMITH[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]SMITH[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]zacharias smith[/b][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]eleanor branstone[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://i.imgur.com/vCE77XO.png" style="max-width:100px;"]
 @cordelia                        
 A/GRAD 2024[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]THOMAS[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]THOMAS[/div][div align="center"]
 [i]part black and part indian family[/i]
 
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -358,7 +358,7 @@ A/GRAD 2024[/div][/td][td][img style="max-width:100px;" src="https://via.placeho
 ___ ___ THOMAS
 S/6TH[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]WEASLEY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WEASLEY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]bill weasley[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b][pv] fleur delacour[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/76Lut3y.png" style="max-width:100px;"]
@@ -406,21 +406,21 @@ A/GRAD 2024[/div][/td][td][img style="max-width:100px;" src="https://via.placeho
 hugo ___ WEASLEY
 A/GRAD 2025[/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]WILLIAMS[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WILLIAMS[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]stuart williams[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]cho chang[/b][/div][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/hCQzCfe.png"]
 @rosie                      
 A/GRAD 2024[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]WOOD[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WOOD[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]oliver wood[/b][/div][/td][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 [b]katie bell[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 ___ ___ WOOD
 S/7TH[/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]WHITBY[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WHITBY[/div][div align="center"]
 [table style="text-align:center;font:12px;max-width:315px;"][tbody][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]kevin whitby[/b][/td][td][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 [b]rose zeller[/b][/td][/tr][/tbody][/table][/td][/tr][tr style="vertical-align:top;"][td][table style="width:100%;"][tbody][tr style="vertical-align:top;"][td][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
@@ -431,7 +431,7 @@ S/5TH[/div][/td][td][div][img src="https://via.placeholder.com/100x100/525252/EB
 [strike]___ ___ WHITBY
 S/3RD[/strike][/div][/td][/tr][/tbody][/table][/td][/tr][/tbody][/table][/div][/div]
 
-[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6D95B3;"]ZABINI[/div][div align="center"]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ZABINI[/div][div align="center"]
 [i]part black family
 related to malfoy family[/i]
 
