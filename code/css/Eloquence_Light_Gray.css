@@ -11,11 +11,37 @@
 @decorative-font: 'Josefin Sans'; /* Large font */
 @small-font: 'Raleway'; /* Smaller text font */
 @banner-image-1: 'https://i.imgur.com/niHizfl.jpg'; /* 950 pixels x 500 pixels for all four */
-@banner-image-2: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/AnastasiaKarkaroff_Vanessa_Banner.jpg';
-@banner-image-3: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/RhysGreyback_Vanessa_Banner.png';
-@banner-image-4: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/SeverusShacklebolt_RoadRoo_Banner.jpg';
-@banner-image-5: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/VasiliaFortescue_Sora_Banner.jpg';
-@banner-image-6: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/memberbanners/XanthaWillowmoore_Seph_Banner.jpg';
+/* member banners */
+@banner-image-2: 'https://i.imgur.com/sNvZ3Df.png'; /* aaron - matthew */
+@banner-image-3: 'https://i.imgur.com/gXa6CDf.png'; /* ali - rosie */
+@banner-image-4: 'https://i.imgur.com/P63oaBZ.png'; /* allie - catariara */
+@banner-image-5: 'https://i.imgur.com/Bkxdt0o.png'; /* ana - rob */
+@banner-image-6: 'https://i.imgur.com/6j6S49C.png'; /* audrey - parvati */
+@banner-image-7: 'https://i.imgur.com/cm45RII.png'; /* bird - julian */
+@banner-image-8: 'https://i.imgur.com/JRaVOht.png'; /* chanel - claire */
+@banner-image-9: 'https://i.imgur.com/78VBsqC.png'; /* colin - lily */
+@banner-image-10: 'https://i.imgur.com/rXJ2J8m.png'; /* dez - simon */
+@banner-image-11: 'https://i.imgur.com/YBwIHvs.png'; /* dez - lulu */
+@banner-image-12: 'https://i.imgur.com/eWuw7uG.png'; /* dra - rian */
+@banner-image-13: 'https://i.imgur.com/XJEwwHC.png'; /* eve - adelaide */
+@banner-image-14: 'https://i.imgur.com/BSiFzPE.png'; /* haise - rue */
+@banner-image-15: 'https://i.imgur.com/hpbXWaF.png'; /* jenny - cas */
+@banner-image-16: 'https://i.imgur.com/1LDmv7g.png'; /* lisa - elaine */
+@banner-image-17: 'https://i.imgur.com/TRkfxXR.png'; /* pollo - samuel */
+@banner-image-18: 'https://i.imgur.com/1O8UUt4.png'; /* roo - severus */
+@banner-image-19: 'https://i.imgur.com/Lmx1R9E.png'; /* seph - xantha */
+@banner-image-20: 'https://i.imgur.com/RQUZ6Ee.png'; /* shadow - teddy */
+@banner-image-21: 'https://i.imgur.com/EJZAxWH.png'; /* sophi - thursday */
+@banner-image-22: 'https://i.imgur.com/spfUBSh.jpg'; /* sora - vasilia */
+@banner-image-23: 'https://i.imgur.com/O78kRcf.png'; /* suzie - victoire */
+@banner-image-24: 'https://i.imgur.com/9MNBOD9.png'; /* tj - gilderoy */
+@banner-image-25: 'https://i.imgur.com/BHFiXDr.png'; /* vanessa - rhys */
+@banner-image-26: 'https://i.imgur.com/l0zZ0z2.png'; /* vanessa - addy */
+@banner-image-27: 'https://i.imgur.com/AM2dlMc.png'; /* vanessa - anastasia */
+/* combined */
+@banner-image-28: 'https://i.imgur.com/ee8LE4c.png'; /* ana & jenny - brigh & aiden */
+@banner-image-29: 'https://i.imgur.com/OrO3mtr.png'; /* lisa & ana - felix & ophelia */
+/* end member banners */
 @seamless: 'http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg'; /* Please make this a seamless aka tileable picture */
 @about-picture: 'https://i.imgur.com/aV8Ax0v.jpg'; /* 350 pixels by 250 pixels */
 @staff-picture: 'https://i.imgur.com/nuBTF2J.jpg'; /* 700 pixels by 100 pixels */
@@ -29,9 +55,9 @@
 @fourth-staffer: 'https://i.imgur.com/FQkt6ID.png';
 @fifth-staffer: 'https://i.imgur.com/QDxpJU0.png';
 @sixth-staffer: 'https://i.imgur.com/tF5WrIT.png';
-@first-award: 'https://i.imgur.com/6xEcfzs.png'; /* 160 x 100 for all four */
-@second-award: 'https://i.imgur.com/tY4LN2g.png';
-@third-award: 'https://i.imgur.com/VGMVsOx.png';
+@first-award: 'https://i.imgur.com/FYp1fIr.jpg'; /* 160 x 100 MOTM */
+@second-award: 'http://placehold.it/160x100'; /* 160 x 100 TOTM */
+@third-award: 'https://i.imgur.com/W9eflbp.jpg'; /* 160 x 100 COTM */
 @fourth-award: 'http://placehold.it/160x100';
 /* @default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; */
 @default-board-image: 'https://i.imgur.com/6ZqzV4U.jpg'; /* 300 pixels by 120 pixels */
@@ -60,7 +86,7 @@
 #awards { width: 500px; height: 400px; padding-left: 100px; background: @pale-gray-1; position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 10000; display: none; box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.4); }
 #awards .picture { width: 50px; height: 400px; background-image: url(@awards-picture); background-size: cover; background-position: center; float: left; margin-left: -50px; }
 #awards table { width: 100%; border-spacing: 30px; height: 100%; border-collapse: separate; }
-#awards .awardee { width: 180px; height: 30px; background: @pale-gray-2; font-family: @decorative-font; font-size: 12px; line-height: 36px; text-align: center; color: @gray-2; text-transform: uppercase; border-bottom: 1px solid @pale-gray-3; margin: auto; }
+#awards .awardee { width: 180px; height: 30px; background: @pale-gray-2; font-family: @decorative-font; font-size: 10px; line-height: 36px; text-align: center; color: @gray-2; text-transform: uppercase; border-bottom: 1px solid @pale-gray-3; margin: auto; }
 #awards a { display: block; width: 160px; height: 100px; border: 10px solid @pale-gray-2; margin: auto; }
 #awards .award-1 { background-image: url(@first-award); background-size: cover; background-position: center; }
 #awards .award-2 { background-image: url(@second-award); background-size: cover; background-position: center; }
@@ -79,7 +105,7 @@
 #credit .text { height: 50px; overflow: auto; font-size: 10px; line-height: 15px; text-align: justify; color: @gray-2; padding: 10px; padding-top: 0; }
 
 /* .pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; position: fixed; margin-left: -60px; } */
-.pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; margin-left:200px;}
+.pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; margin-left:220px;}
 .pagefollower a { display: block; width: 24px; height: 24px; border: 1px solid @pale-gray-3; color: @gray-1; font-size: 12px; text-align: center; line-height: 24px; margin-bottom: 7px; }
 .pagefollower a:hover { color: @gray-2; border-color: @gray-1; }
 .pagefollower span { display: block; height: 1px; width: 40px; margin-left: -7px; background: @pale-gray-2; margin-bottom: 7px; }
@@ -91,12 +117,35 @@
 .p-banner .background4 { opacity: 0; height: 500px; background: url(@banner-image-4); }
 .p-banner .background5 { opacity: 0; height: 500px; background: url(@banner-image-5); }
 .p-banner .background6 { opacity: 0; height: 500px; background: url(@banner-image-6); }
+.p-banner .background7 { opacity: 0; height: 500px; background: url(@banner-image-7); }
+.p-banner .background8 { opacity: 0; height: 500px; background: url(@banner-image-8); }
+.p-banner .background9 { opacity: 0; height: 500px; background: url(@banner-image-9); }
+.p-banner .background10 { opacity: 0; height: 500px; background: url(@banner-image-10); }
+.p-banner .background11 { opacity: 0; height: 500px; background: url(@banner-image-11); }
+.p-banner .background12 { opacity: 0; height: 500px; background: url(@banner-image-12); }
+.p-banner .background13 { opacity: 0; height: 500px; background: url(@banner-image-13); }
+.p-banner .background14 { opacity: 0; height: 500px; background: url(@banner-image-14); }
+.p-banner .background15 { opacity: 0; height: 500px; background: url(@banner-image-15); }
+.p-banner .background16 { opacity: 0; height: 500px; background: url(@banner-image-16); }
+.p-banner .background17 { opacity: 0; height: 500px; background: url(@banner-image-17); }
+.p-banner .background18 { opacity: 0; height: 500px; background: url(@banner-image-18); }
+.p-banner .background19 { opacity: 0; height: 500px; background: url(@banner-image-19); }
+.p-banner .background20 { opacity: 0; height: 500px; background: url(@banner-image-20); }
+.p-banner .background21 { opacity: 0; height: 500px; background: url(@banner-image-21); }
+.p-banner .background22 { opacity: 0; height: 500px; background: url(@banner-image-22); }
+.p-banner .background23 { opacity: 0; height: 500px; background: url(@banner-image-23); }
+.p-banner .background24 { opacity: 0; height: 500px; background: url(@banner-image-24); }
+.p-banner .background25 { opacity: 0; height: 500px; background: url(@banner-image-25); }
+.p-banner .background26 { opacity: 0; height: 500px; background: url(@banner-image-26); }
+.p-banner .background27 { opacity: 0; height: 500px; background: url(@banner-image-27); }
+.p-banner .background28 { opacity: 0; height: 500px; background: url(@banner-image-28); }
+.p-banner .background29 { opacity: 0; height: 500px; background: url(@banner-image-29); }
 .p-banner .title-text { line-height: 60px; padding-top: 190px; margin-top: -500px; position: relative; z-index: 2; text-align: center; font-family: @decorative-font; color: @banner-text; text-transform: uppercase; letter-spacing: 3px; font-size: 60px; text-shadow: 0px 0px 3px rgba(0,0,0,0.6); }
 .p-banner .subtitle { height: 30px; line-height: 30px; font-size: 14px; font-weight: bold; font-family: @small-font; letter-spacing: 1px; text-shadow: 0px 0px 2px rgba(0,0,0,0.6); text-transform: uppercase; }
 .p-banner .modals { height: 22px; text-align: center; line-height: 22px; word-spacing: -2px; margin-top: -10px; }
 .p-banner .modals a { display: inline-block; background: @pale-gray-1; color: @gray-2; text-transform: uppercase; letter-spacing: 2px; font-family: @small-font !important; font-size: 10px !important; border: 1px solid @gray-1; height: 20px; line-height: 22px; padding: 0 5px; text-shadow: none; }
 .p-banner .modals a:hover { background: @pale-gray-3; }
-.p-banner .links { margin-top: 179px; text-align: center; position: relative; z-index: 2; word-spacing: 20px; }
+.p-banner .links { margin-top: 200px; text-align: center; position: relative; z-index: 2; word-spacing: 20px; }
 .p-banner .links a { display: inline-block !important; width: 60px !important; height: 40px !important; background: @pale-gray-1 !important; border: none !important; border-radius: 30px 30px 0px 0px !important; font-family: @decorative-font !important; font-size: 15px !important; line-height: 60px !important; text-align: center !important; padding: 0 !important; margin: 0 !important; float: none !important; color: @gray-1; }
 .p-banner .links a:hover { color: @blue-2; }
 .p-banner .links .alert { color: @blue-2; }
@@ -112,6 +161,8 @@
 
 .affiliates { background: @pale-gray-2; border: 1px solid @pale-gray-3; border-left: none; border-right: none; padding: 10px 0; text-align: center; line-height: 0; word-spacing: 10px; }
 .affiliates a { display: inline-block; width: 88px; height: 31px; border: 3px solid @pale-gray-3; background-size: cover; background-position: center; }
+.affiliates p { padding-top:5px; padding-bottom:5px; }
+.affiliates .content { height: 22px; padding: 9px 0; background: @pale-gray-2; border: 1px solid @pale-gray-3; text-align: center; font-family: @small-font; font-size: 15px; line-height: 22px; text-transform: uppercase; letter-spacing: 1px; margin: 15px; }
 
 .cbox { height: 250px; border: 1px solid @pale-gray-3; border-top: none; margin: 0 45px; margin-bottom: 45px; background: @pale-gray-2; padding: 15px; }
 
@@ -444,7 +495,7 @@
 @shadow_color: #333333;
 * { word-wrap: break-word; }
 body { background-color: @body_background_color; background-image: url(@seamless); background-attachment: @body_background_attachment; background-repeat: @body_background_repeat; background-position: @body_background_position; line-height: 1.2; color: @default_forum_text_color; font-style: @default_forum_text_font_style; font-weight: @default_forum_text_font_weight; font-size: @default_forum_text_font_size; font-family: @default_forum_text_font_family; text-decoration: @default_forum_text_decoration; text-transform: @default_forum_text_case; font-variant: @default_forum_text_caps; }
-#wrapper { width: @wrapper_width; margin: 0 auto; background: @pale-gray-1; overflow-x:hidden; margin-left:290px; }
+#wrapper { width: @wrapper_width; margin: 0 auto; background: @pale-gray-1; overflow-x:hidden; margin-left:300px; }
 table { table-layout: fixed; }
 a { cursor: pointer; transition: 0.3s; color: @link_color; font: @link_font; text-decoration: @link_decoration; }
 :visited { color: @link_visited_color; text-decoration: @link_visited_decoration; }
@@ -610,7 +661,7 @@ a#logo:hover { color: @banner_text_color !important; text-decoration: @banner_te
 @nav_tree_hover_background_color: @pale-gray-1;
 .recent-threads-button, #navigation-tree { color: @nav_tree_color; border-width: @nav_tree_border_width; border-style: @nav_tree_border_style; border-color: @nav_tree_border_color; background: @nav_tree_background_color; margin-bottom: 10px; height: 20px; .rounded-corners(@nav_tree_border_radius); }
 .recent-threads-button.new .new-icon { display: inline-block; }
-#navigation-tree { overflow: hidden; margin-top: 30px; border-left: none; border-right: none; }
+#navigation-tree { overflow: hidden; margin-top: 30px; border-left: none; border-right: none; margin-top: 35px; }
 #nav-tree { white-space: nowrap; }
 .popup_html { position: absolute; top: 0; left: 0; z-index: 999999; }
 #nav-tree ul { display: none; list-style-type: none; border-width: @nav_tree_border_width; border-style: @nav_tree_border_style; border-color: @nav_tree_border_color; background-color: @nav_tree_background_color; .box-shadow(); }
