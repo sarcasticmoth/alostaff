@@ -42,7 +42,7 @@
 @banner-image-28: 'https://i.imgur.com/ee8LE4c.png'; /* ana & jenny - brigh & aiden */
 @banner-image-29: 'https://i.imgur.com/OrO3mtr.png'; /* lisa & ana - felix & ophelia */
 /* end member banners */
-@seamless: 'http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg'; /* Please make this a seamless aka tileable picture */
+@seamless: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/background/dark/debut_dark.png'; /* Please make this a seamless aka tileable picture */
 @about-picture: 'https://i.imgur.com/aV8Ax0v.jpg'; /* 350 pixels by 250 pixels */
 @staff-picture: 'https://i.imgur.com/nuBTF2J.jpg'; /* 700 pixels by 100 pixels */
 @awards-picture: 'https://i.imgur.com/IN0GQNX.jpg'; /* 50 pixels by 400 pixels */
@@ -60,8 +60,8 @@
 @third-award: 'https://i.imgur.com/W9eflbp.jpg'; /* 160 x 100 COTM */
 @fourth-award: 'http://placehold.it/160x100';
 /* @default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; */
-@default-board-image: 'https://i.imgur.com/6ZqzV4U.jpg'; /* 300 pixels by 120 pixels */
-@default-miniprofile-image: 'https://i.imgur.com/iL2MzSm.jpg'; /* 250 pixels by 400 pixels */
+@default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; /* 300 pixels by 120 pixels */
+@default-miniprofile-image: 'https://raw.githubusercontent.com/sarcasticmoth/alostaff/master/images/defaults/mini_profile_default_dark.jpg'; /* 250 pixels by 400 pixels */
 @default-miniprofile-smaller-image: 'https://i.imgur.com/Thxg9xq.jpg'; /* 190 pixels by 100 pixels */
 
 /* Punki's Styles */
@@ -158,10 +158,10 @@
 .dashboard .welcometext { height: 30px; line-height: 30px; text-indent: 30px; text-transform: uppercase; font-family: @small-font; font-size: 12px; letter-spacing: 1px; }
 .dashboard .updates { padding-left: 15px; height: 110px; overflow: auto; font-size: 10px; line-height: 15px; text-align: justify; }
 
-.affiliates { background: @pale-gray-2; border: 1px solid @pale-gray-3; border-left: none; border-right: none; padding: 10px 0; text-align: center; line-height: 0; word-spacing: 10px; }
-.affiliates a { display: inline-block; width: 88px; height: 31px; border: 3px solid @pale-gray-3; background-size: cover; background-position: center; }
+.affiliates { background: @pale-gray-2; border: 1px solid @pale-gray-1; border-left: none; border-right: none; padding: 10px 0; text-align: center; line-height: 0; word-spacing: 10px; }
+.affiliates a { display: inline-block; width: 88px; height: 31px; border: 3px solid @pale-gray-1; background-size: cover; background-position: center; }
 .affiliates p { padding-top:5px; padding-bottom:5px; }
-.affiliates .content { height: 22px; padding: 9px 0; background: @pale-gray-2; border: 1px solid @pale-gray-3; text-align: center; font-family: @small-font; font-size: 15px; line-height: 22px; text-transform: uppercase; letter-spacing: 1px; margin: 15px; }
+.affiliates .content { height: 22px; padding: 9px 0; background: @pale-gray-2; border: 3px solid @pale-gray-1; text-align: center; font-family: @small-font; font-size: 15px; line-height: 22px; text-transform: uppercase; letter-spacing: 1px; margin: 15px; }
 
 .cbox { height: 250px; border: 1px solid @pale-gray-3; border-top: none; margin: 0 45px; margin-bottom: 45px; background: @pale-gray-2; padding: 15px; }
 
