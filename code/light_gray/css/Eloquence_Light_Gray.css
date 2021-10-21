@@ -104,8 +104,7 @@
 #credit .topper { height: 30px; text-align: center; line-height: 36px; font-family: @decorative-font; color: @gray-2; text-transform: uppercase; letter-spacing: 1px; font-size: 12px; }
 #credit .text { height: 50px; overflow: auto; font-size: 10px; line-height: 15px; text-align: justify; color: @gray-2; padding: 10px; padding-top: 0; }
 
-/* .pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; position: fixed; margin-left: -60px; } */
-.pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; margin-left:220px;}
+.pagefollower { width: 26px; padding: 7px; background: @pale-gray-1; position: fixed; margin-left: -60px; }
 .pagefollower a { display: block; width: 24px; height: 24px; border: 1px solid @pale-gray-3; color: @gray-1; font-size: 12px; text-align: center; line-height: 24px; margin-bottom: 7px; }
 .pagefollower a:hover { color: @gray-2; border-color: @gray-1; }
 .pagefollower span { display: block; height: 1px; width: 40px; margin-left: -7px; background: @pale-gray-2; margin-bottom: 7px; }
@@ -495,7 +494,7 @@
 @shadow_color: #333333;
 * { word-wrap: break-word; }
 body { background-color: @body_background_color; background-image: url(@seamless); background-attachment: @body_background_attachment; background-repeat: @body_background_repeat; background-position: @body_background_position; line-height: 1.2; color: @default_forum_text_color; font-style: @default_forum_text_font_style; font-weight: @default_forum_text_font_weight; font-size: @default_forum_text_font_size; font-family: @default_forum_text_font_family; text-decoration: @default_forum_text_decoration; text-transform: @default_forum_text_case; font-variant: @default_forum_text_caps; }
-#wrapper { width: @wrapper_width; margin: 0 auto; background: @pale-gray-1; overflow-x:hidden; margin-left:300px; }
+#wrapper { width: @wrapper_width; margin: 0 auto; background: @pale-gray-1; }
 table { table-layout: fixed; }
 a { cursor: pointer; transition: 0.3s; color: @link_color; font: @link_font; text-decoration: @link_decoration; }
 :visited { color: @link_visited_color; text-decoration: @link_visited_decoration; }
@@ -661,7 +660,7 @@ a#logo:hover { color: @banner_text_color !important; text-decoration: @banner_te
 @nav_tree_hover_background_color: @pale-gray-1;
 .recent-threads-button, #navigation-tree { color: @nav_tree_color; border-width: @nav_tree_border_width; border-style: @nav_tree_border_style; border-color: @nav_tree_border_color; background: @nav_tree_background_color; margin-bottom: 10px; height: 20px; .rounded-corners(@nav_tree_border_radius); }
 .recent-threads-button.new .new-icon { display: inline-block; }
-#navigation-tree { overflow: hidden; margin-top: 30px; border-left: none; border-right: none; margin-top: 35px; }
+#navigation-tree { overflow: hidden; margin-top: 30px; border-left: none; border-right: none; }
 #nav-tree { white-space: nowrap; }
 .popup_html { position: absolute; top: 0; left: 0; z-index: 999999; }
 #nav-tree ul { display: none; list-style-type: none; border-width: @nav_tree_border_width; border-style: @nav_tree_border_style; border-color: @nav_tree_border_color; background-color: @nav_tree_background_color; .box-shadow(); }

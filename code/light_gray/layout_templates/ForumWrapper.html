@@ -301,59 +301,40 @@
 			</div>
 		{/if}
         <div id="wrapper">
-            <div style="position:fixed;top:20px;left:15px;width:300px;" id="fixed_panel">
-                <table width=100%><tbody>
-                    <tr><td>
-                    <div class="pagefollower">
-                        <a href="/" class="tooltip" title="Home">
-                            <i class="fas fa-home"></i>
-                        </a>
-                        <a href="/members" class="tooltip" title="Members">
-                            <i class="fas fa-users"></i>
-                        </a>
-                        <a href="/search" class="tooltip" title="Search">
-                            <i class="fas fa-search"></i>
-                        </a>
-                        {if !$[current_user.is_guest]}
-                        <a href="/user/$[current_user.id]" class="tooltip" title="Profile">
-                            <i class="fas fa-user"></i>
-                        </a>
-                        {/if}
-                        {if $[current_user.can_admin]}
-                        <a href="/admin" class="tooltip" title="Admin">
-                            <i class="fas fa-cog"></i>
-                        </a>
-                        {/if}
-                        <span></span>
-                        {if !$[current_user.is_guest]}
-                        <a href="$[logout_link.href]" class="tooltip" title="Log Out" style="margin-bottom: 0;">
-                            <i class="fas fa-power-off"></i>
-                        </a>
-                        {else}
-                        <a href="$[login_link.href]" class="tooltip" title="Log In">
-                            <i class="fas fa-power-off"></i>
-                        </a>
-                        <a href="$[register_link.href]" class="tooltip" title="Register" style="margin-bottom: 0;">
-                            <i class="fas fa-plus"></i>
-                        </a>
-                        {/if}
-                    </div>
-                    </td></tr>
-                    <tr><td height="5px"></td></tr>
-                    <tr><td>
-                    <div>
-                        <a href="https://discord.gg/WcXqtXf" style="width:88px;height:31px;" border=0 alt="DISCORD" title="DISCORD"><img src="https://i.imgur.com/0e01qwP.png"></a>
-                        <span></span>
-                        <!-- BEGIN CBOX - www.cbox.ws - v4.3 -->
-                        <div id="cboxdiv" style="position: relative; margin: 0 auto; width: 225px; font-size: 0; line-height: 0;">
-                        <div style="position: relative; height: 245px; overflow: auto; overflow-y: auto; -webkit-overflow-scrolling: touch; border: 0px solid;"><iframe src="http://www2.cbox.ws/box/?boxid=2345098&boxtag=aaw4xy&sec=main" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="100%" scrolling="auto" allowtransparency="yes" name="cboxmain2-2345098" id="cboxmain2-2345098"></iframe></div>
-                        <div style="position: relative; height: 75px; overflow: hidden; border: 0px solid; border-top: 0px;"><iframe src="http://www2.cbox.ws/box/?boxid=2345098&boxtag=aaw4xy&sec=form" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="100%" scrolling="no" allowtransparency="yes" name="cboxform2-2345098" id="cboxform2-2345098"></iframe></div> -->
-                        </div>
-                        <!-- END CBOX -->	
-                    </div>
-                        </td></tr>
-                </tbody></table>
-            </div>
+            <div class="pagefollower">
+            	<a href="/" class="tooltip" title="Home">
+                    <i class="fas fa-home"></i>
+                </a>
+                <a href="/members" class="tooltip" title="Members">
+                    <i class="fas fa-users"></i>
+                </a>
+                <a href="/search" class="tooltip" title="Search">
+                    <i class="fas fa-search"></i>
+                </a>
+                {if !$[current_user.is_guest]}
+                <a href="/user/$[current_user.id]" class="tooltip" title="Profile">
+                    <i class="fas fa-user"></i>
+                </a>
+                {/if}
+                {if $[current_user.can_admin]}
+                <a href="/admin" class="tooltip" title="Admin">
+                    <i class="fas fa-cog"></i>
+                </a>
+                {/if}
+                <span></span>
+                {if !$[current_user.is_guest]}
+                <a href="$[logout_link.href]" class="tooltip" title="Log Out" style="margin-bottom: 0;">
+                    <i class="fas fa-power-off"></i>
+                </a>
+                {else}
+                <a href="$[login_link.href]" class="tooltip" title="Log In">
+                    <i class="fas fa-power-off"></i>
+                </a>
+                <a href="$[register_link.href]" class="tooltip" title="Register" style="margin-bottom: 0;">
+                    <i class="fas fa-plus"></i>
+                </a>
+                {/if}
+        	</div>
         	<div class="p-banner">
                 <div class="background2"><div class="background3"><div class="background4"><div class="background5"><div class="background6"><div class="background7"><div class="background8"><div class="background9"><div class="background10">
                 <div class="background11"><div class="background12"><div class="background13"><div class="background14"><div class="background15"><div class="background16"><div class="background17"><div class="background18"><div class="background19"><div class="background20">
