@@ -1,8 +1,8 @@
 [div align="center"][div style="width:550px;margin-top:20px;font:10px Verdana;"][div style="height:100%;max-width:550px;border-bottom:1px solid #006B8F;"][div style="width:550px;background-color:rgb(255, 255, 255);"]
-[div style="color:rgb(85, 85, 85);"][img alt=" " src="https://via.placeholder.com/600x200?text=YOUR%20OWN%20IMAGE" style="max-width:100%;"][/div]
+[div style="color:rgb(85, 85, 85);"][img alt=" " src="https://via.placeholder.com/600x200?text=YOUR%20OWN%20IMAGE" style="max-width:500px;"][/div]
 [div style="padding-bottom:10px;width:500px;text-align:center;font:20px Georgia;text-transform:uppercase;letter-spacing:2px;"]first middle [font color="#006B8F"]LAST[/font][/div][/div][/div]
 [div style="color:rgb(85, 85, 85);width:530px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-12px;"][table][tbody][tr][td style="width:375px;vertical-align:top;"]
-[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #006B8F;"][td]SCHOOLING[/td][td]STATUS[/td][/tr][tr][td]school - house &amp; year/homeschool (if applicable)[/td][td]graduated/dropout/expelled[/td][/tr][/tbody][/table][/div]
+[div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #006B8F;"][td]SCHOOLING[/td][td]STATUS[/td][/tr][tr][td]school - house & year/homeschool (if applicable)[/td][td]graduated/dropout/expelled[/td][/tr][/tbody][/table][/div]
 [div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #006B8F;"]WAND[/div]
 if you own one: length, wood, core, flexibility
 [/div]
@@ -17,11 +17,11 @@ How do you pronounce your character's name? (please spell out phonetically)
 [/div]
 Any nicknames your character may go by
 
-[div style="font:12px Georgia;border-bottom:solid 1px #006B8F;text-align:left;padding-right:5px;margin-bottom:-10px;"]age &amp; birthday[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #006B8F;text-align:left;padding-right:5px;margin-bottom:-10px;"]age & birthday[/div]
 age
 dd mmm yyyy
 
-[div style="font:12px Georgia;border-bottom:solid 1px #006B8F;text-align:left;padding-right:5px;margin-bottom:-10px;"]gender &amp; pronouns[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #006B8F;text-align:left;padding-right:5px;margin-bottom:-10px;"]gender & pronouns[/div]
 What do they identify as and pronouns they prefer.
 
 [div style="font:12px Georgia;border-bottom:solid 1px #006B8F;text-align:left;padding-right:5px;margin-bottom:-10px;"]blood status[/div]
@@ -32,22 +32,22 @@ Attraction. Straight, homosexual, bisexual, pansexual, etc.
 
 [div style="font:12px Georgia;border-bottom:solid 1px #006B8F;text-align:left;padding-right:5px;margin-bottom:-10px;"]face claim[/div]
 Celebrity playby.[/td][/tr][tr][td colspan="2"][div style="background-color:#ffffff;padding:10px;margin-right:9px;"][table style="width:100%;"][tbody][tr style="text-align:center;font:12px Georgia;border-bottom:solid 1px #006B8F;"][td]LIKES[/td][td]DISLIKES[/td][/tr][tr][td]● min 5 likes
-●&nbsp;
-●&nbsp;
-●&nbsp;
-●&nbsp;
+● 
+● 
+● 
+● 
 [/td][td]● min 5 dislikes
-●&nbsp;
-●&nbsp;
-●&nbsp;
-●&nbsp;
+● 
+● 
+● 
+● 
 [/td][/tr][/tbody][/table][/div]
 [div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #006B8F;"]PERSONALITY[/div]
 Give us at least 2-3 paragraphs about your character's personality. Please include both positive and negative personality traits. Please include any dreams, aspirations, and fears, as applicable.
 
  
 [/div]
-[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #006B8F;"]ORIGIN &amp; RELATIONS[/div]
+[div style="background-color:#ffffff;padding:10px;text-align:justify;margin-right:9px;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:12px Georgia;border-bottom:solid 1px #006B8F;"]ORIGIN & RELATIONS[/div]
 Where is your character from/raised?
 
 Name - relation to character, age, any other relevant info.
