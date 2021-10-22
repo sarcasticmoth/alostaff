@@ -114,10 +114,20 @@
         </td>
     </tr>
     {/if}
+    {if $[user.birthday]}
     <tr>
-        <td colspan="2" style="font-size:10px;line-height:12px;padding-top:10px;padding-bottom:10px;">
+        <td class="p-icon tooltip" title="registration date">
+            <i class="far fa-calendar-alt"></i>
+        </td>
+        <td style="padding-left: 14px;">
+            birthday is $[user.birthday]
+        </td>
+    </tr>
+    {/if}
+    <tr>
+        <td colspan="2" style="font-size:10px;line-height:12px;">
             {if $[user.signature]}
-            <div>
+            <div class="content-box center-col">
                 $[user.signature]
             </div>
             {/if}
