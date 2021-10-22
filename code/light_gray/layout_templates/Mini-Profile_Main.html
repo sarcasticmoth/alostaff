@@ -1,7 +1,7 @@
 <!-- MINIPROFILE REMODEL © PUNKI 2018 -->
 <div class="$[miniprofile_class] mp">
     <span style="display: none;">$[user]</span>
-    <div class="image" {foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "230x400 Image"}style="background-image: url('$[user.mini_custom_field.value]');"{/if}{/foreach}>
+    <div class="image" {foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Hover Image"}style="background-image: url('$[user.mini_custom_field.value]');"{/if}{/foreach}>
         {if !$[user.is_guest]}
         <div class="across"></div>
         <div class="down">
@@ -54,17 +54,28 @@
         </div>
         {/if}
     </div>
-    <div class="p-text">
+    <div class="played-by">
+        {foreach $[user.mini_custom_field]}
+        {if $[user.mini_custom_field.name] == "Played By"}
+        played by $[user.mini_custom_field.value]
+        {/if}
+        {/foreach}
+    </div>
+    <div class="personal-text" style="text-align:center;">
         {if $[user.personal_text.message] != ''}
             {if $[user.group.name] == "PUBLICATION"}
+        	<div></div>
             $[user.name]
             {else}
+        	<div></div>
             $[user.personal_text.message]
             {/if}
         {else}
         	{if $[user.group.name] == "PUBLICATION"}
+        	<div></div>
             $[user.name]
             {else}
+        	<div></div>
             nothing to say
             {/if}
         {/if}

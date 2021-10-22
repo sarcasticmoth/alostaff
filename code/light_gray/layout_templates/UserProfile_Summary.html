@@ -12,9 +12,9 @@
 </div>
 {if $[user.custom_title]}
 <div class="custom">
-    <div></div> 
+    <!--<div></div>-->
     $[user.custom_title] 
-    <div></div>
+    <!--<div></div>-->
 </div>
 {/if}
 <div class="p-links">
@@ -29,7 +29,7 @@
         application
     </a>
     {/if}
-    {if $[user.custom_field.name] == "Plotter"}
+    {if $[user.custom_field.name] == "Plot Page"}
     <a href="$[user.custom_field.value]">
         plotter
     </a>
@@ -114,4 +114,13 @@
         </td>
     </tr>
     {/if}
+    <tr>
+        <td colspan="2" style="font-size:10px;line-height:12px;padding-top:10px;padding-bottom:10px;">
+            {if $[user.signature]}
+            <div>
+                $[user.signature]
+            </div>
+            {/if}
+        </td>
+    </tr>
 </table>
