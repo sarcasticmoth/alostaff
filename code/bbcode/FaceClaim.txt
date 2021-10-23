@@ -177,7 +177,9 @@ GLOVER, donald
 GOSLING, ryan
 [b]@xenon                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/m2mpnPa.png" style="max-width:100px;"]
 GOSSE, arthur
-[b]@arlo                                                                            [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/JZ6YQLK.png"]
+[b]@arlo                                                                            [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/gjthLOf.jpg"]
+GRACE, laneya
+[b]@ava                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/JZ6YQLK.png"]
 GRIFFIN, danny
 [b]@jakke                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/TzcgoJk.png" style="max-width:100px;"]
 HALE, lucy
@@ -185,9 +187,9 @@ HALE, lucy
 HAMANN, andre
 [b]@jasper                                                                            [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/j7wcyOd.png"]
 [div]HARRIS, neil patrick
-[b]@jimbo                                                                      [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/RPJHV5h.png"]
+[b]@jimbo                                                                      [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/RPJHV5h.png"]
 HAYNES, colton
-[b]@raleigh                                                                           [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/z6LzcFp.png"]
+[b]@raleigh                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/z6LzcFp.png"]
 HEMMINGS, luke
 [b]@lance                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/oag1cWL.png"]
 HEUGHAN, sam
@@ -195,9 +197,9 @@ HEUGHAN, sam
 HIDDLESTON, tom
 [b]@luka                 [/b][/div][/td][td][div][img src="https://i.imgur.com/Q0j9ERg.png" style="max-width:100px;"]
 [div]HOLBROOK, boyd
-[b]@octavian                                                                      [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/2LCFuaG.png"]
+[b]@octavian                                                                      [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/2LCFuaG.png"]
 HOLD, jake
-[b]@ilija                                                                           [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/RptvOBv.png"]
+[b]@ilija                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/RptvOBv.png"]
 HOLDEN-RIED, kris
 [b]@charles                                                                           [/b][/div][/td][td][div][img src="https://i.imgur.com/zZ1hf2L.png" style="max-width:100px;"]
 HOLLESTELLE, luca
@@ -205,9 +207,7 @@ HOLLESTELLE, luca
 HOLT, claire
 [b]@susanvictoria                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/HSKGJEN.jpg"]
 HWANG, hyunjin
-[b]@noah            [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
-last, first
-[b]@tag                                 [/b][/div][/td][/tr][/tbody][/table][/div]
+[b]@noah            [/b][/div][/td][/tr][/tbody][/table][/div]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]I,J,K,L[/div]
 [div align="center"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/miy749X.png"]
@@ -439,15 +439,15 @@ WILLIAMS, hayley
 WOOD, chris
 [b]@ares                                                               [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/P6laekv.png" style="max-width:100px;"]
 [div]ZAQUI, tati
-[b]@sarah                                                          [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/sofaZkS.png"]
-ZHIDKOVA, nastya
-[b]@ava                                                               [/b][/div][/td][td][div][img src="https://i.imgur.com/uFtMQj0.png" style="max-width:100px;"]
+[b]@sarah                                                          [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/uFtMQj0.png" style="max-width:100px;"]
 ZINGMARK, ebba
 [b]@nixie                                                               [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
+last, first
+[b]@tag                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 last, first
 [b]@tag                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
 last, first
 [b]@tag                                 [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][/tbody][/table][/div]
 [div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 
-[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #921303 !important; [/newclass][newclass=".user-link.group-6"]color: #c0b211 !important; [/newclass][newclass=".user-link.group-7"]color: #090c8f !important; [/newclass][newclass=".user-link.group-8"]color: #008f00 !important; [/newclass][newclass=".user-link.group-10"]color: #ca8158 !important; [/newclass][newclass=".user-link.group-12"]color: #d52096 !important; [/newclass][newclass=".user-link.group-15"]color: #610086 !important; [/newclass][newclass=".user-link.group-18"]color: #362929 !important; [/newclass][newclass=".user-link.group-19"]color: #883992 !important; [/newclass][newclass=".user-link.group-21"]color: #0c1318 !important; [/newclass][newclass=".user-link.group-22"]olor: #75002a !important; [/newclass][newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass][newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass][newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-1"]color: #0e5347 !important; [/newclass]
+[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #921303 !important; [/newclass][newclass=".user-link.group-6"]color: #c0b211 !important; [/newclass][newclass=".user-link.group-7"]color: #090c8f !important; [/newclass][newclass=".user-link.group-8"]color: #008f00 !important; [/newclass][newclass=".user-link.group-10"]color: #ca8158 !important; [/newclass][newclass=".user-link.group-12"]color: #d52096 !important; [/newclass][newclass=".user-link.group-15"]color: #610086 !important; [/newclass][newclass=".user-link.group-18"]color: #362929 !important; [/newclass][newclass=".user-link.group-19"]color: #883992 !important; [/newclass][newclass=".user-link.group-21"]color: #0c1318 !important; [/newclass][newclass=".user-link.group-22"]color: #75002a !important; [/newclass][newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass][newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass][newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-1"]color: #0e5347 !important; [/newclass]
