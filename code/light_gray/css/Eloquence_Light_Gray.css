@@ -290,7 +290,7 @@
 .mp .down { height: 0; overflow: hidden; transition: 0.75s; background: @pale-gray-1; transition-delay: 0.5s; overflow-y:auto; -ms-overflow-style:none; scrollbar-width:none; }
 .mp .opacity { height: 340px; width: 190px; opacity: 0; transition: 0.5s; position: relative; top: 9px; margin: auto; }
 .mp:hover .across { width: 210px; transition-delay: 0s; }
-.mp:hover .down { height: 359px; transition-delay: 0.5s; }
+.mp:hover .down { height: 365px; transition-delay: 0.5s; }
 .mp:hover .opacity { opacity: 1; transition-delay: 1.25s; }
 .mp .stats { line-height: 25px; text-transform: lowercase; letter-spacing: 1px; font-size: 10px; font-family: @small-font; }
 .mp .smaller { width: 190px; height: 100px; background-size: cover; background-position: center; background-image: url(@default-miniprofile-smaller-image); }
