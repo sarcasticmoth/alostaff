@@ -49,6 +49,9 @@
                 <div class="mpf">
                 	<div></div>{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Character Age"}$[user.mini_custom_field.value] years old{/if}{/foreach}
                 </div>
+                <div class="mpf">
+                	<div></div>{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Character Birthday"}born $[user.mini_custom_field.value]{/if}{/foreach}
+                </div>
                 {/if}
             </div>
         </div>
