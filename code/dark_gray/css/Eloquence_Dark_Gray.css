@@ -10,7 +10,7 @@
 @banner-text: @white; /* Banner text color */
 @decorative-font: 'Josefin Sans'; /* Large font */
 @small-font: 'Raleway'; /* Smaller text font */
-@banner-image-1: 'https://i.imgur.com/niHizfl.jpg'; /* 950 pixels x 500 pixels for all four */
+@banner-image-1: 'https://i.imgur.com/IAplz9f.jpg'; /* 950 pixels x 500 pixels for all four */
 /* member banners */
 @banner-image-2: 'https://i.imgur.com/sNvZ3Df.png'; /* aaron - matthew */
 @banner-image-3: 'https://i.imgur.com/gXa6CDf.png'; /* ali - rosie */
@@ -297,7 +297,7 @@
 .mp .divider { margin: 10px; margin-bottom: 5px; height: 1px; background: @pale-gray-3; }
 .mp .custom { line-height: 10px; padding-bottom: 5px; margin: 0 10px; margin-bottom: 10px; border-bottom: 1px solid @pale-gray-3; text-align: center; font-size: 75%; text-transform: uppercase; font-family: @small-font; }
 .mp .mpf { line-height: 20px; font-family: @small-font; font-size: 10px; text-transform: lowercase; letter-spacing: 1px; }
-.mp .mpf div { width: 15px; height: 1px; background: @pale-gray-3; vertical-align: middle; display: inline-block; margin-right: 10px; }
+.mp .mpf div { width: 15px; height: 1px; background: #E6E6E6; vertical-align: middle; display: inline-block; margin-right: 10px; }
 .mp .mpftwo { line-height: 20px; font-family: @small-font; font-size: 10px; text-transform: lowercase; letter-spacing: 1px; }
 .mp .mpftwo div { width: 15px; height: 1px; background: @pale-gray-3; vertical-align: middle; display: inline-block; }
 .mp .mp3-hover { padding: 30px 0; height: 40px; text-align: center; opacity: 0; transition: 0.5s; background: rgba(0,0,0,0.4); }
@@ -865,7 +865,7 @@ a#logo:hover { color: @banner_text_color !important; text-decoration: @banner_te
 .ui-micro-pagination ul li { list-style: none; display: inline; margin-right: 2px; }
 .ui-micro-pagination ul li:last-child { margin-right: 0px; }
 .ui-micro-pagination ul li > a { display: inline-block; text-decoration: none; padding: 0 2px; color: @pagination_micro_text_color; background-color: @pagination_micro_background_color; border: 1px solid mix(@pagination_text_color, @pagination_background_color, 40%); }
-.ui-micro-pagination ul li > a:hover { color: @pagination_micro_text_color; border: 1px solid mix(@pagination_text_color, @pagination_background_color, 70%); background-color: @pagination_micro_hover_color; }
+.ui-micro-pagination ul li > a:hover { color: @pagination_micro_text_color; border: 1px solid mix(@pagination_text_color, @pagination_background_color, 70%); background-color: #23272A; }
 
 /* Tabs */
 @tabs_background: @container_inner_border_color none left center repeat-x;
@@ -889,10 +889,10 @@ a#logo:hover { color: @banner_text_color !important; text-decoration: @banner_te
 @tabs_hover_text_color: @tabs_unselected_text_color;
 @tabs_hover_text_font: @tabs_unselected_text_font;
 @tabs_hover_text_decoration: @tabs_unselected_text_decoration;
-.ui-tabMenu ul { background: @tabs_background; border: @tabs_border; border-top-width: 0px; border-right-width: 0px; border-left-width: 0px; padding: 5px 5px 0 5px; }
-.ui-tabMenu ul li { height: 26px; list-style: none; float: left; top: 1px; margin: 0 2px 1px 0; position: relative; background: @tabs_unselected_background; border: @tabs_unselected_border; .rounded-corners(@tabs_border_radius); }
+.ui-tabMenu ul { background: #2C2F33; border: @tabs_border; border-top-width: 0px; border-right-width: 0px; border-left-width: 0px; padding: 5px 5px 0 5px; }
+.ui-tabMenu ul li { height: 26px; list-style: none; float: left; top: 1px; margin: 0 2px 1px 0; position: relative; background: #2C2F33; border: @tabs_unselected_border; .rounded-corners(@tabs_border_radius); }
 .ui-tabMenu ul li a { color: @tabs_unselected_text_color; font: @tabs_unselected_text_font; text-decoration: @tabs_unselected_text_decoration; float: left; padding: 5px 14px; white-space: nowrap; }
-.ui-tabMenu ul li:hover { background: @tabs_hover_background; border: @tabs_hover_border; .rounded-corners(@tabs_hover_border_radius); }
+.ui-tabMenu ul li:hover { background: #42474c; border: @tabs_hover_border; .rounded-corners(@tabs_hover_border_radius); }
 .ui-tabMenu ul li:hover a { color: @tabs_hover_text_color; font: @tabs_hover_text_font; text-decoration: @tabs_hover_text_decoration; }
 .ui-tabMenu ul li.ui-active { background: @tabs_selected_background; border: @tabs_selected_border; .rounded-corners(@tabs_selected_border_radius); }
 .ui-tabMenu ul li.ui-active a { color: @tabs_selected_text_color; font: @tabs_selected_text_font; text-decoration: @tabs_selected_text_decoration; border-bottom: 1px solid @tabs_selected_background; }
@@ -924,7 +924,7 @@ a#logo:hover { color: @banner_text_color !important; text-decoration: @banner_te
 table.list > thead > tr > th, table.list > tbody > tr > td { border-width: 0px @lists_inner_border_width @lists_inner_border_width 0px; border-style: @lists_inner_border_style; border-color: @container_inner_border_color; vertical-align: middle; padding: 10px; .box-sizing(); }
 table.list { color: @lists_text_color; font: @lists_text_font; background: @lists_background; table-layout: fixed; font-size: 90%; width: 100%; .box-sizing(); }
 .list a { color: @lists_links_color; font: @lists_links_font; text-decoration: @lists_links_decoration; }
-.list .item.state-hover, .list .board.item:hover, #calendar-list .item:hover { color: @lists_hover_text_color; font: @lists_hover_text_font; background-color: @container_highlight_color; background-image: @lists_hover_background_image; background-attachment: @lists_hover_background_attachment; background-repeat: @lists_hover_background_repeat; background-position: @lists_hover_background_position; }
+.list .item.state-hover, .list .board.item:hover, #calendar-list .item:hover { color: @lists_hover_text_color; font: @lists_hover_text_font; background-color: #23272A; background-image: @lists_hover_background_image; background-attachment: @lists_hover_background_attachment; background-repeat: @lists_hover_background_repeat; background-position: @lists_hover_background_position; }
 .list .item > .main.state-hover .link a, .list .item:hover > .main .link a { color: @lists_hover_links_color; font: @lists_hover_links_font; text-decoration: @lists_hover_links_decoration; }
 .list .item.state-selected { color: @lists_selected_text_color; font: @lists_selected_text_font; background: @lists_selected_background; }
 .list .item.state-selected a { color: @lists_selected_links_color; font: @lists_selected_links_font; text-decoration: @lists_selected_links_decoration; }
