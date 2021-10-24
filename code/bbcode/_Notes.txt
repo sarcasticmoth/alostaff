@@ -60,3 +60,7 @@
 ---[SPECIAL ABILITIES]:     #4A7482 --- [TEAL BLUE]
 ---[AFFILIATION CLAIM]:     #FCCA46 --- [SUNGLOW]
 ---[STUDENT CAREER PLANS]:  #6B8F00 --- [OLIVE DRAB 3]
+
+-- CUSTOM --
+
+[newclass=.user-link.group-12.v]text-transform:uppercase !important;color:#d52096 !important;[/newclass]

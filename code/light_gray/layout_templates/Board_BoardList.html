@@ -64,17 +64,22 @@
                         </a>
                         <div class="lp">
                             {if $[board.posts] > 0}
-                            <a href="$[board.last_thread.recent_link.href]" class="lp-subject">
+                            <div class="updated_title">
+                            <span>
+                            <a href="$[board.last_thread.recent_link.href]">
                                 $[board.last_thread.subject]
                             </a>
-                            <div>
+                            </span>
+                            </div>
+                            <div class="updated_text">
                                 updated $[board.last_thread.last_post.created_on]
                             </div>
                             {else}
-                            <span class="lp-subject"></span>
-                            <span class="no-posts">
+                            <div class="updated_title_no_posts">
+                            <div class="no-posts">
                                 no posts were found
-                            </span>
+                            </div>
+                            </div>
                             {/if}
                         </div>
                     </div>
