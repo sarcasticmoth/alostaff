@@ -1,0 +1,640 @@
+[blockquote][blockquote][blockquote][div style="text-align:center;"][b][font size="5"]Hogwarts Classes[/font][/b][/div]
+You do not have to use this claim for your students if you don't want to. This is so you can keep track of your classes, clubs, club positions, and quidditch positions.
+
+4th and 5th years take all the core classes and a minimum of two electives.
+
+6th and 7th years take a minimum of three core classes and a minimum of one elective.
+
+Special classes are only offered for specific years, and are required by all students in that year.
+
+[div style="text-align:center;"][u][b][font size="5"]To claim:
+
+[/font][/b][/u][/div]List club/class and then fill out this code for each students you want to add. For clubs you must also specific you want the captain or co-captain position.&nbsp;
+
+For Quidditch, you must list position.
+
+[code][*code]
+YEAR
+@tag 
+
+class/club/position [/*code][/code]
+P.S. Please keep your classes in order (cores together, electives together, in alphabetical order) to make it easy to add to the list!
+
+[hr]
+[font size="3"]PREFECTS[/font]
+
+[div align="justify"]Prefects are responsible for patrolling the hallways and to make sure students do not break curfew or disobey the rules. They are responsible for their own house, and don't have control over other houses.
+
+Ilvermorny transfer students are able to be Prefects.[/div]
+[spoiler]
+[div align="center"][b]Head Boy:[/b] open
+[b]Head Girl:[/b] @lusie                         
+                
+[font size="3"]GRYFFINDOR[/font]
+
+[b]Seventh Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b] @jimmie                                                                                  
+
+[b]Sixth Year Prefects[/b]
+[b]male:[/b] @arlo      
+[b]female:[/b] open                             
+
+[b]Fifth Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b] open     
+
+[font size="3"]HUFFLEPUFF[/font]                 
+
+[b]Seventh Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b] open
+
+[b]Sixth Year Prefects[/b]
+[b]male:[/b] @newt    
+[b]female:[/b]&nbsp;open
+
+[b]Fifth Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b] open     
+
+[font size="3"]RAVENCLAW[/font]                                                     
+
+[b]Seventh Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b]&nbsp;open
+
+[b]Sixth Year Prefects[/b]
+[b]male:[/b]&nbsp;open
+[b]female:[/b] open
+
+[b]Fifth Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b]&nbsp;open
+
+[font size="3"]SLYTHERIN[/font]          
+
+[b]Seventh Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b]  @maxima                                                                                    
+
+[b]Sixth Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b] @isabeau                        
+
+[b]Fifth Year Prefects[/b]
+[b]male:[/b] open
+[b]female:[/b] open        
+
+[/div][/spoiler]
+[hr]
+[font size="4"]QUIDDITCH TEAMS[/font]
+
+[spoiler]
+[font size="3"]GRYFFINDOR[/font]
+[b]captain:[/b]&nbsp;@simon                                                                             
+
+[b]Seeker:[/b]&nbsp;open
+[b]Keeper:[/b] open
+[b]Beater:[/b]&nbsp;@nora             
+[b]Beater:[/b] @catsie           
+[b]Chaser:[/b] @jimmie                                                                                                                      
+[b]Chaser:[/b] @simon                                                                                                                      
+[b]Chaser:[/b]&nbsp;@arlo      
+
+[b]Reserve:[/b]
+open
+
+[font size="3"]HUFFLEPUFF[/font]
+[b]Captain:[/b] open&nbsp;
+
+[b]Seeker:[/b] @raphael                              
+[b]Keeper:[/b] open
+[b]Beater:[/b] @newt    
+[b]Beater:[/b] open
+[b]Chaser:[/b] @brody                                                                                         
+[b]Chaser:[/b] open
+[b]Chaser:[/b] open
+
+[b]Reserve:[/b] 
+open
+
+[font size="3"]RAVENCLAW[/font]
+[b]captain:[/b] @caillen 
+
+[b]Seeker:[/b]&nbsp;@dasha                                                                               
+[b]Keeper:[/b] open
+[b]Beater:[/b]&nbsp;open
+
+[b]Beater:[/b] open
+[b]Chaser:[/b] open
+[b]Chaser:[/b] @caillen 
+[b]Chaser:[/b] @zen                                                                                                                      
+
+[b]Reserve:[/b] 
+open
+
+[font size="3"]SLYTHERIN[/font]
+[b]captain:[/b]&nbsp;@addy                                                                        
+                  
+[b]Seeker: [/b]@sunday                                                                         
+[b]Keeper:[/b] @lulu                                                    
+[b]Beater:[/b] open
+[b]Beater:[/b] @luna           
+[b]Chaser:[/b] @addy                                  
+[b]Chaser:[/b] @selene           
+[b]Chaser:&nbsp;[/b]@phoebe        
+
+[b]Reserve:[/b] 
+open
+
+[/spoiler]
+[hr]
+
+[div align="center"][font size="5"][b][div align="center"][u]Core Classes[/u][/div][/b][/font]
+[spoiler]
+[font size="4"][b][div align="center"]ASTRONOMY[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha    
+@evy  
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne  
+
+[b]6TH YEARS[/b]
+@isabeau            
+@catsie           
+@phoebe              
+
+[b]7TH YEARS[/b]
+@kaylee                                        
+@penelope                                       
+@claudia                                       
+@steve                                       
+@lily                                        
+@tobias                                       
+@bryelle                                       
+@zen                                       
+@monday                                 
+@raphael 
+
+[font size="4"][b][div align="center"]CHARMS[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha                                        
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne  
+
+[b]6TH YEARS[/b]
+@evy   
+@isabeau               
+@thomas            
+@catsie           
+@lulu        
+@luna        
+@phoebe                 
+
+[b]7TH YEARS[/b]
+@kaylee                                      
+@maxima                                       
+@penelope                                        
+@lusie                                        
+@claudia                                        
+@steve                                         
+@lily                                        
+@tobias                                        
+@bryelle                                       
+@zen                                      
+@monday                                 
+@raphael                                
+@addy                              
+@brigh 
+
+[font size="4"][b][div align="center"]DEFENSE AGAINST THE DARK ARTS[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha                                        
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne  
+
+[b]6TH YEARS
+
+[/b]
+@evy   
+@isabeau               
+@thomas            
+@catsie           
+@lulu        
+@luna        
+@phoebe                 
+
+[b]7TH YEARS[/b]
+@kaylee                                     
+@maxima                                      
+@penelope                                      
+@lusie                                     
+@steve                                     
+@lily                                     
+@tobias                                     
+@bryelle                                     
+@zen                                 
+@raphael                                
+@addy                              
+@brigh  
+
+[font size="4"][b][div align="center"]HERBOLOGY[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha                                        
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne                                 
+@raphael                                       
+
+[b]6TH YEARS[/b]
+@isabeau               
+@thomas           
+@phoebe                  
+
+[b]7TH YEARS[/b]
+@maxima                                     
+@kaylee                                      
+@lusie                                     
+@claudia                                     
+@steve                                     
+@tobias                                     
+@bryelle                                     
+@zen                                
+@addy                              
+@brigh 
+
+[font size="4"][b][div align="center"]HISTORY OF MAGIC[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha  _                                      
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne  
+
+[b]6TH YEARS[/b]
+@isabeau          
+@luna        
+
+[b]7TH YEARS[/b]
+@monday           
+@brigh                                  
+@kaylee                                     
+@lusie                                     
+@steve                                      
+@zen                                 
+@raphael 
+
+[font size="4"][b][div align="center"]HOME ECONOMICS AND LIFE SKILLS[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha                                        
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne                                        
+
+[b]6TH YEARS[/b]
+@phoebe           
+
+[b]7TH YEARS[/b]
+@maxima                                     
+@lusie                                     
+@lily                                     
+@steve 
+
+[font size="4"][b][div align="center"]POTIONS[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha                                        
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne  
+
+[b]6TH YEARS[/b]
+@isabeau               
+@thomas            
+@catsie             
+@lulu        
+@luna            
+
+[b]7TH YEARS[/b]
+@maxima                                     
+@penelope                                     
+@lusie                                     
+@claudia                                     
+@tobias                                     
+@bryelle                                     
+@zen                                     
+@monday                                 
+@raphael                                
+@addy                              
+@brigh                    
+
+[font size="4"][b][div align="center"]TRANSFIGURATION[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                   
+
+[b]5TH YEARS[/b]
+@brody                                        
+@chrissy                                        
+@dasha                                        
+@gideon                                        
+@richard                                           
+@sunday                                        
+@yvonne  
+
+[b]6TH YEARS[/b]
+@evy   
+@isabeau          
+@thomas            
+@catsie                
+@luna         
+
+[b]7TH YEARS[/b]
+@maxima                                     
+@penelope                                     
+@lusie                                     
+@claudia                                     
+@steve                                     
+@lily                                     
+@simon                                     
+@bryelle                                     
+@zen                                 
+@raphael                                    
+@addy  
+[/spoiler]
+[b][div align="center"][font size="5"][u]Electives[/u][/font][/div][/b]
+[spoiler]
+[div align="center"][b style="font-size:large;"]ALCHEMY[/b]
+[b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+- - -
+
+[b]6TH YEARS[/b]
+@evy   
+@isabeau          
+@luna        
+
+[b]7TH YEARS[/b]
+@addy           
+@brigh           
+@maxima                                     
+@zen  
+
+[font size="4"][b][div align="center"]ANCIENT RUNES[/div][/b][/font][b]4TH YEARS[/b]
+@xena               
+
+[b]5TH YEARS[/b]
+@dasha                                  
+
+[b]6TH YEARS[/b]
+@catsie                 
+
+[b]7TH YEARS[/b] 
+@zen                                
+@addy                              
+@brigh  
+
+[font size="4"][b][div align="center"]ANCIENT STUDIES[/div][/b][/font][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+- - -
+
+[b]6TH YEARS[/b]
+@catsie                 
+
+[b]7TH YEARS[/b]
+- - -
+
+[b style="font-size:large;"]ARITHMANCY:[/b][/div][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+@chrissy                                         
+
+[b]6TH YEARS[/b]
+@evy   
+@isabeau               
+
+[b]7TH YEARS[/b]
+@zen                                
+@addy                              
+@brigh                                 
+
+[font size="4"][b][div align="center"]ART[/div][/b][/font][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+- - -
+
+[b]6TH YEARS[/b]
+- - -
+
+[b]7TH YEARS[/b]
+- - -                  
+
+[font size="4"][b][div align="center"]CARE OF MAGICAL CREATURES[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                
+@xena                                  
+
+[b]5TH YEARS[/b]
+@brody                                    
+@gideon                                     
+@chrissy                                    
+
+[b]6TH YEARS[/b]
+@thomas                  
+
+[b]7TH YEARS[/b]
+@tobias                                    
+@bryelle                                    
+@zen 
+
+[font size="4"][b][div align="center"]DIVINATION[/div][/b][/font][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+@yvonne  
+
+[b]6TH YEARS[/b]
+@phoebe    
+       
+
+[b]7TH YEARS[/b]
+@claudia                                     
+@penelope                                  
+@tobias                                   
+@bryelle                                   
+@zen 
+
+[font size="4"][b][div align="center"]DUELING[/div][/b][/font][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+@dasha                                    
+
+[b]6TH YEARS[/b]
+@evy   
+@isabeau               
+@thomas            
+@catsie                 
+
+[b]7TH YEARS[/b]
+@kaylee                                  
+@lily                                  
+@bryelle                    
+
+[font size="4"][b][div align="center"]FLYING SPECIAL SKILLS[/div][/b][/font][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+@brody                                   
+@dasha                                  
+
+[b]6TH YEARS[/b]
+@catsie    
+@evy          
+@luna        
+
+[b]7TH YEARS[/b]
+@raphael  
+
+[font size="4"][b][div align="center"]MAGIC THEORY[/div][/b][/font][b]4TH YEARS[/b]
+@xena               
+
+[b]5TH YEARS[/b]
+- - -
+
+[b]6TH YEARS[/b]
+- - -
+
+[b]7TH YEARS[/b]
+@addy 
+
+[font size="4"][b][div align="center"]MAGICAL FIRST AID[/div][/b][/font][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+- - -
+
+[b]6TH YEARS[/b]
+@catsie    
+@evy          
+
+[b]7TH YEARS[/b]
+@kaylee                                  
+@maxima                                  
+@monday  
+
+[font size="4"][b][div align="center"]MUGGLE STUDIES[/div][/b][/font][b]4TH YEARS[/b]
+@oliwia                                   
+
+[b]5TH YEARS[/b]
+@yvonne  
+
+[b]6TH YEARS[/b]
+- - -
+
+[b]7TH YEARS[/b]
+@bryelle                                   
+@zen                                 
+@raphael                                
+@addy 
+
+[font size="4"][b][div align="center"]NATIVE AMERICAN MAGIC[/div][/b][/font][b]4TH YEARS[/b]
+- - -
+
+[b]5TH YEARS[/b]
+@brody                                   
+@chrissy                                   
+
+[b]6TH YEARS[/b]
+- - -
+
+[b]7TH YEARS[/b]
+@kaylee                                  
+@steve                                  
+@monday 
+[/spoiler]
+[b][div align="center"][font size="5"][u]Special[/u][/font][/div][/b]
+[spoiler]
+[font size="4"][b][div align="center"]Apparition(6th year only)[/div][/b][/font]
+@charlie                                                                   
+@evy   
+@friday                                                                   
+@isabeau               
+@lulu            
+@luna                                                               
+@madeleine                                                                   
+@nessa                 
+@thursday                   
+@thomas            
+@catsie                                          
+
+[font size="4"][b][div align="center"]Wandless Magic (7th year only)[/div][/b][/font]
+@addy                                             
+@brigh                                             
+@bryelle                                                                   
+@claudia 
+@jimmie                    
+@katiya                                                                 
+@kaylee                                                                   
+@lily                                                          
+@lusie                                            
+@maxima                                                                   
+@monday                                                                   
+@nathaniel                                                       
+@penelope 
+@raphael                                        
+@simon                                                             
+@steve                                                                   
+@tobias                                    
+@zen                                                                
+
+[/spoiler]
+[/div][/blockquote][/blockquote][/blockquote]

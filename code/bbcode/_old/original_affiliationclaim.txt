@@ -1,0 +1,166 @@
+[div align="center"][font size="5" face="georgia"][i]AFFILIATIONS[/i][/font][/div][hr][blockquote][blockquote][font face="georgia"]
+This is where you can claim what groups you are affiliated with. Some of these groups have been disbanded, but are still included as a way of reference.
+
+[div align="center"][a href="http://alohomorax0.proboards.com/thread/4746/who-knows"]
+
+Refer to Who knows what for more information on the groups[/a][/div]
+
+[font size="3"]ORGANIZATIONS NO LONGER IN USE[/font]
+[spoiler]
+[b]HELIOPATH(Disbanded)[/b]
+During the time that the Order was fractured, Heliopath was the more aggressive, and "action oriented" organization. This was officially disbanded though when the Order reunited.
+
+[b]OUROBOROS(Disbanded)[/b]
+Ouroboros was a splinter group of the Order, that dissolved when the Order reunited.
+
+[b]ORDER OF STATERA(Disbanded)[/b]
+A group&nbsp; that was dedicated to preserving the Order of the Phoenix as it originally was. They wanted to make peace between Heliopath and Ouroboros so that good can present a united front against the growing threat of the Purifiers. They eventually&nbsp;dissolved into Ouroboros when they realized their efforts were futile.
+[/spoiler]
+[ul type="disc"]
+[li]You can only play 1 leader per affiliation. This includes leaders of subgroups. (This is subject to change if we get lots of members wanting to play leaders and no positions are open/some members are playing multiple leaders)[/li]
+[li]If you claim a leadership role staff expects you to be actively involved in the affiliation over all, and may at times need you to organize/complete/run affiliation related plots. If a leader goes inactive, or is study abroaded they will automatically lose their leadership position (it will be opened up for someone to claim). If you are unable to, or refuse to, participate in 2 affiliation plots in a row that you are needed for, staff may remove your leadership position.[/li]
+[li]These are the members of an affiliation. Affiliations have 'supporters' that aren't members (These can be suppliers, aurors who turn a blind eye to the group, information brokers). If you are don't want to commit to membership (and the potential consequences that come with being a member), please consider playing a support role instead of full membership.[/li]
+[li]If you would like to make a double-agent (someone in two groups at the same time) please message staff so it can be discussed in more depth. Before pursuing these plots please note that there may be extreme consequences if you are ever caught.[/li]
+[li]Some affiliations have subgroups. We may call on a subgroup for plots. If you have multiple characters in the same affiliation try to spread your characters between all the subgroups so as not to hinder one. If staff feels you are too character heavy in a subgroup staff may reassign some of your characters.[/li]
+[li]Witch Hunters don't have "official" groups but we include them here so they can organize themselves into likeminded "unofficial" groups. (basically we include them so Witch Hunters have a list where they see what other witch hunters they work with, since we know they can have different methods, goals, etc.)[/li]
+[/ul]
+To Claim:
+[code]@tag character -
+list group
+(if applicable, position in the group)[/code]
+
+[div align="center"][font face="georgia"][i]
+
+[font size="4"]ORDER OF THE PHOENIX (REUNITED)[/font][/i][/font][/div][hr]The Order of the Phoenix reunified in January 2026. With their recent reunification the Order has decided to steer away from "leaders" and instead keep the Order as a pure democracy. While they have also decided to break themselves into squads, senior members are more guides, and not actually leaders.
+
+[div align="center"]**Student are NOT allowed in this group**
+
+[b]Artifact Handling[/b]
+The Brains - Those in specialized research fields (Curse Breaking, Magizoologists, etc.)
+Will handle any magical or cursed items for the Order (to use or destroy)
+Senior Member: open               
+@astrid                 
+@blair                           
+@raleigh                  
+@vanessa                         
+   
+
+[b]Secret Keepers[/b] 1 open
+Not an official "group", but those that are Secret-Keepers of the Order safe houses.&nbsp;
+@harry                  - Avalon
+@anastasia                  - The Poisoned Spindle
+
+
+[b]Ministry Liason[/b]
+The Brawn - Government Employees, Law Enforcement, etc, deal with any Ministry interference.
+Senior Member: @anastasia                 
+@bianca                               
+@claire                         
+@jamesp              
+@luke                  
+@elliot                        
+   
+
+[b]Public Relations[/b]
+Those in fields where they can keep an ear open for information, this group has the most variety of specialties 
+Senior Member: @harry                 
+@cade                        
+@ginny                        
+@parvati                        
+
+
+[b]Healers[/b]
+Those in healing specialities
+Senior Member: open (min 25-years-old)
+@ariadne                  
+@eeva              [/div][div align="center"]@shreya              
+
+
+[b]Members:[/b]
+@jasper                        
+@jim                   
+@levi             
+@sav             
+@victoire                           
+                                   
+[/div]
+
+[div align="center"][font size="4" face="georgia"][i]THE PURIFIERS[/i][/font][/div][hr]The Purifiers are a group of revolutionaries. This group was started at Hogwarts by Elaine Dupree, during her seventh year when she murdered several muggle-born students to show her dominance and strength. In recent years The Purifiers have grown 'quiet' in the destructive sense, but they are are still lurking in the shadows, making connections and alliances to bolster their forces.
+
+The Purifiers are broken into sections based on their skills. The heads are the commanders of their section and responsible for the successes and failures of their section. These heads make up the council, along with anyone else that Elaine personally appoints to the council (Only the player of Elaine can do this, you can't request to join the council if you aren't a head and Elaine's player doesn't promote you).
+
+[div align="center"][b]Leader[/b]
+@elaine                                                                                          
+
+[b]Council[/b]
+the leaders of each section, and anyone Elaine personally appoints
+@ares             
+
+[b](Front Line)[/b]
+&nbsp;power, strength, and brute force
+Head: @ares                                                                                
+
+Members:
+@aerick    
+
+[b](Infiltration)[/b]
+stealth, deception, and secrets
+Head: open
+
+Members:
+@asher     
+@dianab          
+@sarah                        
+@sutton                                             
+
+
+[b](Lab)[/b]
+creation, testing, and experimentation
+Head: open
+
+Members:
+@emmanuelle  
+@priscilla                                                                            
+@rue                                                                                    
+
+
+[b](Diplomacy)[/b]
+building alliances, finding recruits
+Head: open
+
+Members: 
+@ivy     
+@ondina                                                                           
+             
+[/div]
+
+[div align="center"][br style="font-size:13.3333px;"][font size="5"]STUDENT ONLY ORGANIZATIONS[/font]
+[hr]Our students, of course, are just as diverse as our adults. While some of the adult organizations do permit student membership, none of the student organizations permit adult membership at this time. So, to avoid any confusion we've separated them a bit.
+
+[div align="center"][font size="4" face="georgia"][i]PHOENIX RISING[/i][/font][/div][hr]This new rendition of Phoenix Rising is focused on learning defensive spells outside of the standard Hogwarts curriculum, and preparing themselves for danger that could arise due to the Purifier threat. They have some connection with the Order of the Phoenix and are the most likely students to be recruited after graduation.
+
+[b]Members:[/b]
+@addy           
+@brigh 
+@katiya   
+@simon
+@penelope
+@maxima
+        
+
+[div align="center"][font size="4" face="georgia"][i]THE SOCIETY FOR THE PRESERVATION OF MAGICAL HERITAGE[/i][/font][/div][hr]The Society for the Preservation of Magical Heritage, or SPMH, is a student founded and run organization that strives to protect, save, and preserve the magical history, artifacts, heritage, etc that is at risk. After the destruction of irreplaceable knowledge and artifacts at Ilvermorny these students are determined to make sure nothing like that can ever happen again.
+
+[b]President:[/b]
+open 
+
+[b]Members:[/b]
+@kaylee 
+                   
+[div align="center"][br style="font-size:13.3333px;"][font size="5"]WITCH HUNTERS/SECOND SALEMERS[/font]
+[hr]Please refer to [a href="http://alohomorax0.proboards.com/thread/6543/magical-american-culture"]MAGICAL AMERICAN CULTURE[/a] for information about these individuals. Witch Hunters don't have to be claimed here. But, for those interested in forming "mini-groups" with other witch hunters, they can do so! Basically this is just an easy way for them to keep track of those they work with since witch hunters can have vastly different motives/methods/plans. Some Witch Hunters can ally with multiple witch hunter groups.
+
+
+[b][i]The Hubbard Family[/i][/b]
+[i]Dogmatic/ideologically inclined, old fashioned. Created by Audrey.
+@muffet             [/i]
+[/div][/div][/font][/blockquote][/blockquote]

@@ -1,0 +1,64 @@
+[blockquote][blockquote]
+[div align="justify"][div style="text-align:center;"][span style="font-size:x-large;"]INITIAL CLAIMS &amp; CHARACTER DROP OFF[/span][/div][hr]
+[b]How It Works:[/b] To make things simple and easy, members will put all their claims when a character is sorted in this thread, and staff will update everything.
+
+If you ever need to make an adjustment to claims later on, you can post them here, or just post in the specific claim to make the change.
+
+[div style="text-align:center;"][b style="font-size:10pt;"]Required Claims[/b][/div]These are the claims you need to make sure are covered when you drop off your claims.
+[b]Playby claim:[/b] This is the face you are using for the character. 
+[b]Hogwarts Claims/Job Claims:[/b] Depending on if you are a student, or adult, you will have some role. Students need Hogwarts, adults need job (even if it's just to say unemployed)
+[b]Who's Who:[/b] This is where we keep track of who plays what, and publication requirements.
+[b]Canon Claim:[/b] For anyone playing a canon related character. Just keeps track of all our canons. This is considered required because you have to use this if you use one, but if you're playing an original character you don't have to.
+
+[div style="text-align:center;"][b style="font-size:10pt;"]Optional Claims[/b][/div]These are claims that you can use, but we don't require them. We won't list them here, but go check them out. These are claims that staff runs (such as the special abilities and affiliations) that your characters aren't required to use and claims that members themselves want and run themselves.
+
+
+
+[b]Publication Approval: [/b]Since we do IC publications, you can have specific publication restrictions for characters.&nbsp;&nbsp;Please note, &nbsp;having characters with restrictions may affect what can be said about other characters depending on what kind of&nbsp;restrictions you set. Staff will refer to publication approvals/restrictions before&nbsp;publishing anything to ensure it falls within what's allowed.
+
+Use this guide to fill out the Publication Restrictions section:
+1. No Publication Restrictions: your character that can be featured without restrictions.&nbsp;Anything can be published about them.
+2. Publication Restrictions: characters that have some form of restriction. explain what it is.
+3. No Publication Allowed: nothing can be published about these characters whatsoever even if news is submitted about them.
+
+code:
+[code]@tagcharacter
+@alias
+
+FACE CLAIM
+LAST NAME, First Name -- @tag
+
+For adults: list disguises (delete if not applicable)
+Last Name, First Name -- @tag
+
+SCHOOL YEAR (For student)
+@tag - year
+
+JOB (For adult)
+
+(if applicable. just put unemployed if they aren't working. for Ministry and St. Mungos, please include floor or department!)
+
+PUBLICATION RESTRICTION
+option 1 2 or 3 (refer to guide above)
+[/code]
+
+
+[div style="text-align:center;"][span style="font-size:medium;"]TO DROP A CHARACTER[/span][/div]
+[ul type="disc"]
+[li]If you want to drop a character, just post it here, so we know, and can do all the updates/changes.[/li]
+[li]When you drop a character(s) you will have to wait 10 days before staff will accept new character.[/li]
+[/ul]
+
+Character drop code:
+[code]@tagcharacter
+[b]Galleon amount[/b]: (how many galleons does the account have)
+[b]Galleon transfer[/b]: (What account do you want the galleons transferred to?)
+[b]Link to Application[/b]: (So we can find it easily and update the stats)
+
+list threads that will be discontinued because of this drop:
+(urls here)
+
+Vault items:
+(please list where you want any vault items assigned to this character. If you don't specify they will be moved to unassigned)[/code][div align="center"]
+[div style="text-align:left;"]
+[/div][/div][/div][/blockquote][/blockquote]

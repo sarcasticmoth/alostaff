@@ -1,0 +1,105 @@
+[div align="center"][font size="5" face="georgia"][i]HOGWARTS[/i][/font][hr]
+[i]Age requirement of at least 25-years-old for all employees. 
+Headmasters do not teach classes and Deputy headmasters can not be head of houses.[/i]
+
+[font size="3"]HIGH STAFF[/font][blockquote][blockquote][hr][/blockquote][/blockquote][blockquote][blockquote][div align="justify"]The Headmaster and heads of houses. These individuals run Hogwarts and also create any rules when necessary.[/div][/blockquote][/blockquote][spoiler]
+
+[b]HEADMASTER:[/b]
+[font size="1"]in charge of hogwarts, staff and students[/font]
+MINERVA MCGONAGAL
+[b]DEPUTY HEADMASTER:[/b]
+[font size="1"]acts in headmaster's place if needed, in charge of head of houses[/font]
+[b]GRYFFINDOR HEAD OF HOUSE:[/b]
+[font size="1"]in charge of Gryffindor house and its students[/font]
+@parvati          
+[b]HUFFLEPUFF HEAD OF HOUSE:[/b]
+[font size="1"]in charge of Hufflepuff house and its students[/font]
+@shawn          
+[b]RAVENCLAW HEAD OF HOUSE:[/b]
+[font size="1"]in charge of Ravenclaw house and its students[/font]
+@aymeric          
+[b]SLYTHERIN HEAD OF HOUSE:[/b]
+[font size="1"]in charge of Slytherin house and its students[/font]
+@blaise          
+[/spoiler]
+
+[font size="3"]PROFESSORS[/font][blockquote][blockquote][hr][/blockquote][/blockquote][blockquote][blockquote][div align="justify"]All the staff at Hogwarts that teaches a class. The Professors enforce the rules set forth by the High Staff and help supply the best possible education possible for their students.[/div][/blockquote][/blockquote][spoiler]
+
+[b]ALCHEMY:[/b]
+[font size="1"]teaches the four basic elements as well as the transmutation of substances.[/font]
+@hazel     
+[b]ANCIENT RUNES:[/b]
+[font size="1"]teaches&nbsp;the ancient runic scripts of magic[/font]
+[b]ANCIENT STUDIES:[/b]
+[font size="1"]Learn and study about the ancient magical cultures, magic, and magical practices around the world.
+[/font]@frank 
+[b]APPARITION:[/b]
+[font size="1"]teaches how to apparate in order to receive an apparition license. [/font]
+[b]ART[/b]
+[font size="1"]Learn and study magical art. From how enchanted portraits are crafted, to magical photography.[/font]
+[b]ASTRONOMY:[/b]
+[font size="1"]teaches&nbsp;names of stars, constellations, and planets as well as their locations and movements.[/font]
+[b]ARITHMANCY:[/b]
+[font size="1"]teaches how to&nbsp;predict the future using numbers, write essays, consult complex number charts.[/font]
+@octavian       
+[b]CARE OF MAGICAL CREATURES:[/b]
+[font size="1"]teaches&nbsp;the wide range of magical creatures in the wizarding world.[/font]
+@charles        
+[b]CHARMS:[/b]
+[font size="1"]teaches&nbsp;charms such as wingardium leviosa, accio, &amp; aguamenti.[/font]
+@jasper            
+[b]DEFENSE AGAINST THE DARK ARTS:[/b]
+[font size="1"]teaches how to defend yourself against dark creatures, darks arts, other charms.[/font]
+@blaise           
+[b]DIVINATION:[/b]
+[font size="1"]teaches methods of divining the future or gathering insights into future events through various rituals and tools. &nbsp;[/font]
+[b]DUELING:[/b]
+[font size="1"]teaches how to use defensive and offensive magic against your fellow classmates in controlled battle simulations.[/font]
+[b]FLYING:[/b]
+[font size="1"]teaches special skills and advanced techniques to flying a broom[/font]
+@ginny          
+[b]HERBOLOGY:[/b]
+[font size="1"]teaches the magical properties of plants and what they are used for.[/font]
+@alfie          
+[b]HISTORY OF MAGIC:
+[/b][font size="1"]teaches all there is to know about magical history.[/font]
+@renfri           
+[b]HOME ECONOMICS &amp; LIFE SKILLS:[/b]
+[font size="1"]teaches how to cook, keep a house, find a job, stay organized, deal with relationships, and much more![/font]
+@deva   
+[b]MAGICAL THEORY[/b]
+[font size="1"]a purely theoretical class in which you study the principles and theory of why magic works.[/font]
+@ivy   
+[b]MUGGLE STUDIES:[/b]
+[font size="1"]teaches&nbsp;about the daily lives of muggles and how they cope with electricity and not magic.[/font]
+@severus    
+[b]NATIVE AMERCAN MAGIC:[/b]
+[font size="1"]teaches&nbsp;the ancient magic styling of the Native American People, including alternative forms of healing &amp; plant based magic.[/font]
+@clarence          
+[b]POTIONS:[/b]
+[font size="1"]teaches&nbsp;correct ways to brew potions by following specific recipes with magical ingredients.[/font]
+@aymeric          
+[b]TRANSFIGURATION:[/b]
+[font size="1"]teaches the&nbsp;art of changing the form and appearance of an object.[/font]
+@shawn          
+[b]WANDLESS MAGIC:[/b]
+[font size="1"]teaches how to use spells without your wand[/font].
+[/spoiler]
+
+[font size="3"]OTHER STAFF[/font][blockquote][blockquote][hr][/blockquote][/blockquote][blockquote][blockquote][div align="justify"]Although these individuals are not professors, their roles are vital to Hogwart's operations. They support the school and students in their unique roles.[/div][/blockquote][/blockquote][spoiler]
+
+[b]CARETAKER:[/b]
+[font size="1"]takes care of the castle[/font]
+[b]GROUNDSKEEPER:[/b]
+[font size="1"]takes care of the grounds and forbidden forest[/font]
+[b]LIBRARIAN:[/b]
+[font size="1"]takes care of the library[/font]
+[b]HEAD NURSE:[/b]
+[font size="1"]in charge of the hospital wing[/font]
+[b]NURSES:[/b]
+[font size="1"] assists the head nurse in the hospital wing[/font]
+[b]COUNSELOR:[/b]
+[font size="1"]assists students, offers advice and guidance[/font]
+@parvati            
+           
+[/spoiler]  [/div]
