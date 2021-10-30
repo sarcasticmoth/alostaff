@@ -20,7 +20,7 @@
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DANCERS[/b][/div]
 [i]employed by the club to entertain guests[/i]
-@maria                                               [/div][div style="margin-left:10px;margin-right:10px;"]
+@tag                                               [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
 @aerick                                               
@@ -664,7 +664,7 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ESCORT[/b][/div]
 [i]'favors' for money[/i]
-@maria                  
+@tag                  
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]FORGER[/b][/div]
 [i]create false documents that can pass as real[/i]
@@ -767,7 +767,10 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POTIONS RESEARCHER[/b][/div]
 [i]researches and designs potions[/i]
 @augusto                 
-[/div]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRANSLATOR[/b][/div]
+[i]provides translation services[/i]
+@maria                  [/div]
 
 [/div][/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]MUGGLE[/div]

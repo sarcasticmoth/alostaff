@@ -36,7 +36,7 @@
 21--[STUDYING ABROAD]:      #0C1318 --- [RICH BLACK FOGRA 29]
 22--[OOC ACCOUNT]:          #75002A --- [CLARET]
 23--[OTHER]:                #4C6E95 --- [QUEEN BLUE]
-24--[DRUID]:                #32AA4A --- [GREEN PANTONE]
+24--[DRUID]:                #8AE38A --- [LIGHT GREEN]
 
 [ APPLICATION ]
 
