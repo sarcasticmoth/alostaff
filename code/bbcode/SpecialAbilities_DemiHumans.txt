@@ -66,6 +66,7 @@ cannot be Druid[/div]
 Individuals with this ability have an affinity for animals of a certain type. They can easily understand some thoughts and feelings of the animal they are more connected to. Understanding and being able to communicate with animals of your affinity does give you a higher skill to control/train/tame/etc these animals then a non-affinity person. Individuals may only have one type of animal. (Example, you can have an affinity toward all dogs or all felines but not both.) You are also limited to Non-magical or Magical. (Example, you can have a dragon affinity but it does not permit you to understand lizards and vice versa.)
 
 @brody        - owls
+@rowena - butterflies
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]CLAIRVOYANT[/div]
