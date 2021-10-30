@@ -111,6 +111,7 @@
 .pagefollowerarrow { width: 0; height: 0; border-top: 20px solid @pale-gray-1; border-left: 20px solid transparent; border-right: 20px solid transparent; }
 
 .p-banner { height: 500px; background: url(@banner-image-1); }
+.p-banner .background100 { opacity: 0; height: 500px; }
 .p-banner .background2 { opacity: 0; height: 500px; background: url(@banner-image-2); }
 .p-banner .background3 { opacity: 0; height: 500px; background: url(@banner-image-3); }
 .p-banner .background4 { opacity: 0; height: 500px; background: url(@banner-image-4); }

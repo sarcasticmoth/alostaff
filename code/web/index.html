@@ -112,3 +112,64 @@
 <div id="the_banner" class="background1"></div>
 </body>
 </html>
+
+function getRandomBannerImage()
+                {
+                    var member_banners = [
+                        // member
+                        'https://i.imgur.com/sNvZ3Df.png', // aaron - matthew
+                        'https://i.imgur.com/gXa6CDf.png', // ali - rosie
+                        'https://i.imgur.com/P63oaBZ.png', // allie - catariara
+                        'https://i.imgur.com/Bkxdt0o.png', // ana - rob
+                        'https://i.imgur.com/6j6S49C.png', // audrey - parvati
+                        'https://i.imgur.com/cm45RII.png', // bird - julian
+                        'https://i.imgur.com/JRaVOht.png', // chanel - claire
+                        'https://i.imgur.com/78VBsqC.png', // colin - lily
+                        'https://i.imgur.com/rXJ2J8m.png', // dez - simon
+                        'https://i.imgur.com/YBwIHvs.png', // dez - lulu
+                        'https://i.imgur.com/eWuw7uG.png', // dra - rian
+                        'https://i.imgur.com/XJEwwHC.png', // eve - adelaide
+                        'https://i.imgur.com/BSiFzPE.png', // haise - rue
+                        'https://i.imgur.com/hpbXWaF.png', // jenny - cas
+                        'https://i.imgur.com/1LDmv7g.png', // lisa - elaine
+                        'https://i.imgur.com/TRkfxXR.png', // pollo - samuel
+                        'https://i.imgur.com/1O8UUt4.png', // roo - severus
+                        'https://i.imgur.com/Lmx1R9E.png', // seph - xantha
+                        'https://i.imgur.com/RQUZ6Ee.png', // shadow - teddy
+                        'https://i.imgur.com/EJZAxWH.png', // sophi - thursday
+                        'https://i.imgur.com/spfUBSh.jpg', // sora - vasilia
+                        'https://i.imgur.com/O78kRcf.png', // suzie - victoire
+                        'https://i.imgur.com/9MNBOD9.png', // tj - gilderoy
+                        'https://i.imgur.com/BHFiXDr.png', // vanessa - rhys
+                        'https://i.imgur.com/l0zZ0z2.png', // vanessa - addy
+                        'https://i.imgur.com/AM2dlMc.png', // vanessa - anastasia
+
+                        // combined
+                        'https://i.imgur.com/ee8LE4c.png', // ana & jenny - brigh & aiden
+                        'https://i.imgur.com/OrO3mtr.png', // lisa & ana - felix & ophelia
+                    ];
+                    
+                    var $m1 = $("#member_banner_image1");
+                    var $m2 = $("#member_banner_image2");
+                                        
+                    var number = Math.floor(Math.random() * member_banners.length);
+                    
+                    var new_banner = member_banners[number];
+                    
+                    if(number > 0)
+                    {   
+                        var old_img = $m1.css('background-image');
+                        //var new_img = $m2.css('background-image');
+                        
+                        $m1.fadeOut(1500, function() {
+                        
+                            $m1.css('background-image', 'url(' + new_banner + ')');
+                            $m1.css({'display':'block', 'height':'500px', 'opacity':'1'});
+                            
+                            $m2.css('background-image', old_img );
+                            $m2.css({'display':'block', 'height':'500px', 'opacity':'1'});
+                        });
+                    }
+                }
+                
+                window.setInterval(getRandomBannerImage,15000);

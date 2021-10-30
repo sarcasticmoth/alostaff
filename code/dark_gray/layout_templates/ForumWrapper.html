@@ -10,6 +10,7 @@
         <script>
             $(document).ready(function() {
                 var t = document.getElementById('tooltip-span');
+                //$('.background100').animate({'opacity':'1'}, 1000);
 				
                 $('.avatar-wrapper').addClass('tooltip');
                 $('.user-link').addClass('tooltip');
@@ -35,81 +36,80 @@
 					$('#tooltip-span').css('display','none');
 					$(this).attr('title',tooltipContent);
 				});
-                               
-                var b = 1;
                 
-                function materialize(element) {
-                    $(element).animate({'opacity':'1'}, 1000);
-                    b++;
-                }
-                function vanish() {
-                    $('.background2, .background3, .background4, .background5, .background6, .background7, .background8, .background9, .background10, .background11, .background12, .background13, .background14, .background15, .background16, .background17, .background18, .background19, .background20, .background21, .background22, .background23, .background24, .background25, .background26, .background27, .background28, .background29').animate({'opacity':'0'}, 1000);
-                    b = 1;
-                }
+                var counter = 0;
                 
-                function banner() {
-                    if (b == 1) {
-                        materialize($('.background2'));
-                    } else if (b == 2) {
-                        materialize($('.background3'));
-                    } else if (b == 3) {
-                        materialize($('.background4'));
-                    } else if (b == 4) {
-                        materialize($('.background5'));
-                    } else if (b == 5) {
-                    	materialize($('.background6'));
-                    } else if (b == 6) {
-                        materialize($('.background7'));
-                    } else if (b == 7) {
-                        materialize($('.background8'));
-                    } else if (b == 8) {
-                        materialize($('.background9'));
-                    } else if (b == 9) {
-                        materialize($('.background10'));
-                    } else if (b == 10) {
-                        materialize($('.background11'));
-                    } else if (b == 11) {
-                        materialize($('.background12'));
-                    } else if (b == 12) {
-                        materialize($('.background13'));
-                    } else if (b == 13) {
-                    	materialize($('.background14'));
-                    } else if (b == 14) {
-                        materialize($('.background15'));
-                    } else if (b == 15) {
-                        materialize($('.background16'));
-                    } else if (b == 16) {
-                        materialize($('.background17'));
-                    } else if (b == 17) {
-                        materialize($('.background18'));
-                    } else if (b == 18) {
-                        materialize($('.background19'));
-                    } else if (b == 19) {
-                        materialize($('.background20'));
-                    } else if (b == 20) {
-                        materialize($('.background21'));
-                    } else if (b == 21) {
-                        materialize($('.background22'));
-                    } else if (b == 22) {
-                    	materialize($('.background23'));
-                    } else if (b == 23) {
-                        materialize($('.background24'));
-                    } else if (b == 24) {
-                        materialize($('.background25'));
-                    } else if (b == 25) {
-                        materialize($('.background26'));
-                    } else if (b == 26) {
-                        materialize($('.background27'));
-                    } else if (b == 27) {
-                        materialize($('.background28'));
-                    } else if (b == 28) {
-                        materialize($('.background29'));
-                    } else if (b == 29) {
-                        vanish();
+                function getRandomBannerImage()
+                {
+                    var member_banners = [
+                        // member
+                        'https://i.imgur.com/sNvZ3Df.png', // aaron - matthew
+                        'https://i.imgur.com/gXa6CDf.png', // ali - rosie
+                        'https://i.imgur.com/P63oaBZ.png', // allie - catariara
+                        'https://i.imgur.com/Bkxdt0o.png', // ana - rob
+                        'https://i.imgur.com/6j6S49C.png', // audrey - parvati
+                        'https://i.imgur.com/cm45RII.png', // bird - julian
+                        'https://i.imgur.com/JRaVOht.png', // chanel - claire
+                        'https://i.imgur.com/78VBsqC.png', // colin - lily
+                        'https://i.imgur.com/rXJ2J8m.png', // dez - simon
+                        'https://i.imgur.com/YBwIHvs.png', // dez - lulu
+                        'https://i.imgur.com/eWuw7uG.png', // dra - rian
+                        'https://i.imgur.com/XJEwwHC.png', // eve - adelaide
+                        'https://i.imgur.com/BSiFzPE.png', // haise - rue
+                        'https://i.imgur.com/hpbXWaF.png', // jenny - cas
+                        'https://i.imgur.com/1LDmv7g.png', // lisa - elaine
+                        'https://i.imgur.com/TRkfxXR.png', // pollo - samuel
+                        'https://i.imgur.com/1O8UUt4.png', // roo - severus
+                        'https://i.imgur.com/Lmx1R9E.png', // seph - xantha
+                        'https://i.imgur.com/RQUZ6Ee.png', // shadow - teddy
+                        'https://i.imgur.com/EJZAxWH.png', // sophi - thursday
+                        'https://i.imgur.com/spfUBSh.jpg', // sora - vasilia
+                        'https://i.imgur.com/O78kRcf.png', // suzie - victoire
+                        'https://i.imgur.com/9MNBOD9.png', // tj - gilderoy
+                        'https://i.imgur.com/BHFiXDr.png', // vanessa - rhys
+                        'https://i.imgur.com/l0zZ0z2.png', // vanessa - addy
+                        'https://i.imgur.com/AM2dlMc.png', // vanessa - anastasia
+
+                        // combined
+                        'https://i.imgur.com/ee8LE4c.png', // ana & jenny - brigh & aiden
+                        'https://i.imgur.com/OrO3mtr.png', // lisa & ana - felix & ophelia
+                    ];
+                    
+                    var $m1 = $("#member_banner_image1");
+                    var $m2 = $("#member_banner_image2");
+                    
+                    var m1_visibility = $m1.css('opacity');
+                    var m2_visibility = $m2.css('opacity');
+                                        
+                    var number = Math.floor(Math.random() * member_banners.length);
+                    
+                    var new_banner = member_banners[number];
+                    
+                    if(number > 0)
+                    {   
+                        if(counter == 0 || m2_visibility == 1)
+                        {
+                            $m1.fadeIn(1500,function() {
+                                $(this).css('background-image', 'url(' + new_banner + ')');
+                                $(this).animate({'opacity':'1'}, 1000);;
+
+                                $m2.animate({'opacity':'0'}, 1000);;
+                            });
+                        }
+                        
+                        if(m2_visibility == 0 && counter > 0) 
+                        {
+                            $m2.fadeIn(1500,function(){
+                                $(this).css('background-image', 'url(' + new_banner + ')');
+                                $(this).animate({'opacity':'1'}, 1000);
+                            });
+                        }
                     }
+                    
+                    counter++;
                 }
                 
-                window.setInterval(banner,15000);
+                window.setInterval(getRandomBannerImage,15000);
                 
                 var modHeight = window.innerHeight;
                 
@@ -336,10 +336,7 @@
                 {/if}
         	</div>
         	<div class="p-banner">
-                <div class="background2"><div class="background3"><div class="background4"><div class="background5"><div class="background6"><div class="background7"><div class="background8"><div class="background9"><div class="background10">
-                <div class="background11"><div class="background12"><div class="background13"><div class="background14"><div class="background15"><div class="background16"><div class="background17"><div class="background18"><div class="background19"><div class="background20">
-                <div class="background21"><div class="background22"><div class="background23"><div class="background24"><div class="background25"><div class="background26"><div class="background27"><div class="background28"><div class="background29"></div></div></div></div>
-                </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+                <div class="background100" id="member_banner_image1"><div class="background100" id="member_banner_image2"></div></div>
                 <div class="title-text">
                     <div class="subtitle">
                         <!-- Put your subtitle here -->
