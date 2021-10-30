@@ -11,36 +11,7 @@
 @decorative-font: 'Josefin Sans'; /* Large font */
 @small-font: 'Raleway'; /* Smaller text font */
 @banner-image-1: 'https://i.imgur.com/niHizfl.jpg'; /* 950 pixels x 500 pixels for all four */
-/* member banners */
-@banner-image-2: 'https://i.imgur.com/sNvZ3Df.png'; /* aaron - matthew */
-@banner-image-3: 'https://i.imgur.com/gXa6CDf.png'; /* ali - rosie */
-@banner-image-4: 'https://i.imgur.com/P63oaBZ.png'; /* allie - catariara */
-@banner-image-5: 'https://i.imgur.com/Bkxdt0o.png'; /* ana - rob */
-@banner-image-6: 'https://i.imgur.com/6j6S49C.png'; /* audrey - parvati */
-@banner-image-7: 'https://i.imgur.com/cm45RII.png'; /* bird - julian */
-@banner-image-8: 'https://i.imgur.com/JRaVOht.png'; /* chanel - claire */
-@banner-image-9: 'https://i.imgur.com/78VBsqC.png'; /* colin - lily */
-@banner-image-10: 'https://i.imgur.com/rXJ2J8m.png'; /* dez - simon */
-@banner-image-11: 'https://i.imgur.com/YBwIHvs.png'; /* dez - lulu */
-@banner-image-12: 'https://i.imgur.com/eWuw7uG.png'; /* dra - rian */
-@banner-image-13: 'https://i.imgur.com/XJEwwHC.png'; /* eve - adelaide */
-@banner-image-14: 'https://i.imgur.com/BSiFzPE.png'; /* haise - rue */
-@banner-image-15: 'https://i.imgur.com/hpbXWaF.png'; /* jenny - cas */
-@banner-image-16: 'https://i.imgur.com/1LDmv7g.png'; /* lisa - elaine */
-@banner-image-17: 'https://i.imgur.com/TRkfxXR.png'; /* pollo - samuel */
-@banner-image-18: 'https://i.imgur.com/1O8UUt4.png'; /* roo - severus */
-@banner-image-19: 'https://i.imgur.com/Lmx1R9E.png'; /* seph - xantha */
-@banner-image-20: 'https://i.imgur.com/RQUZ6Ee.png'; /* shadow - teddy */
-@banner-image-21: 'https://i.imgur.com/EJZAxWH.png'; /* sophi - thursday */
-@banner-image-22: 'https://i.imgur.com/spfUBSh.jpg'; /* sora - vasilia */
-@banner-image-23: 'https://i.imgur.com/O78kRcf.png'; /* suzie - victoire */
-@banner-image-24: 'https://i.imgur.com/9MNBOD9.png'; /* tj - gilderoy */
-@banner-image-25: 'https://i.imgur.com/BHFiXDr.png'; /* vanessa - rhys */
-@banner-image-26: 'https://i.imgur.com/l0zZ0z2.png'; /* vanessa - addy */
-@banner-image-27: 'https://i.imgur.com/AM2dlMc.png'; /* vanessa - anastasia */
-/* combined */
-@banner-image-28: 'https://i.imgur.com/ee8LE4c.png'; /* ana & jenny - brigh & aiden */
-@banner-image-29: 'https://i.imgur.com/OrO3mtr.png'; /* lisa & ana - felix & ophelia */
+
 /* end member banners */
 @seamless: 'http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg'; /* Please make this a seamless aka tileable picture */
 @about-picture: 'https://i.imgur.com/aV8Ax0v.jpg'; /* 350 pixels by 250 pixels */
@@ -111,34 +82,7 @@
 .pagefollowerarrow { width: 0; height: 0; border-top: 20px solid @pale-gray-1; border-left: 20px solid transparent; border-right: 20px solid transparent; }
 
 .p-banner { height: 500px; background: url(@banner-image-1); }
-.p-banner .background2 { opacity: 0; height: 500px; background: url(@banner-image-2); }
-.p-banner .background3 { opacity: 0; height: 500px; background: url(@banner-image-3); }
-.p-banner .background4 { opacity: 0; height: 500px; background: url(@banner-image-4); }
-.p-banner .background5 { opacity: 0; height: 500px; background: url(@banner-image-5); }
-.p-banner .background6 { opacity: 0; height: 500px; background: url(@banner-image-6); }
-.p-banner .background7 { opacity: 0; height: 500px; background: url(@banner-image-7); }
-.p-banner .background8 { opacity: 0; height: 500px; background: url(@banner-image-8); }
-.p-banner .background9 { opacity: 0; height: 500px; background: url(@banner-image-9); }
-.p-banner .background10 { opacity: 0; height: 500px; background: url(@banner-image-10); }
-.p-banner .background11 { opacity: 0; height: 500px; background: url(@banner-image-11); }
-.p-banner .background12 { opacity: 0; height: 500px; background: url(@banner-image-12); }
-.p-banner .background13 { opacity: 0; height: 500px; background: url(@banner-image-13); }
-.p-banner .background14 { opacity: 0; height: 500px; background: url(@banner-image-14); }
-.p-banner .background15 { opacity: 0; height: 500px; background: url(@banner-image-15); }
-.p-banner .background16 { opacity: 0; height: 500px; background: url(@banner-image-16); }
-.p-banner .background17 { opacity: 0; height: 500px; background: url(@banner-image-17); }
-.p-banner .background18 { opacity: 0; height: 500px; background: url(@banner-image-18); }
-.p-banner .background19 { opacity: 0; height: 500px; background: url(@banner-image-19); }
-.p-banner .background20 { opacity: 0; height: 500px; background: url(@banner-image-20); }
-.p-banner .background21 { opacity: 0; height: 500px; background: url(@banner-image-21); }
-.p-banner .background22 { opacity: 0; height: 500px; background: url(@banner-image-22); }
-.p-banner .background23 { opacity: 0; height: 500px; background: url(@banner-image-23); }
-.p-banner .background24 { opacity: 0; height: 500px; background: url(@banner-image-24); }
-.p-banner .background25 { opacity: 0; height: 500px; background: url(@banner-image-25); }
-.p-banner .background26 { opacity: 0; height: 500px; background: url(@banner-image-26); }
-.p-banner .background27 { opacity: 0; height: 500px; background: url(@banner-image-27); }
-.p-banner .background28 { opacity: 0; height: 500px; background: url(@banner-image-28); }
-.p-banner .background29 { opacity: 0; height: 500px; background: url(@banner-image-29); }
+.p-banner .background100 { opacity: 0; height: 500px; }
 .p-banner .title-text { line-height: 60px; padding-top: 190px; margin-top: -500px; position: relative; z-index: 2; text-align: center; font-family: @decorative-font; color: @banner-text; text-transform: uppercase; letter-spacing: 3px; font-size: 60px; text-shadow: 0px 0px 3px rgba(0,0,0,0.6); }
 .p-banner .subtitle { height: 30px; line-height: 30px; font-size: 14px; font-weight: bold; font-family: @small-font; letter-spacing: 1px; text-shadow: 0px 0px 2px rgba(0,0,0,0.6); text-transform: uppercase; }
 .p-banner .modals { height: 22px; text-align: center; line-height: 22px; word-spacing: -2px; margin-top: -10px; }
