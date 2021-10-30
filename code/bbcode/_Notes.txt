@@ -12,6 +12,7 @@
 [newclass=".user-link.group-22"]color: #75002a !important; [/newclass]
 [newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass]
 [newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass]
+[newclass=".user-link.group-28"]color: #af8e0b !important; [/newclass]
 
 [newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass]
 [newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass]
@@ -37,6 +38,7 @@
 22--[OOC ACCOUNT]:          #75002A --- [CLARET]
 23--[OTHER]:                #4C6E95 --- [QUEEN BLUE]
 24--[DRUID]:                #8AE38A --- [LIGHT GREEN]
+28--[STUDENT]:              #AF8E0B --- [DARK GOLDENROD]
 
 [ APPLICATION ]
 
