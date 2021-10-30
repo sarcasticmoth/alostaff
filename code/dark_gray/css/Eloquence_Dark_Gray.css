@@ -357,36 +357,36 @@
 
 /* Required for proper functioning of the Colors & Theme Creator */
 @banner_height: 100px;
-@banner_background_color: #006CB7;
+@banner_background_color: #2c2f33;
 @banner_background_image: url('https://i.imgur.com/niHizfl.jpg');
 @banner_background_position: left center;
-@banner_text_color: #FFFFFF;
+@banner_text_color: #cccccc;
 @banner_text_align: left;
 @wrapper_width: 950px;
 @all_gradients: url('@{images_path}/gradients/wave.png');
 @body_background_image: none;
 
-@body_background_color: #FFFFFF;
-@default_forum_text_color: @gray-2;
-@link_color: @blue-1;
-@link_visited_color: @blue-1;
+@body_background_color: #2c2f33;
+@default_forum_text_color: #cccccc;
+@link_color: #99aab5;
+@link_visited_color: #99aab5;
 
-@title_bar_background_color: @pale-gray-1;
-@title_text_color: @gray-2;
-@title_buttons_background_color: #004C97;
-@title_buttons_color: #FFFFFF;
+@title_bar_background_color: #2c2f33;
+@title_text_color: #cccccc;
+@title_buttons_background_color: #2c2f33;
+@title_buttons_color: #99aab5;
 
 @buttons_background_color: @pale-gray-2;
 @buttons_text_color: @blue-1;
 
-@container_background_color_1: #42474C;
-@container_text_color_1: @gray-2;
+@container_background_color_1: #23272a;
+@container_text_color_1: #cccccc;
 @container_background_color_2: #F6F6F6;
-@container_text_color_2: @gray-2;
-@container_links_color: @blue-1;
-@container_highlight_color: #F6F6F6;
-@container_outer_border_color: #000000;
-@container_inner_border_color: #E6E6E6;
+@container_text_color_2: #cccccc;
+@container_links_color: #99aab5;
+@container_highlight_color: #899ca9;
+@container_outer_border_color: #23272a;
+@container_inner_border_color: #23272a;
 
 @pagination_background_color: @pale-gray-1;
 @pagination_text_color: @gray-2;
@@ -1298,8 +1298,8 @@ footer .footer-text a { color: @footer_pb_link_color; text-decoration: @footer_p
 @posts_signatures_border: 1px solid @container_inner_border_color;
 @posts_signatures_text_color: @empty;
 @posts_signatures_text_font: 80% @default_forum_text_font_family;
-.posts .post, .post .quote div.quote div.quote_body, .post.even .quote div.quote_body { color: @posts_odd_text_color; background-color: @posts_odd_background_color; background-image: @posts_odd_background_image; background-attachment: @posts_odd_background_attachment; background-repeat: @posts_odd_background_repeat; background-position: @posts_odd_background_position; }
-.posts .post.even, .post .quote div.quote_body, .post.even .quote div.quote div.quote_body { color: @posts_even_text_color; background-color: @posts_even_background_color; background-image: @posts_even_background_image; background-attachment: @posts_even_background_attachment; background-repeat: @posts_even_background_repeat; background-position: @posts_even_background_position; }
+.posts .post, .post .quote div.quote div.quote_body, .post.even .quote div.quote_body { color: @posts_odd_text_color; background-color: #23272a; background-image: @posts_odd_background_image; background-attachment: @posts_odd_background_attachment; background-repeat: @posts_odd_background_repeat; background-position: @posts_odd_background_position; }
+.posts .post.even, .post .quote div.quote_body, .post.even .quote div.quote div.quote_body { color: @posts_even_text_color; background-color: #23272a; background-image: @posts_even_background_image; background-attachment: @posts_even_background_attachment; background-repeat: @posts_even_background_repeat; background-position: @posts_even_background_position; }
 .post.item abbr.time, .post.item.even .quote abbr.time, .post.item .quote .quote abbr.time { color: @posts_odd_text_color; }
 .post.item.even abbr.time, .post.item .quote abbr.time, .post.item.even .quote .quote abbr.time { color: @posts_even_text_color; }
 .posts .post .post-method { font-size: .8em; }
