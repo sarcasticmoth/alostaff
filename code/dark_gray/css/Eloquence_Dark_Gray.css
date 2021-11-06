@@ -17,7 +17,7 @@
 @awards-picture: 'https://i.imgur.com/IN0GQNX.jpg'; /* 50 pixels by 400 pixels */
 @nav-picture: 'https://i.imgur.com/XRePE79.jpg'; /* 300 pixels by 50 pixels */
 @credit-picture: 'https://i.imgur.com/EY9affx.jpg'; /* 500 pixels by 260 pixels */
-@event-picture: 'https://i.imgur.com/F2RHdEy.jpg'; /* 290 pixels by 130 pixels */
+@event-picture: 'https://i.imgur.com/3GXwanl.jpg'; /* 290 pixels by 130 pixels */
 @first-staffer: 'https://i.imgur.com/b9eQFO9.png'; /* 60 x 60 for all six */
 @second-staffer: 'https://i.imgur.com/qFZ7dks.png';
 @third-staffer: 'https://i.imgur.com/qOPYhm3.png';
@@ -376,21 +376,21 @@
 @title_buttons_background_color: #2c2f33;
 @title_buttons_color: #99aab5;
 
-@buttons_background_color: @pale-gray-2;
-@buttons_text_color: @blue-1;
+@buttons_background_color: #23272a;
+@buttons_text_color: #cccccc;
 
 @container_background_color_1: #23272a;
 @container_text_color_1: #cccccc;
-@container_background_color_2: #F6F6F6;
+@container_background_color_2: #23272a;
 @container_text_color_2: #cccccc;
 @container_links_color: #99aab5;
 @container_highlight_color: #899ca9;
 @container_outer_border_color: #23272a;
 @container_inner_border_color: #23272a;
 
-@pagination_background_color: @pale-gray-1;
-@pagination_text_color: @gray-2;
-@pagination_hover_color: @white;
+@pagination_background_color: #23272a;
+@pagination_text_color: #cccccc;
+@pagination_hover_color: #99aab5;
 /* End required for proper functioning of the Colors & Theme Creator */
 
 
@@ -1121,7 +1121,7 @@ footer .footer-text a { color: @footer_pb_link_color; text-decoration: @footer_p
 .big_username { font-size: 20pt; }
 .edit-user .title { font-weight: bold; margin-bottom: 4px; }
 .edit-user textarea { padding: 2px; margin: 0; }
-.edit-user input, .edit-user select, .edit-user textarea { display: inline-block; zoom: 1; margin-top: 5px; }
+.edit-user input, .edit-user select, .edit-user textarea { display: inline-block; zoom: 1; margin-top: 5px; background-color: #cccccc; }
 .edit-user .content-box { margin: 10px; padding: 10px; }
 .edit-user .content-box.options { position: relative; zoom: 1; }
 .edit-user .content-box.options table { table-layout: auto; }
@@ -1562,7 +1562,7 @@ input[type="submit"], input[type="button"], button { padding: 2px 6px; min-heigh
 @forms_select_border_radius: @empty;
 @forms_select_text_color: @empty;
 @forms_select_text_font: @empty;
-input[type="text"], input[type="email"], input[type="password"] { color: @forms_field_text_color; font: @forms_field_text_font; background: @forms_field_background; border: @forms_field_border; .rounded-corners(@forms_field_border_radius); width: 300px; height: 20px; padding: 2px; }
+input[type="text"], input[type="email"], input[type="password"] { color: @forms_field_text_color; font: @forms_field_text_font; background: @forms_field_background; border: @forms_field_border; .rounded-corners(@forms_field_border_radius); width: 300px; height: 20px; padding: 2px; background-color: #2C2F33; }
 textarea { color: @forms_area_text_color; font: @forms_area_text_font; background: @forms_area_background; border: @forms_area_border; .rounded-corners(@forms_area_border_radius); resize: none; }
 select { color: @forms_select_text_color; font: @forms_select_text_font; background-color: @forms_select_background; border: @forms_select_border; .rounded-corners(@forms_select_border_radius); height: 26px; padding: 2px; }
 input[type="text"].short { width: 50px; }
@@ -1744,7 +1744,7 @@ input.time { width: 55px; }
 
 .ui-wysiwyg .editors { border-width: 1px; border-style: solid; border-color: @container_inner_border_color; }
 .wysiwyg-tabs li { float: left; position: relative; bottom: 1px; margin: 1px 2px 0 0; list-style: none; background: @tabs_unselected_background; border: 1px solid @container_inner_border_color; border-top-width: 0px; }
-.wysiwyg-tabs li:hover { background: @tabs_hover_background; border: @tabs_hover_border; }
+.wysiwyg-tabs li:hover { background: #23272A; border: @tabs_hover_border; }
 .wysiwyg-tabs li a { color: @tabs_unselected_text_color; text-transform: uppercase; font: @tabs_unselected_text_font; text-decoration: @tabs_unselected_text_decoration; float: left; padding: 5px 15px; }
 .wysiwyg-tabs li.ui-active { background-color: @posts_odd_background_color; background-image: @posts_odd_background_image; background-attachment: @posts_odd_background_attachment; background-repeat: @posts_odd_background_repeat; background-position: @posts_odd_background_position; border: @tabs_selected_border; margin-top: 0px; padding-top: 1px; }
 .wysiwyg-tabs li.ui-active a { color: @tabs_selected_text_color; font: @tabs_selected_text_font; text-decoration: @tabs_selected_text_decoration; }
