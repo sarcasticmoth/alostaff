@@ -1,0 +1,19 @@
+{foreach $[post]}
+	<tr class="buffer"><td></td></tr>
+	<tr id="$[post.content_id]" class="$[post.content_class]">
+		<td class="content">
+			<div class="content-head ui-helper-clearfix">
+				<div class="info">
+					<div class="author float-left">Posted by $[post.created_by]</div>
+					<div class="float-right">$[post.created_on]</div>
+				</div>
+			</div>
+			<div class="message">
+				$[post.message]
+			</div>
+		</td>
+	</tr>
+{/foreach}
+{if !$[post]}
+	<tr class="last"><td class="last center">No Posts were found.</td></tr>
+{/if}

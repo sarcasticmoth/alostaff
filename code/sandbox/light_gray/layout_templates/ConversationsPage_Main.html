@@ -1,0 +1,28 @@
+<div class="container threads" style="padding-bottom: 15px;">
+    <div align="center" style="height: 15px;">
+        <a class="c-thread" href="$[create_conversation_button.href]">
+            <left></left>
+            <right></right>
+            start a conversation
+        </a>
+    </div>
+	<div class="title-bar">
+		<h1>Messages - $[folder_pretty] ($[message_count])</h1>
+	</div>
+	<div class="control-bar ui-helper-clearfix $[scroll_class]">
+		$[search]
+		<div class="controls">
+			$[folder_menu]
+			$[selection_menu]
+			$[action_menu]
+		</div>
+		$[pagination]
+	</div>
+	<div class="content cap-bottom">
+		<table class="list">
+			<tbody class="list-content $[list_class]">
+				$[conversation_list]
+			</tbody>
+		</table>
+	</div>
+</div>

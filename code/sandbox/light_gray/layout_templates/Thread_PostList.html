@@ -1,0 +1,137 @@
+<!-- POST LIST REMODEL © PUNKI 2018 -->
+{foreach $[post]}
+	<tr class="buffer"><td></td></tr>
+	<tr id="$[post.content_id]" class="$[post.content_class] post$[post.id]{if $[viewing_recent_posts]} recent{/if}">
+		<td class="$[post.unblocked_class]">
+			<table role="grid">
+                <tr class="horizontal">
+					<td class="left-panel" rowspan="2">
+						$[post.created_by.miniprofile]
+					</td>
+        			<script>
+            			if ($('.post$[post.id] .left-panel .personal-text').text() == '') {
+                			$('.post$[post.id] .left-panel .personal-text').append('<font color="#000000">. . .</font>');
+            			}
+        			</script>
+                    <td class="mid" rowspan="2"><div></div></td>
+    				<td class="right">
+            			<div class="bulk">
+                			<table style="width: 100%;">
+                    			<tr>
+                        			<td class="p-top">
+                                        {if !$[post.created_by.is_guest]}
+                                        <div class="online-status">
+                                            {if $[post.created_by.is_online]}<i class="fas fa-check-circle"></i> currently online{else}last online $[post.created_by.last_online]{/if}
+                                        </div>
+                                        <div class="p-links">
+                                            {if $[current_user.id] != $[post.created_by.id]}<a href="$[post.created_by.pm_href]" class="tooltip" title="send a message"><i class="fas fa-envelope"></i></a>{/if}{foreach $[post.created_by.custom_field]}{if $[post.created_by.custom_field.name] == "Application"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="application"><i class="fas fa-portrait"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Plotter"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="plotter"><i class="fas fa-clipboard-list"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Thread Tracker"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="thread tracker"><i class="fas fa-clipboard-list"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Want Ad"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="want ad"><i class="fas fa-clipboard-list"></i></a>{/if}{/foreach}
+                                        </div>
+                                        {/if}
+                                        <div class="name">
+                                            {if !$[post.created_by.is_guest]}
+                                            <a href="$[post.created_by.link.href]" class="tooltip" title="@$[post.created_by.username]">
+                                                {if $[post.created_by.name]}$[post.created_by.name]{else}$[post.created_by.username]{/if}
+                                            </a>
+                                            {else}
+                                            $[post.created_by]
+                                            {/if}
+                                        </div>
+                            			<div class="rank"{if $[post.created_by.group]} style="color: #$[post.created_by.group.color];background-color:#EBEBEB; padding:5px; margin-right:425px; border-radius:5px; letter-spacing:3px;"{/if}>
+                                            {if !$[post.created_by.is_guest]}
+                                            {if $[post.created_by.group]}
+                                            $[post.created_by.group.name]
+                                            {else}
+                                            $[post.created_by.rank.name]
+                                            {/if}
+                                            {else}
+                                            guest
+                                            {/if}
+                                        </div>
+                        			</td>
+                        			<td class="user-avatar">
+                            			$[post.created_by.avatar]
+                        			</td>
+                    			</tr>
+                			</table>
+            			</div>
+        			</td>
+				</tr>
+				<tr>
+					<td class="content">
+                        <div class="content-topper">
+                            <div class="p-buttons">
+                                {if $[post.edit_button]}
+                                <a href="$[post.edit_button.href]" class="tooltip" title="edit">
+                                    <i class="fas fa-pencil-alt"></i>
+                                </a>
+                                {/if}
+                                {if $[post.quote_button]}
+                                <a href="$[post.quote_button.href]" class="tooltip" title="quote">
+                                    <i class="fas fa-quote-right"></i>
+                                </a>
+                                {/if}
+                                {if $[current_user.id] != $[post.created_by.id]}
+                                <script>
+                                    $(document).ready(function() {
+                                        $('.button.likes-button > img').after('<i class="fa fa-heart" style="position: relative; top: -1px;"></i>');
+                                        $('.button.likes-button > img').remove();
+                                    });
+                                </script>
+                                $[post.likes.button]
+                                {/if}
+                                $[post.select_options]
+                                <script>
+                                    $('.post-options.button').addClass('fas fa-cog tooltip');
+                                    $('.post-options.button').attr('title','options');
+                                    $('.post-options.button').removeClass('post-options button');
+                                </script>
+                            </div>
+                            $[post.created_on]{if $[viewing_recent_posts]} in <a href="$[post.thread.link.href]">$[post.thread.subject]</a>{/if}
+                        </div>
+						<article>
+							<div class="content-head ui-helper-clearfix">
+								<div class="info">
+									$[post.likes]
+								</div>
+							</div>
+							<h3 class="title aria-hidden">Post by $[post.created_by.name] on $[post.created_on]</h3>
+							<div class="message">$[post.message]</div>
+						</article>
+					</td>
+				</tr>
+                <tr>
+                    <td class="played-by">
+                        {foreach $[post.created_by.custom_field]}
+                        {if $[post.created_by.custom_field.name] == "Played By"}
+                        played by $[post.created_by.custom_field.value]
+                        {/if}
+                        {/foreach}
+                    </td>
+                    <td class="mid"></td>
+                    <td class="p-foot">
+                        {if $[post.edited]}
+                        <div class="p-edited">
+                            edited $[post.edited.date] by $[post.edited.by_user]
+                        </div>
+                        {/if}
+                        {if $[post.created_by.signature]}
+                        <div class="divider"></div>
+                        {/if}
+                        <div class="sig">
+                        	$[post.created_by.signature]
+                        </div>
+                    </td>
+                </tr>
+			</table>
+		</td>
+		{if $[post.is_blocked]}
+			<td class="$[post.blocked_class] content center">
+				<div class="message note pad-bottom">This post is hidden</div>
+				$[post.display_blocked_post_button]
+			</td>
+		{/if}
+	</tr>
+{/foreach}
+{if !$[post]}
+	<tr class="last"><td class="last center" colspan="1">No posts were found.</td></tr>
+{/if}

@@ -1,0 +1,54 @@
+<!-- USER PROFILE REMODEL © PUNKI 2018 -->
+<div class="container show-user profile">
+    <div class="profile-header">
+        <div class="sub" style="margin-bottom: 3px;">
+            @$[user.username]
+        </div>
+        {if $[user.name]}$[user.name]{else}$[user.username]{/if}
+        <div class="sub">
+            {if $[user.group]}
+            <span style="color: #$[user.group.color];">$[user.group.name]</span>
+            {else}
+            $[user.rank.name]
+            {/if}
+        </div>
+        <div class="p-buttons">
+            {if $[edit_profile_button]}
+            <a href="$[edit_profile_button.href]" class="tooltip" title="edit profile">
+                <i class="fas fa-user-edit"></i>
+            </a>
+            {/if}
+            {if $[current_user.id] != $[user.id]}
+            <a href="$[send_message_button.href]" class="tooltip" title="send message">
+                <i class="fas fa-envelope"></i>
+            </a>
+            {/if}
+            $[follow_button]
+            $[options]
+            <script>
+                $('#options-container.button').addClass('fas fa-cog tooltip');
+                $('#options-container.button').attr('title','options');
+                $('#options-container.button').removeClass('post-options button');
+            </script>
+        </div>
+        <div class="online-status">
+            {if $[user.is_online]}
+            <i class="fas fa-check-circle"></i> currently online
+            {else}
+            last online $[user.last_online]
+            {/if}
+        </div>
+    </div>
+    <div class="menus">
+        {foreach $[menu]}
+        <a href="$[menu.href]" class="p-menu{if $[menu.active]} active{/if}">
+            $[menu.text]
+        </a>
+        {/foreach}
+    </div>
+    <div class="content">
+        <div class="inner">
+        	$[content]
+        </div>
+    </div>
+</div>

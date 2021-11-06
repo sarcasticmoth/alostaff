@@ -1,0 +1,106 @@
+$[news]
+<div>
+{foreach $[category]}
+	$[category.anchor]
+	<div class="p-category cat-$[category.id]">
+        <div class="image">
+            <div class="overlay">
+                $[category.display_name]
+            </div>
+        </div>
+        $[category.board_list]
+	</div>
+{/foreach}
+</div>
+<!-- FORUM STATISTICS REMODEL © PUNKI 2018 -->
+{if $[show_stats]}
+	<div class="forum-statistics">
+        <div class="side">
+            <table class="stats">
+                <tr>
+                    <td>
+                        $[total_threads] total thread{if $[total_threads] != 1}s{/if} <i class="fas fa-list-ul"></i>
+                    </td>
+                    <td>
+                        $[total_posts] total post{if $[total_posts] != 1}s{/if} <i class="fas fa-bolt"></i>
+                    </td>
+                    <td>
+                        $[total_members] member{if $[total_members] != 1}s{/if} <i class="fas fa-users"></i>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="lp">
+            <a href="$[last_updated_thread.last_post.created_by.href]" class="user-avatar">
+                $[last_updated_thread.last_post.created_by.avatar]
+            </a>
+            <div>
+                <a class="lp-subject" href="$[last_updated_thread.recent_link.href]">
+                    $[last_updated_thread.subject]
+                </a>
+                <span>
+                    latest updated thread ($[last_updated_thread.last_post.created_on])
+                </span>
+            </div>
+        </div>
+        <div class="recents">
+            <a href="$[recent_posts_link.href]" class="p">
+                <div></div>
+                recent posts
+            </a>
+            <a href="$[recent_threads_link.href]" class="t">
+                <div></div>
+                recently updated threads
+            </a>
+        </div>
+        <table class="online">
+            <tr>
+                <td>
+                    <div class="t">
+                        <span>online now</span>
+                    </div>
+                    <div class="sides">
+                        <div>
+                            $[total_guests_online] guest{if $[total_guests_online] != 1}s{/if}
+                        </div>
+                        <div>
+                            $[total_members_online] member{if $[total_members_online] != 1}s{/if}
+                        </div>
+                        <div style="border-bottom-width: 1px;">
+                            $[total_staff_online] staff
+                        </div>
+                    </div>
+                    <div class="people">
+                        {foreach $[online_user]}
+                        	<a class="info-avies" href="$[online_user.href]" style="float: left; margin-right: 5px; margin-top: 5px;" title="$[online_user.name]">$[online_user.avatar_small]</a>
+                        {/foreach}
+                    </div>
+                </td>
+                <td>
+                    <div class="t" style="margin-left: 0; margin-right: 15px;">
+                        <span>online today</span>
+                    </div>
+                    <div class="sides">
+                        <div>
+                            $[total_guests_online_24] guest{if $[total_guests_online_24] != 1}s{/if}
+                        </div>
+                        <div>
+                            $[total_members_online_24] member{if $[total_members_online_24] != 1}s{/if}
+                        </div>
+                        <div style="border-bottom-width: 1px;">
+                            $[total_staff_online_24] staff
+                        </div>
+                    </div>
+                    <div class="people">
+                        {foreach $[online_user_24]}
+                        	<a class="info-avies" href="$[online_user_24.href]" style="float: left; margin-right: 5px; margin-top: 5px;" title="$[online_user_24.name]">$[online_user_24.avatar_small]</a>
+                        {/foreach}
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="newmember">
+            please welcome $[newest_user] to the fold
+        </div>
+	</div>
+{/if}
