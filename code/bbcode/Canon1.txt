@@ -14,13 +14,13 @@ The kids of characters we knew existed in the series. These are canon.
 [/div]
 [div style="text-align:center;"][b]WIZARDING FAMILIES[/b]
 This is a list of names we have found in the books, movies, games, etc. Basically they exist, but we know little to nothing, so you can take them and make them your own. These are not canon.[/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ADULT CANONS[/div][div align="center"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/4BAWeHv.png" style="max-width:100px;"]
-[div][b]@blaise                                   [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/RptvOBv.png"]
-[b]@charles                                          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/x0XL5iP.png"]
-[b]@harry                                [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/rRBlYAe.png"]
-[b]@parvati                                          [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-[b]@tag                                    [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DECEASED[/div][div align="center"]
-[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/9CbjxnS.jpg" style="max-width:100px;"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]hermione granger-weasley[/b]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/4BAWeHv.png"]
+[div][b]@blaise                                     [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/RptvOBv.png"]
+[b]@charles                                            [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/x0XL5iP.png"]
+[b]@harry                                  [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/rRBlYAe.png"]
+[b]@parvati                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/ENAfjJc.jpg" style="max-width:100px;"]
+[b]@ginny [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DECEASED[/div][div align="center"]
+[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/9CbjxnS.jpg"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]hermione granger-weasley[/b]
 
 19 Sep 1979 - 10 Jun 2025
 ex-Wife to Ronald Weasley
@@ -30,16 +30,16 @@ Killed in Quidditch Finals accident[/div][/td][/tr][tr style="vertical-align:top
 
 1960 - Jul 2022
 Husband to Hestia Jones
-Father to @severus                  , @gabrielle                  , and Abigail
+Father to @severus                    , @gabrielle                    , and Abigail
 
-Murdered by Alastor Draven[/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/Z7pDsG5.jpg"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]marcus flint[/b]
+Murdered by Alastor Draven[/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/Z7pDsG5.jpg" style="max-width:100px;"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]marcus flint[/b]
 
 15 Mar 1974 - Dec 2023
 Husband to Pansy Parkinson
 Father to the Flint children
 Raised (but isn't related to) the middle Flint children
 
-Murdered by Pansy Parkinson[/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/Y0VS0t3.jpg" style="max-width:100px;"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]pansy parkinson[/b]
+Murdered by Pansy Parkinson[/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/Y0VS0t3.jpg"][/div][/td][td][div style="padding:5px;text-align:justify;"][b]pansy parkinson[/b]
 
 08 Dec 1979 - Jan 2024
 Wife to Marcus Flint
@@ -49,4 +49,4 @@ Killed Marcus Flint
 Died in Azkaban[/div][/td][/tr][/tbody][/table][/div][/div][/div][/td][/tr][/tbody][/table][/div]
 [div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 
-[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #921303 !important; [/newclass][newclass=".user-link.group-6"]color: #c0b211 !important; [/newclass][newclass=".user-link.group-7"]color: #090c8f !important; [/newclass][newclass=".user-link.group-8"]color: #008f00 !important; [/newclass][newclass=".user-link.group-10"]color: #ca8158 !important; [/newclass][newclass=".user-link.group-12"]color: #d52096 !important; [/newclass][newclass=".user-link.group-15"]color: #610086 !important; [/newclass][newclass=".user-link.group-18"]color: #362929 !important; [/newclass][newclass=".user-link.group-19"]color: #883992 !important; [/newclass][newclass=".user-link.group-21"]color: #0c1318 !important; [/newclass][newclass=".user-link.group-22"]olor: #75002a !important; [/newclass][newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass][newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass][newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-1"]color: #0e5347 !important; [/newclass]
+[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #921303 !important; [/newclass][newclass=".user-link.group-6"]color: #c0b211 !important; [/newclass][newclass=".user-link.group-7"]color: #090c8f !important; [/newclass][newclass=".user-link.group-8"]color: #008f00 !important; [/newclass][newclass=".user-link.group-10"]color: #ca8158 !important; [/newclass][newclass=".user-link.group-12"]color: #d52096 !important; [/newclass][newclass=".user-link.group-15"]color: #610086 !important; [/newclass][newclass=".user-link.group-18"]color: #362929 !important; [/newclass][newclass=".user-link.group-19"]color: #883992 !important; [/newclass][newclass=".user-link.group-21"]color: #0c1318 !important; [/newclass][newclass=".user-link.group-22"]color: #75002a !important; [/newclass][newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass][newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass][newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-1"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-28"]color: #af8e0b !important; [/newclass]
