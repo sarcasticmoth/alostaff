@@ -19,17 +19,17 @@
 @awards-picture: 'https://i.imgur.com/IN0GQNX.jpg'; /* 50 pixels by 400 pixels */
 @nav-picture: 'https://i.imgur.com/XRePE79.jpg'; /* 300 pixels by 50 pixels */
 @credit-picture: 'https://i.imgur.com/EY9affx.jpg'; /* 500 pixels by 260 pixels */
-@event-picture: 'https://i.imgur.com/F2RHdEy.jpg'; /* 290 pixels by 130 pixels */
-@first-staffer: 'https://i.imgur.com/b9eQFO9.png'; /* 60 x 60 for all six */
-@second-staffer: 'https://i.imgur.com/qFZ7dks.png';
-@third-staffer: 'https://i.imgur.com/qOPYhm3.png';
-@fourth-staffer: 'https://i.imgur.com/FQkt6ID.png';
-@fifth-staffer: 'https://i.imgur.com/QDxpJU0.png';
-@sixth-staffer: 'https://i.imgur.com/tF5WrIT.png';
-@first-award: 'https://i.imgur.com/FYp1fIr.jpg'; /* 160 x 100 MOTM */
-@second-award: 'http://placehold.it/160x100'; /* 160 x 100 TOTM */
-@third-award: 'https://i.imgur.com/W9eflbp.jpg'; /* 160 x 100 COTM */
-@fourth-award: 'http://placehold.it/160x100';
+@event-picture: 'https://i.imgur.com/3GXwanl.jpg'; /* 290 pixels by 130 pixels */
+@first-staffer: 'https://i.imgur.com/9yaBKbB.png'; /* sora */ /* 60 x 60 for all six */
+@second-staffer: 'https://i.imgur.com/zSZHip2.png'; /* lisa */
+@third-staffer: 'https://i.imgur.com/wXOsbOM.png'; /* vanessa */
+@fourth-staffer: 'https://i.imgur.com/OoeY8w3.png'; /* ana */
+@fifth-staffer: 'https://i.imgur.com/l4e7BbC.png'; /* audrey */
+@sixth-staffer: 'https://i.imgur.com/RA4DuQ8.png'; /* seph */
+@first-award: 'https://i.imgur.com/8zn8mPV.jpg'; /* 160 x 100 MOTM */
+@second-award: 'https://i.imgur.com/tqEuYtA.jpg'; /* 160 x 100 TOTM */
+@third-award: 'https://i.imgur.com/SqcmkPj.jpg'; /* 160 x 100 COTM */
+@fourth-award: 'https://i.imgur.com/Xh1hPG8.png'; /* 160 x 100 Special Services*/
 /* @default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; */
 @default-board-image: 'https://i.imgur.com/6ZqzV4U.jpg'; /* 300 pixels by 120 pixels */
 @default-miniprofile-image: 'https://i.imgur.com/iL2MzSm.jpg'; /* 250 pixels by 400 pixels */
@@ -91,7 +91,7 @@
 .p-banner .links { margin-top: 198px; text-align: center; position: relative; z-index: 2; word-spacing: 20px; }
 .p-banner .links a { display: inline-block !important; width: 60px !important; height: 40px !important; background: @pale-gray-1 !important; border: none !important; border-radius: 30px 30px 0px 0px !important; font-family: @decorative-font !important; font-size: 15px !important; line-height: 60px !important; text-align: center !important; padding: 0 !important; margin: 0 !important; float: none !important; color: @gray-1; }
 .p-banner .links a:hover { color: @blue-2; }
-.p-banner .links .alert { color: @blue-2; }
+.p-banner .links .alert { color: #B95065; }
 
 .dashboard { height: 140px; overflow: hidden; margin: 15px; border-left: 4px solid @blue-2; padding-left: 15px; }
 .dashboard .user-avatar { height: 120px; width: 120px; border: 10px solid @pale-gray-3; float: left; }
@@ -101,6 +101,15 @@
 .dashboard .bulk { margin-left: 140px; margin-right: 315px; }
 .dashboard .welcometext { height: 30px; line-height: 30px; text-indent: 30px; text-transform: uppercase; font-family: @small-font; font-size: 12px; letter-spacing: 1px; }
 .dashboard .updates { padding-left: 15px; height: 110px; overflow: auto; font-size: 10px; line-height: 15px; text-align: justify; }
+
+.otmwelcometext { height: 30px; line-height: 30px; text-indent: 30px; text-transform: uppercase; font-family: @small-font; font-size: 12px; letter-spacing: 1px; }
+.otm { height: 190px; overflow: hidden; margin-left: 15px; margin-top: 5px; margin-right: 5px; margin-bottom: 5px; border-left: 4px solid @blue-2; }
+.otm .event { width: 290px; height: 150px; float: left; border: 5px solid @pale-gray-3; background-size: cover; background-position: center; }
+.otm .event .info { margin: -5px 20px 0px 20px; overflow: hidden; background: @pale-gray-1; height: 0px; transition: 0.5s; border: 5px solid @pale-gray-3; border-top: none; font-family: @decorative-font; font-size: 18px; line-height: 110px; text-align: center; text-transform: uppercase; color: @blue-1; letter-spacing: -1px; }
+.otm .event:hover .info { padding-top: 0px; height: 120px;  }
+.otm .bulk { margin-left: 5px; margin-right: 5px; }
+.otm .spacer { float: left; padding: 3px; }
+.otm .otmtext { float: left; width: 300px; text-align:center; height: 30px; line-height: 30px; text-transform: uppercase; font-family: @small-font; font-size: 12px; letter-spacing: 1px; }
 
 .affiliates { background: @pale-gray-2; border: 1px solid @pale-gray-3; border-left: none; border-right: none; padding: 10px 0; text-align: center; line-height: 0; word-spacing: 10px; }
 .affiliates a { display: inline-block; width: 88px; height: 31px; border: 3px solid @pale-gray-3; background-size: cover; background-position: center; }
@@ -1912,7 +1921,7 @@ body:empty .ui-tabMenu ul li { height: 27px; }
 	textarea { font-size: 2em; } 
 }
 
-@images_path: '//storage.proboards.com/forum/images';
+@images_path: '//storage2.proboards.com/forum/images';
 
 /* avatars in online section 
 .info-avies .avatar_size_small img { border-radius: 100%; } */
