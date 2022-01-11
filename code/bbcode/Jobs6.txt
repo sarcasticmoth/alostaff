@@ -12,7 +12,7 @@
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BAKER[/b][/div]
 [i]handles all the baked goods in the shop[/i]
-@jacob                                       
+@jacob                                        
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CANDY MAKER[/b][/div]
 [i]handles all the sweets/candy in the shop[/i]
@@ -43,8 +43,8 @@ FLOREAN FORTESCUE JR. &amp; ABIGAIL FORTESCUE
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@cara                                    - part time
-@felix                                   [/div][/div]
+@cara                                     - part time
+@felix                                    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]FLOURISH &amp; BLOTT'S[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
@@ -53,7 +53,7 @@ FLOREAN FORTESCUE JR. &amp; ABIGAIL FORTESCUE
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@mina                                   [/div][/div]
+@mina                                    [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]GRINGOTT'S WIZARDING BANK[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD GOBLIN[/b][/div]
@@ -70,16 +70,16 @@ in charge of the bank[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CURSE BREAKER[/b][/div]
 [i]travel the world searching for magical treasures[/i]
-@ilija                                
-@nixie                                
-@raleigh                                
-@vanessa         
-@dahlia        [/div][div style="margin-left:10px;margin-right:10px;"]
+@ilija                                 
+@nixie                                 
+@raleigh                                 
+@vanessa          
+@dahlia         [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CURSE BREAKER IN TRAINING[/b][/div]
 [i]training to become curse breakers[/i]          
-@irinarose                               
-@malcolm           
-@brigh          [/div][div style="margin-left:10px;margin-right:10px;"]
+@irinarose                                
+@malcolm            
+@brigh           [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SECURITY HANDLER[/b][/div]
 [i]in charge of the bank's security measures and creatures employed[/i]
 @tag
@@ -92,7 +92,7 @@ in charge of the bank[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SEAMSTRESS[/b][/div]
 [i]tailor robes to sell, and custom fit robes for clients[/i]
-@ophelialee                                 - part time[/div][div style="margin-left:10px;margin-right:10px;"]
+@ophelialee                                  - part time[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SHOPKEEPER[/b][/div]
 [i]employees of the shop, help customers[/i]
 @tag
@@ -125,11 +125,11 @@ in charge of the bank[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TATTOO ARTIST[/b][/div]
 [i]the full fledged and proven tattoo artists in the shop[/i]
-@idris                            
+@idris                             
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPRENTICE TATTOO ARTIST[/b][/div]
 [i]those still learning the art of magical tattooing[/i]
-@blair                           [/div][/div]
+@blair                            [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]OLLIVANDER'S[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
@@ -167,8 +167,8 @@ in charge of the bank[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POTIONEER[/b][/div]
 [i]create potions to sell[/i]
-@sienna  
-@rob  
+@sienna   
+@rob   
 
 [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]TWILFITT AND TATTING'S[/b][/div]
@@ -195,7 +195,7 @@ in charge of the bank[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@lily          
+@lily           
 [/div][/div]
 [/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:1px solid #8B4972;"]KNOCKTURN ALLEY[/div]
@@ -207,7 +207,7 @@ in charge of the bank[/i]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@cas                       
+@cas                        
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SHOPKEEPER[/b][/div]
 [i]employees of the shop, help customers[/i]
@@ -258,7 +258,7 @@ in charge of the bank[/i]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER &amp; HEAD MATCHMAKER[/b][/div]
 [i]owner of the shop and in charge of matchmaking[/i]
-@jimbo                     
+@jimbo                      
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPRENTICE MATCHMAKER[/b][/div]
 [i]learning the art of matchmaking[/i]
@@ -294,11 +294,11 @@ in charge of the bank[/i]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@rusti                     
+@rusti                      
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@penelope          [/div][/div]
+@penelope           [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]THE FOUNTAIN OF FAIR FORTUNE[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
@@ -310,12 +310,12 @@ in charge of the bank[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WAITER/WAITRESS[/b][/div]
 [i]serve food, help customers, and keep things running[/i]
-@nora          [/div][/div]
+@nora           [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]GAMBLIN GALLEONS CASINO[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@pollo                     
+@pollo                      
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD OF SECURITY[/b][/div]
 [i]in charge of the security guards[/i]
@@ -330,7 +330,7 @@ in charge of the bank[/i]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@honey                     
+@honey                      
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WAITER/WAITRESS[/b][/div]
 [i]serve customers, take orders[/i]
@@ -352,10 +352,10 @@ in charge of the bank[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ILLUSTRATOR[/b][/div]
 [i]artists that work on books[/i]
-@clodagh                    [/div][div style="margin-left:10px;margin-right:10px;"]
+@clodagh                     [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUTHOR[/b][/div]
 [i]writers that publish with the shop[/i]
-@clodagh                    [/div][/div]
+@clodagh                     [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]THE PI PÂTISSERIE[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
@@ -364,7 +364,7 @@ DECIMA VECTOR
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BAKER[/b][/div]
 [i]handles all the baked goods in the shop[/i]
-@nova                    [/div][div style="margin-left:10px;margin-right:10px;"]
+@nova                     [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
 @tag[/div][/div]
@@ -384,7 +384,7 @@ DECIMA VECTOR
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@nell                    
+@nell                     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPRENTICE WANDMAKER[/b][/div]
 [i]learning how to make wands[/i]
@@ -396,7 +396,7 @@ DECIMA VECTOR
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@lucrezia 
+@lucrezia  
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]NURSES[/b][/div]
 [i]draw blood, test it, and supply to vampires[/i]
@@ -420,11 +420,11 @@ DECIMA VECTOR
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER AND CHEF[/b][/div]
 [i]owner of the pub and head cook[/i]
-@vasilia                    
+@vasilia                     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDER[/b][/div]
 [i]run the bar and all alcoholic drinks[/i]
-@lyra                    [/div][div style="margin-left:10px;margin-right:10px;"]
+@lyra                     [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]COOK[/b][/div]
 [i]helps out in the kitchen[/i]
 @tag[/div][/div]
@@ -454,7 +454,7 @@ DECIMA VECTOR
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SHOPKEEPER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@samira       [/div][/div]
+@samira        [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]DOMINIC MAESTRO'S[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
@@ -468,21 +468,21 @@ DECIMA VECTOR
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@jimbo                  
+@jimbo                   
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MANAGER[/b][/div]
 [i]run the business day to day[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@nathaniel      [/div][div style="margin-left:10px;margin-right:10px;"]
+@nathaniel       [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]COOK[/b][/div]
 [i]make all the pizzas[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DELIVERY FLYER[/b][/div]
 [i]will delivery pizza anywhere in the UK[/i]
 @newt             
-@nathaniel      [/div][/div]
+@nathaniel       [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]THE HOG'S HEAD[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
@@ -491,7 +491,7 @@ DECIMA VECTOR
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDER[/b][/div]
 [i]run the bar and all alcoholic drinks[/i]
-@ares                  [/div][/div]
+@ares                   [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]HOGSMEADE STATION[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CONDUCTER[/b][/div]
@@ -512,7 +512,7 @@ DECIMA VECTOR
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@kaylee                   - part time[/div][/div]
+@kaylee                    - part time[/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]MADAME PUDDIFOOT'S[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
@@ -521,7 +521,7 @@ DECIMA VECTOR
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARISTA[/b][/div]
 [i]coffee, tea, etc. They supply the drinks[/i]
-@noah                  [/div][div style="margin-left:10px;margin-right:10px;"]
+@noah                   [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PASTRY CHEF[/b][/div]
 [i]they bake all the pastries that are sold[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -539,20 +539,21 @@ DECIMA VECTOR
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPRENTICE VETERINARIAN[/b][/div]
 [i]studying to become a full fledged veterinarian[/i]
-@aidan                  [/div][div style="margin-left:10px;margin-right:10px;"]
+@aidan 
+@peyton[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL CREATURE RESEARCHER[/b][/div]
 [i]research and try to learn more about magical creatures[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPRENTICE RESEARCHER[/b]
 [/div]
 [i]studying to become a magical creature researcher[/i]
-@elijah                  [/div][div style="margin-left:10px;margin-right:10px;"]
+@elijah                   [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CARE TAKER[/b][/div]
 [i]take care of the creatures on a day to day basis[/i]
-@tobias                   - part time[/div][div style="margin-left:10px;margin-right:10px;"]
+@tobias                    - part time[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CAPTURE &amp; RELEASE SPECIALIST[/b][/div]
 [i]in charge of catching creatures in need of care, and releasing them once they are strong enough[/i]
-@bran    [/div][div style="margin-left:10px;margin-right:10px;"]
+@bran     [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SECURITY &amp; SAFETY SPECIALIST[/b][/div]
 [i]ensure the center is safe for creatures and visitors[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]

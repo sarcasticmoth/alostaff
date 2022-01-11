@@ -157,7 +157,9 @@ ELGORT, ansel
 ELORDI, jacob
 [b]@tiernan                                                                                               [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/AHvXOpU.png"]
 [div]EZRA, george
-[b]@rian                                                                                                            [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/PoMOZgU.png"]
+[b]@rian                                                                                                            [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/Tg9lgHu.jpg" style="max-width:100px;"]
+FANNING, elle
+[b]@peyton                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/PoMOZgU.png"]
 FOY, mackenzie
 [b]@yvonne                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/0pHT5vK.png" style="max-width:100px;"]
 FLYNN, brandon
@@ -165,9 +167,9 @@ FLYNN, brandon
 FREE, charlotte
 [b]@thursday                                                            [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/oBTo6BF.png"]
 FRITZ, cosima
-[b]@catsie                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/rTQ8gNF.png" style="max-width:100px;"]
+[b]@catsie                                                            [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/rTQ8gNF.png" style="max-width:100px;"]
 [div]GALLAGHER, aidan
-[b]@gideon                                                                                     [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/Ypj6xun.png"]
+[b]@gideon                                                                                     [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/Ypj6xun.png"]
 GILLAN, karen
 [b]@alyra                                                                                          [/b][/div][/td][td][div][img src="https://i.imgur.com/m2mpnPa.png" style="max-width:100px;"]
 GOSSE, arthur
@@ -175,9 +177,9 @@ GOSSE, arthur
 GRACE, laneya
 [b]@ava                                               [/b][/div][/td][td][div][img src="https://i.imgur.com/JZ6YQLK.png" style="max-width:100px;"]
 GRIFFIN, danny
-[b]@jakke                                                                                          [/b][/div][/td][td][div][img src="https://i.imgur.com/TzcgoJk.png" style="max-width:100px;"]
+[b]@jakke                                                                                          [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/TzcgoJk.png" style="max-width:100px;"]
 HALE, lucy
-[b]@elaine                                                                                          [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/veP1mAp.png"]
+[b]@elaine                                                                                          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/veP1mAp.png"]
 HAMANN, andre
 [b]@jasper                                                                                          [/b][/div][/td][td][div][img src="https://i.imgur.com/j7wcyOd.png" style="max-width:100px;"]
 [div]HARRIS, neil patrick
@@ -185,9 +187,9 @@ HAMANN, andre
 HAYNES, colton
 [b]@raleigh                                                                                         [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/z6LzcFp.png"]
 HEMMINGS, luke
-[b]@lance                                                                                         [/b][/div][/td][td][div][img src="https://i.imgur.com/oag1cWL.png" style="max-width:100px;"]
+[b]@lance                                                                                         [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/oag1cWL.png" style="max-width:100px;"]
 HEUGHAN, sam
-[b]@petri                                                                                       [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/SqbBviR.jpg" style="max-width:100px;"]
+[b]@petri                                                                                       [/b][/div][/td][td][div][img src="https://i.imgur.com/SqbBviR.jpg" style="max-width:100px;"]
 HIDDLESTON, tom
 [b]@luka                               [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/Q0j9ERg.png"]
 [div]HOLBROOK, boyd
@@ -195,13 +197,11 @@ HIDDLESTON, tom
 HOLD, jake
 [b]@ilija                                                                                         [/b][/div][/td][td][div][img src="https://i.imgur.com/RptvOBv.png" style="max-width:100px;"]
 HOLDEN-RIED, kris
-[b]@charles                                                                                         [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/vQ2QAQ5.png"]
+[b]@charles                                                                                         [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/vQ2QAQ5.png"]
 HOLT, claire
-[b]@susanvictoria                                                                                         [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/HSKGJEN.jpg"]
+[b]@susanvictoria                                                                                         [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/HSKGJEN.jpg"]
 HWANG, hyunjin
 [b]@noah                          [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]@tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
 [b]@tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
