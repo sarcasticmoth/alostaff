@@ -10,7 +10,6 @@
         <script>
             $(document).ready(function() {
                 var t = document.getElementById('tooltip-span');
-                //$('.background100').animate({'opacity':'1'}, 1000);
 				
                 $('.avatar-wrapper').addClass('tooltip');
                 $('.user-link').addClass('tooltip');
@@ -37,6 +36,7 @@
 					$(this).attr('title',tooltipContent);
 				});
                 
+                
                 var counter = 0;
                 
                 function getRandomBannerImage()
@@ -44,7 +44,7 @@
                     var member_banners = [
                         // member
                         'https://i.imgur.com/sNvZ3Df.png', // aaron - matthew
-                        'https://i.imgur.com/gXa6CDf.png', // ali - rosie
+//                         'https://i.imgur.com/gXa6CDf.png', // ali - rosie
                         'https://i.imgur.com/P63oaBZ.png', // allie - catariara
                         'https://i.imgur.com/Bkxdt0o.png', // ana - rob
                         'https://i.imgur.com/6j6S49C.png', // audrey - parvati
@@ -56,6 +56,7 @@
                         'https://i.imgur.com/eWuw7uG.png', // dra - rian
                         'https://i.imgur.com/XJEwwHC.png', // eve - adelaide
                         'https://i.imgur.com/BSiFzPE.png', // haise - rue
+                        'https://i.imgur.com/CPhOT9O.jpg', // jenny - bianca
                         'https://i.imgur.com/hpbXWaF.png', // jenny - cas
                         'https://i.imgur.com/1LDmv7g.png', // lisa - elaine
                         'https://i.imgur.com/TRkfxXR.png', // pollo - samuel
@@ -189,12 +190,12 @@
         <div id="staff">
             <div class="picture">
                 <!-- Staffer links and portraits - see Style Sheet to change image url's -->
-				<a href="https://alohomorax0.proboards.com/user/612" class="staffer2 tooltip" title="admin lisa"></a>
                 <a href="https://alohomorax0.proboards.com/user/362" class="staffer1 tooltip" title="admin sora"></a>
+				<a href="https://alohomorax0.proboards.com/user/612" class="staffer2 tooltip" title="admin lisa"></a>
                 <a href="https://alohomorax0.proboards.com/user/1292" class="staffer3 tooltip" title="mod vanessa"></a>
                 <a href="https://alohomorax0.proboards.com/user/1337" class="staffer4 tooltip" title="mod ana"></a>
-                <a href="https://alohomorax0.proboards.com/user/1227" class="staffer5 tooltip" title="mod seph"></a>
-                <a href="https://alohomorax0.proboards.com/user/610" class="staffer6 tooltip" title="mod audrey"></a>
+                <a href="https://alohomorax0.proboards.com/user/610" class="staffer5 tooltip" title="mod audrey"></a>
+                <a href="https://alohomorax0.proboards.com/user/1227" class="staffer6 tooltip" title="mod seph"></a>
             </div>
         </div>
         <div id="awards">
@@ -204,9 +205,9 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            MoTM - ANA
+                            MoTM - DEZ
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/1337" class="award-1 tooltip" title="Member of the Month">
+                        <a href="https://alohomorax0.proboards.com/user/998" class="award-1 tooltip" title="Member of the Month">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -214,9 +215,9 @@
                     </td>
                     <td>
                         <div class="awardee">
-                            ToTM - A LITTLE BIT OF MAGIC
+                            ToTM - DUEL OF THE FATES
                         </div>
-                        <a href="https://alohomorax0.proboards.com/post/96504/thread" class="award-2 tooltip" title="Thread of the Month">
+                        <a href="https://alohomorax0.proboards.com/thread/11172/duel-fates-blaise" class="award-2 tooltip" title="Thread of the Month">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -226,24 +227,24 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            CoTM - LUNA TRELAWNEY
+                            CoTM - BLAISE ZABINI
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/1414" class="award-3 tooltip" title="Character of the Month">
+                        <a href="https://alohomorax0.proboards.com/user/869" class="award-3 tooltip" title="Character of the Month">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
                     </td>
-                    <!--<td>
+                    <td>
                         <div class="awardee">
-                            OTM
+                            SPECIAL SERVICES - VANESSA
                         </div>
-                        <a href="awardeelink" class="award-4 tooltip" title="award title">
+                        <a href="https://alohomorax0.proboards.com/user/1292" class="award-4 tooltip" title="Special Services">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
-                    </td>-->
+                    </td>
                 </tr>
             </table>
         </div>
@@ -267,6 +268,9 @@
                 </a>
                 <a href="https://alohomorax0.proboards.com/board/3/claims-lists">
                     claims
+                </a>
+                <a href="https://alohomora.fandom.com/wiki/Alohomora_Wiki">
+                    alo - wiki
                 </a>
                 <a href="https://alohomorax0.proboards.com/board/198/shops">
                     galleon shop
@@ -321,6 +325,10 @@
                     <i class="fas fa-cog"></i>
                 </a>
                 {/if}
+                <span></span>
+                <a href="/posts/recent" class="tooltip" title="Recent Posts">
+                    <i class="fas fa-th-list"></i>
+                </a>
                 <span></span>
                 {if !$[current_user.is_guest]}
                 <a href="$[logout_link.href]" class="tooltip" title="Log Out" style="margin-bottom: 0;">
@@ -393,14 +401,14 @@
                     $[current_user.avatar]
                 </div>
                 <!-- Event or advertisement, whatever you wanna do -->
-                <a href="EVENTLINK" class="event">
+                <a href="https://alohomorax0.proboards.com/board/460/feast-samhain" class="event">
                     <div class="info">
-                        Operation Matchstick
+                        The Feast of Samhain
                     </div>
                 </a>
                 <div class="bulk">
                     <div class="welcometext">
-                        {if !$[current_user.is_guest]}welcome back, {if $[current_user.name]}$[current_user.name]{else}$[current_user.username]{/if}{else}welcome to <b>eloquence</b>, guest{/if}
+                        {if !$[current_user.is_guest]}welcome back, {if $[current_user.name]}$[current_user.name]{else}$[current_user.username]{/if}{else}welcome to <b>alohomora</b>, guest{/if}
                     </div>
                     <div class="updates">
                         <!-- Put your dated updates here -->
@@ -408,9 +416,48 @@
                         <b>IC</b> MAY 15th 2026 - MAY 31 2027<br>
 						<b>OOC</b> OCTOBER 30 2021 - MAY 31 2022<br>
                         <hr>
+                        <B>1 SEPTEMBER 2026</b><br>
+                        FIRST DAY OF TERM AT NEW SCHOOLS<BR>
+                        <b>1 JUNE TO 31 AUGUST 2026</b><br>
+                        SUMMER BREAK<br>
+                        <b>EARLY JUNE 2026</B>
+                        <br>OWL AND NEWT EXAMS<br>
                         <b>15 MAY 2026</b><br>
                         HOGWARTS FALLS
                     </div>
+                </div>
+            </div>
+            <div class="otmwelcometext">awards of the year - 2021</div>
+            <div class="otm">
+                <div class="bulk">
+                    <div class="event" style="background-image: url('https://i.imgur.com/opLixfI.jpg');">
+                    <div class="info">
+                        <a href="https://alohomorax0.proboards.com/user/1336">addy</a>&<a href="https://alohomorax0.proboards.com/user/1335">brigh</a>
+                    </div>
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="event" style="background-image: url('https://i.imgur.com/V0vH4wt.jpg');">
+                    <a href="https://alohomorax0.proboards.com/user/1335">
+                    <div class="info">
+                        brigh o'dalaigh
+                    </div>
+                	</a>
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="event" style="background-image: url('https://i.imgur.com/41LLVPJ.jpg');">
+                    <a href="https://alohomorax0.proboards.com/user/1419">
+                    <div class="info">
+                        jenny
+                    </div>
+                	</a>
+                    </div>
+                </div>
+                <div class="bulk">
+                    <div class="otmtext">#relationshipgoals</div>
+                    <div class="spacer"></div>
+                    <div class="otmtext">best character development</div>
+                    <div class="spacer"></div>
+                    <div class="otmtext">most enchanting member</div>
                 </div>
             </div>
             <div id="header">

@@ -65,8 +65,8 @@
 #awards .award-4 { background-image: url(@fourth-award); background-size: cover; background-position: center; }
 #awards .overlay { opacity: 0; height: 100%; transition: 0.3s; background: rgba(255,255,255,0.6); font-size: 25px; line-height: 100px; text-align: center; color: @blue-1; }
 #awards a:hover .overlay { opacity: 1; }
-#nav { position: fixed; width: 300px; height: 350px; box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.4); background: @pale-gray-1; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 10000; display: none; }
-#nav .table { padding: 25px; height: 250px; }
+#nav { position: fixed; width: 300px; height: 375px; box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.4); background: @pale-gray-1; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 10000; display: none; }
+#nav .table { padding: 25px; height: 275px; }
 #nav a { height: 24px; border: 1px solid @pale-gray-3; margin-bottom: 6px; background: @pale-gray-2; display: block; line-height: 24px; text-indent: 7px; font-size: 10px; font-family: @small-font; letter-spacing: 1px; color: @gray-2; text-transform: uppercase; }
 #nav a:hover { text-indent: 14px; background: @pale-gray-1; }
 #nav .picture { height: 50px; background-image: url(@nav-picture); background-size: cover; background-position: center; }
