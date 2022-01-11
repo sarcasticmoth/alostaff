@@ -41,21 +41,21 @@ The animal you turn into will be the same as your Patronus (if you wish for it t
 [/ul]We don’t require characters to go through all of this in character, but if you want to have an existing character start to learn how to become an Animagi it could be fun and interesting to roleplay all of this out! It’s entirely up to you.
 [/spoiler]
 
-@aerick                                               - python
-@aidan                               - irish setter
-@aofe                 - mink
-@ava                       - coyote
-@cashel                   - golden eagle
-@clodagh                              - mouse
-@jasper                           - tiger
-@jakke             - eurasian lynx
-@nixie                                               - fox
-@petri                   - dove
-@renfri                                        - black jaguar
-@wormwood                                - hare
-@shawn                                               - german shephard
-@susanvictoria                                               - miniature pony
-@tiernan               - osprey
+@aerick                                                  - python
+@aidan                                  - irish setter
+@aofe                    - mink
+@ava                          - coyote
+@cashel                      - golden eagle
+@clodagh                                 - mouse
+@jasper                              - tiger
+@jakke                - eurasian lynx
+@nixie                                                  - fox
+@petri                      - dove
+@renfri                                           - black jaguar
+@wormwood                                   - hare
+@shawn                                                  - german shephard
+@susanvictoria                                                  - miniature pony
+@tiernan                  - osprey
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ANIMAL AFFINITY[/div]
@@ -65,8 +65,8 @@ cannot be Druid[/div]
 
 Individuals with this ability have an affinity for animals of a certain type. They can easily understand some thoughts and feelings of the animal they are more connected to. Understanding and being able to communicate with animals of your affinity does give you a higher skill to control/train/tame/etc these animals then a non-affinity person. Individuals may only have one type of animal. (Example, you can have an affinity toward all dogs or all felines but not both.) You are also limited to Non-magical or Magical. (Example, you can have a dragon affinity but it does not permit you to understand lizards and vice versa.)
 
-@brody        - owls
-@rowena - butterflies
+@brody           - owls
+@rowena   - butterflies
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]CLAIRVOYANT[/div]
@@ -105,11 +105,11 @@ Each Clairvoyant is unique in how their power manifests, so listed below are all
 [/ul][b][div style="text-align:center;"][b]TRIGGERS[/b][/div][/b]The Inner Eye is a very sensitive magical sense. So sensitive that it is able to pick up on the powers of the universe and see the future, a task that even the most accomplished of witches and wizards have failed to duplicate. Understandably many clairvoyants struggle to control their powers. Each person is unique in what may or may not cause them to lose control, but everyone has something (referred to as a ‘Trigger’). Sometimes it can be the most mundane of things. Simple daily tasks, certain emotions, even the company of particular individuals. Clairvoyants can learn to overcomer their triggers with practice and time (meditation is a great way to learn control.). It takes years of studying and commitment.
 [/spoiler]
 
-@irinarose     
-@luna      
-@phoebe      
-@selene      
-@xiulan      
+@irinarose        
+@luna         
+@phoebe         
+@selene         
+@xiulan         
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]LEGILIMENCY[/div]
@@ -154,11 +154,12 @@ These are abilities that exist but aren’t permitted to be used without staff a
 [/ul]
 [/spoiler]
 
-@asher    
-@bianca    
-@blaise    
-@elaine    
-@jacob    
+@asher       
+@bianca       
+@blaise       
+@elaine 
+@fenrir      
+@jacob       
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]METAMORPHMAGUS[/div]
@@ -179,10 +180,10 @@ Metamorphagi have the ability to change their appearance at will. They are extre
 [/ul]
 [/spoiler]
 
-@calliope    
-@dianab    
-@edward    
-@fae    
+@calliope       
+@dianab       
+@edward       
+@fae       
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]OCCLUMENCY[/div]
@@ -217,20 +218,20 @@ Listed below are all the currently established forms of Occlumency used on the s
 [/ul]
 [/spoiler]
 
-@aerick    
-@anastasia    
-@asher    
-@bianca    
-@blaise    
-@cas
-@clarence    
-@dianab    
-@felixt    
-@harry    
-@jasper    
-@leonardo    
+@aerick       
+@anastasia       
+@asher       
+@bianca       
+@blaise       
+@cas   
+@clarence       
+@dianab       
+@felixt       
+@harry       
+@jasper       
+@leonardo       
 
 [/div]
 [/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 
-[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #921303 !important; [/newclass][newclass=".user-link.group-6"]color: #c0b211 !important; [/newclass][newclass=".user-link.group-7"]color: #090c8f !important; [/newclass][newclass=".user-link.group-8"]color: #008f00 !important; [/newclass][newclass=".user-link.group-10"]color: #ca8158 !important; [/newclass][newclass=".user-link.group-12"]color: #d52096 !important; [/newclass][newclass=".user-link.group-15"]color: #610086 !important; [/newclass][newclass=".user-link.group-18"]color: #362929 !important; [/newclass][newclass=".user-link.group-19"]color: #883992 !important; [/newclass][newclass=".user-link.group-21"]color: #0c1318 !important; [/newclass][newclass=".user-link.group-22"]olor: #75002a !important; [/newclass][newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass][newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass][newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-1"]color: #0e5347 !important; [/newclass]
+[newclass=".user-link"]text-transform:uppercase !important;[/newclass][newclass=".user-link.group-5"]color: #921303 !important; [/newclass][newclass=".user-link.group-6"]color: #c0b211 !important; [/newclass][newclass=".user-link.group-7"]color: #090c8f !important; [/newclass][newclass=".user-link.group-8"]color: #008f00 !important; [/newclass][newclass=".user-link.group-10"]color: #ca8158 !important; [/newclass][newclass=".user-link.group-12"]color: #d52096 !important; [/newclass][newclass=".user-link.group-15"]color: #610086 !important; [/newclass][newclass=".user-link.group-18"]color: #362929 !important; [/newclass][newclass=".user-link.group-19"]color: #883992 !important; [/newclass][newclass=".user-link.group-21"]color: #0c1318 !important; [/newclass][newclass=".user-link.group-22"]color: #75002a !important; [/newclass][newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass][newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass][newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-1"]color: #0e5347 !important; [/newclass][newclass=".user-link.group-28"]color: #af8e0b !important; [/newclass]
