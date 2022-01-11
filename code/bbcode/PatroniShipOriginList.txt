@@ -13,92 +13,92 @@ to have a Patronus added just use this code:
 [/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]A, B, C, D[/div]
-[div style="padding-left:10px;padding-right:10px;"]@addy                                    – leopard 
-@aerick                                    - giant python
-@aidan                                    – irish setter
-@albus                                    - stag
-@anastasia                                    – rattlesnake
-@aofe                                    - mink
-@astrid                                    - Arctic fox
-@auguste                                    - white tiger
-@bianca                                    – shark
-@blaise                                    - lion
-@brigh                                    - dapple grey mare
-@brody                                    - barred owl
-@cade                                    – alligator
-@camila                                    - nightingale
-@cara                                    - sheepdog
-@cas                                    - magpie
-@cashel                                    - golden eagle
-@chrissy                                    - non-corporeal
-@claire                                    - european badger
-@clarence                                    - Wampus cat
-@cordelia                                    - rabbit
-@dana                                    - russian white cat
-@crimson1                                    - bald eagle
-@donatella                                    - hare
+[div style="padding-left:10px;padding-right:10px;"]@addy                                     – leopard 
+@aerick                                     - giant python
+@aidan                                     – irish setter
+@albus                                     - stag
+@anastasia                                     – rattlesnake
+@aofe                                     - mink
+@astrid                                     - Arctic fox
+@auguste                                     - white tiger
+@bianca                                     – shark
+@blaise                                     - lion
+@brigh                                     - dapple grey mare
+@brody                                     - barred owl
+@cade                                     – alligator
+@camila                                     - nightingale
+@cara                                     - sheepdog
+@cas                                     - magpie
+@cashel                                     - golden eagle
+@chrissy                                     - non-corporeal
+@claire                                     - european badger
+@clarence                                     - Wampus cat
+@cordelia                                     - rabbit
+@dana                                     - russian white cat
+@crimson1                                     - bald eagle
+@donatella                                     - hare
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]E, F, G, H[/div]
-[div style="padding-left:10px;padding-right:10px;"]@nell                               - shoebill
-@elijah                               - jackalope
-@rob                               - wolf
-@ezekiel                               - american bulldog
-@felixt                               - dolphin
-@nottingham                               - gray wolf
-@gideon                               - raven
-@lockhart                               - Peacock
-@ginny                               - horse
-@grey                               - crow
-@hazel                               - cobra
-@harper                               - tabby cat
-@harry                               - stag
-@seph                               - Ocelot
+[div style="padding-left:10px;padding-right:10px;"]@nell                                - shoebill
+@elijah                                - jackalope
+@rob                                - wolf
+@ezekiel                                - american bulldog
+@felixt                                - dolphin
+@nottingham                                - gray wolf
+@gideon                                - raven
+@lockhart                                - Peacock
+@ginny                                - horse
+@grey                                - crow
+@hazel                                - cobra
+@harper                                - tabby cat
+@harry                                - stag
+@seph                                - Ocelot
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]I, J, K, L[/div]
-[div style="padding-left:10px;padding-right:10px;"]@iliana                              - northern white-faced owl
-@irinarose                              - northern inuit dog
-@jacob                              - chipmunk
-@jamesp                              - hippogriff
-@jimmie                              - dolphin
-@jasper                              - tiger
-@jimbo                              - dove
-@kaylee                              - hen
-@layla                              – robin 
-@leonardo                              – greyhound
-@lily                              - St. Bernard
+[div style="padding-left:10px;padding-right:10px;"]@iliana                               - northern white-faced owl
+@irinarose                               - northern inuit dog
+@jacob                               - chipmunk
+@jamesp                               - hippogriff
+@jimmie                               - dolphin
+@jasper                               - tiger
+@jimbo                               - dove
+@kaylee                               - hen
+@layla                               – robin 
+@leonardo                               – greyhound
+@lily                               - St. Bernard
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]M, N, O, P[/div]
-[div style="padding-left:10px;padding-right:10px;"]@maxima                             - cornish rex
-@milo    - Siberian Cat
-@mina                             - leopardess
-@nathaniel                             - raven
-@nixie                             - Hippogriff
-@ondina                             - wolf spider
-@ophelialee                             - turkish van cat
-@parvati                             - mongoose
-@penelope                             - dragonfly
-@priscilla                             - corncrake
+[div style="padding-left:10px;padding-right:10px;"]@maxima                              - cornish rex
+@milo     - Siberian Cat
+@mina                              - leopardess
+@nathaniel                              - raven
+@nixie                              - Hippogriff
+@ondina                              - wolf spider
+@ophelialee                              - turkish van cat
+@parvati                              - mongoose
+@penelope                              - dragonfly
+@priscilla                              - corncrake
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]Q, R, S, T[/div]
-[div style="padding-left:10px;padding-right:10px;"]@raphael                             - hedgehog
-@renard                             - red fox
-@vanessa                             – russian wolfhound
-@samira                             - greater kudu
-@shawn                             - german shepherd
-@sienna                             - swan
-@simon                             - brown bear
-@steve                             - goose
-@susanvictoria                             - miniature horse
-@tamatha                             - quail
-@tobias                             - ferret
-@vivian  - hare
-@yorik   - rat
+[div style="padding-left:10px;padding-right:10px;"]@raphael                              - hedgehog
+@renard                              - red fox
+@vanessa                              – russian wolfhound
+@samira                              - greater kudu
+@shawn                              - german shepherd
+@sienna                              - swan
+@simon                              - brown bear
+@steve                              - goose
+@susanvictoria                              - miniature horse
+@tamatha                              - quail
+@tobias                              - ferret
+@vivian   - hare
+@yorik    - rat
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]U, V, W[/div]
-[div style="padding-left:10px;padding-right:10px;"]@victoire                             - hawk
+[div style="padding-left:10px;padding-right:10px;"]@victoire                              - hawk
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]X, Y, Z[/div]
-[div style="padding-left:10px;padding-right:10px;"]@zen                             - bat
+[div style="padding-left:10px;padding-right:10px;"]@zen                              - bat
 [/div][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="margin-left:10px;margin-right:10px;"]
 [/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]ORIGIN CLAIM[/div]
 [div style="padding:10px;text-align:justify;"]This is a list of where everyone is from -- it's just for fun to know who is from the same place! The official claim is on the Master List.
@@ -113,11 +113,11 @@ CODE FOR NORTH AMERICA:
 [/code]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]AFRICA[/div]
-[div style="padding-left:10px;padding-right:10px;"]@yara                                      - Cairo, [b]Egypt[/b]
-@yas                                      - Cairo, [b]Egypt[/b]
+[div style="padding-left:10px;padding-right:10px;"]@yara                                       - Cairo, [b]Egypt[/b]
+@yas                                       - Cairo, [b]Egypt[/b]
 
-@asher                                [b] - [/b]Cape Town, [b]South Africa[/b]
-@hazel                                [b] - [/b]Cape Town, [b]South Africa[/b]
+@asher                                 [b] - [/b]Cape Town, [b]South Africa[/b]
+@hazel                                 [b] - [/b]Cape Town, [b]South Africa[/b]
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ASIA AND MIDDLE EAST[/div]
 [div style="padding-left:10px;padding-right:10px;"]
@@ -125,120 +125,115 @@ CODE FOR NORTH AMERICA:
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]AUSTRALIA AND NEW ZEALAND[/div]
 [div style="padding-left:10px;padding-right:10px;"]
-@milo    - [b]Australia[/b]
+@milo     - [b]Australia[/b]
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]EUROPE[/div]
 [div style="padding-left:10px;padding-right:10px;"]
-@sienna                    - brussels, [b]belgium[/b]
+@sienna                     - brussels, [b]belgium[/b]
 
-@iliana                    - kaisieva gradina, [b]bulgaria[/b]
-@irinarose                    - kaisieva gradina, [b]bulgaria[/b]
+@iliana                     - kaisieva gradina, [b]bulgaria[/b]
+@irinarose                     - kaisieva gradina, [b]bulgaria[/b]
 
-@anastasia                    - Prague, [b]Czech Republic[/b]
-@cas                    - Prague, [b]Czech Republic[/b]
+@anastasia                     - Prague, [b]Czech Republic[/b]
+@cas                     - Prague, [b]Czech Republic[/b]
 
-@shawn                    - london, [b]england[/b]
-@cara                    - [b]england[/b]
-@dianab                    - [b]england[/b]
-@jim                    - [b]england[/b]
-@jimmie                    - [b]england[/b]
-@jimbo                    - [b]england[/b]
-@elaine                    - radlett, [b]england[/b]
-@renard                    - [b]england[/b]
-@bryelle                    - [b]england[/b]
-@maxima                    - ottery st catchpole, [b]england[/b]
-@layla                    - london, [b]england[/b]
-@octavian                    - [b]england[/b]
-@beatrice                    - fulham, london, [b]england[/b]
-@lestrange                    - [b]england[/b]
-@ariadne                    - [b]england[/b]
-@ares                    - [b]england[/b]
-@lockhart                    - london, [b]england[/b]
-@sav                    - knightsbridge, [b]england[/b]
-@mina                    - [b]england[/b]
-@parvati                    - knightsbridge, [b]england[/b]
-@dana                    - knightsbridge, london, [b]england[/b]
-@albus                    - godric’s hollow, [b]england[/b] 
-@harry                    - godric's hollow, [b]england[/b]
-@jamesp                    - godric's hollow, [b]england[/b]
-@gideon                    - godric's hollow, [b]england[/b]
-@ginny                    - ottery st catchpole, [b]england[/b]
-@lily                    - godric’s hollow, [b]england[/b] 
-@donatella                    - Godric’s Hollow, England
-@frankie                    - godric's hollow, [b]england[/b]
-@nell                    - godric's hollow, [b]england[/b]
-@raphael                    - Godric's Hollow, [b]England[/b]
-@priscilla                    - oxshott, surrey, [b]england[/b]
-@addy                    – london, [b]england[/b]
-@claire                    - [b]england[/b]
-@grey                    - [b]england[/b]
-@felixt                    - Guildford, Surrey England 
-@ophelialee                    - guildford, [b]england[/b]
-@cade                    – surrey, [b]england[/b]
-@honey                    - leicester, [b]england[/b]
-@jasper                    - wiltshite, [b]england[/b]
-@claudia                    -  winchester,[b]england[/b]
-@tobias                    - winchester, [b]england[/b]
-@victoire                    - tinworth, [b]england[/b]
-@harper                    - [b]england[/b]
-@ondina                    - [b]england[/b]
-@rosie                    - [b]england[/b]
-@lusie                    - windsor, [b]england[/b]
-@susanvictoria                    - windsor, [b]england[/b]
-@blaise                    - [b]england[/b]
-@samira                    - tower hamlets, [b]england[/b]
-@phoebe                    - Ottery St. Catchpole, [b]england[/b]
-@vivian  - ottery st catchpole, [b]england[/b]
+@shawn                     - london, [b]england[/b]
+@cara                     - [b]england[/b]
+@dianab                     - [b]england[/b]
+@jim                     - [b]england[/b]
+@jimmie                     - [b]england[/b]
+@jimbo                     - [b]england[/b]
+@elaine                     - radlett, [b]england[/b]
+@renard                     - [b]england[/b]
+@bryelle                     - [b]england[/b]
+@maxima                     - ottery st catchpole, [b]england[/b]
+@layla                     - london, [b]england[/b]
+@octavian                     - [b]england[/b]
+@beatrice                     - fulham, london, [b]england[/b]
+@lestrange                     - [b]england[/b]
+@ariadne                     - [b]england[/b]
+@ares                     - [b]england[/b]
+@lockhart                     - london, [b]england[/b]
+@mina                     - [b]england[/b]
+@parvati                     - knightsbridge, [b]england[/b]
+@dana                     - knightsbridge, london, [b]england[/b]
+@albus                     - godric’s hollow, [b]england[/b] 
+@harry                     - godric's hollow, [b]england[/b]
+@jamesp                     - godric's hollow, [b]england[/b]
+@gideon                     - godric's hollow, [b]england[/b]
+@ginny                     - ottery st catchpole, [b]england[/b]
+@lily                     - godric’s hollow, [b]england[/b] 
+@donatella                     - Godric’s Hollow, England
+@frankie                     - godric's hollow, [b]england[/b]
+@nell                     - godric's hollow, [b]england[/b]
+@raphael                     - Godric's Hollow, [b]England[/b]
+@priscilla                     - oxshott, surrey, [b]england[/b]
+@addy                     – london, [b]england[/b]
+@claire                     - [b]england[/b]
+@grey                     - [b]england[/b]
+@felixt                     - Guildford, Surrey England 
+@ophelialee                     - guildford, [b]england[/b]
+@cade                     – surrey, [b]england[/b]
+@honey                     - leicester, [b]england[/b]
+@jasper                     - wiltshite, [b]england[/b]
+@tobias                     - winchester, [b]england[/b]
+@victoire                     - tinworth, [b]england[/b]
+@harper                     - [b]england[/b]
+@ondina                     - [b]england[/b]
+@susanvictoria                     - windsor, [b]england[/b]
+@blaise                     - [b]england[/b]
+@samira                     - tower hamlets, [b]england[/b]
+@phoebe                     - Ottery St. Catchpole, [b]england[/b]
+@vivian   - ottery st catchpole, [b]england[/b]
 
-@tamatha                    - bourges, [b]france[/b]
-@auguste                    - le Mans, [b]France[/b]
-@mavis                    - Paris, [b]France[/b]
+@tamatha                     - bourges, [b]france[/b]
+@auguste                     - le Mans, [b]France[/b]
+@mavis                     - Paris, [b]France[/b]
 
-@aidan                    – [b]Hy-Brasil[/b]
-@aofe                    - [b]Hy-Brasil[/b]
-@cashel                    - [b]Hy-Brasil[/b]
+@aidan                     – [b]Hy-Brasil[/b]
+@aofe                     - [b]Hy-Brasil[/b]
+@cashel                     - [b]Hy-Brasil[/b]
 
-@nixie                    - Castlebar, [b]Ireland[/b]
-@brigh                    - Galway, Ireland 
+@nixie                     - Castlebar, [b]Ireland[/b]
+@brigh                     - Galway, Ireland 
 
-@emrys                    - [b]Netherlands[/b]
-@seph                    - Workum, Friesland, [b]the Netherlands[/b]
+@emrys                     - [b]Netherlands[/b]
+@seph                     - Workum, Friesland, [b]the Netherlands[/b]
 
-@fenrir    - [b]russia[/b]
+@fenrir     - [b]russia[/b]
 
-@cordelia                    - [b]scotland[/b]
-@johanson                    - [b]scotland[/b]
+@cordelia                     - [b]scotland[/b]
+@johanson                     - [b]scotland[/b]
 
-@leonardo                    - Ceuta, [b]Spain[/b]
+@leonardo                     - Ceuta, [b]Spain[/b]
 
-@simon                    - odense, [b]sweden[/b]
-@astrid                    - Stockholm, Sweden
+@simon                     - odense, [b]sweden[/b]
+@astrid                     - Stockholm, Sweden
 
-@idris                    - [b]wales[/b]
-@nathaniel                    - [b]wales[/b]
-@vanessa                    - [b]wales[/b]
+@idris                     - [b]wales[/b]
+@nathaniel                     - [b]wales[/b]
+@vanessa                     - [b]wales[/b]
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NORTH AMERICA[/div]
-[div style="padding-left:10px;padding-right:10px;"]@elijah                   - los angeles, [b]california[/b] usa
-@alyra                   - los angeles, [b]california[/b] USA
-@chrissy                   - pasadena, [b] california[/b] usa
-@thursday                   - Beverly Hills, [b]California[/b] USA
-@ezekiel                   - atlanta, [b]georgia[/b] usa
-@zen                   - atlanta, [b]georgia[/b] usa
-@kaylee                   - kauai, [b]hawaii[/b] usa
-@yvonne                   - davenport, [b]iowa[/b] usa
-@crimson1                   - [b]ohio[/b] usa
-@clarence                   - tahlequah, [b]oklahoma[/b] usa
-@aerick                   - brooklyn, [b]new york[/b] usa
-@jacob                   - manhattan, [b]new york[/b] usa
-@nottingham                   - sleepy hollow, [b]new york[/b] usa
-@brody                   - lewiston, [b]maine,[/b] usa
+[div style="padding-left:10px;padding-right:10px;"]@elijah                    - los angeles, [b]california[/b] usa
+@chrissy                    - pasadena, [b] california[/b] usa
+@thursday                    - Beverly Hills, [b]California[/b] USA
+@ezekiel                    - atlanta, [b]georgia[/b] usa
+@zen                    - atlanta, [b]georgia[/b] usa
+@kaylee                    - kauai, [b]hawaii[/b] usa
+@yvonne                    - davenport, [b]iowa[/b] usa
+@crimson1                    - [b]ohio[/b] usa
+@clarence                    - tahlequah, [b]oklahoma[/b] usa
+@aerick                    - brooklyn, [b]new york[/b] usa
+@jacob                    - manhattan, [b]new york[/b] usa
+@nottingham                    - sleepy hollow, [b]new york[/b] usa
+@brody                    - lewiston, [b]maine,[/b] usa
 
-@steve                   - quebec, [b]canada[/b]
+@steve                    - quebec, [b]canada[/b]
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SOUTH AND CENTRAL AMERICA[/div]
-[div style="padding-left:10px;padding-right:10px;"]@camila                   - córdoba, [b]argentina[/b]
-@bianca                   - santiago, [b]chile[/b]
+[div style="padding-left:10px;padding-right:10px;"]@camila                    - córdoba, [b]argentina[/b]
+@bianca                    - santiago, [b]chile[/b]
 [/div][/div]
 
 [/div][/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]

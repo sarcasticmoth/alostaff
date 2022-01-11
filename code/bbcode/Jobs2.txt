@@ -508,7 +508,7 @@ Acts in accordance to the Wizard Laws, represents the Ministry[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INVESTIGATOR[/b][/div]
 [i]Investigating the outbreak of prisoners; what caused it and how to fix it[/i]
-@alyra                                
+@tag                
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AZKABAN RESTRAINT DEVELOPER[/b][/div]
 [i]Charged with how to keep the prisoners restrained in Azkaban[/i]
