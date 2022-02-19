@@ -254,11 +254,11 @@ LERMAN, logan
 LILWALL, katrina
 [b]@eeva                                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/rrmxRFc.png" style="max-width:100px;"]
 [div]LLOYD, harry
-[b]@felixt                                                                                       [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/WdRKqti.png"]
+[b]@felixt                                                                                       [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/2FEzX1Q.jpg"]
+LUDWIG, alexander
+[b]@canaan                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/WdRKqti.png"]
 LUOSTARINEN, jessica
-[b]@virvatuli                                                                                            [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
+[b]@virvatuli                                                                                            [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
 [b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]M,N,O,P[/div]
