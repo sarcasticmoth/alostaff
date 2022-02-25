@@ -2,52 +2,52 @@
 [b]IMPORTANT INFORMATION FOR THE 2026-2027 SCHOOL YEAR:[/b]
 All Hogwarts students are attending another school as Hogwarts is rebuilt. You will find the school they are attending next to their name.
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6B8F00;"]HOGWARTS LEADERSHIP[/div][div align="center"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td colspan="4"][div align="center"][table style="text-align:center;"][tbody][tr][td]headmaster[/td][td]deputy headmaster[/td][/tr][tr][td][div][img src="https://i.imgur.com/A15sHdi.png" style="max-width:100px;"]
-[b]MINERVA MCGONAGALL[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-[b]@tag[/b][/div][/td][/tr][/tbody][/table][/div][/td][/tr][tr style="vertical-align:top;"][td]gryffindor[/td][td]hufflepuff[/td][td]ravenclaw[/td][td]slytherin[/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/rRBlYAe.png"]
-[div][b]@parvati                                                [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/PgTF8dS.png" style="max-width:100px;"]
-[b]@shawn                                                [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/L4Ue17q.png"]
-[b]@aymeric                                                [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/4BAWeHv.png"]
-[b]@blaise                                                [/b][/div][/td][/tr][/tbody][/table][/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6B8F00;"]HOGWARTS LEADERSHIP[/div][div align="center"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td colspan="4"][div align="center"][table style="text-align:center;"][tbody][tr][td]headmaster[/td][td]deputy headmaster[/td][/tr][tr][td][div][img style="max-width:100px;" src="https://i.imgur.com/A15sHdi.png"]
+[b]MINERVA MCGONAGALL[/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
+[b]@tag[/b][/div][/td][/tr][/tbody][/table][/div][/td][/tr][tr style="vertical-align:top;"][td]gryffindor[/td][td]hufflepuff[/td][td]ravenclaw[/td][td]slytherin[/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/rRBlYAe.png" style="max-width:100px;"]
+[div][b]@parvati                                                 [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/PgTF8dS.png" style="max-width:100px;"]
+[b]@shawn                                                 [/b][/div][/td][td][div][img src="https://i.imgur.com/L4Ue17q.png" style="max-width:100px;"]
+[b]@aymeric                                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/4BAWeHv.png"]
+[b]@blaise                                                 [/b][/div][/td][/tr][/tbody][/table][/div]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6B8F00;"]4th YEARS[/div][div align="center"]
 [div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div style="padding:5px;text-align:justify;"]none        [/div][/td][/tr][/tbody][/table]
 [/div][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6B8F00;"]5th YEARS[/div][div align="center"]
-[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div style="padding:5px;text-align:justify;"]@geethanjali          - Homeschool
-@lyka  - Ilvermorny
-@oliwia                                  &nbsp;- Beauxbatons
+[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div style="padding:5px;text-align:justify;"]@geethanjali           - Homeschool
+@lyka   - Ilvermorny
+@oliwia                                   &nbsp;- Beauxbatons
 [/div][/td][/tr][/tbody][/table]
 [/div][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6B8F00;"]6th YEARS[/div][div align="center"]
-[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div style="padding:5px;text-align:justify;"]@anton     -&nbsp;Ilvermorny
-@atticus          - Ilvermorny
-@brody              - Ilvermorny
-@chrissy              - Ilvermorny
-@dasha              - Beauxbatons
-@gideon              - Ilvermorny
-@lea              - Ilvermorny
-@rian              - Ilvermorny
-@richard             &nbsp;- Ilvermorny
-@sunday              - Ilvermorny
-@yvonne              - Ilvermorny
+[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div style="padding:5px;text-align:justify;"]@anton      -&nbsp;Ilvermorny
+@atticus           - Ilvermorny
+@brody               - Ilvermorny
+@chrissy               - Ilvermorny
+@dasha               - Beauxbatons
+@georgie  - Ilvermorny
+@gideon               - Ilvermorny
+@lea               - Ilvermorny
+@rian               - Ilvermorny
+@richard              &nbsp;- Ilvermorny
+@sunday               - Ilvermorny
+@yvonne               - Ilvermorny
 [/div][/td][/tr][/tbody][/table]
 [/div][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6B8F00;"]7th YEARS[/div][div align="center"]
-[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div style="padding:5px;text-align:justify;"]@arlo              - Ilvermorny
-@caillen              - Homeschool
-@catsie            &nbsp;- Durmstrang
-@charlie              - Ilvermorny
-@evy              - Beauxbatons
-@friday              - Ilvermorny
-@georgie - Ilvermorny
-@isabeau              - Homeschool
-@julian              - Homeschool
-@lulu              - Ilvermorny
-@madeleine              - Beauxbatons
-@nessa              - Beauxbatons
-@phoebe            - Durmstrang
-@selene              - Durmstrang                      
-@thomas              - Ilvermorny
-@thursday              - Ilvermorny
-@yorik       - Durmstrang
-@zakariya              - Durmstrang
+[div style="min-width:500px;"][table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div style="padding:5px;text-align:justify;"]@arlo               - Ilvermorny
+@caillen               - Homeschool
+@catsie             &nbsp;- Durmstrang
+@charlie               - Ilvermorny
+@evy               - Beauxbatons
+@friday               - Ilvermorny
+@isabeau               - Homeschool
+@julian               - Homeschool
+@lulu               - Ilvermorny
+@madeleine               - Beauxbatons
+@nessa               - Beauxbatons
+@phoebe             - Durmstrang
+@selene               - Durmstrang                      
+@thomas               - Ilvermorny
+@thursday               - Ilvermorny
+@yorik        - Durmstrang
+@zakariya               - Durmstrang
 [/div][/td][/tr][/tbody][/table]
 [/div][/div][/div][/td][/tr][/tbody][/table][/div]
 [div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
