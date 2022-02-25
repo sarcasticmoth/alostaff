@@ -758,7 +758,8 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PERFORMER[/b][/div]
 [i]make a living performing is some other way then music and dance[/i]
 @donatella                                             
-@eeva                                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@eeva         
+@KATYANIGHTSHADE                                    [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PHILANTHROPIST[/b][/div]
 [i]a person who seeks to promote the welfare of others[/i]
 @augusto                                             
