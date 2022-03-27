@@ -10,9 +10,6 @@ CODE:
 @astrid                      
 -- As long as you are on Yrisle you have the physical appearance of a wyrdling. You cannot use a wand when transformed into a wyrdling.&nbsp;
 
-@aymeric                            
---&nbsp;Have fish gills and are thus be able to breathe under water. 
-
 @bianca                                           
 --&nbsp;All food becomes tasteless (meat, vegetables, fruit). Everything tastes like ash pretty much. 
 
@@ -55,9 +52,6 @@ CODE:
 
 @priscilla                                         
 -- All plants you touch die.
-
-@raleigh                            
---&nbsp;You only see in monochrome now, but with different shades of pink rather than grey.
 
 @sarah                                        
 --&nbsp;For every single person you maim, kill or otherwise harm you body changes. You slowly morph into what other people would see you as, a monster. It can be a patch of scales, it can be longer finger nails, it can be pointy teeth. For all harm you do from this point forward you will acquire a monstrous marking.
