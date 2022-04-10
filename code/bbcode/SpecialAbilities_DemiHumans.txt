@@ -44,9 +44,7 @@ The animal you turn into will be the same as your Patronus (if you wish for it t
 @aerick                                                  - python
 @aidan                                  - irish setter
 @aofe                    - mink
-@ava                          - coyote
 @cashel                      - golden eagle
-@clodagh                                 - mouse
 @jasper                              - tiger
 @nixie                                                  - fox
 @petri                      - dove
