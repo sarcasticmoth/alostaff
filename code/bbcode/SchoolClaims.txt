@@ -23,6 +23,7 @@ All Hogwarts students are attending another school as Hogwarts is rebuilt. You w
 @chrissy               - Ilvermorny
 @dasha               - Beauxbatons
 @georgie  - Ilvermorny
+@george - Homeschool
 @gideon               - Ilvermorny
 @lea               - Ilvermorny
 @rian               - Ilvermorny

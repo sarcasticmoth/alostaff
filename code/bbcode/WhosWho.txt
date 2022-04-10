@@ -240,6 +240,13 @@ all - cleared in advanced[/i]
 
 [/div][/div]
 
+[div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@mateo                                                                                                          [/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/mAzjqGm.jpg" style="max-width:100px;"]
+[b]@george                                                                             [/b][/div][/td][/tr][/tbody][/table]
+[/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
+
+[/div][/div]
+
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@seville                                                                                                          [/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/RcCMGh2.png" style="max-width:100px;"]
 [b]@pollo                                                                          [/b][/div][/td][/tr][/tbody][/table]
