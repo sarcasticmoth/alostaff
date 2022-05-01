@@ -324,7 +324,7 @@ technically employed by multiple nations, magical Interpol handles international
 [spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEAD OF DEPARTMENT[/b][/div]
 [i]Oversees the department, communicates with other departments and Ministry staff as necessary[/i]
-@keir                      
+@tag
                     
 [/div][div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]Hogwarts rebuilding efforts council[/b][/div]
 [i]Those involved in helping rebuild, and restructure the education in the UK after the destruction of Hogwarts 

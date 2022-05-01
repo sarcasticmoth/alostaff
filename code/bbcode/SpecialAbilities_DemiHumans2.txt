@@ -256,8 +256,7 @@ St. Mungos has also opened a clinic to assist Werewolves in obtaining the Wolfsb
 @rob      
 @geethanjali                
 @idris                 
-@julian                 
-@keir                 
+@julian                     
 @levi                 
 @lily                 
 @lyra                 

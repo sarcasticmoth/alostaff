@@ -59,9 +59,6 @@ CODE:
 @shreya                                    
 -- animal curse. You turn into a horse when you smell grass/hay. You turn back when you are far enough away not to smell it anymore.
 
-@xantha                                    
---&nbsp;Smell thoughts self (you smell differently to people depending on your emotion)
-
 [/div][/td][/tr][/tbody][/table][/div][/div]
 [div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div]
 
