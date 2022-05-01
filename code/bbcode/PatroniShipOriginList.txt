@@ -88,7 +88,6 @@ to have a Patronus added just use this code:
 @sienna                              - swan
 @simon                              - brown bear
 @steve                              - goose
-@susanvictoria                              - miniature horse
 @tamatha                              - quail
 @tobias                              - ferret
 @vivian   - hare
@@ -180,7 +179,6 @@ CODE FOR NORTH AMERICA:
 @victoire                     - tinworth, [b]england[/b]
 @harper                     - [b]england[/b]
 @ondina                     - [b]england[/b]
-@susanvictoria                     - windsor, [b]england[/b]
 @blaise                     - [b]england[/b]
 @samira                     - tower hamlets, [b]england[/b]
 @phoebe                     - Ottery St. Catchpole, [b]england[/b]

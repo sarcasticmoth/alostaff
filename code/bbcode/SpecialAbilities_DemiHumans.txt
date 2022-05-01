@@ -51,7 +51,6 @@ The animal you turn into will be the same as your Patronus (if you wish for it t
 @renfri                                           - black jaguar
 @wormwood                                   - hare
 @shawn                                                  - german shephard
-@susanvictoria                                                  - miniature pony
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ANIMAL AFFINITY[/div]
