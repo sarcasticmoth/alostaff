@@ -63,8 +63,6 @@ to have a Patronus added just use this code:
 @jasper                               - tiger
 @jimbo                               - dove
 @kaylee                               - hen
-@layla                               – robin 
-@leonardo                               – greyhound
 @lily                               - St. Bernard
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]M, N, O, P[/div]
@@ -146,7 +144,6 @@ CODE FOR NORTH AMERICA:
 @renard                     - [b]england[/b]
 @bryelle                     - [b]england[/b]
 @maxima                     - ottery st catchpole, [b]england[/b]
-@layla                     - london, [b]england[/b]
 @octavian                     - [b]england[/b]
 @beatrice                     - fulham, london, [b]england[/b]
 @lestrange                     - [b]england[/b]
@@ -203,7 +200,7 @@ CODE FOR NORTH AMERICA:
 @cordelia                     - [b]scotland[/b]
 @johanson                     - [b]scotland[/b]
 
-@leonardo                     - Ceuta, [b]Spain[/b]
+
 
 @simon                     - odense, [b]sweden[/b]
 @astrid                     - Stockholm, Sweden
