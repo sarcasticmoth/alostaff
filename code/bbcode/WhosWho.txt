@@ -125,7 +125,8 @@ OOC character listing
 [b]@nottingham                                                                                   [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/HGPDyE4.png"]
 [b]@grey                                                                                   [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/UfwFY5h.png"]
 [b]@harper                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/j7wcyOd.png" style="max-width:100px;"]
-[b]@jimbo                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/z6LzcFp.png" style="max-width:100px;"]
+[b]@jimbo                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/RBKu1kp.jpg" style="max-width:100px;"]
+[b]@mcgonagall                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/z6LzcFp.png" style="max-width:100px;"]
 [b]@lance                                                                                   [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/UkxSVrT.png"]
 [b]@lily                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/pa7QBWy.jpg" style="max-width:100px;"]
 [b]@lyka          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/bxlWgan.png"]
@@ -220,18 +221,6 @@ all - cleared in advanced[/i]
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@lisa                                                                                                             [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/eKBKQf5.png" style="max-width:100px;"]
-<<<<<<< HEAD
-[b]@aerick                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/OjDae2K.png"]
-[b]@ariadne                                                                           [/b][/div][/td][td][div][img src="https://i.imgur.com/nKcFPJw.png" style="max-width:100px;"]
-[b]@beatrice                                                                           [/b][/div][/td][td][div][img src="https://i.imgur.com/m2DobcD.jpg" style="max-width:100px;"]
-[b]@dominique                                   [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/Rgjyt8s.png"]
-[b]@frank                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/zpDGvht.png"]
-[b]@irinarose                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/A9xnYw8.png"]
-[b]@ophelialee                                                                           [/b][/div][/td][/tr][/tbody][/table]
-[/div][/div][div style="text-align:center;"][i]publication restrictions:
-[/i]@ophelialee                                                     - no custom ability mentions
-@ariadne                                                     - no Lestrange news
-=======
 [b]@aerick                                                                             [/b][/div][/td][td][div][img src="https://i.imgur.com/OjDae2K.png" style="max-width:100px;"]
 [b]@ariadne                                                                             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/nKcFPJw.png"]
 [b]@beatrice                                                                             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/m2DobcD.jpg"]
@@ -244,7 +233,6 @@ all - cleared in advanced[/i]
 [/i]@susanvictoria                                                       - no royal mentions
 @ophelialee                                                       - no custom ability mentions
 @ariadne                                                       - no Lestrange news
->>>>>>> e6413a4be40aa95fa54485a5df573ce0f732c064
 
 [/div][/div]
 
