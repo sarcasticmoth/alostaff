@@ -387,15 +387,15 @@ TAYLOR-JOHNSON, aaron
 TAYLOR-JOY, anya
 [b]@rose                                  [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/8RQF5yX.png"]
 THELER, derek
-[b]@kalju                                                                                                             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/mAzjqGm.jpg"]
+[b]@kalju                                                                                                             [/b][/div][/td][td][div][img src="https://i.imgur.com/WROSeje.jpg" style="max-width:100px;"]
+THWAITES, brenton
+[b]@gehry[/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/mAzjqGm.jpg"]
 TINOCO, diego
 [b]@george          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/wkfzZkB.jpg"]
 TOMLINSON, eleanor
 [b]@tove                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/RcCMGh2.png" style="max-width:100px;"]
 TREJO, danny
-[b]@pollo                                                                                                             [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]U,V,W,X,Y,Z[/div]
+[b]@pollo                                                                                                             [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]U,V,W,X,Y,Z[/div]
 [div align="center"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/RWbt548.png"]
 [div]VALLIULINA, renata
