@@ -18,7 +18,6 @@ to have a Patronus added just use this code:
 @aidan                                     – irish setter
 @albus                                     - stag
 @anastasia                                     – rattlesnake
-@aofe                                     - mink
 @astrid                                     - Arctic fox
 @auguste                                     - white tiger
 @bianca                                     – shark
@@ -60,7 +59,6 @@ to have a Patronus added just use this code:
 @jacob                               - chipmunk
 @jamesp                               - hippogriff
 @jimmie                               - dolphin
-@jasper                               - tiger
 @jimbo                               - dove
 @kaylee                               - hen
 @lily                               - St. Bernard
@@ -70,7 +68,6 @@ to have a Patronus added just use this code:
 @milo     - Siberian Cat
 @mina                              - leopardess
 @nathaniel                              - raven
-@nixie                              - Hippogriff
 @ondina                              - wolf spider
 @ophelialee                              - turkish van cat
 @parvati                              - mongoose
@@ -171,25 +168,20 @@ CODE FOR NORTH AMERICA:
 @ophelialee                     - guildford, [b]england[/b]
 @cade                     – surrey, [b]england[/b]
 @honey                     - leicester, [b]england[/b]
-@jasper                     - wiltshite, [b]england[/b]
 @tobias                     - winchester, [b]england[/b]
 @victoire                     - tinworth, [b]england[/b]
 @harper                     - [b]england[/b]
 @ondina                     - [b]england[/b]
 @blaise                     - [b]england[/b]
 @samira                     - tower hamlets, [b]england[/b]
-@phoebe                     - Ottery St. Catchpole, [b]england[/b]
 @vivian   - ottery st catchpole, [b]england[/b]
 
 @tamatha                     - bourges, [b]france[/b]
 @auguste                     - le Mans, [b]France[/b]
-@mavis                     - Paris, [b]France[/b]
 
 @aidan                     – [b]Hy-Brasil[/b]
-@aofe                     - [b]Hy-Brasil[/b]
 @cashel                     - [b]Hy-Brasil[/b]
 
-@nixie                     - Castlebar, [b]Ireland[/b]
 @brigh                     - Galway, Ireland 
 
 @emrys                     - [b]Netherlands[/b]

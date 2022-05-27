@@ -41,7 +41,6 @@ All Hogwarts students are attending another school as Hogwarts is rebuilt. You w
 @lulu                  - Ilvermorny
 @madeleine                  - Beauxbatons
 @nessa                  - Beauxbatons
-@phoebe                - Durmstrang
 @selene                  - Durmstrang                      
 @thomas                  - Ilvermorny
 @thursday                  - Ilvermorny

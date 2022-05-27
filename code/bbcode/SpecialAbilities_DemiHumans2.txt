@@ -207,7 +207,6 @@ Like all other demi-humans Part Veelas are unable to use transfiguration magic o
 [/spoiler]
 
 @maria                  - half
-@mavis                  - half
 @tamatha                  - half
 @victoire                  - eighth
 
@@ -272,7 +271,6 @@ Druids are witches and wizards that have deep roots to their Celtic ancestors. T
 [div style="text-align:center;"]cannot be demihumans[/div][div style="text-align:center;"]cannot have animal affinity (from special ability list, they have their own)[/div]
 
 @aidan                 
-@aofe                              
 @cashel                   
 @eeva                     
 @fae                                 

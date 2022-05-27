@@ -68,7 +68,7 @@ Headmasters do not teach classes and Deputy headmasters can not be head of house
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CHARMS[/b][/div]
 [i]teaches charms such as wingardium leviosa, accio, &amp; aguamenti.[/i]
-@jasper 
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DEFENSE AGAINST THE DARK ARTS [/b][/div]
 [i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
