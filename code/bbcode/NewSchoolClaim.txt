@@ -1,175 +1,185 @@
-[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A98998;"][font color="#555555"]one[/font][font color="#A98998"]two[/font][/div][table style="width:560px;color:#555555;"][tbody][tr][td][div style="padding:10px;"]
-OPTIONAL: replace all instances of [b]#A98998[/b]
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #A98998;"][font color="#555555"]magical[/font][font color="#A98998"]education[/font][/div][table style="width:560px;color:#555555;"][tbody][tr][td][div style="padding:10px;"]
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]HIGH STAFF[/div]
-stuff
+Teachers at (elementary) and (secondary): minimum 20-years-old
+Teachers at (university): minimum 25-years-old or (university) graduate.
 
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]HIGH COUNCIL[/div]
+the individuals in charge of running the three schools. they are the council that dictates the rules, punishments, and practices of the school. to discourage the mistakes of old they have abolished a single leader position and instead rule the school through diplomacy.
+
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]gryffindor head of house[/div]
+[i]in charge of Gryffindor house and its students[/i]
+@parvati                        
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]hufflepuff head of house[/div]
+[i]in charge of Hufflepuff house and its students[/i]
+@shawn                        
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ravenclaw head of house[/div]
+[i]in charge of Ravenclaw house and its students[/i]
+@octavian          
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]slytherin head of house
+[/div]
+[i]in charge of Slytherin house and its students[/i]
+@blaise                      [/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]head of security[/div]
+[i]in charge of the security of the campus[/i]
+@tag[/div]
+[/div]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]PRIMARY[/div]
+the staff of the primary school, which teaches the children of wizarding families (regardless of if they've shown magic), and muggle born children that develop magic early (so they can become familiar with the magical world at a younger age). they learn basic life skills such as reading, writing, mathematics, history, etc.
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]reception teacher[/div]
+[i]this teacher is responsible for teaching the students in reception, who turn 4 on or before 1 September[/i]
+@deva      
+[/div]
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 1 teacher[/div]
+[i]this teacher is responsible for teaching the students in year 1, who turn 5 on or before 1 September[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 2 teacher[/div]
+[i]this teacher is responsible for teaching the students in year 2, who turn 6 on or before 1 September[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 3 teacher[/div]
+[i]this teacher is responsible for teaching the students in year 3, who turn 7 on or before 1 September[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 4 teacher[/div]
+[i]this teacher is responsible for teaching the students in year 4, who turn 8 on or before 1 September[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 5 teacher[/div]
+[i]this teacher is responsible for teaching the students in year 5, who turn 9 on or before 1 September[/i]
 @tag
 [/div]
-<-- END JOB -->
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 6 teacher[/div]
+[i]this teacher is responsible for teaching the students in year 6, who turn 10 on or before 1 September[/i]
+@tag
+[/div]
+
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]SECONDARY[/div]
-stuff
+the staff of the secondary school,&nbsp;or the first through fifth years of magical education. young witches and wizards begin their magical education and complete their education after their O.W.L. exams.
 
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]apparition[/div]
+[i]teaches how to apparate in order to receive an apparition license (taught only to fifth years).[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]astronomy[/div]
+[i]teaches names of stars, constellations, and planets as well as their locations and movements.[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]charms[/div]
+[i]teaches charms such as wingardium leviosa, accio, &amp; aguamenti.[/i]
+@hargus    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]defense against the dark arts[/div]
+[i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
+@blaise                
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]flying[/div]
+[i]teaches special skills and advanced techniques to flying a broom.[/i]
+@tag[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]herbology[/div]
+[i]teaches the magical properties of plants and what they are used for.[/i]
+@alfie                
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]history of magic[/div]
+[i]teaches all there is to know about magical history.[/i]
+          @tag[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]potions[/div]
+[i]teaches correct ways to brew potions by following specific recipes with magical ingredients.[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]transfiguration[/div]
+[i]teaches the art of changing the form and appearance of an object.[/i]
+@shawn                
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
+
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]UNIVERSITY[/div]
-stuff
+the staff of the university. this is for those seeking their N.E.W.T. exams (originally sixth and seventh years at Hogwarts, now 1st and 2nd year of university), job specific training (aurors, curse breakers, healers, etc), or additional education similar to a university.&nbsp;
 
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-[/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]OTHER[/div]
-stuff
+ teachers can teach multiple courses, and overlap departments.
 
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
-@tag
-[/div]
-<-- END JOB -->
-[/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]EXTRA SECTION[/div]
-stuff
 
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]law enforcement department[/div]
+[i]all witches and wizards pursuing careers in law enforcement, including aurors, hitwizards, and magical interpol. after completing their N.E.W.T exams they will complete an additional 2 years in this program before working officially. this includes both classroom studies and field work.[/i]
+@tag - subject
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]medical department[/div]
+[i]all witches and wizards pursuing careers in the medical field. this includes all healing focuses (including veterinary), and nursing. after completing their N.E.W.T exams they will complete an additional 2 years in this program, or 6 months for nurses before working officially. this includes both classroom studies and field work.[/i]
+@tag - subject
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ancient studies[/div]
+[i]all witches and wizards pursuing careers in curse breaking, ancient studies, archeology, etc. after completing their N.E.W.T exams they will complete an additional 2 years in this program before working officially. this includes both classroom studies and field work.[/i]
+@tag - ancient runes
+@frank             - ancient studies
+@octavian         - arithmancy
+@renfri      - Introduction to Curse Breaking
+@renfri      - History of Curse Breaking
+@renfri      - Tomb Raiding vs Curse Breaking: Ethics of Magical Archeology[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]wizarding academy of the dramatic arts[/div]
+[i]witches and wizards desiring to pursue a career in theater, WADA has merged it's program is the UK's new magical education campus. the WADA program is world renowned for it's theater education and supplying the best magical theater education possible.[/i]
+@tag - subject
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]general studies[/div]
+[i]all course that don't fall under a single department above (and would benefit multiple departments) or those that don't fall under any department.[/i]
+@hazel            - alchemy
+@tag - art
+@charles             - care of magical creatures
+@tag - divinations
+@tag - dueling
+@tag - home economics and life skills
+@octavian  - magical theory
+@severus             - muggle studies
+@frank       - wandless magic
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
+[i]the students attending the school, their field of study, and the year. students can be 1-6th year (1-2 NEWT, 3-4 is job training or&nbsp;equivalent to a 4 year degree, 5-6 would be equivalent of a masters)[/i]
+@brigh     - curse breaking - 3rd year
+@bryelle    - hitwitch -3rd year
+@ivanka     -&nbsp;curse breaking - 3rd year
+@tobias     - healer - 3rd year[/div]
+
+[/div]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #A98998;"]OTHER STAFF[/div]
+although these individuals are not teachers, their roles are vital to the schools' operations. They support the school and students in their unique roles.
+
+
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]caretakers[/div]
+[i]takes care of the schools[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]groundskeeper[/div]
+[i]takes care of the grounds and forbidden forest[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]librarian[/div]
+[i]takes care of the library[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]medical staff[/div]
+[i]in charge of all the medical needs of the schools[/i]
 @tag
 [/div]
-<-- END JOB -->
-<-- START JOB -->
-[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]job[/div]
-[i]job notes[/i]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]counselors[/div]
+[i]assists students, offers advice and guidance[/i]
+@parvati              
+[/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]security team[/div]
+[i]report to the head of security and maintain the security of the campus[/i]
 @tag
 [/div]
-<-- END JOB -->
 [/div]
 [/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
 

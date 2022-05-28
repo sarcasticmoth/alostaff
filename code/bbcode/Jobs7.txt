@@ -716,7 +716,8 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUTHOR[/b][/div]
 [i]write novels, short stories, comics, etc[/i]
 @cara                                                  
-@charles                                                  [/div][div style="margin-left:10px;margin-right:10px;"]
+@charles
+@stephen                                                  [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASTRONOMER[/b][/div]
 [i]study the movement of the stars[/i]
 @dana                                                  
