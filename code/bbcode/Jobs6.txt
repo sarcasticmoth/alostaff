@@ -12,7 +12,7 @@
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BAKER[/b][/div]
 [i]handles all the baked goods in the shop[/i]
-@jacob                                            
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CANDY MAKER[/b][/div]
 [i]handles all the sweets/candy in the shop[/i]

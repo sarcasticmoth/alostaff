@@ -34,7 +34,6 @@ to have a Patronus added just use this code:
 @clarence                                     - Wampus cat
 @cordelia                                     - rabbit
 @dana                                     - russian white cat
-@crimson1                                     - bald eagle
 @donatella                                     - hare
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]E, F, G, H[/div]
@@ -56,7 +55,6 @@ to have a Patronus added just use this code:
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]I, J, K, L[/div]
 [div style="padding-left:10px;padding-right:10px;"]@iliana                               - northern white-faced owl
 @irinarose                               - northern inuit dog
-@jacob                               - chipmunk
 @jamesp                               - hippogriff
 @jimmie                               - dolphin
 @jimbo                               - dove
@@ -134,7 +132,6 @@ CODE FOR NORTH AMERICA:
 @shawn                     - london, [b]england[/b]
 @cara                     - [b]england[/b]
 @dianab                     - [b]england[/b]
-@jim                     - [b]england[/b]
 @jimmie                     - [b]england[/b]
 @jimbo                     - [b]england[/b]
 @elaine                     - radlett, [b]england[/b]
@@ -209,10 +206,8 @@ CODE FOR NORTH AMERICA:
 @zen                    - atlanta, [b]georgia[/b] usa
 @kaylee                    - kauai, [b]hawaii[/b] usa
 @yvonne                    - davenport, [b]iowa[/b] usa
-@crimson1                    - [b]ohio[/b] usa
 @clarence                    - tahlequah, [b]oklahoma[/b] usa
 @aerick                    - brooklyn, [b]new york[/b] usa
-@jacob                    - manhattan, [b]new york[/b] usa
 @nottingham                    - sleepy hollow, [b]new york[/b] usa
 @brody                    - lewiston, [b]maine,[/b] usa
 
