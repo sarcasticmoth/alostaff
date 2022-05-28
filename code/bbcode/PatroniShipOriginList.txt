@@ -84,7 +84,6 @@ to have a Patronus added just use this code:
 @tamatha                              - quail
 @tobias                              - ferret
 @vivian   - hare
-@yorik    - rat
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]U, V, W[/div]
 [div style="padding-left:10px;padding-right:10px;"]@victoire                              - hawk
@@ -187,9 +186,6 @@ CODE FOR NORTH AMERICA:
 @fenrir     - [b]russia[/b]
 
 @cordelia                     - [b]scotland[/b]
-@johanson                     - [b]scotland[/b]
-
-
 
 @simon                     - odense, [b]sweden[/b]
 @astrid                     - Stockholm, Sweden

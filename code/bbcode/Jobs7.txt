@@ -632,7 +632,6 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CURSE SPECIALIST[/b][/div]
 [i]those that study the dark arts and sell their talent[/i]
-@augusto                                                 
 @dianab                                                   [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DARK POTIONEER[/b][/div]
 [i]create potions that are illegal[/i]
@@ -680,7 +679,6 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SMUGGLER[/b][/div]
 [i]bring in contraband products while avoiding the government officials[/i]
-@augusto                                                 
 @bjorn                                                   
 @cashel                                                   [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SPY[/b][/div]
@@ -757,11 +755,11 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 @katyanightshade                                         [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PHILANTHROPIST[/b][/div]
 [i]a person who seeks to promote the welfare of others[/i]
-@augusto                                                
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POTIONS RESEARCHER[/b][/div]
 [i]researches and designs potions[/i]
-@augusto                                                
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRANSLATOR[/b][/div]
 [i]provides translation services[/i]
