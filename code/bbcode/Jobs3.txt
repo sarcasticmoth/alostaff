@@ -31,7 +31,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [i]Medical records, employee records, supplier records, etc[/i]
 @tag[/div]
 [/spoiler]
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]ARTIFACT ACCIDENTS[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]ARTEFACT ACCIDENTS[/div]
 
 [i]Magical items can be a help or a hindrance. Whether it’s due to a malfunction of the artifact, or a curse, magical artifacts can cause quite a bit of damage. Those that work on this floor specialize in handling any sort of ailment caused by a magical artifact.[/i]
 
@@ -75,11 +75,11 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]NURSE[/b][/div]
 [i]assist healers in the care and comfort of patients[/i]
-@tag
+@maxima
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE NURSE[/b][/div]
 [i]training to become a nurse[/i]
-@maxima   
+@tag 
 [/div]
 [/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]MAGICAL BUGS AND DISEASES[/div]
@@ -212,7 +212,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [i]training to become a magical therapist[/i]
 @tag[/div]
 [/spoiler]
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]DENTAL &amp; VISION[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]DENTAL & VISION[/div]
 
 [i]Oral and visual health, while often overlooked, are very important. These two magical healing branches required a very specialized knowledge and training due to the uniqueness of them. But you know you’ll be in good hands, as St. Mungos provides one of the best Dental and Vision training in the business.[/i]
 
@@ -255,7 +255,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 @tag
 [/div]
 [/spoiler]
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]TEAROOM &amp; SHOP[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]TEAROOM & SHOP[/div]
 
 [i]When you are visiting family sometimes you need some space to just relax outside of the hospital rooms. The Tearoom is a great place to unwind, and just take some time for yourself. The shop is also a great place to buy gifts for the person you are visiting, or to pick up a few things you might have forgotten in your rush to get down to the hospital.[/i]
 
