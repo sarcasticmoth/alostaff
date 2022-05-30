@@ -11,8 +11,7 @@
             $(document).ready(function() {
                 var t = document.getElementById('tooltip-span');
 				
-                $('.avatar-wrapper').addClass('tooltip');
-                $('.user-link').addClass('tooltip');
+                $('.avatar-wrapper').addClass('tooltip');                $('.user-link').addClass('tooltip');
                 
 				window.onmousemove = function (e) {
 					var x = e.clientX,
@@ -22,7 +21,7 @@
 					t.style.left = (x + 20) + 'px';
 				};
                 
-                $('.tooltip').mouseenter(function() {
+               $('.tooltip').mouseenter(function() {
 				var tooltipContent = $(this).attr('title');
                     if (tooltipContent) {
 						$(this).attr('title', null);
@@ -42,9 +41,6 @@
                 {
                     var member_banners = [
                         // member
-                        'https://i.imgur.com/sNvZ3Df.png', // aaron - matthew
-//                         'https://i.imgur.com/gXa6CDf.png', // ali - rosie
-                        'https://i.imgur.com/P63oaBZ.png', // allie - catariara
                         'https://i.imgur.com/Bkxdt0o.png', // ana - rob
                         'https://i.imgur.com/6j6S49C.png', // audrey - parvati
                         'https://i.imgur.com/cm45RII.png', // bird - julian
@@ -53,14 +49,11 @@
                         'https://i.imgur.com/rXJ2J8m.png', // dez - simon
                         'https://i.imgur.com/YBwIHvs.png', // dez - lulu
                         'https://i.imgur.com/eWuw7uG.png', // dra - rian
-                        'https://i.imgur.com/XJEwwHC.png', // eve - adelaide
                         'https://i.imgur.com/BSiFzPE.png', // haise - rue
-                        'https://i.imgur.com/61f3E1b.jpg', // jenny - bianca
+                        'https://i.imgur.com/FFPuteS.jpg', // jenny - bianca
                         'https://i.imgur.com/hpbXWaF.png', // jenny - cas
                         'https://i.imgur.com/1LDmv7g.png', // lisa - elaine
-                        'https://i.imgur.com/TRkfxXR.png', // pollo - samuel
                         'https://i.imgur.com/1O8UUt4.png', // roo - severus
-                        'https://i.imgur.com/Lmx1R9E.png', // seph - xantha
                         'https://i.imgur.com/RQUZ6Ee.png', // shadow - teddy
                         'https://i.imgur.com/EJZAxWH.png', // sophi - thursday
                         'https://i.imgur.com/spfUBSh.jpg', // sora - vasilia
@@ -189,12 +182,12 @@
         <div id="staff">
             <div class="picture">
                 <!-- Staffer links and portraits - see Style Sheet to change image url's -->
+				<a href="https://alohomorax0.proboards.com/user/362" class="staffer1 tooltip" title="admin sora"></a>
 				<a href="https://alohomorax0.proboards.com/user/612" class="staffer2 tooltip" title="admin lisa"></a>
-                <a href="https://alohomorax0.proboards.com/user/362" class="staffer1 tooltip" title="admin sora"></a>
                 <a href="https://alohomorax0.proboards.com/user/1292" class="staffer3 tooltip" title="mod vanessa"></a>
                 <a href="https://alohomorax0.proboards.com/user/1337" class="staffer4 tooltip" title="mod ana"></a>
-                <a href="https://alohomorax0.proboards.com/user/1227" class="staffer5 tooltip" title="mod seph"></a>
-                <a href="https://alohomorax0.proboards.com/user/610" class="staffer6 tooltip" title="mod audrey"></a>
+                <a href="https://alohomorax0.proboards.com/user/610" class="staffer5 tooltip" title="mod audrey"></a>
+                <a href="https://alohomorax0.proboards.com/user/1227" class="staffer6 tooltip" title="mod seph"></a>
             </div>
         </div>
         <div id="awards">
@@ -204,9 +197,9 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            MoTM - DEZ
+                            JENNY
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/998" class="award-1 tooltip" title="Member of the Month">
+                        <a href="https://alohomorax0.proboards.com/user/1419" class="award-1 tooltip" title="Member of the Year">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -214,9 +207,9 @@
                     </td>
                     <td>
                         <div class="awardee">
-                            ToTM - DUEL OF THE FATES
+                            ADDY&BRÍGH
                         </div>
-                        <a href="https://alohomorax0.proboards.com/thread/11172/duel-fates-blaise" class="award-2 tooltip" title="Thread of the Month">
+                        <a href="" class="award-2 tooltip" title="#RELATIONSHIPGOALS">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -226,15 +219,15 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            CoTM - BLAISE ZABINI
+                            BRÍGH O'DALAIGH
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/869" class="award-3 tooltip" title="Character of the Month">
+                        <a href="https://alohomorax0.proboards.com/user/1335" class="award-3 tooltip" title="Character of the Year">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
                     </td>
-                    <td>
+<!--                     <td>
                         <div class="awardee">
                             SPECIAL SERVICES - VANESSA
                         </div>
@@ -243,7 +236,7 @@
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
-                    </td>
+                    </td> -->
                 </tr>
             </table>
         </div>
@@ -325,7 +318,7 @@
                 </a>
                 {/if}
                 <span></span>
-                <a href="posts/recent" class="tooltip" title="Recent Posts">
+                <a href="/posts/recent" class="tooltip" title="Recent Posts">
                     <i class="fas fa-th-list"></i>
                 </a>
                 <span></span>
@@ -359,7 +352,7 @@
                             staff
                         </a>
                         <a id="m-awards" modal="awards">
-                            2021 OTY's
+                            awards
                         </a>
                         <a id="m-nav" modal="nav">
                             navigation
@@ -400,9 +393,9 @@
                     $[current_user.avatar]
                 </div>
                 <!-- Event or advertisement, whatever you wanna do -->
-                <a href="https://alohomorax0.proboards.com/board/460/feast-samhain" class="event">
+                <a href="https://alohomorax0.proboards.com/board/491/walpurgis-night" class="event">
                     <div class="info">
-                        Feast of Samhain
+                        walpurgis night
                     </div>
                 </a>
                 <div class="bulk">
@@ -426,37 +419,37 @@
                     </div>
                 </div>
             </div>
-            <div class="otmwelcometext">awards of the year - 2021</div>
+            <div class="otmwelcometext">otm's</div>
             <div class="otm">
                 <div class="bulk">
-                    <div class="event" style="background-image: url('https://i.imgur.com/opLixfI.jpg');">
+                    <div class="event" style="background-image: url('https://i.imgur.com/uzy8kOI.jpg');">
                     <div class="info">
-                        addy&brigh
+                        <a href="https://alohomorax0.proboards.com/post/102547/thread">numb little bug</a>
                     </div>
                     </div>
                     <div class="spacer"></div>
-                    <div class="event" style="background-image: url('https://i.imgur.com/V0vH4wt.jpg');">
-                    <a href="https://alohomorax0.proboards.com/user/1335">
+                    <div class="event" style="background-image: url('https://i.imgur.com/ZjlzwIO.jpg');">
+                    <a href="https://alohomorax0.proboards.com/user/1462">
                     <div class="info">
-                        brigh o'dalaigh
+                        damian karkaroff
                     </div>
                 	</a>
                     </div>
                     <div class="spacer"></div>
-                    <div class="event" style="background-image: url('https://i.imgur.com/41LLVPJ.jpg');">
-                    <a href="https://alohomorax0.proboards.com/user/1419">
+                    <div class="event" style="background-image: url('https://i.imgur.com/JUYcJgc.jpg');">
+                    <a href="https://alohomorax0.proboards.com/user/1227">
                     <div class="info">
-                        jenny
+                        seph
                     </div>
                 	</a>
                     </div>
                 </div>
                 <div class="bulk">
-                    <div class="otmtext">#relationshipgoals</div>
+                    <div class="otmtext">thread otm</div>
                     <div class="spacer"></div>
-                    <div class="otmtext">best character development</div>
+                    <div class="otmtext">character otm</div>
                     <div class="spacer"></div>
-                    <div class="otmtext">most enchanting member</div>
+                    <div class="otmtext">member otm</div>
                 </div>
             </div>
             <div id="header">
