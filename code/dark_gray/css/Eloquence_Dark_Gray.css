@@ -131,6 +131,7 @@
 .board-list .blurb { width: 409px; background: @pale-gray-1; height: 74px; padding: 8px; margin-left: 110px; }
 .board-list .text { height: 74px; overflow: auto; font-size: 10px; line-height: 15px; text-align: justify; }
 .board-list .board-title { display: block; height: 20px; margin-left: 360px; margin-right: 60px; text-align: center; background: @pale-gray-1; font-size: 14px; font-family: @decorative-font; line-height: 40px; text-transform: uppercase; letter-spacing: 1px; }
+.board-list .board-title-custom { display: block; height: 20px; margin-left: 360px; margin-right: 60px; text-align: center; background: @pale-gray-1; font-family: @decorative-font; line-height: 40px; text-transform: uppercase; letter-spacing: 1px; }
 .board-list .board-title .left { width: 0; height: 0; float: left; margin-left: -20px; border-top: 20px solid transparent; border-right: 20px solid @pale-gray-1; }
 .board-list .board-title .right { width: 0; height: 0; float: right; margin-right: -20px; border-top: 20px solid transparent; border-left: 20px solid @pale-gray-1; }
 .board-list .stats { float: left; margin-left: 60px; height: 20px; width: 280px; background: @blue-2; text-transform: uppercase; color: @white; font-family: @decorative-font; text-align: center; font-size: 12px; line-height: 22px; }
