@@ -1,7 +1,8 @@
 <div class="p-category" style="margin-bottom: 0;">
     <div class="image" style="margin-bottom: 0;">
         <div class="overlay">
-            $[board.display_name]
+            {If $[board.content_id] != 'board-327'}$[board.display_name]{/If}
+            {If $[board.content_id] == 'board-327'}wingull fanclub headquarters{/If}            
         </div>
     </div>
 </div>
@@ -52,15 +53,22 @@
                         $[board.threads] thread{if $[board.threads] != 1}s{/if} <i class="fas fa-list-ul"></i>
                     </td>
                     <td>
-                        $[board.posts] post{if $[board.posts] != 1}s{/if} <i class="fas fa-bolt"></i>
+                        {If $[board.content_id] != 'board-372'}$[board.posts] post{if $[board.posts] != 1}s{/if} <i class="fas fa-bolt"></i>{/If}
+                        {If $[board.content_id] == 'board-372'}wingull 4 lyfe{/If}      
                     </td>
                 </tr>
             </table>
         </div>
         <div class="user-abilities">
+            {If $[board.content_id] == 'board-153'}
+            you can accept that:<br>
+            CHARMANDER is #1<br>
+            and PIKACHU #42<br>
+            {else}
             you can{if !$[can.create_threads]}not{/if} create threads<br>
             you can{if !$[can.reply_to_threads]}not{/if} reply to threads<br>
             you can{if !$[can.create_polls]}not{/if} create polls
+            {/if}
         </div>
         <div class="board-desc">
             {if $[board.description]}
