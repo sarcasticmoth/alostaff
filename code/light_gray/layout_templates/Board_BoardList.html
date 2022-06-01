@@ -26,7 +26,11 @@
                     redirect
                 </div>
                 {/if}
-                <a href="$[board.href]" class="board-title">
+                {if $[board.id] == 24}
+                    <a href="$[board.href]" class="board-title-custom">
+                {else}
+                    <a href="$[board.href]" class="board-title">
+                {/if}
                     <div class="left"></div>
                     <div class="right"></div>
                     <span></span>
