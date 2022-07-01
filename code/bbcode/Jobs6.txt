@@ -509,8 +509,7 @@ DECIMA VECTOR
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@kaylee                              - part time
-@thomas   [/div][/div]
+@kaylee                              - part time[/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]MADAME PUDDIFOOT'S[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
