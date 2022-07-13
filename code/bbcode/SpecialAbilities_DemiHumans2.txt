@@ -163,7 +163,6 @@ Individuals less than a quarter vampire may retain a pale complexion, but they a
 
 @emrys                   - full
 @lucrezia     - full
-@nora  - half
 @simon                   - half
 @steve                   - half
 @thursday                   - half
@@ -206,7 +205,6 @@ Like all other demi-humans Part Veelas are unable to use transfiguration magic o
 
 @maria                   - half
 @tamatha                   - half
-@victoire                   - eighth
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WEREWOLF[/div]
 Often misunderstood, werewolves magically transform into wolves every full moon.
@@ -253,7 +251,6 @@ St. Mungos has also opened a clinic to assist Werewolves in obtaining the Wolfsb
 @geethanjali                 
 @idris                  
 @julian                      
-@levi                 
 @lily                  
 @lyra                  
 @vanessa                  

@@ -86,7 +86,7 @@ to have a Patronus added just use this code:
 @vivian   - hare
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]U, V, W[/div]
-[div style="padding-left:10px;padding-right:10px;"]@victoire                              - hawk
+[div style="padding-left:10px;padding-right:10px;"]---
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]X, Y, Z[/div]
 [div style="padding-left:10px;padding-right:10px;"]@zen                              - bat
@@ -139,7 +139,6 @@ CODE FOR NORTH AMERICA:
 @maxima                     - ottery st catchpole, [b]england[/b]
 @octavian                     - [b]england[/b]
 @beatrice                     - fulham, london, [b]england[/b]
-@lestrange                     - [b]england[/b]
 @ariadne                     - [b]england[/b]
 @ares                     - [b]england[/b]
 @lockhart                     - london, [b]england[/b]
@@ -165,7 +164,6 @@ CODE FOR NORTH AMERICA:
 @cade                     – surrey, [b]england[/b]
 @honey                     - leicester, [b]england[/b]
 @tobias                     - winchester, [b]england[/b]
-@victoire                     - tinworth, [b]england[/b]
 @harper                     - [b]england[/b]
 @ondina                     - [b]england[/b]
 @blaise                     - [b]england[/b]

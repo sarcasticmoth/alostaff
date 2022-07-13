@@ -116,7 +116,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEALER[/b][/div]
 [i]in charge of the care and treatment of patients in their ward[/i]
-@marcelle
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE HEALER[/b][/div]
 [i]training to become a healer[/i]
@@ -172,7 +172,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE HEALER[/b][/div]
 [i]training to become a healer[/i]
-@lusi
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]NURSE[/b][/div]
 [i]assist healers in the care and comfort of patients[/i]
