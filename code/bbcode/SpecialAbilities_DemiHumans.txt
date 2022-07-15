@@ -45,7 +45,6 @@ The animal you turn into will be the same as your Patronus (if you wish for it t
 @aidan                                       - irish setter
 @cashel                           - golden eagle
 @mcgonagall     - black cat
-@petri                           - dove
 @renfri                                                - black jaguar
 @wormwood                                        - hare
 @shawn                                                       - german shephard
