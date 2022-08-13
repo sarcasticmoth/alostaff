@@ -327,17 +327,17 @@ STUDI, wes
 [div]SWIFT, taylor
 [b]@hanna                                                                                                              [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/rRBlYAe.png" style="max-width:100px;"]
 TABU 
-[b]@parvati                                                                                                                   [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/Z9uRTr3.jpg"]
+[b]@parvati                                                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/85hMGVs.jpg" style="max-width:100px;"]
+TAMADA, momona
+[b]@REINA                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/Z9uRTr3.jpg"]
 TAYLOR-JOHNSON, aaron
-[b]@vanessa                                                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/LDfPFmC.png" style="max-width:100px;"]
+[b]@vanessa                                                                                                                   [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/LDfPFmC.png" style="max-width:100px;"]
 TAYLOR-JOY, anya
-[b]@rose                                        [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/WROSeje.jpg" style="max-width:100px;"]
+[b]@rose                                        [/b][/div][/td][td][div][img src="https://i.imgur.com/WROSeje.jpg" style="max-width:100px;"]
 THWAITES, brenton
 [b]@gehry      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/mAzjqGm.jpg"]
 TINOCO, diego
 [b]@george                [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
 [b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
