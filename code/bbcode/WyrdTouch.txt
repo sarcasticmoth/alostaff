@@ -22,10 +22,6 @@ CODE:
 @dahlia                                      
 --&nbsp;Once the character has fallen asleep they cannot wake up naturally (someone/something has to wake them up)
 
-@eeva                                             
--- You can hear the thoughts of all creatures (wyrd touched or not) in your surroundings as if they were speaking to you in a normal tone of voice (in terms of volume) this includes all insects and small creatures so you can hear them scream in horror as people step on them.
---&nbsp;You remember everything that Hannah Webb (your doppelgänger) ever experienced or remembered, including her death, as if you lived both her life and your own. 
-
 @lockhart                      
 -- Everybody that looks at you gets an irresistible urge to laugh, chuckle, snort or otherwise show their amusement.&nbsp;
 

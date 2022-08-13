@@ -106,7 +106,7 @@ Beater: @luna
 Beater: --
 Chaser: @addy    
 Chaser: --
-Chaser: @selene  
+Chaser: --
 
 Reserve: --
 
@@ -138,7 +138,7 @@ Charms:
 Defence Against the Dark Arts: @blaise     
 Herbology: @alfie     
 History of Magic: @renfri     
-Home Economics &amp; Life Skills: @deva     
+Home Economics &amp; Life Skills: 
 Potions:&nbsp;
 Transfiguration: @shawn     
 
@@ -261,7 +261,7 @@ Keeper: --
 Beater: @luna  
 Beater: --
 Chaser: @addy    
-Chaser: @selene  
+Chaser: --
 Chaser: --
 
 Reserve: --
@@ -418,7 +418,7 @@ Beater: @luna
 Beater: --
 Chaser: @addy   
 Chaser: --
-Chaser: @selene  
+Chaser: --
 
 Reserve: --
 

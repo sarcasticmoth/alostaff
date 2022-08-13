@@ -19,7 +19,6 @@ to have a Patronus added just use this code:
 @albus                                     - stag
 @anastasia                                     – rattlesnake
 @astrid                                     - Arctic fox
-@auguste                                     - white tiger
 @bianca                                     – shark
 @blaise                                     - lion
 @brigh                                     - dapple grey mare
@@ -171,7 +170,6 @@ CODE FOR NORTH AMERICA:
 @vivian   - ottery st catchpole, [b]england[/b]
 
 @tamatha                     - bourges, [b]france[/b]
-@auguste                     - le Mans, [b]France[/b]
 
 @aidan                     – [b]Hy-Brasil[/b]
 @cashel                     - [b]Hy-Brasil[/b]

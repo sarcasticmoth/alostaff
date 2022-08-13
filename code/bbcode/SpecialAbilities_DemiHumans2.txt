@@ -267,7 +267,6 @@ Druids are witches and wizards that have deep roots to their Celtic ancestors. T
 
 @aidan                  
 @cashel                    
-@eeva                      
 @fae                                  
 @jean                   - half
 @wormwood                              
