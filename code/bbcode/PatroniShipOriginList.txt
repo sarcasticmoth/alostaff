@@ -52,8 +52,7 @@ to have a Patronus added just use this code:
 @seph                                - Ocelot
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]I, J, K, L[/div]
-[div style="padding-left:10px;padding-right:10px;"]@iliana                               - northern white-faced owl
-@irinarose                               - northern inuit dog
+[div style="padding-left:10px;padding-right:10px;"]@irinarose                               - northern inuit dog
 @jamesp                               - hippogriff
 @jimmie                               - dolphin
 @jimbo                               - dove
@@ -121,7 +120,6 @@ CODE FOR NORTH AMERICA:
 [div style="padding-left:10px;padding-right:10px;"]
 @sienna                     - brussels, [b]belgium[/b]
 
-@iliana                     - kaisieva gradina, [b]bulgaria[/b]
 @irinarose                     - kaisieva gradina, [b]bulgaria[/b]
 
 @anastasia                     - Prague, [b]Czech Republic[/b]
