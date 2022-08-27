@@ -23,7 +23,6 @@
 @tag                                               [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
-@aerick                                                                                                          
 @frankie                                                                 [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]FLOBBERWORM AND LETTUCE[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
@@ -269,7 +268,6 @@ run the lab in authenticating and restoring artifacts[/i]
 @ginny                                               [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]QUIDDITCH REPORTER[/b][/div]
 [i]report on all quidditch news[/i]
-@beatrice                                
 @grey                                                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]QUIDDITCH PHOTOGRAPHER[/b][/div]
 [i]photographers that specialize in sports[/i]
