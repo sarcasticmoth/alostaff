@@ -30,9 +30,9 @@ to have a Patronus added just use this code:
 @chrissy                                     - non-corporeal
 @claire                                     - european badger
 @clarence                                     - Wampus cat
+@clyde - black leopard
 @cordelia                                     - rabbit
 @dana                                     - russian white cat
-@donatella                                     - hare
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]E, F, G, H[/div]
 [div style="padding-left:10px;padding-right:10px;"]@nell                                - shoebill
@@ -146,7 +146,6 @@ CODE FOR NORTH AMERICA:
 @gideon                     - godric's hollow, [b]england[/b]
 @ginny                     - ottery st catchpole, [b]england[/b]
 @lily                     - godric’s hollow, [b]england[/b] 
-@donatella                     - Godric’s Hollow, England
 @frankie                     - godric's hollow, [b]england[/b]
 @nell                     - godric's hollow, [b]england[/b]
 @raphael                     - Godric's Hollow, [b]England[/b]
@@ -178,6 +177,7 @@ CODE FOR NORTH AMERICA:
 @fenrir     - [b]russia[/b]
 
 @cordelia                     - [b]scotland[/b]
+@clyde - [b]scotland[/b]
 
 @simon                     - odense, [b]sweden[/b]
 @astrid                     - Stockholm, Sweden
@@ -189,7 +189,6 @@ CODE FOR NORTH AMERICA:
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NORTH AMERICA[/div]
 [div style="padding-left:10px;padding-right:10px;"]@elijah                    - los angeles, [b]california[/b] usa
 @chrissy                    - pasadena, [b] california[/b] usa
-@thursday                    - Beverly Hills, [b]California[/b] USA
 @ezekiel                    - atlanta, [b]georgia[/b] usa
 @zen                    - atlanta, [b]georgia[/b] usa
 @kaylee                    - kauai, [b]hawaii[/b] usa
