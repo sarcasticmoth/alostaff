@@ -10,7 +10,7 @@
 
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@elaine                                                                                                          
+@elaine                                                                                                              
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSISTANT MANAGER[/b][/div]
 [i]run the club[/i]
@@ -23,7 +23,7 @@
 @tag                                               [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
-@frankie                                                                 [/div][/div]
+@frankie                                                                     [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]FLOBBERWORM AND LETTUCE[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located on L.I.F.E. Campus, Scotland[/i]
@@ -37,7 +37,7 @@
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]bartenders[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
-@jack  - part-time[/div][div style="margin-left:10px;margin-right:10px;"]
+@jack      - part-time[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]waiter/waitress[/b][/div]
 [i]serve customers, take orders[/i]
 @tag[/div][/div]
@@ -51,7 +51,7 @@
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SPECIALTY STOCK SUPPLIER[/b][/div]
 [i]make sure the shop has its more exotic ingredients[/i]
-@emmanuelle                                                            _                                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@emmanuelle                                                                _                                             [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OLD WORLD POTIONER[/b][/div]
 [i]creates out of practice potions to sell[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -81,28 +81,48 @@
 
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the shop[/i]
-@harry                                                                                                       
+@harry                                                                                                           
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSISTANT MANAGER[/b][/div]
 [i]run the shop[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
-@yas                                                                                                       [/div][div style="margin-left:10px;margin-right:10px;"]
+@yas                                                                                                           [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WAITER/WAITRESS[/b][/div]
 [i]serve customers, take orders[/i]
 @tag                           [/div][/div]
+
+
+[div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]THE HOUNDS LOUNGE[/b][/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[i]located in london, england near trafalgar square[/i]
+
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
+[i]owner of the shop[/i]
+@harry                                                                                                          
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSISTANT MANAGER[/b][/div]
+[i]run the shop[/i]
+@yas [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
+[i]run the bar and alcoholic drinks[/i]                                                                                                        [/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WAITER/WAITRESS[/b][/div]
+[i]serve customers, take orders[/i]
+@tag                           [/div]
+
+
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]THE IVORY ROOM[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located in england, exact locaation unplottable via magic[/i]
 
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the club[/i]
-@asher                                                                                                      
+@asher                                                                                                          
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BOOKKEEPER[/b][/div]
 [i]runs the finances[/i]
-@asher                                                                                                      [/div][div style="margin-left:10px;margin-right:10px;"]
+@asher                                                                                                          [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SECURITY[/b][/div]
 [i]keep the club safe[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -149,7 +169,7 @@
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]FRONT DESK[/b][/div]
 [i]handle check ins and check outs, and reservations[/i]
-@samira                              [/div][/div]
+@samira                                  [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]MERLIN'S MYSTICAL MUSEUM OF MAGIC[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located in caerleon, wales[/i]
@@ -172,8 +192,8 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSISTANT ARCHIVIST[/b][/div]
 [i]assist archivists[/i]
-@breeze             
-@kaylee                                                         [/div][div style="margin-left:10px;margin-right:10px;"]
+@breeze                 
+@kaylee                                                             [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GUARD[/b][/div]
 [i]protect the museum[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -182,7 +202,7 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RECEPTIONIST[/b][/div]
 [i]front of house, answer questions and handle reservations[/i]
-@dianab                                                 - part time[/div][/div]
+@dianab                                                     - part time[/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]OGDEN'S OLD BREWERY[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located in glasgow, scotland[/i]
@@ -223,7 +243,7 @@ run the lab in authenticating and restoring artifacts[/i]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
 @tag[/div][/div]
-[/spoiler]
+[/div][/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]NEWS &amp; ENTERTAINMENT[/div]
 
 [i]The hard working witches and wizards that work for the news, magazines, and even Witch TV![/i]
@@ -237,7 +257,7 @@ run the lab in authenticating and restoring artifacts[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SENIOR ASSISTANT EDITOR[/b][/div]
 [i]helps the editor in chief, runs their schedule, helps approve editions[/i]
-@cade                                                                                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@cade                                                                                                 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]JUNIOR ASSISTANT EDITOR[/b][/div]
 [i]does the grunt work of the editor in chief and senior assistant[/i]
 @tag[/div]
@@ -248,16 +268,16 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HIGH PROFILE CASE REPORTER[/b][/div]
 [i]handle very public cases[/i]
-@damian                                - Investigative Journalist, Political Corruption[/div][div style="margin-left:10px;margin-right:10px;"]
+@damian                                    - Investigative Journalist, Political Corruption[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]REPORTERS[/b][/div]
 [i]report all other news cases[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PHOTOGRAPHERS[/b][/div]
 [i]take the photos used in the newspaper[/i]
-@raphael                                                         [/div][div style="margin-left:10px;margin-right:10px;"]
+@raphael                                                             [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]those wanting to get into news but needing experience[/i]
-@jimmie                                                         [/div]
+@jimmie                                                             [/div]
 
 [div style="font-weight:bold;font:16px Georgia;"]SPORTS[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SENIOR SPORTS DIRECTOR[/b][/div]
@@ -265,10 +285,10 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]QUIDDITCH LEAGUE LIAISON[/b][/div]
 [i]point of contact between the quidditch league and the newspaper[/i]
-@ginny                                               [/div][div style="margin-left:10px;margin-right:10px;"]
+@ginny                                                   [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]QUIDDITCH REPORTER[/b][/div]
 [i]report on all quidditch news[/i]
-@grey                                                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
+@grey                                                                                                [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]QUIDDITCH PHOTOGRAPHER[/b][/div]
 [i]photographers that specialize in sports[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -297,7 +317,7 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]those wanting to get into news but needing experience[/i]
-@evy        [/div]
+@evy            [/div]
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]HOLOPAINEN-ROSIER RECORDS[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
@@ -312,13 +332,12 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RECEPTIONISTS[/b][/div]
 [i]run the front desk and also handle all the appointments for the owners[/i]
-@priscilla                               
-@yiseul                                                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
+@yiseul                                                                                                [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MUSICIANS[/b][/div]
 [i]musical artists that are under contract with the record label[/i]
-@lance                                                                                            
-@emrys     
-@camila                                                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
+@lance                                                                                                
+@emrys         
+@camila                                                                                                [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PRODUCER[/b][/div]
 [i]help the musicians write, record, and produce their songs and cds[/i]
 @tag[/div][/div]
@@ -375,7 +394,7 @@ handle tickets, make sure people find their seats, etc[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PHOTOGRAPHER[/b][/div]
 [i]take photos for the magazine[/i]
-@cordelia                                                                                           [/div][div style="margin-left:10px;margin-right:10px;"]
+@cordelia                                                                                               [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]REPORTER[/b][/div]
 [i]write the articles[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -393,10 +412,10 @@ handle tickets, make sure people find their seats, etc[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PRODUCER[/b][/div]
 [i]oversees film production[/i]
-@temperance                                                 [/div][div style="margin-left:10px;margin-right:10px;"]
+@temperance                                                     [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SCREENWRITER[/b][/div]
 [i]write scripts for shows[/i]
-@mcgonagall                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@mcgonagall                                 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MARKET ANALYST[/b][/div]
 [i]see how things are doing, reports[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -405,9 +424,9 @@ handle tickets, make sure people find their seats, etc[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CREW[/b][/div]
 [i]those that work anywhere in the shows (pick what you want to do!)[/i]
-@hanna                                                                                          - costume designer
-@monday                                                          - intern
-@vivian                                   - Host of Potterwatch[/div][div style="margin-left:10px;margin-right:10px;"]
+@hanna                                                                                              - costume designer
+@monday                                                              - intern
+@vivian                                       - Host of Potterwatch[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAJOR ACTOR/ACTRESS[/b][/div]
 [i]WADA graduate required
 
@@ -480,7 +499,7 @@ runs the reserve[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]dragon behavior liaison[/b][/div]
 [i]studies dragon behavior[/i]
-@bran                                                   [/div][/div]
+@bran                                                       [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]MAGIZOO ISLAND[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located in outer hebrides, scotland[/i]
@@ -497,7 +516,7 @@ runs the reserve[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGIZOOLOGIST APPRENTICE[/b][/div]
 [i]learning how to take care of magical creatures[/i]
-@calliope                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
+@calliope                                                                [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL VETERINARIAN[/b][/div]
 [i]take care of the health of the creatures[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -521,26 +540,26 @@ runs the reserve[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DRAGON KEEPER[/b][/div]
 [i]handle the day to day needs of the reserve[/i]
-@astrid                                                                                   - volunteer[/div][div style="margin-left:10px;margin-right:10px;"]
+@astrid                                                                                       - volunteer[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DRAGON HUNTER[/b][/div]
 [i]keep the population under control[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ABRAXAN BREEDER[/b][/div]
 [i]specialize in handling and breeding the winged horse, Abraxan[/i]
-@madeleine                        [/div][div style="margin-left:10px;margin-right:10px;"]
+@madeleine                            [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DRAGON GOODS MERCHANT[/b][/div]
 [i]sell products made from dragon parts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGIZOOLOGIST[/b][/div]
 [i]study magical creatures[/i]
-@astrid                 
+@astrid                     
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DRAGONOLOGIST[/b][/div]
 [i]study dragons[/i]
-@charles                                                                                  [/div][div style="margin-left:10px;margin-right:10px;"]
+@charles                                                                                      [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]winged HORSE JOCKEY[/b][/div]
 [i]races winged horses professionally[/i]
-@madeleine                       [/div][div style="margin-left:10px;margin-right:10px;"]
+@madeleine                           [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SECURITY TROLL TRAINER[/b][/div]
 [i]train the different species of trolls to be security guards[/i]
 @tag[/div][/div]
@@ -568,7 +587,7 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]KNIGHT BUS CONDUCTOR[/b][/div]
 [i]keeps Knight Bus patrons happy and makes sure they get to their destinations[/i]
-@steve                              
+@steve                                  
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]KNIGHT BUS DRIVER[/b][/div]
 [i]drives the bus[/i]
@@ -582,18 +601,18 @@ runs the reserve[/i]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSASSIN-FOR-HIRE[/b][/div]
 [i]will kill if you pay them enough[/i]
-@fenrir                                          
+@fenrir                                              
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BACK ALLEY HEALER[/b][/div]
 [i]on call healer for illegal activities[/i]
-@rose                                         [/div][div style="margin-left:10px;margin-right:10px;"]
+@rose                                             [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BLACK MARKET MERCHANT[/b][/div]
 [i]sell contraband items[/i]
-@calliope                                                                             
-@rue                                                                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@calliope                                                                                 
+@rue                                                                                 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BOUNTY HUNTER[/b][/div]
 [i]hunt down targets for money (do not kill)[/i]
-@clyde
+@clyde 
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CON ARTIST/GRIFTER[/b][/div]
 [i]masters of lying and getting what they want[/i]
@@ -601,7 +620,7 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CURSE SPECIALIST[/b][/div]
 [i]those that study the dark arts and sell their talent[/i]
-@dianab                                                                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@dianab                                                                                 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DARK POTIONEER[/b][/div]
 [i]create potions that are illegal[/i]
 @tag
@@ -620,7 +639,7 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]EXPERIMENTAL MAGICAL CREATURE BREEDER[/b][/div]
 [i]illegally breeds magical creatures[/i]
-@fenrir                                          
+@fenrir                                              
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]FORGER[/b][/div]
 [i]create false documents that can pass as real[/i]
@@ -637,11 +656,11 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL CREATURE DEALER[/b][/div]
 [i]illegally sell magical creatures[/i]
-@fenrir                                          
+@fenrir                                              
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GAMBLING BOOKKEEPER[/b][/div]
 [i]keep track of the money for gambling debts[/i]
-@asher                                                                             
+@asher                                                                                 
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POACHER[/b][/div]
 [i]hunt magical creatures and sell them for a profit[/i]
@@ -649,14 +668,14 @@ runs the reserve[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SMUGGLER[/b][/div]
 [i]bring in contraband products while avoiding the government officials[/i]
-@cashel                                                                             [/div][div style="margin-left:10px;margin-right:10px;"]
+@cashel                                                                                 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SPY[/b][/div]
 [i]specialize in stealth and espionage[/i]
 @ewan
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]THIEF[/b][/div]
 [i]they will steal for a profit[/i]
-@ares                                                                                [/div][div style="margin-left:10px;margin-right:10px;"]
+@ares                                                                                    [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]VIGILANTE[/b][/div]
 [i]take the law into their own hands, and commit crimes to right a wrong[/i]
 @tag
@@ -674,49 +693,48 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 [spoiler][div style="margin-left:10px;margin-right:10px;"][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]apothecary supplier[/b][/div]
 [i]supplies apothecaries with their supplies
-[/i]@milo                                      
-@alfie                                     [/div][div style="margin-left:10px;margin-right:10px;"]
+[/i]@milo                                          
+@alfie                                         [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ARTIST[/b][/div]
 [i]create pieces of art for a living[/i]
-@yas                                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
+@yas                                                                                [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUTHOR[/b][/div]
 [i]write novels, short stories, comics, etc[/i]
-@cara                                                                            
-@charles                          [/div][div style="margin-left:10px;margin-right:10px;"]
+@cara                                                                                
+@charles                              [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASTRONOMER[/b][/div]
 [i]study the movement of the stars[/i]
-@dana                                                                            
+@dana                                                                                
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]teachers&nbsp; &amp; students (non Hogwarts)[/b][/div]
 [i]those that teach for a living at schools other then Hogwarts, and played students of these schools[/i]
-                     @clarence                                                       - Ilvermorny Native American Magic
-@brody           - Ilvermorny 7th year
-@yvonne           - Ilvermorny 7th year
+@brody               - Ilvermorny 7th year
+@yvonne               - Ilvermorny 7th year
 
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]FORTUNE TELLER[/b][/div]
 [i]Use divinations.[/i]
-@xiulan                                                                            
+@xiulan                                                                                
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HERBOLOGIST[/b][/div]
 [i]work with plants, and their magical properties[/i]
-                                     @alfie      
+                                     @alfie          
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUTHOR[/b][/div]
 [i]write novels, short stories, comics, etc[/i]
-@cara                                                                            
-@charles                                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
+@cara                                                                                
+@charles                                                                                [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]METAL CHARMER[/b][/div]
 [i]similar to enchanters, though they specialize in metal work[/i]
-@hazel                                                                            
+@hazel                                                                                
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [/div][div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MUSICIAN[/b][/div]
 [i]singers, bands, etc. not with holopainen-rosier records[/i]
-@jack
+@jack    
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PERFORMER[/b][/div]
 [i]make a living performing is some other way then music and dance[/i]
-@tag
+@tag         
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PHILANTHROPIST[/b][/div]
 [i]a person who seeks to promote the welfare of others[/i]
@@ -724,7 +742,7 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PHOTOGRAPHER[/b][/div]
 [i]independently takes and sells photographs[/i]
-@malcolmc  
+@malcolmc      
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POTIONS RESEARCHER[/b][/div]
 [i]researches and designs potions[/i]
@@ -732,28 +750,28 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRANSLATOR[/b][/div]
 [i]provides translation services[/i]
-@maria  [/div]
+@maria      [/div]
 
 [/div][/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]MUGGLE[/div]
 
 [i]Jobs in the muggle world, and not magical. This is for muggle characters, witch hunters if they want a day job, squibs that don't want to work in the magical world, and wizards/witches that don't want to work in the magical world. We won't be listing jobs here, because there are countless jobs available, so if you want a muggle job, just pick one, but specify it's in the muggle world.[/i]
 
-[div style="margin-left:10px;margin-right:10px;"]University student at Imperial College London - @yara                                                              
-Actress - @yiseul                                                             
+[div style="margin-left:10px;margin-right:10px;"]University student at Imperial College London - @yara                                                                  
+Actress - @yiseul                                                                 
 [/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]IC GALLEON SHOP JOBS[/div]
 
-[i]These are careers/jobs that are only permitted with an IC store purchase. There are jobs that can be considered exceptionally rare, unnatural and unusual, highly dangerous, extremely illegal, etc. We are always willing to add more jobs to this list if you purchase a job and tell us what you want to do! Just message @sora                                                                           . The current jobs listed are just ones we've currently thought up or others have asked for.[/i]
+[i]These are careers/jobs that are only permitted with an IC store purchase. There are jobs that can be considered exceptionally rare, unnatural and unusual, highly dangerous, extremely illegal, etc. We are always willing to add more jobs to this list if you purchase a job and tell us what you want to do! Just message @sora                                                                               . The current jobs listed are just ones we've currently thought up or others have asked for.[/i]
 
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DRAGON TRAINER[/b][/div]
-[i](highly illegal. specific breeds. contact @sora                                                                          )
+[i](highly illegal. specific breeds. contact @sora                                                                              )
 
 Refer to the Dragon section of Uncommon Magical Practices[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]EXPERIMENTAL MAGICAL CREATURE BREEDER[/b][/div]
-[i](highly illegal. contact @sora                                                                           before trying to make a new species)
+[i](highly illegal. contact @sora                                                                               before trying to make a new species)
 
 trying to create new magical species is illegal but these individuals don't care.[/i]
 @tag
@@ -772,7 +790,7 @@ trying to create new magical species is illegal but these individuals don't care
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HIGH DRUID[/b][/div]
 [i]their highest ranking leader.[/i]
-@fae                                                                        
+@fae                                                                            
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DRUID COUNCIL[/b][/div]
 [i]10 individuals that make up the council, under the High Druid.[/i]
@@ -868,7 +886,7 @@ trying to create new magical species is illegal but these individuals don't care
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WINEMAKER[/b][/div]
 [i]makes wine from the vineyards.[/i]
-@wormwood       
+@wormwood           
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSISTANT WINEMAKER[/b][/div]
 [i]help with the winemaking process.[/i]
@@ -923,5 +941,5 @@ trying to create new magical species is illegal but these individuals don't care
 @tag [/div][/spoiler]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]UNEMPLOYED[/div]
 [div style="margin-left:10px;margin-right:10px;"]
-@nessa        
+@nessa            
 [/div][/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]

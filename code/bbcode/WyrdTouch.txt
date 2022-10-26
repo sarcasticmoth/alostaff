@@ -31,9 +31,6 @@ CODE:
 @parvati                       
 --&nbsp;If you stop moving your body starts to slowly turn to stone, you must always move at least a little bit to keep from becoming a statue.
 
-@priscilla                                         
--- All plants you touch die.
-
 @sarah                                        
 --&nbsp;For every single person you maim, kill or otherwise harm you body changes. You slowly morph into what other people would see you as, a monster. It can be a patch of scales, it can be longer finger nails, it can be pointy teeth. For all harm you do from this point forward you will acquire a monstrous marking.
 

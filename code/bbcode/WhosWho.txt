@@ -23,17 +23,11 @@ OOC character listing
 [/div][/div]
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@audrey                                                                                                                            [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/bwUfJea.jpg" style="max-width:100px;"]
-[b]@ayla                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/b60ePop.png"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/b60ePop.png"]
 [b]@blair                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/e7ZcFJT.png" style="max-width:100px;"]
 [b]@brody                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/NyPxWw7.png" style="max-width:100px;"]
-[b]@camila                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/n8b2D01.png" style="max-width:100px;"]
-[b]@chrissy                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/ugUnnF9.png"]
-[b]@clarence                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/z1gJ3iy.png"]
-[b]@claricia                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/MLiItev.png"]
-[b]@dasha                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/4ypGKMH.png" style="max-width:100px;"]
-[b]@emmanuelle                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/AalvKmk.png" style="max-width:100px;"]
-[b]@ezekiel                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/DhDmzV7.png"]
+[b]@camila                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/4ypGKMH.png" style="max-width:100px;"]
+[b]@emmanuelle                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/DhDmzV7.png"]
 [b]@felix                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/UbYCnK0.png" style="max-width:100px;"]
 [b]@geethanjali                                               [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/mGhnflI.png"]
 [b]@honey                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/aZhMuk5.png"]
@@ -41,25 +35,20 @@ OOC character listing
 [b]@lucrezia                               [/b][/div][/td][td][div][img src="https://i.imgur.com/M2xu0kP.png" style="max-width:100px;"]
 [b]@kaylee                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/ACA0p8I.png"]
 [b]@maxima                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/jkb5VUz.png"]
-[b]@monday                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/ouIl5pi.png" style="max-width:100px;"]
-[b]@muffet                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/TzgNwtd.png"]
-[b]@oliwia                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/rRBlYAe.png" style="max-width:100px;"]
+[b]@monday                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/rRBlYAe.png" style="max-width:100px;"]
 [b]@parvati                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/vpt7H6o.png"]
-[b]@penelope                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/hiBIyP5.png"]
-[b]@priscilla                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/85hMGVs.jpg"]
+[b]@penelope                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/85hMGVs.jpg"]
 [b]@reina                                                                                                     [/b][/div][/td][td][div][img src="https://i.imgur.com/A88Jfch.png" style="max-width:100px;"]
 [b]@wormwood                                                                                                     [/b][/div][/td][td][div][img src="https://i.imgur.com/IGjAc8K.png" style="max-width:100px;"]
 [b]@samira                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/wKpDzFN.png" style="max-width:100px;"]
 [b]@sarah                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/8gtnYrU.png" style="max-width:100px;"]
-[b]@scorpius                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/VE5IyMA.png"]
-[b]@tamatha                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/0xjqRi9.png" style="max-width:100px;"]
+[b]@scorpius                                                                                                      [/b][/div][/td][td][div][img src="https://i.imgur.com/0xjqRi9.png" style="max-width:100px;"]
 [b]@xiulan                                                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/QGH1nzU.png"]
 [b]@yara                                                                                                      [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]publication restrictions:[/i]
-@priscilla                                                                        - nothing regarding romance
 @samira                                                                        - nothing regarding romance
-@ivanka                  - nothing about phoenix rising
-@clarence                                                                       , @chrissy                                                                       , @dasha                                                                       , @felix                                                                       , @emmanuelle                                                                       , @sarah                                                                       , @scorpius                                                                       , @xiulan                                                                       , @yara                                                                        - cleared in advance
+@ivanka                  - nothing about phoenix rising, 
+@felix                                                                       , @emmanuelle                                                                       , @sarah                                                                       , @scorpius                                                                       , @xiulan                                                                       , @yara                                                                        - cleared in advance
 
 [/div][/div]
 

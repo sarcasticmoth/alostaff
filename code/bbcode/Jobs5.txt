@@ -19,7 +19,7 @@
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]NEWS COORDINATOR[/div]
 [i]first contact between the league and news outlets[/i]
-@tamatha          
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ON SITE HEALER[/div][i]
 organize the matches[/i]
@@ -35,10 +35,10 @@ organize the matches[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SCOUT[/div]
 [i]look for talented players to recruit to teams[/i]
-@claricia          
+@tag
 [/div]
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]TEAMS[/div]
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]CLUB TEAMS[/div]
 
 [i]Each team has the same makeup of 7 players, and a coach. One of the players is also the captain. In this section we have included just one list of how teams work, and then a list of all the teams we currently have as playable at Alohomora.[/i]
 
@@ -76,6 +76,7 @@ FALMOUTH FALCONS
 HOLYHEAD HARPIES
 KENMARE KESTRELS
 MONTROSE MAGPIES
+MALMÖ MARAUDERS (Swedish Club Team)
 PRIDE OF PORTREE
 PUDDLEMERE UNITED
 TUTSHILL TORNADOS
@@ -83,7 +84,59 @@ WIMBOURNE WASPS
 YORKSHIRE
 
 BALLYCASTLE BATS KEEPER & CAPTAIN - @mickey    
-    BALLYCASTLE BATS CHASER - @simon   
-BALLYCASTLE BATS BEATER - @luna 
+    MALMÖ MARAUDERS CHASER - @simon   
+HOLYHEAD HARPIES BEATER - @luna 
 
-[/div][/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
+[/div][/div][/td][/tr]
+
+[tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #8B4972;"]NATIONAL TEAMS[/div]
+
+[i]Each national team has the same makeup of 7 players, and a coach. One of the players is also the captain. In this section we have included just one list of how teams work, and then a list of all the teams we currently have as playable at Alohomora. Playing for the national team is an additional role to playing for a club team, and any club player can be called up to play for their national team.
+
+National teams are made up of club players from varying nations, but who have [b]nationality[/b] of the country they play for. For example, a German national can play for the Appleby Arrows, but would still play for the German national team.[/i]
+
+[div style="margin-left:10px;margin-right:10px;"]
+[b]team make up:[/b]
+
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(48, 102, 190);text-align:left;text-transform:lowercase;margin-bottom:-10px;"]COACH[/div]
+[i]previous quidditch experience required
+runs the team, their practices, and players[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CAPTAIN[/div]
+[i]the player that runs the team on the field[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SEEKER[/div]
+[i]1 per team, they try to catch the snitch and end the game[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]KEEPER[/div]
+[i]1 per team, they guard the three goal posts to prevent the opponents from scoring[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]BEATER[/div]
+[i]2 per team, they carry bats to hit the bludger sand try to knock opponents off their brooms[/i]
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]CHASER[/div]
+[i]3 per team, they score all the points for the teams[/i]
+[/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[b]PLAYABLE TEAMS:
+[/b]
+ENGLAND
+SCOTLAND
+WALES
+IRELAND (includes Northern Ireland)
+SWEDEN
+FRANCE
+GERMANY
+SPAIN
+PORTUGAL
+ITALY
+BULGARIA
+GREECE
+UKRAINE
+
+ENGLAND KEEPER - @mickey
+SWEDEN CHASER - @simon
+
+[/div][/div][/td][/tr]
+
+[/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]

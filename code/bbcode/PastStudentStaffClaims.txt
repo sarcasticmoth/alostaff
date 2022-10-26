@@ -74,7 +74,7 @@ Female: --
 [div align="center"][b]Ravenclaw[/b][/div]
 [spoiler]Captain: --
 
-Seeker: @dasha       
+Seeker: --       
 Keeper: --
 Beater: --
 Beater: --
@@ -154,7 +154,7 @@ Flying Special Skills:
 Magic Theory: @ivy     
 Magical First Aid:
 Muggle Studies: @severus     
-Native American Magic: @clarence     
+Native American Magic: 
 
 Apparition:
 Wandless Magic:
@@ -310,7 +310,7 @@ Flying Special Skills:
 Magic Theory: @ivy  
 Magical First Aid:
 Muggle Studies:
-Native American Magic: @clarence     
+Native American Magic: 
 
 Apparition:
 Wandless Magic:
