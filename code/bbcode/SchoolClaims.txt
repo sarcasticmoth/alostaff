@@ -105,11 +105,9 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 @shawn                                                        
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
-[i]the students attending the secondary school. These are 1-5th years (OWLs), though we only permit 4th years and older to be played.
-
-[/i]@lucia               - 5th year
-@reina         - 5th year[/div]
-
+[i]the students attending the secondary school. These are 1-5th years (OWLs), though we only permit 4th years and older to be played.[/i]
+@reina         - 5th year
+[/div]
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font-style:normal;font-variant:normal;font-size:18px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(169, 137, 152);"]L.I.F.E.
 Lufkin Institute for Further Education[/div]

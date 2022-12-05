@@ -444,7 +444,6 @@ Acts in accordance to the Wizard Laws, represents the Ministry[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL ARTIFACTS DEVELOPMENT AND TESTING OFFICE[/b][/div]
 [i]Tests and develops new magic technology and artifacts[/i]
-@harper                                                            
 @scorpius                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]Someone looking to work in their field but without prior experience or training[/i]

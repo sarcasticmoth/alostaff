@@ -47,7 +47,6 @@ to have a Patronus added just use this code:
 @ginny                                   - horse
 @grey                                   - crow
 @hazel                                   - cobra
-@harper                                   - tabby cat
 @harry                                   - stag
 @seph                                   - Ocelot
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
@@ -79,7 +78,6 @@ to have a Patronus added just use this code:
 @shawn                                 - german shepherd
 @sienna                                 - swan
 @simon                                 - brown bear
-@steve                                 - goose
 @tobias                                 - ferret
 @vivian      - hare
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
@@ -158,7 +156,6 @@ CODE FOR NORTH AMERICA:
 @cade                        – surrey, [b]england[/b]
 @honey                        - leicester, [b]england[/b]
 @tobias                        - winchester, [b]england[/b]
-@harper                        - [b]england[/b]
 @ondina                        - [b]england[/b]
 @blaise                        - [b]england[/b]
 @samira                        - tower hamlets, [b]england[/b]
@@ -191,8 +188,6 @@ CODE FOR NORTH AMERICA:
 @yvonne                       - davenport, [b]iowa[/b] usa
 @nottingham                       - sleepy hollow, [b]new york[/b] usa
 @brody                       - lewiston, [b]maine,[/b] usa
-
-@steve                       - quebec, [b]canada[/b]
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]SOUTH AND CENTRAL AMERICA[/div]
 [div style="padding-left:10px;padding-right:10px;"]@camila                       - córdoba, [b]argentina[/b]
