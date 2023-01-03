@@ -8,7 +8,7 @@ Auror/Hit Wizard/magical Interpol require 2 years of training.[/div][/td][/tr][t
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]minister for magic[/b][/div]
 [div][i]10+ years Ministry experience
 Head of the Wizarding World in the UK[/i][/div]
-@rowena                                [/div][div style="margin-left:10px;margin-right:10px;"]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ADVISOR TO THE MINISTER OF MAGIC[/b][/div]
 [i]Advises the Minister on current affairs. Sometimes used as a figurehead in place of the Minister for public appearances
 [/i]

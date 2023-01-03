@@ -134,12 +134,10 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 @tag - ancient runes
 @frank                                                      - Ancient Studies
 @octavian                                                  - Arithmancy
+@octavian                                              - Introduction to Curse Breaking
 @octavian                  -&nbsp;Calculus, Catacombs and Cursebreaking
 @octavian                  - Crypts and Cryptography
-@octavian            - Curse Breaking - Traps and Hidden Dangers
-@renfri                                              - Introduction to Curse Breaking
-@renfri                                              - History of Curse Breaking
-@renfri                                              - Tomb Raiding vs Curse Breaking: Ethics of Magical Archeology[/div]
+@octavian            - Curse Breaking - Traps and Hidden Dangers[/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]wizarding academy of the dramatic arts[/div]
 [i]witches and wizards desiring to pursue a career in theater, WADA has merged it's program is the UK's new magical education campus. the WADA program is world renowned for it's theater education and supplying the best magical theater education possible.[/i]
 
