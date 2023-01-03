@@ -567,6 +567,17 @@ DECIMA VECTOR
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PARCEL CHECKER[/b][/div]
 [i]make sure no contraband is brought in[/i]
 @isabeau   [/div][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]SPELLBUCKS[/b][/div]
+[div style="margin-left:10px;margin-right:10px;"]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
+[i]owner of the shop[/i]
+@tag
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MANAGER[/b][/div]
+[i]manages employees and day to day operations[/i]
+@tag
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARISTA[/b][/div]
+[i]coffee, tea, etc. They supply the drinks[/i]
+@cara - part-time[/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]THE THREE BROOMSTICKS[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
