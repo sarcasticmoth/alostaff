@@ -141,9 +141,9 @@ HEMMINGS, luke
 HOLD, jake
 [b]@ilija                                                                                                                               [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/RptvOBv.png"]
 HOLDEN-RIED, kris
-[b]@charles                                                                                                                               [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div]
+[b]@charles                                                                                                                               [/b][/div][/td][td][div][img src="https://i.imgur.com/bd5jM7A.jpg" style="max-width:100px;"]
+HOLLAND, tom
+[b]@mac                                 [/b][/div][/td][/tr][/tbody][/table][/div]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]I,J,K,L[/div]
 [div align="center"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/miy749X.png" style="max-width:100px;"]
