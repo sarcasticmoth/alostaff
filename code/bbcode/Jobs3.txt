@@ -21,7 +21,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [spoiler]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]WELCOME WITCH[/b][/div]
 [i]front desk, and the first person you see. They handle all check ins and check outs[/i]
-@ophelialee                         
+@ophelialee                            
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MEDICAL BILLING [/b][/div]
 [i]In charge of the financial side of the hospital[/i]
@@ -67,11 +67,11 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEALER[/b][/div]
 [i]in charge of the care and treatment of patients in their ward[/i]
-@mac
+@mac   
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]NURSE[/b][/div]
 [i]assist healers in the care and comfort of patients[/i]
-@maxima
+@maxima   
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE NURSE[/b][/div]
 [i]training to become a nurse[/i]
@@ -168,7 +168,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HEALER[/b][/div]
 [i]in charge of the care and treatment of patients in their ward[/i]
-@ariadne             
+@ariadne                
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE HEALER[/b][/div]
 [i]training to become a healer[/i]
@@ -194,7 +194,7 @@ In charge of the entire hospital and ensure everything runs smoothly  [/i][/div]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]PSYCHIATRIST[/b][/div]
 [i]in charge of the mental health of their patients[/i]
-@alix            
+@alix             
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TRAINEE PSYCHIATRIST[/b][/div]
 [i]training to become a magical psychiatrist[/i]

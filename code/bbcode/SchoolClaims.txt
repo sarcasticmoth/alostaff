@@ -9,15 +9,15 @@ the individuals in charge of running the three schools. they are the council tha
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]gryffindor head of house[/div]
 [i]in charge of Gryffindor house and its students[/i]
-@parvati                                                                 
+@parvati                                                                     
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]hufflepuff head of house[/div]
 [i]in charge of Hufflepuff house and its students[/i]
-@shawn                                                                 
+@shawn                                                                     
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ravenclaw head of house[/div]
 [i]in charge of Ravenclaw house and its students[/i]
-@octavian                                                   
+@octavian                                                       
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]slytherin head of house
 [/div]
@@ -33,7 +33,7 @@ the staff of the primary school, which teaches the children of wizarding familie
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]reception teacher[/div]
 [i]this teacher is responsible for teaching the students in reception, who turn 4 on or before 1 September[/i]
-@rosie   
+@rosie       
 [/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 1 teacher[/div]
@@ -85,7 +85,7 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]defense against the dark arts[/div]
 [i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
-@blaise                                                         
+@blaise                                                             
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]flying[/div]
 [i]teaches special skills and advanced techniques to flying a broom.[/i]
@@ -102,11 +102,11 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]transfiguration[/div]
 [i]teaches the art of changing the form and appearance of an object.[/i]
-@shawn                                                         
+@shawn                                                             
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
 [i]the students attending the secondary school. These are 1-5th years (OWLs), though we only permit 4th years and older to be played.[/i]
-@reina          - 5th year
+@reina              - 5th year
 [/div]
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font-style:normal;font-variant:normal;font-size:18px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(169, 137, 152);"]L.I.F.E.
@@ -126,18 +126,19 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]medical department[/div]
 [i]all witches and wizards pursuing careers in the medical field. this includes all healing focuses (including veterinary), and nursing. after completing their N.E.W.T exams they will complete an additional 2 years in this program, or 6 months for nurses before working officially. this includes both classroom studies and field work.[/i]
 
-@hazel                       - "Magical Toxins and Tonics" (medical dept)
+@hazel                           - "Magical Toxins and Tonics" (medical dept)
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ancient studies[/div]
 [i]all witches and wizards pursuing careers in curse breaking, ancient studies, archeology, etc. after completing their N.E.W.T exams they will complete an additional 2 years in this program before working officially. this includes both classroom studies and field work.[/i]
 
 @tag - ancient runes
-@frank                                                      - Ancient Studies
-@octavian                                                  - Arithmancy
-@octavian                                              - Introduction to Curse Breaking
-@octavian                  -&nbsp;Calculus, Catacombs and Cursebreaking
-@octavian                  - Crypts and Cryptography
-@octavian            - Curse Breaking - Traps and Hidden Dangers[/div]
+@frank                                                      - ancient studies
+@octavian                                                  - arithmancy
+@octavian                                              - introduction to cursebreaking
+@octavian                  - calculus, catacombs and cursebreaking
+@octavian                  - crypts and cryptography
+@octavian            - cursebreaking - traps and hidden dangers
+@vanessa  - advanced cursebreaking (2nd year trainees only)[/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]wizarding academy of the dramatic arts[/div]
 [i]witches and wizards desiring to pursue a career in theater, WADA has merged it's program is the UK's new magical education campus. the WADA program is world renowned for it's theater education and supplying the best magical theater education possible.[/i]
 
@@ -158,10 +159,10 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 @tag - home economics and life skills
 @ivy                                           - magical theory
 @ivy              - origins of magic
-@severus                                                      - muggle studies
-@frank                                                - wandless magic
+@frank                                                    - wandless magic
 @mcgonagall                                - advanced transfiguration
 @mcgonagall                                - transfiguration and the human anatomy
+@vanessa  - advanced charms: protective spells
 
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
@@ -176,6 +177,7 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 @richard                                       &nbsp; - NEWT studies - 2nd year
 @yvonne                          -&nbsp;NEWT studies - 2nd year
 @brody                          -&nbsp;NEWT studies - 2nd year
+@amy    - alchemy - 3rd year
 @arlo      - sports science - 3rd year
 @jack      - hit wizard - 3rd year
 @brigh                                              - curse breaking - 4th year
@@ -196,7 +198,7 @@ although these individuals are not teachers, their roles are vital to the school
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]groundskeeper[/div]
 [i]takes care of the grounds and forbidden forest[/i]
-@malcolm                  [/div]
+@tag[/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]librarian[/div]
 [i]takes care of the library[/i]
 @tag
@@ -207,7 +209,7 @@ although these individuals are not teachers, their roles are vital to the school
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]counselors[/div]
 [i]assists students, offers advice and guidance[/i]
-@parvati                                                       
+@parvati                                                           
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]security team[/div]
 [i]report to the head of security and maintain the security of the campus[/i]
