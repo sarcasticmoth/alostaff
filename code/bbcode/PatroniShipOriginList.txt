@@ -13,26 +13,26 @@ to have a Patronus added just use this code:
 [/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]A, B, C, D[/div]
-[div style="padding-left:10px;padding-right:10px;"]@addy                                        – leopard 
-@aidan                                        – irish setter
-@albus                                        - stag
-@anastasia                                        – rattlesnake
-@asher  - goshawk
-@astrid                                        - Arctic fox
-@bianca                                        – shark
-@blaise                                        - lion
-@brigh                                        - dapple grey mare
-@brody                                        - barred owl
-@cade                                        – alligator
-@camila                                        - nightingale
-@cara                                        - sheepdog
-@cas                                        - magpie
-@cashel                                        - golden eagle
-@claire                                        - european badger
-@clyde    - black leopard
-@cordelia                                        - rabbit
-@dana                                        - russian white cat
-@dianab  - irish wolfhound[/div][/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="padding-left:10px;padding-right:10px;"]@addy                                         – leopard 
+@aidan                                         – irish setter
+@albus                                         - stag
+@anastasia                                         – rattlesnake
+@asher   - goshawk
+@astrid                                         - Arctic fox
+@bianca                                         – shark
+@blaise                                         - lion
+@brigh                                         - dapple grey mare
+@brody                                         - barred owl
+@cade                                         – alligator
+@camila                                         - nightingale
+@cara                                         - sheepdog
+@cas                                         - magpie
+@cashel                                         - golden eagle
+@claire                                         - european badger
+@clyde     - black leopard
+@cordelia                                         - rabbit
+@dana                                         - russian white cat
+@dianab   - irish wolfhound[/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]E, F, G, H[/div]
 [div style="padding-left:10px;padding-right:10px;"]@nell                                   - shoebill
 @elijah                                   - jackalope
@@ -122,43 +122,43 @@ CODE FOR NORTH AMERICA:
 @anastasia                        - Prague, [b]Czech Republic[/b]
 @cas                        - Prague, [b]Czech Republic[/b]
 
-@shawn                        - london, [b]england[/b]
-@cara                        - [b]england[/b]
-@dianab                        - [b]england[/b]
-@jimmie                        - [b]england[/b]
-@jimbo                        - [b]england[/b]
-@elaine                        - radlett, [b]england[/b]
-@renard                        - [b]england[/b]
-@bryelle                        - [b]england[/b]
-@maxima                        - ottery st catchpole, [b]england[/b]
-@octavian                        - [b]england[/b]
-@ariadne                        - [b]england[/b]
-@ares                        - [b]england[/b]
-@lockhart                        - london, [b]england[/b]
-@mina                        - [b]england[/b]
-@parvati                        - knightsbridge, [b]england[/b]
-@dana                        - knightsbridge, london, [b]england[/b]
-@albus                        - godric’s hollow, [b]england[/b] 
-@harry                        - godric's hollow, [b]england[/b]
-@jamesp                        - godric's hollow, [b]england[/b]
-@gideon                        - godric's hollow, [b]england[/b]
-@ginny                        - ottery st catchpole, [b]england[/b]
-@lily                        - godric’s hollow, [b]england[/b] 
-@frankie                        - godric's hollow, [b]england[/b]
-@nell                        - godric's hollow, [b]england[/b]
-@raphael                        - Godric's Hollow, [b]England[/b]
-@addy                        – london, [b]england[/b]
-@claire                        - [b]england[/b]
-@grey                        - [b]england[/b]
-@felixt                        - Guildford, Surrey England 
-@ophelialee                        - guildford, [b]england[/b]
-@cade                        – surrey, [b]england[/b]
-@honey                        - leicester, [b]england[/b]
-@tobias                        - winchester, [b]england[/b]
-@ondina                        - [b]england[/b]
-@blaise                        - [b]england[/b]
-@samira                        - tower hamlets, [b]england[/b]
-@vivian      - ottery st catchpole, [b]england[/b]
+@shawn                         - london, [b]england[/b]
+@cara                         - [b]england[/b]
+@dianab                         - [b]england[/b]
+@jimmie                         - [b]england[/b]
+@jimbo                         - [b]england[/b]
+@elaine                         - radlett, [b]england[/b]
+@renard                         - [b]england[/b]
+@bryelle                         - [b]england[/b]
+@maxima                         - ottery st catchpole, [b]england[/b]
+@octavian                         - [b]england[/b]
+@ariadne                         - [b]england[/b]
+@ares                         - [b]england[/b]
+@lockhart                         - london, [b]england[/b]
+@mina                         - [b]england[/b]
+@parvati                         - knightsbridge, [b]england[/b]
+@dana                         - knightsbridge, london, [b]england[/b]
+@albus                         - godric’s hollow, [b]england[/b] 
+@harry                         - godric's hollow, [b]england[/b]
+@jamesp                         - godric's hollow, [b]england[/b]
+@gideon                         - godric's hollow, [b]england[/b]
+@ginny                         - ottery st catchpole, [b]england[/b]
+@lily                         - godric’s hollow, [b]england[/b] 
+@frankie                         - godric's hollow, [b]england[/b]
+@nell                         - godric's hollow, [b]england[/b]
+@raphael                         - Godric's Hollow, [b]England[/b]
+@addy                         – london, [b]england[/b]
+@claire                         - [b]england[/b]
+@grey                         - [b]england[/b]
+@felixt                         - Guildford, Surrey England 
+@ophelialee                         - guildford, [b]england[/b]
+@cade                         – surrey, [b]england[/b]
+@honey                         - leicester, [b]england[/b]
+@tobias                         - winchester, [b]england[/b]
+@ondina                         - [b]england[/b]
+@blaise                         - [b]england[/b]
+@samira                         - tower hamlets, [b]england[/b]
+@vivian       - ottery st catchpole, [b]england[/b]
 
 @aidan                        – [b]Hy-Brasil[/b]
 @cashel                        - [b]Hy-Brasil[/b]
