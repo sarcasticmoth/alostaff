@@ -132,7 +132,7 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 [i]all witches and wizards pursuing careers in curse breaking, ancient studies, archeology, etc. after completing their N.E.W.T exams they will complete an additional 2 years in this program before working officially. this includes both classroom studies and field work.[/i]
 
 @tag - ancient runes
-@frank                                                            - ancient studies
+@tag                                                            - ancient studies
 @octavian                                                        - arithmancy
 @octavian                                                    - introduction to cursebreaking
 @octavian                        - calculus, catacombs and cursebreaking
@@ -159,7 +159,7 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 @tag - home economics and life skills
 @ivy                                                 - magical theory
 @ivy                    - origins of magic
-@frank                                                      - wandless magic
+@tag                                                      - wandless magic
 @mcgonagall                                      - advanced transfiguration
 @mcgonagall                                      - transfiguration and the human anatomy
 @vanessa    - advanced charms: protective spells
@@ -172,7 +172,6 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 @lyka                                                     - NEWT studies - 1st year
 @amelia      - NEWT studies, 1st year
 @peggy&nbsp;- NEWT studies, 1st year
-@george                                                    - NEWT studies - 2nd year&nbsp;
 @gideon                                                                  - NEWT studies - 2nd year&nbsp;
 @lea                                                                  - NEWT studies - 2nd year&nbsp;
 @richard                                             &nbsp; - NEWT studies - 2nd year

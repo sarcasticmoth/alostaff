@@ -27,7 +27,6 @@ to have a Patronus added just use this code:
 @camila                                         - nightingale
 @cara                                         - sheepdog
 @cas                                         - magpie
-@cashel                                         - golden eagle
 @claire                                         - european badger
 @clyde     - black leopard
 @cordelia                                         - rabbit
@@ -60,7 +59,6 @@ to have a Patronus added just use this code:
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]M, N, O, P[/div]
 [div style="padding-left:10px;padding-right:10px;"]@maxima                                  - cornish rex
-@milo         - Siberian Cat
 @mina                                  - leopardess
 @nathaniel                                  - raven
 @octavian   - bloodhound
@@ -111,7 +109,6 @@ CODE FOR NORTH AMERICA:
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]AUSTRALIA AND NEW ZEALAND[/div]
 [div style="padding-left:10px;padding-right:10px;"]
-@milo         - [b]Australia[/b]
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]EUROPE[/div]
 [div style="padding-left:10px;padding-right:10px;"]
@@ -132,7 +129,6 @@ CODE FOR NORTH AMERICA:
 @bryelle                         - [b]england[/b]
 @maxima                         - ottery st catchpole, [b]england[/b]
 @octavian                         - [b]england[/b]
-@ariadne                         - [b]england[/b]
 @ares                         - [b]england[/b]
 @lockhart                         - london, [b]england[/b]
 @mina                         - [b]england[/b]
@@ -161,13 +157,8 @@ CODE FOR NORTH AMERICA:
 @vivian       - ottery st catchpole, [b]england[/b]
 
 @aidan                         – [b]Hy-Brasil[/b]
-@cashel                         - [b]Hy-Brasil[/b]
 
 @brigh                         - Galway, Ireland 
-
-@emrys                         - [b]Netherlands[/b]
-
-@fenrir         - [b]russia[/b]
 
 @cordelia                         - [b]scotland[/b]
 @clyde     - [b]scotland[/b]

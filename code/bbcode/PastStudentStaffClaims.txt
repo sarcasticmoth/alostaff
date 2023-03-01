@@ -116,7 +116,7 @@ Female: @maxima
 
 Prefects - 6th year
 Male: --
-Female: @isabeau    
+Female: 
 
 Prefects - 5th year
 Male: --
@@ -144,7 +144,7 @@ Transfiguration: @shawn
 
 Alchemy: @hazel       
 Ancient Runes:
-Ancient Studies: @frank       
+Ancient Studies: 
 Arithmancy: @octavian       
 Art:
 Care of Magical Creatures: @charles       
