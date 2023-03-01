@@ -3,12 +3,11 @@
 
 Some of these characteristics may differ slightly from other sites or even HP lore. We would like to avoid any one demihuman race being too powerful though, so these changes were made to bring these demihuman races into compliance with our rules. In some cases they were either watered down, or changed completely.
 
-[div align="center"][b]Rules that apply to all Demi humans[/b][/div][ul type="circle"][li]Each member can have 2 of the same Demi human (2 part Veela, 2 werewolf, etc). You can purchase more at the IC shop.[/li][li]All Demi humans require a one-shot before we will give you the title and permit you to use it in threads. This one shot will be to show your character using their abilities in some way.[/li][li]Demi humans can't use Polyjuice potion[/li][li]Demi humans can't be more then one race (can't be part-giant and part-veela for example.).[/li][li]Can't be combined with animagi, animal affinity, clairvoyant, and metamorphmagi.[/li][li]Druid technically aren't demi-human but they are included here for organizational purposes[/li][/ul]
+[div align="center"][b]Rules that apply to all Demi humans[/b][/div][ul type="circle"][li]Each member can have 2 of the same Demi human (2 part Veela, 2 werewolf, etc). You can purchase more at the IC shop.[/li][li]All Demi humans require a one-shot before we will give you the title and permit you to use it in threads. This one shot will be to show your character using their abilities in some way.[/li][li]Druid technically aren't demi-human but they are included here for organizational purposes[/li][/ul]
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]PART GIANT[/div]
-[div style="text-align:center;"]cannot be combined with legilimency[/div][div style="text-align:center;"]cannot be combined with occlumency[/div][div style="text-align:center;"]cannot play professional quidditch[/div]
-
-Part giants are tanks, with heightened strength and resistance to magic, but also have a difficult time learning how to use magic.
+[div style="text-align:center;"]
+[/div]Part giants are tanks, with heightened strength and resistance to magic, but also have a difficult time learning how to use magic.
 
 On Alohomora part Giants can be half, quarter, and eighth.
 
@@ -43,11 +42,9 @@ Because of their physical capabilities they have been banned from competing in a
 
 none currently
 
-[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]PART GOBLIN[/div]
-[div style="text-align:center;"]cannot play professional quidditch[/div]
-
-Part goblins are magical hot springs, with endless potential. On the other hand, they are quite frail and social outcasts to both goblins and humans.
-
+[/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]PART GOBLIN[/div][div style="text-align:center;"][span style="text-align:justify;"]
+Part goblins are magical hot springs, with endless potential. On the other hand, they are quite frail and social outcasts to both goblins and humans.[/span]
+[/div]
 On Alohomora part Goblins are only 'part' because of their unusual bloodlines.
 
 [spoiler]
@@ -71,10 +68,10 @@ Because of how frail they are part goblins are unable to play contact sports (su
 [div style="text-align:center;"]SOCIETAL STATUS[/div]Goblins and humans have been at odds for hundreds of years, and this turmoil still continues to this day. Only instead of actual wars they battle over finances. The Goblins are seen as vital but subservient members of society, which has led to extreme discrimination against their part human offspring. The obvious part goblins are treated poorly, and often have to deal with people not understanding that the wand they carry is in fact their own (since Goblins are not permitted wands), and that they are in fact part human. At the same time, many full blooded goblins see part goblins as stains in their society and treated like outcasts (which is why part goblins are not trained in Goblin magic). In all, part Goblins are both outcasts to humans and Goblins.
 [/spoiler]
 
-@monday                       
+@monday                        
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]VAMPIRE AND PART VAMPIRE[/div]
-[div style="text-align:center;"]full vampires cannot be students[/div][div style="text-align:center;"]full vampires cannot play profession quidditch[/div][div style="text-align:center;"]full vampires cannot be combined with any special abilities[/div]
+[div style="text-align:center;"]full vampires cannot be students[/div]
 
 Vampires have an affinity for biting humans on their neck and sucking their blood.
 
@@ -154,17 +151,16 @@ Dhampyrs lose most other vampire powers as well, including nocturnal vision, wal
 Individuals less than a quarter vampire may retain a pale complexion, but they are functionally human with none of a vampire’s powers or weaknesses and are not considered part vampires.
 [/spoiler]
 
-@emrys                      - full
-@lucrezia        - full
-@simon                      - half
-@zen                      - half
+@emrys                         - full
+@lucrezia           - full
+@simon                         - half
+@zen                         - half
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]VEELA AND PART VEELA[/div]
-[div style="text-align:center;"]full vampires cannot be students[/div][div style="text-align:center;"]full vampires cannot play profession quidditch[/div][div style="text-align:center;"]full vampires cannot be combined with any special abilities[/div]
+[div style="text-align:center;"]full Veelas cannot be students[/div]
 
-Vampires have an affinity for biting humans on their neck and sucking their blood.
+Veelas are beautiful magical beings, with fiery tempers (and appearances), and natural enchanting skills that can seduce others.
 
-On Alohomora part Vampires can be half, and quarter.
 
 [spoiler]
 [div style="text-align:center;"]GENERAL APPEARANCE[/div]Veelas, both male and female, are known to be the most naturally beautiful magical beings in the world. They are built much like models, tall slender, and in good physical condition. European Veelas are commonly known to be blonde haired and blue eyed but they can have other hair and eye colors. 
@@ -194,7 +190,7 @@ Part Veelas do inherit the ability to charm those attracted to them, though it g
 Like all other demi-humans Part Veelas are unable to use transfiguration magic on themselves, including becoming animagi. Again, if their non-Veela side of the family is NOT magical, they cannot perform spells at all.
 [/spoiler]
 
-@maria                        - half
+@maria                         - half
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WEREWOLF[/div]
 Often misunderstood, werewolves magically transform into wolves every full moon.
@@ -235,29 +231,29 @@ A common misconception about Werewolves was also recently proven false, which ha
 St. Mungos has also opened a clinic to assist Werewolves in obtaining the Wolfsbane potion prior to the full moon. With this program in place, many werewolves are now able to go through their monthly transformations in relative peace. Thus, Werewolf attacks are currently at the lowest they've ever been and the public's opinion of lycanthropy has greatly improved.
 [/spoiler]
 
-@alfie                       
-@dahlia                       
-@rob            
-@geethanjali                      
-@idris 
-@lily                       
-@lyra                       
-@vanessa                       
-@sarah                       
-@tobias       
-@vivian         
+@alfie                        
+@dahlia                        
+@rob             
+@geethanjali                       
+@idris  
+@lily                        
+@lyra                        
+@vanessa                        
+@sarah                        
+@tobias        
+@vivian          
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DRUIDS
 
 [/div]
 Druids are witches and wizards that have deep roots to their Celtic ancestors. They are not a different "species", but instead simply practice a different way of life then modern wizardkind. Due to centuries of separation though, there are some very real difference between Druids and modern wizardkind. We will accept full blood and half blood druids for this claim. Anything less than half is too diluted to have the druid skills.
+[div style="text-align:center;"]
+[/div][div style="text-align:center;"]cannot have animal affinity (from special ability list, they have their own)[/div]
 
-[div style="text-align:center;"]cannot be demihumans[/div][div style="text-align:center;"]cannot have animal affinity (from special ability list, they have their own)[/div]
-
-@aidan                       
-@cashel                         
-@fae    
-@wormwood                                   
+@aidan                        
+@cashel                          
+@fae     
+@wormwood                                    
 
 [spoiler]
 [b][u]What Make Druids Special[/u][/b]

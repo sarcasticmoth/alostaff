@@ -4,10 +4,9 @@ age
 ability/demihuman: if animagus, include form. If part demihuman, specify percentage.
 
 [url=URL HERE]Link to oneshot[/url][/code][/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ANIMAGUS[/div]
-[div align="center"]cannot be combined with demihumans
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ANIMAGUS[/div][div align="center"]
 cannot be combined with metamorphmagus
-cannot be under 17-years-old (Druids exempt)[/div]
+[/div]
 
 An Animagus is a witch or wizard who can morph him or herself into an animal at will. This is a learned trait and is not hereditary.
 
@@ -30,26 +29,27 @@ The animal you turn into will be the same as your Patronus (if you wish for it t
 [ul type="circle"][li]Keep a Mandrake leaf in their mouth for an entire month (even when eating and sleeping. If it falls out at any time you have to start over.)[/li][li]At the next (visible) full moon, the wizard must put their spit-soaked leaf in a phial within range of the moon's pure rays. (If the moon's hiding behind clouds or something you have to start over.)[/li][li]In the phial you will also need dew that hasn't been exposed to sunlight or human feet for a full seven days (again… start over if you fail.)[/li][li]Keep the potion hidden and out of sunlight. For a while.[/li][li]Every day at sunrise and sunset you have to say. "Amato Animo Animato Animagus." (This can go on for days or weeks or months.)[/li][li]Wait for an electrical storm. When one finally blows in, get outside, drink the potion and say the incarnation again. You’ll be transformed into your Animal form.[/li][li]Go register with the Ministry.[/li][/ul]We don’t require characters to go through all of this in character, but if you want to have an existing character start to learn how to become an Animagi it could be fun and interesting to roleplay all of this out! It’s entirely up to you.
 [/spoiler]
 
-@aidan                                           - irish setter
-@cashel                               - golden eagle
-@clyde  - black leopard
-@mcgonagall         - black cat
-@wormwood                                            - hare
-@shawn                                                           - german shephard
+@aidan                                                 - irish setter
+@cashel                                     - golden eagle
+@clyde        - black leopard
+@ewan     - tortoiseshell cat
+@mcgonagall               - black cat
+@rose  -&nbsp;Raven (unregistered)
+@wormwood                                                  - hare
+@shawn                                                                 - german shephard
 
 [/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ANIMAL AFFINITY[/div]
-[div align="center"]cannot be combined with demihumans
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]ANIMAL AFFINITY[/div][div align="center"]
 cannot be a snake affinity
-cannot be Druid[/div]
+cannot be Druid (druids have their own animal affinity skill)[/div]
 
 Individuals with this ability have an affinity for animals of a certain type. They can easily understand some thoughts and feelings of the animal they are more connected to. Understanding and being able to communicate with animals of your affinity does give you a higher skill to control/train/tame/etc these animals then a non-affinity person. Individuals may only have one type of animal. (Example, you can have an affinity toward all dogs or all felines but not both.) You are also limited to Non-magical or Magical. (Example, you can have a dragon affinity but it does not permit you to understand lizards and vice versa.)
 
-@brody                    - owls
+@brody                          - owls
 
 [/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]CLAIRVOYANT[/div]
-[div align="center"]cannot be combined with demihumans[/div]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]CLAIRVOYANT[/div][div align="center"]
+[/div]
 
 Clairvoyants are magical individuals with a heightened 'inner eye', that makes them more sensitive to the magic of the world and permits them to see things the normal witch/wizard cannot. 
 
@@ -74,14 +74,13 @@ Each Clairvoyant is unique in how their power manifests, so listed below are all
 [ul type="circle"][li]Prophecies - visions of world changing events with no time restriction (could be decades or centuries from now.)[/li][/ul][b][div style="text-align:center;"][b]TRIGGERS[/b][/div][/b]The Inner Eye is a very sensitive magical sense. So sensitive that it is able to pick up on the powers of the universe and see the future, a task that even the most accomplished of witches and wizards have failed to duplicate. Understandably many clairvoyants struggle to control their powers. Each person is unique in what may or may not cause them to lose control, but everyone has something (referred to as a ‘Trigger’). Sometimes it can be the most mundane of things. Simple daily tasks, certain emotions, even the company of particular individuals. Clairvoyants can learn to overcomer their triggers with practice and time (meditation is a great way to learn control.). It takes years of studying and commitment.
 [/spoiler]
 
-@irinarose                 
-@luna    
-@xiulan                  
+@irinarose                       
+@luna          
+@xiulan                        
 
 [/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]LEGILIMENCY[/div]
-[div align="center"]cannot be combined with part giants
-cannot be students[/div]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]LEGILIMENCY[/div][div align="center"]
+cannot be students of MAGIC[/div]
 
 Legilimency is the act of magically navigating through a person's mind and interpreting their findings within. This is a learned trait and a character must be graduated (unless you have staff approval).
 
@@ -110,16 +109,15 @@ These are abilities that exist but aren’t permitted to be used without staff a
 [ul type="circle"][li]Memory manipulation - Manipulate and plant memories and thoughts into another person’s mind. Magical bonds (example: Harry Potter was a horcux of Voldemort and thus bound to him.) between individuals make it much easier. People are unaware that these are manipulated thoughts and memories.[/li][li]Enhanced Imperius Curse - Those who have mastered Legilimency are dangerous when using the Imperius curse. Even the strongest of willed people will bend to their command.[/li][li]Enhanced Non-verbal Legilimens - the fully manifested power of the spell. Imagine Quennie from Fantastic Beasts. These individuals no longer require the ‘spell’, and can catch the surface thoughts of everyone around them. This form of legilimens will only catch surface thoughts. (example: they can not see a person's memories when using this skill.)[/li][/ul]
 [/spoiler]
 
-@asher                
-@bianca                
-@blaise                
-@elaine          
-@fenrir       
+@asher                      
+@bianca                      
+@blaise                      
+@elaine                
+@fenrir             
 
 [/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]METAMORPHMAGUS[/div]
-[div align="center"]cannot be combined with demihumans
-cannot be combined with animagi
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]METAMORPHMAGUS[/div][div align="center"]
+cannot be combined with animagus
 cannot be muggleborn[/div]
 
 Metamorphagi have the ability to change their appearance at will. They are extremely rare.
@@ -128,15 +126,14 @@ Metamorphagi have the ability to change their appearance at will. They are extre
 [ul type="circle"][li]Metamorphmagi are born, and can begin showing signs of their ability as early as an hour after birth.[/li][li]They can only change features, and not make substantial changes to themselves such as body size.[/li][li]They can't change into animals.[/li][li]Their ability to change their appearance is strongly linked to their emotions, and traumatic experiences can prevent them from using their abilities for extended periods.[/li][li]This can be hereditary (passed down parent to child), but it can also be a very random phenomenon.[/li][li]Muggleborn/No-maj borns can't be Metamorphmagi.[/li][/ul]
 [/spoiler]
 
-@calliope                
-@dianab                
-@edward                
-@fae                
+@calliope                      
+@dianab                      
+@edward                      
+@fae                      
 
 [/div]
-[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]OCCLUMENCY[/div]
-[div align="center"]cannot be combined with part giants
-cannot be students[/div]
+[/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]OCCLUMENCY[/div][div align="center"]
+cannot be students of MAGIC[/div]
 
 Occlumency prevents individuals possessing legilimency to access their thoughts or feelings and influencing how they act. This is a learned trait and a character must be graduated (unless you have staff approval).
 
@@ -158,15 +155,15 @@ Listed below are all the currently established forms of Occlumency used on the s
 [ul type="circle"][li]Natural Mental Defense - Your mind can not be penetrated by the Legilimency spell or other mental intrusion magic unless you desire.[/li][li]Deception - Even the most skilled lie detectors can not catch a hint of deception from you.[/li][li]Lie Detection - Likewise, because they are naturally so good at deception it is very difficult to deceive them (other Legilimens can though.)[/li][li]Possession Resistance - Natural resistance to any sort of possession (even the Imperius curse).[/li][li]Detection - They are always aware of someone (and will know who specifically) trying to penetrate their mind, even by the most skilled of Legilimens. They can let a Legiilmens into their mind if they want.[/li][li]Mental Deception - If they let a legilimens into their mind the legilimens will only pick up what the occlumen wants them to, nothing more. The legilimens will be unaware that these are fake thoughts.[/li][li]Emotion Suppression - Occlumency depends on emotional control. So, likewise they are able to suppress their own emotions and ‘turn them off’ when needed.[/li][/ul]
 [/spoiler]
 
-@anastasia                
-@asher                
-@bianca                
-@blaise                
-@cas            
-@clyde    
-@dianab                
-@felixt                
-@harry    
+@anastasia                      
+@asher                      
+@bianca                      
+@blaise                      
+@cas                  
+@clyde          
+@dianab                      
+@felixt                      
+@harry          
 
 [/div]
 [/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]

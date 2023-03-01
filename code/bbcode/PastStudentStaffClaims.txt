@@ -19,13 +19,13 @@ Head Girl:  --
 Quidditch Commentator: --
 
 [div align="center"][b]Gryffindor[/b][/div]
-[spoiler]Captain: @simon  
+[spoiler]Captain: @simon    
 
 Seeker: --
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @simon  
+Chaser: @simon    
 Chaser: --
 Chaser: --
 
@@ -48,11 +48,11 @@ Female: --
 [div align="center"][b]Hufflepuff[/b][/div]
 [spoiler]Captain: --
 
-Seeker: @raphael  
+Seeker: @raphael    
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @brody       
+Chaser: @brody         
 Chaser: --
 Chaser: --
 
@@ -98,13 +98,13 @@ Female: --
 [/spoiler]
 
 [div align="center"][b]Slytherin[/b][/div]
-[spoiler]Captain: @addy    
+[spoiler]Captain: @addy      
 
 Seeker: --
 Keeper: --
-Beater: @luna  
+Beater: @luna    
 Beater: --
-Chaser: @addy    
+Chaser: @addy      
 Chaser: --
 Chaser: --
 
@@ -112,11 +112,11 @@ Reserve: --
 
 Prefects - 7th year
 Male: --
-Female: @maxima       
+Female: @maxima         
 
 Prefects - 6th year
 Male: --
-Female: @isabeau  
+Female: @isabeau    
 
 Prefects - 5th year
 Male: --
@@ -128,32 +128,32 @@ Female: --
 [spoiler]Headmistress: Minerva McGonagall
 Deputy Headmaster:
 
-Gryffindor Head of House: @parvati     
-Hufflepuff Head of House: @shawn     
+Gryffindor Head of House: @parvati       
+Hufflepuff Head of House: @shawn       
 Ravenclaw Head of House:&nbsp;
-Slytherin Head of House: @blaise     
+Slytherin Head of House: @blaise       
 
 Astronomy:
 Charms: 
-Defence Against the Dark Arts: @blaise     
-Herbology: @alfie     
-History of Magic: @
+Defence Against the Dark Arts: @blaise       
+Herbology: @alfie       
+History of Magic: 
 Home Economics &amp; Life Skills: 
 Potions:&nbsp;
-Transfiguration: @shawn     
+Transfiguration: @shawn       
 
-Alchemy: @hazel     
+Alchemy: @hazel       
 Ancient Runes:
-Ancient Studies: @frank     
-Arithmancy: @octavian     
+Ancient Studies: @frank       
+Arithmancy: @octavian       
 Art:
-Care of Magical Creatures: @charles     
+Care of Magical Creatures: @charles       
 Divination:
 Dueling:
 Flying Special Skills:
-Magic Theory: @ivy     
+Magic Theory: @ivy       
 Magical First Aid:
-Muggle Studies: @severus     
+Muggle Studies:&nbsp;
 Native American Magic: 
 
 Apparition:
@@ -164,7 +164,7 @@ Groundskeeper:
 Librarian:
 Head Nurse:
 Nurses:
-Counselor: @parvati     
+Counselor: @parvati       
 [/spoiler]
 
 
@@ -175,13 +175,13 @@ Head Girl:  --
 Quidditch Commentator: --
 
 [div align="center"][b]Gryffindor[/b][/div]
-[spoiler]Captain: @simon  
+[spoiler]Captain: @simon    
 
 Seeker: --
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @simon  
+Chaser: @simon    
 Chaser: --
 Chaser: --
 
@@ -204,7 +204,7 @@ Female: --
 [div align="center"][b]Hufflepuff[/b][/div]
 [spoiler]Captain: --
 
-Seeker: @raphael  
+Seeker: @raphael    
 Keeper: --
 Beater: --
 Beater: --
@@ -258,9 +258,9 @@ Female: --
 
 Seeker: --
 Keeper: --
-Beater: @luna  
+Beater: @luna    
 Beater: --
-Chaser: @addy    
+Chaser: @addy      
 Chaser: --
 Chaser: --
 
@@ -272,7 +272,7 @@ Female: --
 
 Prefects - 6th year
 Male: --
-Female: @maxima       
+Female: @maxima         
 
 Prefects - 5th year
 Male: --
@@ -298,16 +298,16 @@ Home Economics &amp; Life Skills:
 Potions:
 Transfiguration:
 
-Alchemy: @hazel  
+Alchemy: @hazel    
 Ancient Runes:
 Ancient Studies:
-Arithmancy:@octavian    
+Arithmancy:@octavian      
 Art:
 Care of Magical Creatures:
 Divination:
 Dueling:
 Flying Special Skills:
-Magic Theory: @ivy  
+Magic Theory: @ivy    
 Magical First Aid:
 Muggle Studies:
 Native American Magic: 
@@ -360,7 +360,7 @@ Female: --
 [div align="center"][b]Hufflepuff[/b][/div]
 [spoiler]Captain: --
 
-Seeker: @raphael  
+Seeker: @raphael    
 Keeper: --
 Beater: --
 Beater: --
@@ -414,9 +414,9 @@ Female: --
 
 Seeker: --
 Keeper: --
-Beater: @luna  
+Beater: @luna    
 Beater: --
-Chaser: @addy   
+Chaser: @addy     
 Chaser: --
 Chaser: --
 
@@ -432,7 +432,7 @@ Female: --
 
 Prefects - 5th year
 Male: --
-Female: @maxima       
+Female: @maxima         
 [/spoiler]
 
 [div align="center"][b]Hogwarts Staff[/b][/div]
@@ -457,13 +457,13 @@ Transfiguration:
 Alchemy:
 Ancient Runes:
 Ancient Studies:
-Arithmancy: @octavian    
+Arithmancy: @octavian      
 Art:
 Care of Magical Creatures:
 Divination:
 Dueling:
 Flying Special Skills:
-Magic Theory: @ivy  
+Magic Theory: @ivy    
 Magical First Aid:
 Muggle Studies:
 
@@ -492,7 +492,7 @@ Seeker: --
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @jamesp    
+Chaser: @jamesp      
 Chaser: --
 Chaser: --
 
@@ -515,7 +515,7 @@ Female: --
 [div align="center"][b]Hufflepuff[/b][/div]
 [spoiler]Captain: --
 
-Seeker: @raphael 
+Seeker: @raphael   
 Keeper: --
 Beater: --
 Beater: --
@@ -571,7 +571,7 @@ Seeker: --
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @addy    
+Chaser: @addy      
 Chaser: --
 Chaser: --
 
@@ -612,13 +612,13 @@ Transfiguration:
 Alchemy:
 Ancient Runes:
 Ancient Studies:
-Arithmancy: @octavian    
+Arithmancy: @octavian      
 Art:
 Care of Magical Creatures:
 Divination:
 Dueling:
 Flying Special Skills:
-Magic Theory: @ivy 
+Magic Theory: @ivy   
 Magical First Aid:
 Muggle Studies:
 
@@ -638,7 +638,7 @@ Counselor:
 
 Head Boy: --
 Head Girl:  --
-Quidditch Commentator: @vivian 
+Quidditch Commentator: @vivian   
 
 [div align="center"][b]Gryffindor[/b][/div]
 [spoiler]Captain: --
@@ -647,7 +647,7 @@ Seeker: --
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @jamesp    
+Chaser: @jamesp      
 Chaser: --
 Chaser: --
 
@@ -726,7 +726,7 @@ Seeker: --
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @addy    
+Chaser: @addy      
 Chaser: --
 Chaser: --
 
@@ -767,7 +767,7 @@ Transfiguration:
 Alchemy:
 Ancient Runes:
 Ancient Studies:
-Arithmancy: @octavian    
+Arithmancy: @octavian      
 Art:
 Care of Magical Creatures:
 Divination:
@@ -792,7 +792,7 @@ Nurses:
 
 Head Boy: --
 Head Girl:  --
- Quidditch Commentator: @vivian 
+ Quidditch Commentator: @vivian   
 
 [div align="center"][b]Gryffindor[/b][/div]
 [spoiler]Captain: --
@@ -801,7 +801,7 @@ Seeker: --
 Keeper: --
 Beater: --
 Beater: --
-Chaser: @jamesp    
+Chaser: @jamesp      
 Chaser: --
 Chaser: --
 
