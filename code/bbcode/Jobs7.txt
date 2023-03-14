@@ -20,7 +20,7 @@
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DANCERS[/b][/div]
 [i]employed by the club to entertain guests[/i]
-@tag                                               [/div][div style="margin-left:10px;margin-right:10px;"]
+@lulu[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
 @frankie                                                                     [/div][/div]
