@@ -713,7 +713,8 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]FORTUNE TELLER[/b][/div]
 [i]Use divinations.[/i]
-@xiulan                                                                                    
+@xiulan
+@jewel
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HERBOLOGIST[/b][/div]
 [i]work with plants, and their magical properties[/i]
