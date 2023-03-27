@@ -1,11 +1,11 @@
 /* Punki's Variables */
-@pale-gray-1: #EBEBEB; /* Main background color */
-@pale-gray-2: #DFE2E2; /* Secondary background color */
-@pale-gray-3: #97A6A6; /* Border color */
-@gray-1: #474747; /* Text */
-@gray-2: #292929; /* Text */
-@blue-1: #6B7676; /* Link color and some accents */
-@blue-2: #949E9E; /* Link hover color and most accents */ 
+@pale-gray-1: #A69CAC; /* Main background color */
+@pale-gray-2: #887A90; /* Secondary background color */
+@pale-gray-3: #454541; /* Border color */
+@gray-1: #080714; /* Text */
+@gray-2: #080714; /* Text */
+@blue-1: #342E38; /* Link color and some accents */ 
+@blue-2: #31313D; /* Link hover color and most accents */ 
 @white: #ffffff;
 @banner-text: @white; /* Banner text color */
 @decorative-font: 'Josefin Sans'; /* Large font */
@@ -13,26 +13,26 @@
 @banner-image-1: 'https://i.imgur.com/niHizfl.jpg'; /* 950 pixels x 500 pixels for all four */
 
 /* end member banners */
-@seamless: 'http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg'; /* Please make this a seamless aka tileable picture */
+@seamless: 'https://i.imgur.com/GlbGcSd.png'; /* Please make this a seamless aka tileable picture */
 @about-picture: 'https://i.imgur.com/aV8Ax0v.jpg'; /* 350 pixels by 250 pixels */
 @staff-picture: 'https://i.imgur.com/nuBTF2J.jpg'; /* 700 pixels by 100 pixels */
 @awards-picture: 'https://i.imgur.com/IN0GQNX.jpg'; /* 50 pixels by 400 pixels */
 @nav-picture: 'https://i.imgur.com/XRePE79.jpg'; /* 300 pixels by 50 pixels */
 @credit-picture: 'https://i.imgur.com/EY9affx.jpg'; /* 500 pixels by 260 pixels */
-@event-picture: 'https://i.imgur.com/UZBRIBy.png'; /* 290 pixels by 130 pixels */
+@event-picture: 'https://i.imgur.com/3GXwanl.jpg'; /* 290 pixels by 130 pixels */
 @first-staffer: 'https://i.imgur.com/9yaBKbB.png'; /* sora */ /* 60 x 60 for all six */
 @second-staffer: 'https://i.imgur.com/zSZHip2.png'; /* lisa */
 @third-staffer: 'https://i.imgur.com/wXOsbOM.png'; /* vanessa */
 @fourth-staffer: 'https://i.imgur.com/OoeY8w3.png'; /* ana */
 @fifth-staffer: 'https://i.imgur.com/l4e7BbC.png'; /* audrey */
 @sixth-staffer: 'https://i.imgur.com/RA4DuQ8.png'; /* seph */
-@first-award: 'https://i.imgur.com/XD4FQfb.jpg'; /* 160 x 100 MOTY */
-@second-award: 'https://i.imgur.com/FGohfQO.jpg'; /* 160 x 100 SOTY */
-@third-award: 'https://i.imgur.com/PyBCenS.jpg'; /* 160 x 100 COTY */
+@first-award: 'https://i.imgur.com/8zn8mPV.jpg'; /* 160 x 100 MOTM */
+@second-award: 'https://i.imgur.com/tqEuYtA.jpg'; /* 160 x 100 TOTM */
+@third-award: 'https://i.imgur.com/SqcmkPj.jpg'; /* 160 x 100 COTM */
 @fourth-award: 'https://i.imgur.com/Xh1hPG8.png'; /* 160 x 100 Special Services*/
 /* @default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; */
-@default-board-image: 'https://i.imgur.com/6ZqzV4U.jpg'; /* 300 pixels by 120 pixels */
-@default-miniprofile-image: 'https://i.imgur.com/iL2MzSm.jpg'; /* 250 pixels by 400 pixels */
+@default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; /* 300 pixels by 120 pixels */
+@default-miniprofile-image: 'https://i.imgur.com/Ly23gW6.jpg'; /* 250 pixels by 400 pixels */
 @default-miniprofile-smaller-image: 'https://i.imgur.com/Thxg9xq.jpg'; /* 190 pixels by 100 pixels */
 
 /* Punki's Styles */
@@ -57,7 +57,7 @@
 #awards { width: 500px; height: 400px; padding-left: 100px; background: @pale-gray-1; position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 10000; display: none; box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.4); }
 #awards .picture { width: 50px; height: 400px; background-image: url(@awards-picture); background-size: cover; background-position: center; float: left; margin-left: -50px; }
 #awards table { width: 100%; border-spacing: 30px; height: 100%; border-collapse: separate; }
-#awards .awardee { width: 180px; height: 30px; background: @pale-gray-2; font-family: @decorative-font; font-size: 10px; line-height: 36px; text-align: center; color: @gray-2; text-transform: uppercase; border-bottom: 1px solid @pale-gray-3; margin: auto; }
+#awards .awardee { width: 180px; height: 30px; background: @pale-gray-2; font-family: @decorative-font; font-size: 12px; line-height: 36px; text-align: center; color: @gray-2; text-transform: uppercase; border-bottom: 1px solid @pale-gray-3; margin: auto; }
 #awards a { display: block; width: 160px; height: 100px; border: 10px solid @pale-gray-2; margin: auto; }
 #awards .award-1 { background-image: url(@first-award); background-size: cover; background-position: center; }
 #awards .award-2 { background-image: url(@second-award); background-size: cover; background-position: center; }
@@ -65,8 +65,8 @@
 #awards .award-4 { background-image: url(@fourth-award); background-size: cover; background-position: center; }
 #awards .overlay { opacity: 0; height: 100%; transition: 0.3s; background: rgba(255,255,255,0.6); font-size: 25px; line-height: 100px; text-align: center; color: @blue-1; }
 #awards a:hover .overlay { opacity: 1; }
-#nav { position: fixed; width: 300px; height: 375px; box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.4); background: @pale-gray-1; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 10000; display: none; }
-#nav .table { padding: 25px; height: 275px; }
+#nav { position: fixed; width: 300px; height: 350px; box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.4); background: @pale-gray-1; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 10000; display: none; }
+#nav .table { padding: 25px; height: 250px; }
 #nav a { height: 24px; border: 1px solid @pale-gray-3; margin-bottom: 6px; background: @pale-gray-2; display: block; line-height: 24px; text-indent: 7px; font-size: 10px; font-family: @small-font; letter-spacing: 1px; color: @gray-2; text-transform: uppercase; }
 #nav a:hover { text-indent: 14px; background: @pale-gray-1; }
 #nav .picture { height: 50px; background-image: url(@nav-picture); background-size: cover; background-position: center; }
@@ -88,10 +88,10 @@
 .p-banner .modals { height: 22px; text-align: center; line-height: 22px; word-spacing: -2px; margin-top: -10px; }
 .p-banner .modals a { display: inline-block; background: @pale-gray-1; color: @gray-2; text-transform: uppercase; letter-spacing: 2px; font-family: @small-font !important; font-size: 10px !important; border: 1px solid @gray-1; height: 20px; line-height: 22px; padding: 0 5px; text-shadow: none; }
 .p-banner .modals a:hover { background: @pale-gray-3; }
-.p-banner .links { margin-top: 198px; text-align: center; position: relative; z-index: 2; word-spacing: 20px; }
+.p-banner .links { margin-top: 179px; text-align: center; position: relative; z-index: 2; word-spacing: 20px; }
 .p-banner .links a { display: inline-block !important; width: 60px !important; height: 40px !important; background: @pale-gray-1 !important; border: none !important; border-radius: 30px 30px 0px 0px !important; font-family: @decorative-font !important; font-size: 15px !important; line-height: 60px !important; text-align: center !important; padding: 0 !important; margin: 0 !important; float: none !important; color: @gray-1; }
 .p-banner .links a:hover { color: @blue-2; }
-.p-banner .links .alert { color: #B95065; }
+.p-banner .links .alert { color: @blue-2; }
 
 .dashboard { height: 140px; overflow: hidden; margin: 15px; border-left: 4px solid @blue-2; padding-left: 15px; }
 .dashboard .user-avatar { height: 120px; width: 120px; border: 10px solid @pale-gray-3; float: left; }
@@ -391,7 +391,7 @@
 @buttons_background_color: @pale-gray-2;
 @buttons_text_color: @blue-1;
 
-@container_background_color_1: #F6F6F6;
+@container_background_color_1: #FFFFFF;
 @container_text_color_1: @gray-2;
 @container_background_color_2: #F6F6F6;
 @container_text_color_2: @gray-2;
@@ -1913,9 +1913,6 @@ input.time { width: 55px; }
 body:empty select { padding: 4px 2px; }
 body:empty .ui-search .search-filters-button { padding-left: 6px; }
 body:empty .ui-tabMenu ul li { height: 27px; }
-.mp .down::-webkit-scrollbar {
-    display:none;
-}
 
 /* Screen-only (tablets, phones) */
 @media only handheld { 
@@ -1923,6 +1920,3 @@ body:empty .ui-tabMenu ul li { height: 27px; }
 }
 
 @images_path: '//storage2.proboards.com/forum/images';
-
-/* avatars in online section 
-.info-avies .avatar_size_small img { border-radius: 100%; } */
