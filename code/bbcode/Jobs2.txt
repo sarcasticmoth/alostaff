@@ -279,7 +279,7 @@ technically employed by multiple nations, magical Interpol handles international
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INFORMATION LIASON[/b][/div]
 [i]Has the responsibility of determining what information gets told to who[/i]
-@tag
+@oberon
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BRAIN ROOM[/b][/div]
 [i]Researches the brain, human thought, memories, etc[/i]
@@ -303,7 +303,7 @@ technically employed by multiple nations, magical Interpol handles international
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LOVE CHAMBER[/b][/div]
 [i]Researches love, the effects of love potions, what love means and how to experience it[/i]
-@tag
+@oberon
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]EXPERIMENTAL CHARMS &amp; RESEARCH[/b][/div]
 [i]tests, invents and experiments on charms and new uses of magic[/i]
