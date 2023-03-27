@@ -1,0 +1,86 @@
+<!-- MINIPROFILE REMODEL © PUNKI 2018 -->
+<div class="$[miniprofile_class] mp">
+    <span style="display: none;">$[user]</span>
+    <div class="image" {foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Hover Image"}style="background-image: url('$[user.mini_custom_field.value]');"{/if}{/foreach}>
+        {if !$[user.is_guest]}
+        <div class="across"></div>
+        <div class="down">
+            <div class="opacity">
+                {if $[user.custom_title]}
+                <div class="custom"> 
+                	$[user.custom_title]
+                </div>
+                {/if}
+                <div class="smaller"{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "190x100 Image"} style="background-image: url('$[user.mini_custom_field.value]');"{/if}{/foreach}>
+                    {foreach $[user.mini_custom_field]}
+                    {if $[user.mini_custom_field.name] == "MP3 Link"}
+                    <div class="mp3-hover">
+                        <div class="music tooltip" title="play/pause mp3" mp3="$[user.mini_custom_field.value]" onclick="playAudio(this)">
+                            <i class="fas fa-play" style="margin-left: 2px;"></i>
+                        </div>
+                    </div>
+                    {/if}
+                    {/foreach}
+                </div>
+                <div class="divider"></div>
+                <div class="stats">
+                    $[user.posts] post{if $[user.posts] != 1}s{/if}
+                </div>
+                <!--
+                <div class="stats">
+                    $[user.likes] like{if $[user.likes] != 1}s{/if}
+                </div>
+				-->
+                {if $[user.group.name] != "PUBLICATION"}
+                <!-- BEGIN MONETARY SYSTEM SUPPORT - if undesired, simply delete all lines between this comment and the next -->
+                <div class="stats">
+                    <span class="money_amount"></span> <span class="money_text"></span>
+                </div>
+                <!-- END MONETARY SYSTEM SUPPORT -->
+                <div class="mpf">
+                	<div></div>{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Character Gender"}$[user.mini_custom_field.value]{/if}{/foreach}
+                </div>
+                <div class="mpf">
+                	<div></div>{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Character Sexuality"}$[user.mini_custom_field.value]{/if}{/foreach}
+                </div>
+                <div class="mpf">
+                	<div></div>{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Relationship Status"}$[user.mini_custom_field.value]{/if}{/foreach}
+                </div>
+                <div class="mpf">
+                	<div></div>{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Character Age"}$[user.mini_custom_field.value] years old{/if}{/foreach}
+                </div>
+                <div class="mpf">
+                	<div></div>{foreach $[user.mini_custom_field]}{if $[user.mini_custom_field.name] == "Character Birthday"}born $[user.mini_custom_field.value]{/if}{/foreach}
+                </div>
+                {/if}
+            </div>
+        </div>
+        {/if}
+    </div>
+    <div class="played-by">
+        {foreach $[user.mini_custom_field]}
+        {if $[user.mini_custom_field.name] == "Played By"}
+        played by $[user.mini_custom_field.value]
+        {/if}
+        {/foreach}
+    </div>
+    <div class="personal-text" style="text-align:center;">
+        {if $[user.personal_text.message] != ''}
+            {if $[user.group.name] == "PUBLICATION"}
+        	<div></div>
+            $[user.name]
+            {else}
+        	<div></div>
+            $[user.personal_text.message]
+            {/if}
+        {else}
+        	{if $[user.group.name] == "PUBLICATION"}
+        	<div></div>
+            $[user.name]
+            {else}
+        	<div></div>
+            nothing to say
+            {/if}
+        {/if}
+    </div>
+</div>
