@@ -71,9 +71,10 @@ in charge of the bank[/i]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CURSE BREAKER[/b][/div]
 [i]travel the world searching for magical treasures[/i]          
-                                        @irinarose          
+@irinarose          
 @vanessa                             
-@dahlia                      [/div][div style="margin-left:10px;margin-right:10px;"]
+@dahlia
+@namuunaa[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SECURITY HANDLER[/b][/div]
 [i]in charge of the bank's security measures and creatures employed[/i]
 @tag
@@ -467,10 +468,9 @@ DECIMA VECTOR
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]shift MANAGER[/b][/div]
 [i]run the business day to day[/i]
-@lulu       [/div][div style="margin-left:10px;margin-right:10px;"]
+@tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CASHIER[/b][/div]
-[i]employees of the shop, help customers[/i]
-@lulu             
+[i]employees of the shop, help customers[/i]             
 @nathaniel                    [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]COOK[/b][/div]
 [i]make all the pizzas[/i]

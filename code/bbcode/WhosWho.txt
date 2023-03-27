@@ -61,11 +61,19 @@ OOC character listing
 [b]@bran                                                    [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/bL8o1vx.png"]
 [b]@claire                                                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/dNmFRRE.png" style="max-width:100px;"]
 [b]@elijah                                                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/VCWt8pv.png" style="max-width:100px;"]
-[b]@frankie                                                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/RFkKVwJ.png" style="max-width:100px;"]
+[b]@frankie                                                                                                           [/b][/div][/td][td][div][img src="https://i.imgur.com/RFkKVwJ.png" style="max-width:100px;"]
 [b]@jimmie                                                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/RTibxku.png" style="max-width:100px;"]
-[b]@nathaniel                                                                                                            [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/kdqmzZ0.png"]
+[b]@nathaniel                                                                                                         [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/kdqmzZ0.png"]
 [b]@ondina                                                                                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/codH8fZ.png" style="max-width:100px;"]
-[b]@richard                                                                                                            [/b][/div][/td][/tr][/tbody][/table]
+[b]@richard                                                                                                           [/b][/div][/td][td][div][img src="https://i.imgur.com/XVYsR0Q.jpg" style="max-width:100px;"]
+[b]@shiloh                                                                                                            [/b][/div][/td][/tr][/tbody][/table]
+[/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
+
+[/div][/div]
+
+[div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@cino[/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"][attr="class","scrollbox2"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/GMu0rdo.jpg"]
+[b]@jewel[/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
 
 [/div][/div]
@@ -214,7 +222,8 @@ all - cleared in advanced[/i]
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@sora                                                                                                 [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/cO9cm9N.png"]
-[b]@breeze                                                                                       [/b][/div][/td][td][div][img src="https://i.imgur.com/LDfPFmC.png" style="max-width:100px;"]
+[b]@breeze                                                                                       [/b][/div][/td][td][div][img src="https://i.imgur.com/BXcgANa.jpg" style="max-width:100px;"]
+[b]@namuunaa                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/LDfPFmC.png" style="max-width:100px;"]
 [b]@rose                                            [/b][/div][/td][td][div][img src="https://i.imgur.com/Mnfr1KX.png" style="max-width:100px;"]
 [b]@vasilia                                                                                       [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]publication restrictions: 
