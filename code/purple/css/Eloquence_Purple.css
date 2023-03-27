@@ -19,13 +19,12 @@
 @awards-picture: 'https://i.imgur.com/IN0GQNX.jpg'; /* 50 pixels by 400 pixels */
 @nav-picture: 'https://i.imgur.com/XRePE79.jpg'; /* 300 pixels by 50 pixels */
 @credit-picture: 'https://i.imgur.com/EY9affx.jpg'; /* 500 pixels by 260 pixels */
-@event-picture: 'https://i.imgur.com/3GXwanl.jpg'; /* 290 pixels by 130 pixels */
+@event-picture: 'https://i.imgur.com/UZBRIBy.png'; /* 290 pixels by 130 pixels */
 @first-staffer: 'https://i.imgur.com/9yaBKbB.png'; /* sora */ /* 60 x 60 for all six */
 @second-staffer: 'https://i.imgur.com/zSZHip2.png'; /* lisa */
 @third-staffer: 'https://i.imgur.com/wXOsbOM.png'; /* vanessa */
 @fourth-staffer: 'https://i.imgur.com/OoeY8w3.png'; /* ana */
 @fifth-staffer: 'https://i.imgur.com/l4e7BbC.png'; /* audrey */
-@sixth-staffer: 'https://i.imgur.com/RA4DuQ8.png'; /* seph */
 @first-award: 'https://i.imgur.com/8zn8mPV.jpg'; /* 160 x 100 MOTM */
 @second-award: 'https://i.imgur.com/tqEuYtA.jpg'; /* 160 x 100 TOTM */
 @third-award: 'https://i.imgur.com/SqcmkPj.jpg'; /* 160 x 100 COTM */
@@ -53,7 +52,6 @@
 #staff .staffer3 { background-image: url(@third-staffer); background-size: cover; background-position: center; }
 #staff .staffer4 { background-image: url(@fourth-staffer); background-size: cover; background-position: center; }
 #staff .staffer5 { background-image: url(@fifth-staffer); background-size: cover; background-position: center; }
-#staff .staffer6 { background-image: url(@sixth-staffer); background-size: cover; background-position: center; }
 #awards { width: 500px; height: 400px; padding-left: 100px; background: @pale-gray-1; position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 10000; display: none; box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.4); }
 #awards .picture { width: 50px; height: 400px; background-image: url(@awards-picture); background-size: cover; background-position: center; float: left; margin-left: -50px; }
 #awards table { width: 100%; border-spacing: 30px; height: 100%; border-collapse: separate; }
