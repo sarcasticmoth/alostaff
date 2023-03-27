@@ -24,7 +24,7 @@
                                             {if $[post.created_by.is_online]}<i class="fas fa-check-circle"></i> currently online{else}last online $[post.created_by.last_online]{/if}
                                         </div>
                                         <div class="p-links">
-                                            {if $[current_user.id] != $[post.created_by.id]}<a href="$[post.created_by.pm_href]" class="tooltip" title="send a message"><i class="fas fa-envelope"></i></a>{/if}{foreach $[post.created_by.custom_field]}{if $[post.created_by.custom_field.name] == "Application"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="application"><i class="fas fa-portrait"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Plotter"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="plotter"><i class="fas fa-clipboard-list"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Thread Tracker"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="thread tracker"><i class="fas fa-clipboard-list"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Want Ad"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="want ad"><i class="fas fa-clipboard-list"></i></a>{/if}{/foreach}
+                                            {if $[current_user.id] != $[post.created_by.id]}<a href="$[post.created_by.pm_href]" class="tooltip" title="send a message"><i class="fas fa-envelope"></i></a>{/if}{foreach $[post.created_by.custom_field]}{if $[post.created_by.custom_field.name] == "Application"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="application"><i class="fas fa-portrait"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Plot Page"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="plotter"><i class="fas fa-clipboard-list"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Thread Tracker"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="thread tracker"><i class="fas fa-clipboard-list"></i></a>{/if}{if $[post.created_by.custom_field.name] == "Want Ad"}<a href="$[post.created_by.custom_field.value]" class="tooltip" title="want ad"><i class="fas fa-clipboard-list"></i></a>{/if}{/foreach}
                                         </div>
                                         {/if}
                                         <div class="name">
@@ -36,7 +36,7 @@
                                             $[post.created_by]
                                             {/if}
                                         </div>
-                            			<div class="rank"{if $[post.created_by.group]} style="color: #$[post.created_by.group.color];background-color:#EBEBEB; padding:5px; margin-right:425px; border-radius:5px; letter-spacing:3px;"{/if}>
+                            			<div class="rank"{if $[post.created_by.group]} style="color: #$[post.created_by.group.color];"{/if}>
                                             {if !$[post.created_by.is_guest]}
                                             {if $[post.created_by.group]}
                                             $[post.created_by.group.name]
@@ -100,13 +100,7 @@
 					</td>
 				</tr>
                 <tr>
-                    <td class="played-by">
-                        {foreach $[post.created_by.custom_field]}
-                        {if $[post.created_by.custom_field.name] == "Played By"}
-                        played by $[post.created_by.custom_field.value]
-                        {/if}
-                        {/foreach}
-                    </td>
+                    <td class="played-by"></td>
                     <td class="mid"></td>
                     <td class="p-foot">
                         {if $[post.edited]}
