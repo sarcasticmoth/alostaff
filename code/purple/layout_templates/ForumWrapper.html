@@ -11,8 +11,7 @@
             $(document).ready(function() {
                 var t = document.getElementById('tooltip-span');
 				
-                $('.avatar-wrapper').addClass('tooltip');
-                $('.user-link').addClass('tooltip');
+                $('.avatar-wrapper').addClass('tooltip');                $('.user-link').addClass('tooltip');
                 
 				window.onmousemove = function (e) {
 					var x = e.clientX,
@@ -22,30 +21,10 @@
 					t.style.left = (x + 20) + 'px';
 				};
                 
-                var realert=proboards.plugin.key('newpmalert_rjm').get(),route=proboards.data("route").name,newpms=proboards.data("user").has_new_messages;    
-                
-				if(newpms && realert!="no" && !/conversation/i.test(route))
-                {
-                    if(confirm("You have 1 (or more) new PMs, would you like to view them?"))
-                    {
-                    	proboards.plugin.key('newpmalert_rjm').set("no");
-                    	window.location.href="/conversation/recent/";    
-                    }else{
-                    	proboards.plugin.key('newpmalert_rjm').set("no");
-                    }
-                }
-                
-                $('.tooltip').mouseenter(function() {
+               $('.tooltip').mouseenter(function() {
 				var tooltipContent = $(this).attr('title');
-                var orig_title = tooltipContent;
-                var user = $(this)[0].classList[2];
                     if (tooltipContent) {
 						$(this).attr('title', null);
-                        if(user === 'avatar-362')
-                        {
-                            $(this).attr('title', "wingull's biggest fan");
-                            tooltipContent = "wingull's biggest fan";
-                        }
 						$('#tooltip-span').empty().append(tooltipContent).css('display', 'inline-block');
                     } else {
                         $('#tooltip-span').css('display', 'none');
@@ -53,13 +32,9 @@
 				}).mouseleave(function() {
 					var tooltipContent = $('#tooltip-span').text();
 					$('#tooltip-span').css('display','none');
-                    if(tooltipContent === "wingull's biggest fan")
-                    {
-                        tooltipContent = "ADMIN SORA";
-                    }
 					$(this).attr('title',tooltipContent);
 				});
-                
+                               
                 var counter = 0;
                 
                 function getRandomBannerImage()
@@ -211,7 +186,7 @@
         <div id="staff">
             <div class="picture">
                 <!-- Staffer links and portraits - see Style Sheet to change image url's -->
-                <a href="https://alohomorax0.proboards.com/user/362" class="staffer1 tooltip" title="admin sora"></a>
+				<a href="https://alohomorax0.proboards.com/user/362" class="staffer1 tooltip" title="admin sora"></a>
 				<a href="https://alohomorax0.proboards.com/user/612" class="staffer2 tooltip" title="admin lisa"></a>
                 <a href="https://alohomorax0.proboards.com/user/1292" class="staffer3 tooltip" title="mod vanessa"></a>
                 <a href="https://alohomorax0.proboards.com/user/1337" class="staffer4 tooltip" title="mod ana"></a>
@@ -226,9 +201,9 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            MoTM - DEZ
+                            JENNY
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/998" class="award-1 tooltip" title="Member of the Month">
+                        <a href="https://alohomorax0.proboards.com/user/1419" class="award-1 tooltip" title="Member of the Year">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -236,9 +211,9 @@
                     </td>
                     <td>
                         <div class="awardee">
-                            ToTM - DUEL OF THE FATES
+                            ADDY&BRÍGH
                         </div>
-                        <a href="https://alohomorax0.proboards.com/thread/11172/duel-fates-blaise" class="award-2 tooltip" title="Thread of the Month">
+                        <a href="" class="award-2 tooltip" title="#RELATIONSHIPGOALS">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -248,15 +223,15 @@
                 <tr>
                     <td>
                         <div class="awardee">
-                            CoTM - BLAISE ZABINI
+                            BRÍGH O'DALAIGH
                         </div>
-                        <a href="https://alohomorax0.proboards.com/user/869" class="award-3 tooltip" title="Character of the Month">
+                        <a href="https://alohomorax0.proboards.com/user/1335" class="award-3 tooltip" title="Character of the Year">
                         	<div class="overlay">
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
                     </td>
-                    <td>
+<!--                     <td>
                         <div class="awardee">
                             SPECIAL SERVICES - VANESSA
                         </div>
@@ -265,7 +240,7 @@
                                 <i class="fas fa-award"></i>
                             </div>
                         </a>
-                    </td>
+                    </td> -->
                 </tr>
             </table>
         </div>
@@ -369,10 +344,10 @@
                 <div class="title-text">
                     <div class="subtitle">
                         <!-- Put your subtitle here -->
-                        alohomora
+                        a post potter rpg
                     </div>
                     <!-- Put your forum title here -->
-                    sandbox skin
+                    alohomora
                     <div class="modals">
                         <a id="m-about" modal="about">
                             about
