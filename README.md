@@ -1,24 +1,6 @@
-# grad
+# readme
 
-## Project setup
-```
-npm install
-```
+## build status - alostaff-pages
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[![pages-build-deployment](https://github.com/sarcasticmoth/alostaff/actions/workflows/pages/pages-build-deployment/badge.svg?branch=alostaff-pages)](https://github.com/sarcasticmoth/alostaff/actions/workflows/pages/pages-build-deployment)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
