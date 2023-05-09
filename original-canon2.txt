@@ -14,7 +14,7 @@ Please note: Purebloods are not common, and most wizards now a days are half blo
 [div style="text-align:center;"]* - family is used but open to more descendants.[/div]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WIZARDING NAMES[/div][div align="center"]
 
-[b]United Kingdom/Ireland/Scotland/Wales[/b]
+[b]British Isles(England/Ireland/Scotland/Wales)[/b]
 Abercrombie
 Alderton
 Archie
@@ -41,6 +41,7 @@ Bott
 Bowker
 Bradley
 Braithwaite
+Brattleby
 Broadmoor
 Bulstrode *
 Burbage
@@ -50,15 +51,19 @@ Cattermole (half-blood required)
 Chambers
 Chapman
 Chubb
+Clopton
 Connolly *
 Coote
 Cragg
 Cresswell (half-blood required)
 Crickerly
+Crickett
 Croaker
 Crockford
 Crowdy
 Cuffe
+Dale
+Davies
 Dawlish
 Dearborn
 Derrick
@@ -72,9 +77,11 @@ Doge
 Dolohov
 Dosch
 Dupont
+Everleigh
 Evermonde
 Fawcett
 Fenwick
+Fig
 Filch
 Finkley
 Flack
@@ -97,10 +104,12 @@ Grubbly-Plank
 Grunnion
 Gudgeon
 Harper
+Hecat
 Hooch
 Hopkirk
 Hornby
 Horton
+Howin
 Imago
 Ichikawa
 Jenkins
@@ -114,6 +123,7 @@ Kettleburn
 Kirke
 Knatchbull
 Kneen
+Kogawa
 Leach
 Llewellyn
 Lockhart
@@ -148,8 +158,11 @@ Mulciber
 Mullet
 Mumps
 Murray
+Noke
 O’Hare
+Oakes
 Ogden
+Oggspire
 Orpington
 Osbert
 Parkin
@@ -179,13 +192,17 @@ Quigley
 Quirke
 Rabnott
 Rackharrow
+Reyes
 Robards
+Roberts
 Robins
 Rookwood
 Runcorn
 Ryan
+Sallow
 Savage
 Scrimgeour
+Shah
 Shimpling
 Shunpike
 Sinistra
@@ -205,8 +222,10 @@ Stebbins
 Strout
 Stump
 Summers
+Sweeting
 Switch
 Sykes
+Thakkar
 Thicknesse
 Timms
 Tofty
@@ -290,7 +309,7 @@ Akingbade
 Kama
 Wotorson
 
-United States
+[b]United States[/b]
 Abernathy
 Carneirus
 Fischer
@@ -323,7 +342,7 @@ Weiss
 Wilkinson
 Wolfe
 
-Canada
+[b]Canada[/b]
 Peel
 
 [b]South American[/b]
