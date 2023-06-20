@@ -1,0 +1,71 @@
+[div align="justify"]
+[div align="center"][font size="5" face="georgia"][i]Accepting Apps[/i][/font][/div]
+[hr][blockquote][blockquote][font face="georgia"]Please follow this checklist every time you accept an application so everything that needs to be done gets done.&nbsp;
+
+[b]1. REVIEW APP:[/b]
+
+[div align="center"]
+
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font-variant:normal;font-weight:normal;font-size:10px;line-height:normal;font-family:Verdana;"][div style="font-variant:normal;font-weight:normal;font-size:24px;line-height:normal;font-family:Georgia;padding:5px;background-color:rgb(255, 255, 255);text-align:center;border-bottom:1px solid rgb(0, 107, 143);"][font style="font-style:normal;" color="#555555"]congratulations,[/font]&nbsp;[font color="#006b8f"][i][insert character name here]&nbsp;[/i][/font][font style="font-style:normal;" color="#555555"]![/font][/div][table style="font-style:normal;width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="padding:10px;text-align:center;"]Welcome to [i]ALOHOMORA[/i]!
+
+Your application has been accepted.
+Please edit your board name and profile images and fill out your [a href="https://alohomorax0.proboards.com/thread/4749/initial-claims-character-drop-off"]Initial Claim[/a] before you begin roleplaying. 
+
+We are excited to have you here at the site!
+[/div][/td][/tr][/tbody][/table][/div][/div][/div]
+
+[code][div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font-variant:normal;font-weight:normal;font-size:10px;line-height:normal;font-family:Verdana;"][div style="font-variant:normal;font-weight:normal;font-size:24px;line-height:normal;font-family:Georgia;padding:5px;background-color:rgb(255, 255, 255);text-align:center;border-bottom:1px solid rgb(0, 107, 143);"][font style="font-style:normal;" color="#555555"]congratulations,[/font] [font color="#006b8f"][i][insert character name here] [/i][/font][font color="#555555" style="font-style:normal;"]![/font][/div][table style="font-style:normal;width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="padding:10px;text-align:center;"]Welcome to [i]ALOHOMORA[/i]!
+
+Your application has been accepted.
+Please edit your board name and profile images and fill out your [a href="https://alohomorax0.proboards.com/thread/4749/initial-claims-character-drop-off"]Initial Claim[/a] before you begin roleplaying. 
+
+We are excited to have you here at the site!
+[/div][/td][/tr][/tbody][/table][/div][/div][/div][/code]
+
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font-variant:normal;font-weight:normal;font-size:10px;line-height:normal;font-family:Verdana;"][div style="font-variant:normal;font-weight:normal;font-size:24px;line-height:normal;font-family:Georgia;padding:5px;background-color:rgb(255, 255, 255);text-align:center;border-bottom:1px solid rgb(0, 107, 143);"][font style="font-style:normal;" color="#555555"]hold on,[/font]&nbsp;[font color="#006b8f"][i][insert character name here][/i][/font][/div][table style="font-style:normal;width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="padding:10px;text-align:center;"]Your application for [i]ALOHOMORA[/i] is almost done.
+
+Reasons for holding here.
+
+Just fix it up and you'll be well on your way to acceptance! Thank you!
+[/div][/td][/tr][/tbody][/table][/div][/div]
+
+[code][div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font-variant:normal;font-weight:normal;font-size:10px;line-height:normal;font-family:Verdana;"][div style="font-variant:normal;font-weight:normal;font-size:24px;line-height:normal;font-family:Georgia;padding:5px;background-color:rgb(255, 255, 255);text-align:center;border-bottom:1px solid rgb(0, 107, 143);"][font color="#555555" style="font-style:normal;"]hold on,[/font] [font color="#006b8f"][i][insert character name here][/i][/font][/div][table style="font-style:normal;width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="padding:10px;text-align:center;"]Your application for [i]ALOHOMORA[/i] is almost done.
+
+Reasons for holding here.
+
+Just fix it up and you'll be well on your way to acceptance! Thank you!
+[/div][/td][/tr][/tbody][/table][/div][/div][/code]
+
+[div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font-variant:normal;font-weight:normal;font-size:10px;line-height:normal;font-family:Verdana;"][div style="font-variant:normal;font-weight:normal;font-size:24px;line-height:normal;font-family:Georgia;padding:5px;background-color:rgb(255, 255, 255);text-align:center;border-bottom:1px solid rgb(0, 107, 143);"][font color="#555555" style="font-style:normal;"]sorry,[/font]&nbsp;[font color="#006b8f"][i][insert character name here][/i][/font][/div][table style="font-style:normal;width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="padding:10px;text-align:center;"]Your application for [i]ALOHOMORA[/i] has been declined.
+
+Reasons for declination here.
+
+Just fix it up and we will be more than happy to give it another look. Sorry!
+[/div][/td][/tr][/tbody][/table][/div][/div]
+[/div][/div]
+
+[code][div align="center"][div style="width:560px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:560px;margin-top:5px;font-variant:normal;font-weight:normal;font-size:10px;line-height:normal;font-family:Verdana;"][div style="font-variant:normal;font-weight:normal;font-size:24px;line-height:normal;font-family:Georgia;padding:5px;background-color:rgb(255, 255, 255);text-align:center;border-bottom:1px solid rgb(0, 107, 143);"][font style="font-style:normal;" color="#555555"]sorry,[/font] [font color="#006b8f"][i][insert character name here][/i][/font][/div][table style="font-style:normal;width:560px;color:rgb(85, 85, 85);"][tbody][tr][td][div style="padding:10px;text-align:center;"]Your application for [i]ALOHOMORA[/i] has been declined.
+
+Reasons for declination here.
+
+Just fix it up and we will be more than happy to give it another look. Sorry!
+[/div][/td][/tr][/tbody][/table][/div][/div]
+[/div][/div][/code]
+
+[/div]
+2. CUSTOM TITLE/GROUP&nbsp;
+Go to their profile> edit profile> staff options> paste the code in the custom title> save
+[code]INFO[*br]INFO[br*][/code] Then add to their Group by clicking manage groups on that same page> 'add to this group'
+
+[b]4. ADD TO 20 GALLEON PROJECT[/b]
+- [a href="https://alohomorax0.proboards.com/thread/10200/new-galleon-claim"]Just add em![/a]
+
+[b]5. MOVE APPLICATION [/b]
+- Pretty simple, move the Application from the registration board to it's correct character files board.[a href="http://alohomorax0.proboards.com/thread/4748/student-list"]
+[/a]
+[b]6. IF THEY ARE NEW: INVITE THEM TO DISCORD SERVER IF THEY HAVEN'T JOINED ALREADY
+[/b]&nbsp;- For new members, remind them of the discord server if they haven't&nbsp;jumped in already. Direct them to use the link below the Cbox, because that link doesn't expire and won't kick them if they&nbsp;close discord before we give them a rank!
+
+[b]7. IF THEY ARE NEW: UPDATE START DATES LIST[/b]
+[span]&nbsp; &nbsp;[a href="http://alohomorax0.proboards.com/thread/7636/member-start-dates-custom-ability"] Located here[/a] - This list is so we can keep track of Custom abilities/year marks.[/span]
+And, you're done![/font][/blockquote][/blockquote][/div]
