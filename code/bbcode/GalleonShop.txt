@@ -36,26 +36,26 @@ Please include what the item is and looks like in your claim (if you are buying 
 [font face="times new roman" size="3"]ENCHANTED MP3 - 50G[/font]
 [blockquote][font size="1"]An enchanted muggle MP3 player that works at magically dense locations like Hogwarts, Diagon Alley, and Hogsmeade.[/font][/blockquote]
 
-[font size="3" face="times new roman"]TWO WAY MIRROR - 50G[/font]
+[font face="times new roman" size="3"]TWO WAY MIRROR - 50G[/font]
 [blockquote][font size="1"]As seen in the books, two way mirrors permit you and whoever has the other mirror to talk "video chat" style. These are great couples gifts, for families unable to afford enchanted cell phones, or those that would prefer not to use modified muggle technology. The person that purchases can gift the other mirror to others.[/font][/blockquote]
 
 [font face="times new roman" size="3"]ENCHANTED CELL PHONE - 75G[/font]
 [blockquote][font size="1"]A magical American invention that has made its way across the ocean. This functions like a normal cell phone, or smart phone if you're feeling daring, in areas that are too magically dense for electronics.[/font][/blockquote]
 
-[font size="3" face="times new roman"]MINISTRY APPROVED INVISIBILITY CLOAK - 75G[/font]
+[font face="times new roman" size="3"]MINISTRY APPROVED INVISIBILITY CLOAK - 75G[/font]
 [blockquote][font size="1"]While not as good the cloak from the Deathly Hallows, this cloak is still quite effective.[/font][/blockquote]
 
 [font face="times new roman" size="3"]ENCHANTED COMPUTER - 100G[/font]
 [blockquote][font size="1"]An enchanted muggle computer (desktop or laptop, whatever you want.) that works at magically dense locations like Hogwarts, Diagon Alley, and Hogsmeade. Due to the magical enchantments wifi is not necessary to get online.[/font][/blockquote]
 
-[font face="times new roman" size="3"]FLYING CARPET - 100G[/font]
+[font size="3" face="times new roman"]FLYING CARPET - 100G[/font]
 [blockquote][font size="1"]A popular mode of transportation in the Middle East for Wizardkind, these enchanted rugs were banned in the UK for many years. Recent events have brought an end to their ban. Both exotic and a practical mode of transportation for multiple people, anyone with a Flying carpet is sure to be the talk of the town and envied by all their neighbors.[/font][/blockquote]
 
-[font size="3" face="times new roman"]NON-WAND MAGICAL CONDUIT - 100G[/font]
+[font face="times new roman" size="3"]NON-WAND MAGICAL CONDUIT - 100G[/font]
 [blockquote][font size="1"]Wands, while the standard, are not the only items capable of being conduits for spells. What makes wands work is the magical wood, and the core. These two things can be carved in to a wide variety of objects. It takes a specialized magic conduit maker (not wand) to make, and all items are special orders. Please include what item you want it shaped into when you purchase this (also, make sure it's something that can be made from wood.)
 **These can be your main magical conduit if desired (such as how Moody only used his walking stick). Students, however, must have a wand as their main magical conduit because using other magical conduits is not taught during school.**[/font][/blockquote]
 
-[font face="times new roman" size="3"]NON-BROOM FLYING VEHICLE - 100G[/font]
+[font size="3" face="times new roman"]NON-BROOM FLYING VEHICLE - 100G[/font]
 [blockquote][font size="1"]Brooms are the standard for flying needs, but they aren't the only ones. You can purchase other modes of transportation such as cars, and motorcycles, that have been enchanted. They all include invisibility and anti-muggle detection charms. Please include what has been enchanted to fly when purchasing.&nbsp;
 **Characters under 17 can NOT use these (because they can't get a license to drive in the UK until 17), and students over 17 can't bring them to Hogwarts as Hogwarts is not equipped to house these sort of things.**[/font][/blockquote]
 
@@ -86,7 +86,7 @@ Murtlap
 Niffler
 Streeler[/font][/blockquote]
 
-[font face="times new roman" size="3"]WINGED HORSE - 100G[/font]
+[font size="3" face="times new roman"]WINGED HORSE - 100G[/font]
 [blockquote][font size="1"]Because winged horses can vary in classification, they will all be included as their own section.
 Abraxan
 Aethonan
@@ -101,7 +101,7 @@ Occamy[/font][/blockquote]
 [font size="3"][div style="text-align:center;"][hr]CHARACTER DEVELOPMENT[/div][/font]
 [font size="1"][div align="justify"]This section is for non wizard beings (both playable and employable), skills and abilities, and other character development related purchasable.[/div][/font]
 
-[font size="3" face="times new roman"]EXTRA SPECIAL ABILITY - 75G[/font]
+[font face="times new roman" size="3"]EXTRA SPECIAL ABILITY - 75G[/font]
 [blockquote][font size="1"]We have a limit of each member having 2 characters with the same special ability/demihuman. Purchasing this will permit you to have 3+ characters with the same special ability/demihuman.[/font][/blockquote]
 
 [font face="times new roman" size="3"]DOMESTIC SERVICE HOUSE ELF - 75G[/font]
@@ -115,14 +115,14 @@ Occamy[/font][/blockquote]
 
 **If you are purchasing your first custom ability, you will still be awarded one at your year mark. **[/font][/blockquote]
 
-[font size="3" face="times new roman"]SPECIAL CUSTOM ABILITY - 1000G + 1 PER MEMBER[/font]
+[font face="times new roman" size="3"]SPECIAL CUSTOM ABILITY - 1000G + 1 PER MEMBER[/font]
 [blockquote][font size="1"]&nbsp;You can also learn more about custom abilities [a href="http://alohomorax0.proboards.com/thread/8307/custom-abilities-required-earned"]HERE[/a]. Special customs are where staff will give much more leeway in the custom ability rules.&nbsp;
 [/font][/blockquote]
 
 [font size="3"][div style="text-align:center;"][hr]OTHER[/div][/font]
 [font size="1"][div align="justify"]All the items that are less for enhancing your characters, and more for you as a member.[/div][/font]
 
-[font face="times new roman" size="3"]EVENT BOARD - 50G[/font]
+[font size="3" face="times new roman"]EVENT BOARD - 50G[/font]
 [blockquote][font size="1"]Special events happen. This is a&nbsp;personal board to be used temporarily for events such as parties, weddings, funerals, etc. The board will be up in the events section for two months before being moved to the past board. It'll be move to the archives once all the threads are finished, or there hasn't been any activity in two months.[/font][/blockquote]
 
 [font size="3" face="times new roman"]CHARACTER REDO - 75G[/font]
@@ -131,40 +131,24 @@ Occamy[/font][/blockquote]
 [font face="times new roman" size="3"]ADDITIONAL CHARACTER  BANNER - 100G[/font]
 [blockquote][font size="1"]Each member gets 1 character for free for the rotating banner. You can purchase additional banners for characters. There is no limit currently for how many you can have in rotation, but this may be subject to change if staff feels too many are in rotation.[/font][/blockquote]
 
-[font face="times new roman" size="3"]RESIDENT BOARD - 100G[/font]
+[font size="3" face="times new roman"]RESIDENT BOARD - 100G[/font]
 [blockquote][font size="1"]A resident board. This permits characters to have their own apartment or house. Please provide the address of the home, and where it is located. If you don't see the town/area you want it located in that's okay! We add towns/areas when needed.[/font][/blockquote]
 
 [font size="3" face="times new roman"]STUDY ABROAD - 150G[/font]
 [blockquote][font size="1"]Have a character you want to put on ice for a little while? This lets you basically 'pause' your character for 2 OOC months. They will be exempt from activity requirements during these months and retain all your claims. If you are unable to post for a time, or lose muse for a character but don't want to drop them, this is a great way to just give the character a break for a short time. We do have rules regarding how to use these, however. They are:
 [ul type="disc"][li]You can only have up to 2 characters on study abroad at the same time. (We may up it in certain circumstances, but this would be case-by-case)[/li][li]The same character can only be study abroaded ONCE per year. (we will be doing calendar years for this. So once per 2021, etc.)[/li][li]Study abroads cannot be purchased during an activity check.[/li][li]Staff can (not saying we will, or won't, just that we have the right to) reject a study abroad for characters that have activity check strikes. This will be handled on a case-by-case basis.[/li][/ul]Please use these wisely. Study abroads are NOT "Get out of Jail Free" cards to bypass an activity check. They are to be used to hold onto characters you still absolutely want, during times when you know you won't be able to use them. Study abroads affect all the other members linked to the characters. So when you study abroad characters, you are effectively study abroading parts of other member's characters.[/font][/blockquote]
 
-[font size="3" face="times new roman"]BUSINESS BOARD - 200G +MUST BE OWNER[/font]
+[font face="times new roman" size="3"]BUSINESS BOARD - 200G +MUST BE OWNER[/font]
 [blockquote][font size="1"]A business board. This permits characters to have their own shop/business of some sort. Please provide a general description (1-3 sentence), and where it is located. If you don't see the location, we'll just put it in the general country. 
 
 Businesses can only be purchased by the owner. You can't buy a board for a business you are not the owner of. (sorry, you can't buy it if you only plan on being an employee.)[/font]
 [/blockquote]
 
-[font face="times new roman" size="3"]ADDITIONAL CHARACTER (11-20) - 200G&nbsp;[/font]
+[font size="3" face="times new roman"]ADDITIONAL CHARACTER (11-20) - 200G&nbsp;[/font]
 [blockquote][font size="1"]If you are wanting to have more then 10 characters you will have to purchase this for each character over 10, but under 20.&nbsp;[/font][/blockquote]
 
-[font face="times new roman" size="3"]ADDITIONAL CHARACTER (21+) - 500G[/font]
+[font size="3" face="times new roman"]ADDITIONAL CHARACTER (21+) - 500G[/font]
 [blockquote][font size="1"]If you are wanting to have more then 20 characters you will have to purchase this for each character over 20.&nbsp;[/font][/blockquote]
-
-[font size="3"][div style="text-align:center;"][hr]THE WYRDNESS[/div][/font]
-[font size="1"][div align="justify"]The character in question MUST have a thread (current, completed, whatever) on Yrisle to purchase these items. AKA, you have to actually visit the Yrisle to become Wyrd Touched. This thread doesn't HAVE to be completed (yet) to use it though. We also will not be limiting Wyrd Touches per members/characters at this time (so you can theoretically have multiple on a single character), but you will have to visit the island each time. (aka, only one Wyrd Touched per visit).
-
-P.S. You can purchase these items in advance of your visit, but your character will not receive it until you finally meet the Wyrdness.[/div][/font]
-WYRD TOUCHED - RANDOM - 50G
-[blockquote][font size="1"]Wyrd touched Russian roulette. Staff will roll to give you a curse or blessing. The odds are 75% curse 25% blessing. May the odds be in your favor.
-Disclaimer: You do not get a say in what you get. You are literally leaving it up to fate what you get. Staff won't roll again if you don't like your blessing/curse.
-
-P.S. None of the randomized wyrd touches&nbsp;will super mess up your characters UNLESS you add a disclaimer stating you give staff full permission to do what they&nbsp;want. If you want to do this you MUST copy and paste the contract below:
-
-I hereby give you full permission to do whatever you'd like to (character) with this Wyrd touch and shall not complain if I don't like it or it makes them near impossible to roleplay.[/font][/blockquote]
-WYRD TOUCHED - CUSTOM - 100G
-[blockquote][font size="1"]You can work with staff to create a Wyrd touch for your character. This can be a blessing or curse.[/font][/blockquote]
-WYRD CLEANSE - 50G
-[blockquote][font size="1"]If you would like to cleanse your character of their Wyrd Touched curse or blessing. There is no other way to remove a Wyrd Touched curse or blessing. IC, you&nbsp; are cleansed by solving a Wyrdness riddle.[/font][/blockquote]
 
 [font size="3"][div style="text-align:center;"][hr]CHARACTER AWARDS &amp; MASTERY[/div][/font][div align="center"][font size="1"][i]these are NON transferrable if the character is dropped.[/i][/font][/div]
 [font size="1"][div align="justify"]This section is awards, and masteries, that are used to elevate a character above the average in some way. Theses are non-transferrable to other characters and must be attached to a character when purchased. The biggest thing that sets these purchases apart from other shop items is the level of work and/or review involved with their purchase. Some of these require IC work, while others require staff review. Nothing in here is automatically given just because you buy it. We will also heavily review any attempts to combine these purchases for the same character to ensure no godmoding happens.&nbsp;
