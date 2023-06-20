@@ -5,7 +5,7 @@
 [i]Quidditch is the most popular Wizarding sport in magical world. While the Quidditch teams get most of the ‘glory’, they’d be nothing it if wasn’t for these individuals. From the announcers, to the reporters, to referees and more.[/i]
 
 [div style="margin-left:10px;margin-right:10px;"]
-[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANNOUNCER & COMMENTARY[/div]
+[div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ANNOUNCER &amp; COMMENTARY[/div]
 [i]official commentators for the league[/i]
 @tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
@@ -85,7 +85,7 @@ YORKSHIRE
 
 BALLYCASTLE BATS KEEPER &amp; CAPTAIN - @mickey   
 BALLYCASTLE BATS CHASER - chaz baker (npc)  
-MALMÖ MARAUDERS CHASER - @simon    
+FALMOUTH FALCONS CHASER - @simon    
 HOLYHEAD HARPIES BEATER - @luna 
 HOLYHEAD HARPIES KEEPER AND CAPTAIN - millie dawes (npc)
  
@@ -138,6 +138,4 @@ UKRAINE
 ENGLAND KEEPER - @mickey 
 SWEDEN CHASER - @simon 
 
-[/div][/div][/td][/tr]
-
-[/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]
+[/div][/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]

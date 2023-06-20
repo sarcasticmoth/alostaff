@@ -717,7 +717,7 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 @charles                              [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASTRONOMER[/b][/div]
 [i]study the movement of the stars[/i]
-@dana                                                                                        
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]teachers&nbsp; &amp; students (non Hogwarts)[/b][/div]
 [i]those that teach for a living at schools other then Hogwarts, and played students of these schools[/i]

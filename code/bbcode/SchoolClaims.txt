@@ -131,13 +131,14 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ancient studies[/div]
 [i]all witches and wizards pursuing careers in curse breaking, ancient studies, archeology, etc. after completing their N.E.W.T exams they will complete an additional 2 years in this program before working officially. this includes both classroom studies and field work.[/i]
 
-@tag - ancient runes
+@tiernan - ancient runes
 @tag                                                            - ancient studies
 @octavian                                                        - arithmancy
 @octavian                                                    - introduction to cursebreaking
 @octavian                        - calculus, catacombs and cursebreaking
 @octavian                        - crypts and cryptography
 @octavian                  - cursebreaking - traps and hidden dangers
+@tiernan - advanced ancient runes
 @vanessa    - advanced cursebreaking (2nd year trainees only)[/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]wizarding academy of the dramatic arts[/div]
 [i]witches and wizards desiring to pursue a career in theater, WADA has merged it's program is the UK's new magical education campus. the WADA program is world renowned for it's theater education and supplying the best magical theater education possible.[/i]
@@ -163,6 +164,7 @@ the staff of the university. this is for those seeking their N.E.W.T. exams (ori
 @mcgonagall                                      - advanced transfiguration
 @mcgonagall                                      - transfiguration and the human anatomy
 @vanessa    - advanced charms: protective spells
+@tiernan - history of magic: merlin studies
 
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px Georgia;border-bottom:solid 1px #A367A8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
