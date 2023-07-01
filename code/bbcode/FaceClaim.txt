@@ -245,13 +245,15 @@ SHIPKA, kiernan
 SILVERS, diana
 [b]@nell          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/WwufiN1.jpg"]
 SKELTON, sophie
-[b]@brigh          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/X9VoFKB.jpg"]
+[b]@brigh          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/nlQteVh.jpg"]
+STAN, sebastian
+[b]@marcello[/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/X9VoFKB.jpg"]
 STEINFELD, hailee
 [b]@lea          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/0kwPKSR.png"]
 [div]STEWART, kristen
-[b]@zen          [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/onsUeHV.jpg" style="max-width:100px;"]
+[b]@zen          [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/onsUeHV.jpg" style="max-width:100px;"]
 STORM, alex
-[b]@tiernan [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/TWJ8USy.jpg"]
+[b]@tiernan [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/TWJ8USy.jpg"]
 SUEDE, chay
 [b]@oberon  [/b][/div][/td][td][div][img src="https://i.imgur.com/W6p06DA.png" style="max-width:100px;"]
 [div]SWIFT, taylor
@@ -259,15 +261,13 @@ SUEDE, chay
 TABU 
 [b]@parvati          [/b][/div][/td][td][div][img src="https://i.imgur.com/85hMGVs.jpg" style="max-width:100px;"]
 TAMADA, momona
-[b]@reina          [/b][/div][/td][td][div][img src="https://i.imgur.com/EpMKSU6.jpg" style="max-width:100px;"]
+[b]@reina          [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/EpMKSU6.jpg" style="max-width:100px;"]
 TAYLOR-JOHNSON, aaron
-[b]@vanessa          [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/LDfPFmC.png"]
+[b]@vanessa          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/LDfPFmC.png"]
 TAYLOR-JOY, anya
 [b]@rose          [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/WROSeje.jpg"]
 THWAITES, brenton
-[b]@gehry                            [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
+[b]@gehry                            [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
 [b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
