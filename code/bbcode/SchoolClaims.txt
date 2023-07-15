@@ -180,9 +180,11 @@ _____ roche - runes
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
 [i]the students attending the school, their field of study, and the year. students can be 1-6th year (1-2 newt, 3-4 is job training or&nbsp;equivalent to a 4 year degree, 5-6 would be equivalent of a masters)[/i]
 
+@idele - newt studies - 1st year
 @reina   - newt studies - 1st year
 
 @geethanjali   -   newt studies - 2nd year
+@isabel - newt studies - 2nd year
 @lyka   - newt studies - 2nd year
 @peggy   - newt studies - 2nd year
 @shiloh   - newt studies - 2nd year

@@ -140,13 +140,15 @@ last, first
 [div]ISEMAN, madison
 [b]@addy                                                                                                                                               [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/qn9y08j.png" style="max-width:100px;"]
 JAGNIC, vanja 
-[b]@fae                                                                                                                                                    [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/3N50Bvr.jpg"]
+[b]@fae                                                                                                                                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/nPiUTka.jpg" style="max-width:100px;"]
+KEEN, dafne
+[b]@isabel[/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/3N50Bvr.jpg"]
 KELLYMAN, erin
 [b]@rosie                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/qKd2Mb9.jpg"]
 KNIGHTLEY, keira
-[b]@veronica                                                                        [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/4BAWeHv.png"]
+[b]@veronica                                                                        [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/4BAWeHv.png"]
 KRAVITZ, lenny
-[b]@blaise                                                                                                                                                   [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/codH8fZ.png" style="max-width:100px;"]
+[b]@blaise                                                                                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/codH8fZ.png" style="max-width:100px;"]
 [div]LAWTHER, alex
 [b]@richard                                                                                                                                              [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/kQ6UMZY.jpg"]
 LEITHOLD, scarlett
@@ -154,9 +156,7 @@ LEITHOLD, scarlett
 LERMAN, logan
 [b]@albus                                                                                                                                                   [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/rrmxRFc.png"]
 [div]LLOYD, harry
-[b]@felixt                                                                                                                                              [/b][/div][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div]
+[b]@felixt                                                                                                                                              [/b][/div][/div][/td][/tr][/tbody][/table][/div]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]M,N,O,P[/div]
 [div align="center"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/pkGFJmp.jpg" style="max-width:100px;"]
@@ -243,15 +243,17 @@ SEYFRIED, amanda
 SHIPKA, kiernan
 [b]@luna           [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/xMF9Yud.jpg" style="max-width:100px;"]
 SILVERS, diana
-[b]@nell           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/WwufiN1.jpg"]
+[b]@nell           [/b][/div][/td][td][div][img src="https://i.imgur.com/xFh6q2E.jpg" style="max-width:100px;"]
+SINK, sadie
+[b]@idele[/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/WwufiN1.jpg"]
 SKELTON, sophie
 [b]@brigh           [/b][/div][/td][td][div][img src="https://i.imgur.com/nlQteVh.jpg" style="max-width:100px;"]
 STAN, sebastian
 [b]@marcello [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/X9VoFKB.jpg"]
 STEINFELD, hailee
-[b]@lea           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/0kwPKSR.png"]
+[b]@lea           [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/0kwPKSR.png"]
 [div]STEWART, kristen
-[b]@zen           [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/onsUeHV.jpg"]
+[b]@zen           [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/onsUeHV.jpg"]
 STORM, alex
 [b]@tiernan  [/b][/div][/td][td][div][img src="https://i.imgur.com/TWJ8USy.jpg" style="max-width:100px;"]
 SUEDE, chay
@@ -259,17 +261,15 @@ SUEDE, chay
 [div]SWIFT, taylor
 [b]@hanna           [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/rRBlYAe.png"]
 TABU 
-[b]@parvati           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/85hMGVs.jpg"]
+[b]@parvati           [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/85hMGVs.jpg"]
 TAMADA, momona
-[b]@reina           [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/EpMKSU6.jpg" style="max-width:100px;"]
+[b]@reina           [/b][/div][/td][td][div][img src="https://i.imgur.com/EpMKSU6.jpg" style="max-width:100px;"]
 TAYLOR-JOHNSON, aaron
 [b]@vanessa           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/LDfPFmC.png"]
 TAYLOR-JOY, anya
 [b]@rose           [/b][/div][/td][td][div][img src="https://i.imgur.com/WROSeje.jpg" style="max-width:100px;"]
 THWAITES, brenton
 [b]@gehry                             [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
 [b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]U,V,W,X,Y,Z[/div]
 [div align="center"]
