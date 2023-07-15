@@ -12,11 +12,11 @@ If a club doesn't have any members it will be removed due to inactivity.&nbsp;
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #000000;"]CLUBS[/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]wand club[/b][/div]
-[div style="margin-left:10px;"][b]captain:[/b]&nbsp;@gideon   
+[div style="margin-left:10px;"][b]captain:[/b]&nbsp;open
 [b]co-captain:[/b] open
 [b]schools eligible:[/b]&nbsp;L.I.F.E.
 
-@gideon   [/div][/div][/div][div style="margin-left:10px;margin-right:10px;"][div style="margin-left:10px;margin-right:10px;"]
+@club members@gideon [/div][/div][/div][div style="margin-left:10px;margin-right:10px;"][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]club name[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open&nbsp;
 [b]co-captain:[/b] open

@@ -74,7 +74,7 @@ female: open (MAGIC student 4th or 5th year)[/div][/div]
 [b]chaser:[/b] open
 [b]chaser:[/b] open
 
-[b]reserve:[/b] open[/div][/div][div style="margin-left:10px;margin-right:10px;"]
+[b]reserve:[/b] @lyka[/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #000000;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]RAVENCLAW[/b][/div]
 [div style="margin-left:10px;"][b]captain:[/b] open
 
