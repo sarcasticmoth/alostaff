@@ -68,7 +68,7 @@ Because of how frail they are part goblins are unable to play contact sports (su
 [div style="text-align:center;"]SOCIETAL STATUS[/div]Goblins and humans have been at odds for hundreds of years, and this turmoil still continues to this day. Only instead of actual wars they battle over finances. The Goblins are seen as vital but subservient members of society, which has led to extreme discrimination against their part human offspring. The obvious part goblins are treated poorly, and often have to deal with people not understanding that the wand they carry is in fact their own (since Goblins are not permitted wands), and that they are in fact part human. At the same time, many full blooded goblins see part goblins as stains in their society and treated like outcasts (which is why part goblins are not trained in Goblin magic). In all, part Goblins are both outcasts to humans and Goblins.
 [/spoiler]
 
-@monday                        
+@monday                             
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]VAMPIRE AND PART VAMPIRE[/div]
 [div style="text-align:center;"]full vampires cannot be students[/div]
@@ -151,9 +151,9 @@ Dhampyrs lose most other vampire powers as well, including nocturnal vision, wal
 Individuals less than a quarter vampire may retain a pale complexion, but they are functionally human with none of a vampire’s powers or weaknesses and are not considered part vampires.
 [/spoiler]
 
-@lucrezia           - full
-@simon                         - half
-@zen                         - half
+@lucrezia                - full
+@simon                              - half
+@zen                              - half
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]VEELA AND PART VEELA[/div]
 [div style="text-align:center;"]full Veelas cannot be students[/div]
@@ -189,7 +189,9 @@ Part Veelas do inherit the ability to charm those attracted to them, though it g
 Like all other demi-humans Part Veelas are unable to use transfiguration magic on themselves, including becoming animagi. Again, if their non-Veela side of the family is NOT magical, they cannot perform spells at all.
 [/spoiler]
 
----
+@esthergarnet - half
+@idele  - quarter
+@harmony  &nbsp;-half
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]WEREWOLF[/div]
 Often misunderstood, werewolves magically transform into wolves every full moon.
@@ -230,16 +232,16 @@ A common misconception about Werewolves was also recently proven false, which ha
 St. Mungos has also opened a clinic to assist Werewolves in obtaining the Wolfsbane potion prior to the full moon. With this program in place, many werewolves are now able to go through their monthly transformations in relative peace. Thus, Werewolf attacks are currently at the lowest they've ever been and the public's opinion of lycanthropy has greatly improved.
 [/spoiler]
 
-@alfie                        
-@dahlia                        
-@rob             
-@geethanjali                       
-@lily                        
-@lyra                        
-@vanessa                        
-@sarah                        
-@tobias        
-@vivian          
+@alfie                             
+@dahlia                             
+@rob                  
+@geethanjali    
+@lily                             
+@lyra                             
+@vanessa                             
+@sarah                             
+@tobias             
+@vivian               
 
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #4A7482;"]DRUIDS
 
@@ -248,16 +250,18 @@ Druids are witches and wizards that have deep roots to their Celtic ancestors. T
 [div style="text-align:center;"]
 [/div][div style="text-align:center;"]cannot have animal affinity (from special ability list, they have their own)[/div]
 
-@aidan                        
-@fae     
-@wormwood                                    
+@aidan                             
+@fae          
+@wormwood                                         
 
 [spoiler]
 [b][u]What Make Druids Special[/u][/b]
 Druids are, upon first impression, just witches and wizards that do things differently. But, it's far deeper then that. If you make a Druid, these are things you will automatically have.
 [ul type="circle"][li]Nature affinity - Druids like nature, yeah. But it's way more than that. Druids are naturally in tune with nature. They can feel a storm before it reaches their shores, they can feel an earthquake before it hits, they can smell the rain before the first drop falls from the sky. They just know and understand nature like a sixth sense.[/li][li]Animal affinity - Druids are basically a part of nature. So, they have developed a magical symbiotic relationship with all creatures. Creatures, magical and non-magical, do not see Druids at threats. In fact, they will immediately recognize a Druid as something good, and special. This can be as simple as a dog that isn't fond of people warming up to them immediately. But it can also be as deep as a Druid being able to step into a dragon den and the dragon not caring. The chance of a creature, ANY creature, not liking a Druid is virtually impossible.[/li][li]Magical Conduits - When you make a Druid you will automatically have three magical conduits (for free, yes). You will start with: A wand, a staff, and a wooden instrument of your choosing. These are the three most common magical conduits used by Druids. You can refer to the Magic section, under Culture, below for why those three.[/li][li]Animagi - Druids have one of the highest populations of animagi in the world. Because of their nature and animal affinity, they are naturally driven to become Animagus. Druids are exempt from the age restriction and member restriction for Animagi (Meaning you can have Druid animagus under 17, and you can have a Druid animagus even if you already have 2).[/li][/ul]
 On the other end though, they do have some restrictions.
-[ul type="circle"][li]Druids can't use/own muggle technology on Hy-Brasil. (Nope, You can't bring tech there.)[/li][li]Druids don't practice any dark art. If you want to make a "Dark Druid" you can, but you will be forfeiting your right to enter Hy-Brasil and other played Druids will probably shun you on sight.[/li][li]Druids, logically, may have other special abilities/demi-human status. We will be very cautious about approving these though. The general answer to demi-human status (such as part/full vampire, werewolf, etc) will be no (some exceptions may be given though). They can still be paired with special abilities (clairvoyant, legilimens/occlumens) though, except for animal affinity (cause they already have their own version of animal affinity).[/li][/ul]
+[ul type="circle"][li]Druids can't use/own muggle technology on Hy-Brasil. (Nope, You can't bring tech there.)[/li][li]Druids don't practice any dark art. If you want to make a "Dark Druid" you can, but you will be forfeiting your right to enter Hy-Brasil and other played Druids will probably shun you on sight.[/li][li][s]Druids, logically, may have other special abilities/demi-human status. We will be very cautious about approving these though. The general answer to demi-human status (such as part/full vampire, werewolf, etc) will be no (some exceptions may be given though). They can still be paired with special abilities (clairvoyant, legilimens/occlumens) though, except for animal affinity (cause they already have their own version of animal affinity).[/s]&nbsp;Just don't do any crazy combinations and we'll approve it.
+
+[/li][/ul]
 
 
 [div style="text-align:center;"][b][u]History[/u][/b][/div]Modern Druids are descendants of druids that escaped the Roman massacre around 60 AD. The Roman Empire had invaded Britannia, and was trying to force the Celtic people into submission. The Romans knew that as long as the Druids were around the Celts would never submit. Druids were religious and spiritual leaders. While many were human, some were, indeed, witches and wizards. 

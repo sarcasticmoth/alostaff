@@ -83,10 +83,12 @@ TUTSHILL TORNADOS
 WIMBOURNE WASPS
 YORKSHIRE
 
-BALLYCASTLE BATS KEEPER &amp; CAPTAIN - @mickey   
+BALLYCASTLE BATS KEEPER &amp; CAPTAIN - @mickey      
 BALLYCASTLE BATS CHASER - chaz baker (npc)  
-FALMOUTH FALCONS CHASER - @simon    
-HOLYHEAD HARPIES BEATER - @luna 
+FALMOUTH FALCONS CHASER - @simon 
+      FALMOUTH FALCONS BEATER - @sav
+HOLYHEAD HARPIES BEATER - @luna   
+ HOLYHEAD HARPIES RESERVE PLAYER - @addy  
 HOLYHEAD HARPIES KEEPER AND CAPTAIN - millie dawes (npc)
  
 
@@ -135,7 +137,7 @@ BULGARIA
 GREECE
 UKRAINE
 
-ENGLAND KEEPER - @mickey 
-SWEDEN CHASER - @simon 
+ENGLAND KEEPER - @mickey    
+SWEDEN CHASER - @simon    
 
 [/div][/div][/td][/tr][/tbody][/table][/div][div style="color:rgb(85, 85, 85);font-size:9px;opacity:0.5;text-transform:uppercase;"]inspired by [a href="http://gangnam-style.proboards.com/user/343"]deltra[/a] of gangnam style[/div][/div][/div]

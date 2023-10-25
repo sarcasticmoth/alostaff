@@ -9,15 +9,15 @@ the individuals in charge of running the three schools. they are the council tha
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]gryffindor head of house[/div]
 [i]in charge of gryffindor house and its students[/i]
-@parvati                                                                                       
+@parvati                                                                                          
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]hufflepuff head of house[/div]
 [i]in charge of hufflepuff house and its students[/i]
-@shawn                                                                                       
+@shawn                                                                                          
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ravenclaw head of house[/div]
 [i]in charge of ravenclaw house and its students[/i]
-@octavian                                                                         
+@octavian                                                                            
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]slytherin head of house
 [/div]
@@ -33,7 +33,7 @@ the staff of the primary school, which teaches the children of wizarding familie
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]reception teacher[/div]
 [i]this teacher is responsible for teaching the students in reception, who turn 4 on or before 1 september[/i]
-@rosie                         
+@rosie                            
 [/div]
 
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]year 1 teacher[/div]
@@ -85,7 +85,7 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]defense against the dark arts[/div]
 [i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
-@blaise                                                                               
+@blaise                                                                                  
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]flying[/div]
 [i]teaches special skills and advanced techniques to flying a broom.[/i]
@@ -102,7 +102,7 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]transfiguration[/div]
 [i]teaches the art of changing the form and appearance of an object.[/i]
-@shawn                                                                               
+@shawn                                                                                  
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
 [i]the students attending the secondary school. these are 1-5th years (owls), though we only permit 4th years and older to be played.[/i]
@@ -140,7 +140,7 @@ the staff of the university. this is for those seeking their n.e.w.t. exams (ori
 @tiernan   - advanced ancient runes
 
 advanced cursebreaking - 2nd year cursebreaker trainees, march - june:
-@octavian  
+@octavian     
 _____ grimm - archaeology, ancient studies
 @cas  - artifacts
 _____ carter - astronomy, artifacts
@@ -186,6 +186,7 @@ _____ roche - runes
 @geethanjali   -   newt studies - 2nd year
 @isabel - newt studies - 2nd year
 @lyka   - newt studies - 2nd year
+@oliver - newt studies - 2nd year
 @peggy   - newt studies - 2nd year
 @shiloh   - newt studies - 2nd year
 
@@ -222,7 +223,7 @@ although these individuals are not teachers, their roles are vital to the school
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]counselors[/div]
 [i]assists students, offers advice and guidance[/i]
-@parvati  
+@parvati     
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]security team[/div]
 [i]report to the head of security and maintain the security of the campus[/i]

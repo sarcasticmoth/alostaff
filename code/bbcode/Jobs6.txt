@@ -64,7 +64,7 @@ in charge of the bank[/i]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]LAWYER[/b][/div]
 [i]handle the legal side of the bank handle ministry intervention[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
-[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BANKER[/b][/div]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]banker[/b][/div]
 [i]assists clients on matters relating to savings, investments and loans[/i]
 
 Shela Slater[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -74,12 +74,11 @@ Shela Slater[/div][div style="margin-left:10px;margin-right:10px;"]
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CURSE BREAKER[/b][/div]
 [i]travel the world searching for magical treasures[/i]          
+@brigh 
 @irinarose                  
 @vanessa                                     
 @dahlia        
-@brigh
-@ivanka
-@namuunaa[/div][div style="margin-left:10px;margin-right:10px;"]
+@namuunaa        [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SECURITY HANDLER[/b][/div]
 [i]in charge of the bank's security measures and creatures employed[/i]
 @tag
