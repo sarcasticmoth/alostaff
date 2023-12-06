@@ -1,0 +1,9 @@
+[div align="center"]
+OCTOBER INACTIVE
+
+[table]
+    [tbody]
+        [tr][td] @username [/td][td] # [/td][/tr]
+    [/tbody]
+[/table]
+[/div]
