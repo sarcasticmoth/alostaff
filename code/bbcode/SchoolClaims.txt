@@ -22,7 +22,7 @@ the individuals in charge of running the three schools. they are the council tha
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]slytherin head of house
 [/div]
 [i]in charge of slytherin house and its students[/i]
-@blaise                                                                                  [/div]
+@blaise                                                                                     [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]head of security[/div]
 [i]in charge of the security of the campus[/i]
 @tag[/div]
@@ -81,7 +81,7 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]charms[/div]
 [i]teaches charms such as wingardium leviosa, accio, &amp; aguamenti.[/i]
-@hargus                                                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+@hargus                                                                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]defense against the dark arts[/div]
 [i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
@@ -92,7 +92,7 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 @tag[/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]herbology[/div]
 [i]teaches the magical properties of plants and what they are used for.[/i]
-@alora                           [/div]
+@alora                              [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]history of magic[/div]
 [i]teaches all there is to know about magical history.[/i]
           @tag[/div]
@@ -118,34 +118,34 @@ the staff of the university. this is for those seeking their n.e.w.t. exams (ori
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]law enforcement department[/div]
 [i]all witches and wizards pursuing careers in law enforcement, including aurors, hitwizards, and magical interpol. after completing their n.e.w.t exams they will complete an additional 2 years in this program before working officially. this includes both classroom studies and field work.[/i]
 
-@nottingham   - issues in magical law enforcement
-@nottingham   - the art of dueling
-@bianca   - the ten dueling commandments
+@nottingham      - issues in magical law enforcement
+@nottingham      - the art of dueling
+@bianca      - the ten dueling commandments
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]medical department[/div]
 [i]all witches and wizards pursuing careers in the medical field. this includes all healing focuses (including veterinary), and nursing. after completing their n.e.w.t exams they will complete an additional 2 years in this program, or 6 months for nurses before working officially. this includes both classroom studies and field work.[/i]
 
-@hazel   -  "magical toxins and tonics" (medical dept)
+@hazel      -  "magical toxins and tonics" (medical dept)
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]ancient studies[/div]
 [i]all witches and wizards pursuing careers in curse breaking, ancient studies, archeology, etc. after completing their n.e.w.t exams they will complete an additional 2 years in this program before working officially. this includes both classroom studies and field work.[/i]
 
-@tiernan   - ancient runes
+@tiernan      - ancient runes
 @tag -   ancient studies
-@octavian   - arithmancy
-@octavian   - introduction to cursebreaking
-@octavian   - calculus, catacombs and cursebreaking
-@octavian   - crypts and cryptography
-@octavian   - cursebreaking - traps and hidden dangers
-@tiernan   - advanced ancient runes
+@octavian      - arithmancy
+@octavian      - introduction to cursebreaking
+@octavian      - calculus, catacombs and cursebreaking
+@octavian      - crypts and cryptography
+@octavian      - cursebreaking - traps and hidden dangers
+@tiernan      - advanced ancient runes
 
 advanced cursebreaking - 2nd year cursebreaker trainees, march - june:
 @octavian     
 _____ grimm - archaeology, ancient studies
-@cas  - artifacts
+@cas     - artifacts
 _____ carter - astronomy, artifacts
 _____ evans - charms
-@vanessa   - charms, defensive magic
+@vanessa      - charms, defensive magic
 _____ hudson - charms, defensive magic
 _____ leakey - magizoology
 _____ archer - potions
@@ -160,45 +160,45 @@ _____ roche - runes
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]general studies[/div]
 [i]all course that don't fall under a single department above or those that don't fall under any department.[/i]
 
-@hazel   - alchemy
-@hazel   - research seminar: finding your magnum opus
-@hazel   - alchemical philosophies
+@hazel      - alchemy
+@hazel      - research seminar: finding your magnum opus
+@hazel      - alchemical philosophies
 @tag - art
-@charles   - care of magical creatures
-@charles   - dragons 101
+@charles      - care of magical creatures
+@charles      - dragons 101
 @tag - divinations
 @tag - dueling
 @tag - home economics and life skills
-@ivy   - magical theory
-@ivy   - origins of magic
+@ivy      - magical theory
+@ivy      - origins of magic
 @tag - wandless magic
-@mcgonagall   - advanced transfiguration
-@mcgonagall   - transfiguration and the human anatomy
-@tiernan   - history of magic: merlin studies
+@mcgonagall      - advanced transfiguration
+@mcgonagall      - transfiguration and the human anatomy
+@tiernan      - history of magic: merlin studies
 
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]students[/div]
 [i]the students attending the school, their field of study, and the year. students can be 1-6th year (1-2 newt, 3-4 is job training or&nbsp;equivalent to a 4 year degree, 5-6 would be equivalent of a masters)[/i]
 
-@idele - newt studies - 1st year
-@reina   - newt studies - 1st year
+@idele   - newt studies - 1st year
+@reina      - newt studies - 1st year
 
-@geethanjali   -   newt studies - 2nd year
-@isabel - newt studies - 2nd year
-@lyka   - newt studies - 2nd year
+@geethanjali      -   newt studies - 2nd year
+@isabel   - newt studies - 2nd year
+@lyka      - newt studies - 2nd year
 @oliver - newt studies - 2nd year
-@peggy   - newt studies - 2nd year
-@shiloh   - newt studies - 2nd year
+@peggy      - newt studies - 2nd year
+@shiloh      - newt studies - 2nd year
 
-@amy   - alchemy - 3rd year
-@arlo   - sports science - 3rd year
-@duke   - healing - 3rd year
-@richard   - archvist - 3rd year
-@yvonne   - therapist - 3rd year
+@amy      - alchemy - 3rd year
+@arlo      - sports science - 3rd year
+@duke      - healing - 3rd year
+@richard      - archvist - 3rd year
+@yvonne      - therapist - 3rd year
 
-@breeze   -  magical paleontology - 5th year
-@ivanka   - cursebreaker - 5th year
-@tobias   - magizoology - 5th year[/div]
+@breeze      -  magical paleontology - 5th year
+@ivanka      - cursebreaker - 5th year
+@tobias      - magizoology - 5th year[/div]
 
 [/div]
 [/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px georgia;border-bottom:solid 1px #a98998;"]other staff[/div]
@@ -219,7 +219,7 @@ although these individuals are not teachers, their roles are vital to the school
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]medical staff[/div]
 [i]in charge of all the medical needs of the schools[/i]
-@esthergarnet   - head healer
+@esthergarnet      - head healer
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]counselors[/div]
 [i]assists students, offers advice and guidance[/i]
