@@ -1,0 +1,184 @@
+[div align="center"][font size="5" face="georgia"]GALLEON SHOP[/font][/div][hr][blockquote][blockquote]
+The Galleon shop is pretty self explanatory. You earn galleons by posting IC with your characters and utilizing some of our alternative earning methods found [a href="http://alohomorax0.proboards.com/thread/7387/alternative-ways-earn-galleons"]HERE[/a], and you can use those galleons to purchase things from the shop. These are meant to help enhance your roleplay experience, and only when you want to use them! 
+
+Items will be added as time goes by, so please keep an eye out for new stuff!
+
+Please use the provided code when purchasing anything from the shop:
+
+[code][b]ALIAS[/b] would like to make a purchase! I will buy:
+(list items. If purchasing a magical creature include the classification and creature. If purchasing a personal board, include street address, city/town it's located, and a short description. If it's a business, staff will pm you to get everything set up for it.)
+(you can also use this section to change your purchases between characters!)
+
+Please take the galleons from:
+$amount - [b]@tag
+(add more if taking from multiple accounts.)[/b][/code]
+Buy back Policy:
+If you want to "sell" a galleon shop purchase you are no longer using/would like to use, you can! Just use the code below to tell us what you want to sell and what account to send it to.
+
+[code][b]ALIAS[/b] would like to sell the following purchases:
+(list items)
+
+The total galleons is:
+$amount
+
+Please send the funds to @tag
+[/code]
+
+
+[hr][div style="text-align:center;"][font size="3"]MAGICAL ITEMS[/font][/div]
+[font size="1"]The magical world is always developing new goods and items. Some of these can be new enchantments, other can be exotic imports, and more.[/font]
+
+[font size="3" face="times new roman"]CUSTOM MAGICAL ITEM - 30G[/font]
+[blockquote][font size="1"]Have an idea for a magical item that would be rare or uncommon in the magical world and want a character to have it? This lets you create custom magical items that (unless you choose to let another character buy one) are exclusive to your character. Should you choose to let others own this item staff will the original creator of the item HALF of the gold (15G) as a commission! Who knows, could be a great way to sell your in character creations to other characters and get a profit! As long as it's nothing that will cause irreparable&nbsp;harm to another character we'll probably approve most anything, but if you have an idea for an item that may toe the line of what's allowed you are welcome to message a staff member to ask.
+
+Please include what the item is and looks like in your claim (if you are buying something another character made, also include the original creator's name so we know who to give half the gold to).[/font][/blockquote]
+
+[font face="times new roman" size="3"]ENCHANTED MP3 - 50G[/font]
+[blockquote][font size="1"]An enchanted muggle MP3 player that works at magically dense locations like Hogwarts, Diagon Alley, and Hogsmeade.[/font][/blockquote]
+
+[font face="times new roman" size="3"]TWO WAY MIRROR - 50G[/font]
+[blockquote][font size="1"]As seen in the books, two way mirrors permit you and whoever has the other mirror to talk "video chat" style. These are great couples gifts, for families unable to afford enchanted cell phones, or those that would prefer not to use modified muggle technology. The person that purchases can gift the other mirror to others.[/font][/blockquote]
+
+[font face="times new roman" size="3"]ENCHANTED CELL PHONE - 75G[/font]
+[blockquote][font size="1"]A magical American invention that has made its way across the ocean. This functions like a normal cell phone, or smart phone if you're feeling daring, in areas that are too magically dense for electronics.[/font][/blockquote]
+
+[font face="times new roman" size="3"]MINISTRY APPROVED INVISIBILITY CLOAK - 75G[/font]
+[blockquote][font size="1"]While not as good the cloak from the Deathly Hallows, this cloak is still quite effective.[/font][/blockquote]
+
+[font face="times new roman" size="3"]ENCHANTED COMPUTER - 100G[/font]
+[blockquote][font size="1"]An enchanted muggle computer (desktop or laptop, whatever you want.) that works at magically dense locations like Hogwarts, Diagon Alley, and Hogsmeade. Due to the magical enchantments wifi is not necessary to get online.[/font][/blockquote]
+
+[font size="3" face="times new roman"]FLYING CARPET - 100G[/font]
+[blockquote][font size="1"]A popular mode of transportation in the Middle East for Wizardkind, these enchanted rugs were banned in the UK for many years. Recent events have brought an end to their ban. Both exotic and a practical mode of transportation for multiple people, anyone with a Flying carpet is sure to be the talk of the town and envied by all their neighbors.[/font][/blockquote]
+
+[font face="times new roman" size="3"]NON-WAND MAGICAL CONDUIT - 100G[/font]
+[blockquote][font size="1"]Wands, while the standard, are not the only items capable of being conduits for spells. What makes wands work is the magical wood, and the core. These two things can be carved in to a wide variety of objects. It takes a specialized magic conduit maker (not wand) to make, and all items are special orders. Please include what item you want it shaped into when you purchase this (also, make sure it's something that can be made from wood.)
+**These can be your main magical conduit if desired (such as how Moody only used his walking stick). Students, however, must have a wand as their main magical conduit because using other magical conduits is not taught during school.**[/font][/blockquote]
+
+[font size="3" face="times new roman"]NON-BROOM FLYING VEHICLE - 100G[/font]
+[blockquote][font size="1"]Brooms are the standard for flying needs, but they aren't the only ones. You can purchase other modes of transportation such as cars, and motorcycles, that have been enchanted. They all include invisibility and anti-muggle detection charms. Please include what has been enchanted to fly when purchasing.&nbsp;
+**Characters under 17 can NOT use these (because they can't get a license to drive in the UK until 17), and students over 17 can't bring them to Hogwarts as Hogwarts is not equipped to house these sort of things.**[/font][/blockquote]
+
+
+[hr][div style="text-align:center;"][font size="3"]MAGICAL CREATURES[/font][/div]
+[font size="1"]Having magical creatures as pets is a common practice in the magical world. But, there are always rules and regulations regarding them. As such, the only way to obtain a magical creature as a pet is by purchasing on.We have only listed a handful of generally accepted magical creatures. If you would like to have one that is not listed message staff to see if that creature would be allowed.
+
+Students can only bring X and XX classified creatures to school at Hogwarts. Any creatures owned by students above those classification have to stay at home.[/font]
+
+
+
+[font face="times new roman" size="3"]X CLASSIFIED - 25G[/font]
+[blockquote][font size="1"]Pygmy Puff (any color desired)[/font][/blockquote]
+
+[font size="3" face="times new roman"]XX CLASSIFIED - 50G[/font]
+[blockquote][font size="1"]Bowtruckle
+Augurey
+Jobberknoll
+Puffskein[/font][/blockquote]
+
+[font face="times new roman" size="3"]XXX CLASSIFIED - 75G[/font]
+[blockquote][font size="1"]Crup
+Knarl
+Kneazle (Part-kneazles are considered non-magical and don't have to be purchased)
+Jarvey
+Moke
+Murtlap
+Niffler
+Streeler[/font][/blockquote]
+
+[font size="3" face="times new roman"]WINGED HORSE - 100G[/font]
+[blockquote][font size="1"]Because winged horses can vary in classification, they will all be included as their own section.
+Abraxan
+Aethonan
+Granian
+Thestral[/font][/blockquote]
+
+[font size="3" face="times new roman"]XXXX CLASSIFIED - 200G[/font]
+[blockquote][font size="1"]Phoenix
+Griffin
+Occamy[/font][/blockquote]
+
+[font size="3"][div style="text-align:center;"][hr]CHARACTER DEVELOPMENT[/div][/font]
+[font size="1"][div align="justify"]This section is for non wizard beings (both playable and employable), skills and abilities, and other character development related purchasable.[/div][/font]
+
+[font face="times new roman" size="3"]EXTRA SPECIAL ABILITY - 75G[/font]
+[blockquote][font size="1"]We have a limit of each member having 2 characters with the same special ability/demihuman. Purchasing this will permit you to have 3+ characters with the same special ability/demihuman.[/font][/blockquote]
+
+[font face="times new roman" size="3"]DOMESTIC SERVICE HOUSE ELF - 75G[/font]
+[blockquote][font size="1"]House elves have played a vital role in many magical families for generations. Their domestic services can be purchased at a House-Elf Placement Agency. They are essentially servants, performing many tasks for their masters.[/font][/blockquote]
+
+[font size="3" face="times new roman"]SECURITY TROLL - 75G[/font]
+[blockquote][font size="1"]For the rich and the paranoid, Security Trolls are a great investment. Known for their ferocity and ruthlessness, Trolls are a force to be reckoned with, and even more so once trained. Each Troll is trained to meet the specific needs of the buyer, making each Security Troll unique, and an extremely effective security measure. If you can afford one, you can rest assured that whatever you want protected will be safe and sound.[/font][/blockquote]
+
+[font face="times new roman" size="3"]CUSTOM ABILITY - 500G + 1 PER MEMBER[/font]
+[blockquote][font size="1"]Custom abilities are generally only given out for 1 year anniversaries to members, but you can purchase a second one this way. You will be sent a pm with all the custom ability information and template if you purchase this. You can also learn more about custom abilities [a href="http://alohomorax0.proboards.com/thread/8307/custom-abilities-required-earned"]HERE[/a].
+
+**If you are purchasing your first custom ability, you will still be awarded one at your year mark. **[/font][/blockquote]
+
+[font face="times new roman" size="3"]SPECIAL CUSTOM ABILITY - 1000G + 1 PER MEMBER[/font]
+[blockquote][font size="1"]&nbsp;You can also learn more about custom abilities [a href="http://alohomorax0.proboards.com/thread/8307/custom-abilities-required-earned"]HERE[/a]. Special customs are where staff will give much more leeway in the custom ability rules.&nbsp;
+[/font][/blockquote]
+
+[font size="3"][div style="text-align:center;"][hr]OTHER[/div][/font]
+[font size="1"][div align="justify"]All the items that are less for enhancing your characters, and more for you as a member.[/div][/font]
+
+[font size="3" face="times new roman"]EVENT BOARD - 50G[/font]
+[blockquote][font size="1"]Special events happen. This is a&nbsp;personal board to be used temporarily for events such as parties, weddings, funerals, etc. The board will be up in the events section for two months before being moved to the past board. It'll be move to the archives once all the threads are finished, or there hasn't been any activity in two months.[/font][/blockquote]
+
+[font size="3" face="times new roman"]CHARACTER REDO - 75G[/font]
+[blockquote][font size="1"]Sometimes we need to do revamps for characters. Whether it be name changes, personality, ages, history, etc. This lets you purchase one of these "redos" without having to drop the character and remake them. The sky is the limit for these redos! Just make sure that you are coordinating with other writers how all these changes will affect your&nbsp;existing plots.[/font][/blockquote]
+
+[font face="times new roman" size="3"]ADDITIONAL CHARACTER  BANNER - 100G[/font]
+[blockquote][font size="1"]Each member gets 1 character for free for the rotating banner. You can purchase additional banners for characters. There is no limit currently for how many you can have in rotation, but this may be subject to change if staff feels too many are in rotation.[/font][/blockquote]
+
+[font size="3" face="times new roman"]RESIDENT BOARD - 100G[/font]
+[blockquote][font size="1"]A resident board. This permits characters to have their own apartment or house. Please provide the address of the home, and where it is located. If you don't see the town/area you want it located in that's okay! We add towns/areas when needed.[/font][/blockquote]
+
+[font size="3" face="times new roman"]STUDY ABROAD - 150G[/font]
+[blockquote][font size="1"]Have a character you want to put on ice for a little while? This lets you basically 'pause' your character for 2 OOC months. They will be exempt from activity requirements during these months and retain all your claims. If you are unable to post for a time, or lose muse for a character but don't want to drop them, this is a great way to just give the character a break for a short time. We do have rules regarding how to use these, however. They are:
+[ul type="disc"][li]You can only have up to 2 characters on study abroad at the same time. (We may up it in certain circumstances, but this would be case-by-case)[/li][li]The same character can only be study abroaded ONCE per year. (we will be doing calendar years for this. So once per 2021, etc.)[/li][li]Study abroads cannot be purchased during an activity check.[/li][li]Staff can (not saying we will, or won't, just that we have the right to) reject a study abroad for characters that have activity check strikes. This will be handled on a case-by-case basis.[/li][/ul]Please use these wisely. Study abroads are NOT "Get out of Jail Free" cards to bypass an activity check. They are to be used to hold onto characters you still absolutely want, during times when you know you won't be able to use them. Study abroads affect all the other members linked to the characters. So when you study abroad characters, you are effectively study abroading parts of other member's characters.[/font][/blockquote]
+
+[font face="times new roman" size="3"]BUSINESS BOARD - 200G +MUST BE OWNER[/font]
+[blockquote][font size="1"]A business board. This permits characters to have their own shop/business of some sort. Please provide a general description (1-3 sentence), and where it is located. If you don't see the location, we'll just put it in the general country. 
+
+Businesses can only be purchased by the owner. You can't buy a board for a business you are not the owner of. (sorry, you can't buy it if you only plan on being an employee.)[/font]
+[/blockquote]
+
+[font size="3" face="times new roman"]ADDITIONAL CHARACTER (11-20) - 200G&nbsp;[/font]
+[blockquote][font size="1"]If you are wanting to have more then 10 characters you will have to purchase this for each character over 10, but under 20.&nbsp;[/font][/blockquote]
+
+[font size="3" face="times new roman"]ADDITIONAL CHARACTER (21+) - 500G[/font]
+[blockquote][font size="1"]If you are wanting to have more then 20 characters you will have to purchase this for each character over 20.&nbsp;[/font][/blockquote]
+
+[font size="3"][div style="text-align:center;"][hr]CHARACTER AWARDS &amp; MASTERY[/div][/font][div align="center"][font size="1"][i]these are NON transferrable if the character is dropped.[/i][/font][/div]
+[font size="1"][div align="justify"]This section is awards, and masteries, that are used to elevate a character above the average in some way. Theses are non-transferrable to other characters and must be attached to a character when purchased. The biggest thing that sets these purchases apart from other shop items is the level of work and/or review involved with their purchase. Some of these require IC work, while others require staff review. Nothing in here is automatically given just because you buy it. We will also heavily review any attempts to combine these purchases for the same character to ensure no godmoding happens.&nbsp;
+
+P.S. We keep a very close eye on purchases from this category. If we ever feel they are being abused/loop holed/etc we can implement more requirements and checks for them without any warning.&nbsp;[/div][/font]
+SKILL MASTERY - 50G + POST REQUIREMENT (READ FOR RULES) + 25-years-old
+[blockquote][font size="1"]Characters with this are recognized for their exceptional skills in a particular magical branch. These individuals are more than just above average, they are experts and they have reached the top tier of their field. Some examples in the Harry Potter universe would be Professor McGonnagal and her transfigurations skill, and Snape in his Potions skill. 
+
+To be eligible for a skill mastery the character must be at least 25-years-old, and have an IC reason to be pursuing mastery of the magical branch (example: a Potioneer has a reason to master potions. But they don't have a reason to master charms.) Branches currently permitted for master are: Charms, Transfiguration, Divination, Arithmancy, Alchemy, dueling, Herbology, potions, legilimency, occlumency, enchanting, dark arts. If you ask, staff is willing to add more, these are just the ones we thought people would be most likely to pursue!
+
+There are two parts to earning a skill mastery. First, you must purchase it from the shop. When you purchase it you must specify what skill you are after, and what character is mastering it. Second, the character mastering it must complete 50 IC posts (most normal activity rules apply, so no threading with yourself, owls or journal entries. We WILL accept up to 10 one shots.), and the posts must be in relation to their skill somehow (just use the skill somehow, as long as it's more then a sentence reference we'll accept it). Once you have completed the 50 posts, your character will officially be recognized as an expert. [/font][/blockquote]
+AGE/EXPERIENCE REQUIREMENT EXCEPTION - 100G
+[blockquote][font size="1"]There are certain jobs, situations, etc, that have age or experience requirements. With this purchase, you can get an exception to a requirement/minimum. All within reason though (example, we aren't going to accept an 18-year-old, just barely graduated, as a Ministry department head). Please communicate with staff before purchasing this item to ensure the exception you want would be considered within reason on Alohomora.[/font][/blockquote]
+ORDER OF MERLIN 3RD CLASS - 100G
+[blockquote][font size="1"]Awarded to individuals who "have made a contribution to our store of knowledge or entertainment." These are the easiest of the orders to earn, and are thus the most common out of the Orders of Merlin. Please include what you did to earn, and when you earned it, it when purchasing this item. As long as it can make sense, it's no problem. An example of a third class Order of Merlin is Jimbo Blishwick's contribution to wizarding society through his matchmaking service. 
+
+**staff can award these to characters should they feel the character has made an unforgettable contribution to the site worthy of the award.**[/font][/blockquote]
+ORDER OF MERLIN 2ND CLASS - 200G
+[blockquote][font size="1"]Awarded for "achievement or endeavour beyond the ordinary. Please include what you did to earn it (it must be something worth more then a 3rd class), and when you earned it. An example of a second class Order of Merlin is Epke Oppedyk and Sienna Linslee's potion "Aware Wolf" and it's positive affects on werewolf lives.&nbsp;
+
+**staff can award these to characters should they feel the character has made an unforgettable contribution to the site worthy of the award.**[/font][/blockquote]
+ORDER OF MERLIN 1ST CLASS - 300G
+[blockquote][font size="1"]Awarded for "acts of outstanding bravery or distinction" in magic. This is the highest distinction is Wizarding society. Please include what you did to earn this, when you earned it, and expect it to be heavily reviewed before approval. Staff can reject these if they feel the achievement suggested does not deserve a first order, as we will be awarding very few of these. An example of a first class Order of Merlin (that staff would approve) is Albus Dumbledore's defeat of the dark wizard, Gellert Grindelwald. 
+
+**staff will never award these, they can only be purchased.**[/font][/blockquote]
+
+PRODIGY SKILL MASTERY - 200G + POST REQUIREMENT (READ FOR RULES)
+[blockquote][font size="1"]Characters with this are recognized for their exceptional skills in a particular magical branch. These individuals are those UNDER 25 that are proving to be exceptionally gifted to the point of being called as prodigies in the field. This can be used for characters between 14-24 years old.
+
+There are two parts to earning a skill mastery. First, you must purchase it from the shop. When you purchase it you must specify what skill you are after, and what character is mastering it. Second, the character mastering it must complete 50 IC posts (most normal activity rules apply, so no threading with yourself, owls or journal entries. We WILL accept up to 10 one shots.), and the posts must be in relation to their skill somehow (just use the skill somehow, as long as it's more then a sentence reference we'll accept it). Once you have completed the 50 posts, your character will officially be recognized as an prodigy.
+
+We ask those working on this to still act within reason. (Staff will intervene if we see teenagers powerplaying themselves to be superior to 40+ year olds who work in the field, for example)[/font][/blockquote]
+[/blockquote][/blockquote]

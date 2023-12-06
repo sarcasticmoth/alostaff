@@ -1,0 +1,68 @@
+[newclass=".user-link"]text-transform:uppercase !important;[/newclass]
+[newclass=".user-link.group-5"]color: #921303 !important; [/newclass]
+[newclass=".user-link.group-6"]color: #c0b211 !important; [/newclass]
+[newclass=".user-link.group-7"]color: #090c8f !important; [/newclass]
+[newclass=".user-link.group-8"]color: #008f00 !important; [/newclass]
+[newclass=".user-link.group-10"]color: #ca8158 !important; [/newclass]
+[newclass=".user-link.group-12"]color: #d52096 !important; [/newclass]
+[newclass=".user-link.group-15"]color: #610086 !important; [/newclass]
+[newclass=".user-link.group-18"]color: #362929 !important; [/newclass]
+[newclass=".user-link.group-19"]color: #883992 !important; [/newclass]
+[newclass=".user-link.group-21"]color: #0c1318 !important; [/newclass]
+[newclass=".user-link.group-22"]color: #75002a !important; [/newclass]
+[newclass=".user-link.group-23"]color: #4c6e95 !important; [/newclass]
+[newclass=".user-link.group-24"]color: #32aa4a !important; [/newclass]
+[newclass=".user-link.group-28"]color: #af8e0b !important; [/newclass]
+
+[newclass=".user-link.group-3"]color: #0e5347 !important; [/newclass]
+[newclass=".user-link.group-4"]color: #0e5347 !important; [/newclass]
+[newclass=".user-link.group-1"]color: #0e5347 !important; [/newclass]
+
+
+[ USER GROUP COLORS FOR CLAIMS LISTS ]
+
+1---[ADMINISTRATOR]:        #0E5347 --- [BLUE GREEN COLOR WHEEL]
+3---[MODERATOR]:            #0E5347 --- [BLUE GREEN COLOR WHEEL]
+4---[CO-ADMIN]:             #0E5347 --- [BLUE GREEN COLOR WHEEL]
+
+5---[GRYFFINDOR]:           #921303 --- [DARK RED]
+6---[HUFFLEPUFF]:           #C0B211 --- [OLD GOLD]
+7---[RAVENCLAW]:            #090C8F --- [PHTHALO BLUE]
+8---[SLYTHERIN]:            #008F00 --- [INDIA GREEN]
+10--[HOGWARTS STAFF]:       #CA8158 --- [RAW SIENNA]
+12--[MINISTRY]:             #D52096 --- [BARBIE PINK]
+15--[WIZARDING ADULT]:      #610086 --- [INDIGO]
+18--[INACTIVE]:             #362929 --- [BLACK COFFEE]
+19--[PUBLICATION]:          #883992 --- [MAXIMUM PURPLE]
+21--[STUDYING ABROAD]:      #0C1318 --- [RICH BLACK FOGRA 29]
+22--[OOC ACCOUNT]:          #75002A --- [CLARET]
+23--[OTHER]:                #4C6E95 --- [QUEEN BLUE]
+24--[DRUID]:                #8AE38A --- [LIGHT GREEN]
+28--[STUDENT]:              #AF8E0B --- [DARK GOLDENROD]
+
+[ APPLICATION ]
+
+---[APPLICATION]:           #006B8F --- [BLUE SAPPHIRE]
+
+[ CLAIMS ]
+
+---[INITIAL CLAIMS]:        #000000 --- [BLACK]
+---[FACE CLAIM]:            #6F1D1B --- [PERSIAN PLUM]
+---[JOBS CLAIM]:            #8B4972 --- [SUGAR PLUM]
+---[CANON CLAIM]:           #4A7482 --- [TEAL BLUE]
+---[WHOS WHO]:              #FCCA46 --- [SUNGLOW]
+---[STUDENT CLAIM]:         #6B8F00 --- [OLIVE DRAB 3]
+
+[ OPT-CLAIMS ]
+
+---[EXTRA STUDENT CLAIMS]:  #000000 --- [BLACK]
+---[WYRD TOUCH]:            #CAC4CE --- [LAVENDER GRAY]
+---[PATRONI, SHIP, ORIGIN]: #6F1D1B --- [PERSIAN PLUM]
+---[CUSTOM ABILITIES]:      #8B4972 --- [SUGAR PLUM]
+---[SPECIAL ABILITIES]:     #4A7482 --- [TEAL BLUE]
+---[AFFILIATION CLAIM]:     #FCCA46 --- [SUNGLOW]
+---[STUDENT CAREER PLANS]:  #6B8F00 --- [OLIVE DRAB 3]
+
+-- CUSTOM --
+
+[newclass=.user-link.group-12.v]text-transform:uppercase !important;color:#d52096 !important;[/newclass]
