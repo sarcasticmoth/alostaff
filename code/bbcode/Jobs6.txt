@@ -77,8 +77,7 @@ Shela Slater[/div][div style="margin-left:10px;margin-right:10px;"]
 @brigh 
 @irinarose                  
 @vanessa                                     
-@dahlia        
-@namuunaa        [/div][div style="margin-left:10px;margin-right:10px;"]
+@dahlia        [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SECURITY HANDLER[/b][/div]
 [i]in charge of the bank's security measures and creatures employed[/i]
 @tag
@@ -126,7 +125,7 @@ Tala Cruz[/div][div style="margin-left:10px;margin-right:10px;"]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]TATTOO ARTIST[/b][/div]
 [i]the full fledged and proven tattoo artists in the shop[/i]
-@idris                 
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]APPRENTICE TATTOO ARTIST[/b][/div]
 [i]those still learning the art of magical tattooing[/i]
@@ -281,7 +280,7 @@ George Weasley[/div][div style="margin-left:10px;margin-right:10px;"]
 [i]create the wolfsbane potion and any others werewolves might need[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SOCIAL WORKERS[/b][/div]
-[i]help werewolves find jobs, housing, and counselling[/i]
+[i]help werewolves find jobs, housing, and counseling[/i]
 @tag[/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]FLIMFLAM’S LANTERNS[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]

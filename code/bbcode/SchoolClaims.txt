@@ -81,7 +81,7 @@ the staff of the secondary school,&nbsp;or the first through fifth years of magi
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]charms[/div]
 [i]teaches charms such as wingardium leviosa, accio, &amp; aguamenti.[/i]
-@hargus                                                                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+@tag
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font:12px georgia;border-bottom:solid 1px #a367a8;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]defense against the dark arts[/div]
 [i]teaches how to defend yourself against dark creatures, darks arts, other charms.[/i]
@@ -196,7 +196,6 @@ _____ roche - runes
 @richard      - archvist - 3rd year
 @yvonne      - therapist - 3rd year
 
-@breeze      -  magical paleontology - 5th year
 @ivanka      - cursebreaker - 5th year
 @tobias      - magizoology - 5th year[/div]
 

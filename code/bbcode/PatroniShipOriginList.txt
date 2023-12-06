@@ -28,7 +28,6 @@ to have a Patronus added just use this code:
 @cara                                             - sheepdog
 @cas                                             - magpie
 @claire                                             - european badger
-@clyde         - black leopard
 @cordelia                                             - rabbit
 @dianab       - irish wolfhound[/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]E, F, G, H[/div]
@@ -162,7 +161,6 @@ CODE FOR NORTH AMERICA:
 @brigh                             - Galway, Ireland 
 
 @cordelia                             - [b]scotland[/b]
-@clyde         - [b]scotland[/b]
 
 @simon                             - odense, [b]sweden[/b]
 @astrid                             - Stockholm, Sweden

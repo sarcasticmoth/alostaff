@@ -173,22 +173,13 @@ all - cleared in advanced[/i]
 [/div][/div]
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@lisa                                                                                                                                           [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/m2DobcD.jpg" style="max-width:100px;"]
-[b]@dominique                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/zpDGvht.png" style="max-width:100px;"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/zpDGvht.png" style="max-width:100px;"]
 [b]@irinarose                                                                                                           [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/A9xnYw8.png"]
 [b]@ophelialee                                                                                                           [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]publication restrictions:
 [/i]@ophelialee                                                                                     - no custom ability mentions
 
 [/div][/div]
-
-[div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@mateo                                                                                                                                          [/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/QeFSFAU.png"]
-[b]@hargus                                                                                                              [/b][/div][/td][/tr][/tbody][/table]
-[/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
-
-[/div][/div]
-
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@ohheysammy                [/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/VJXKLY6.jpg" style="max-width:100px;"]
@@ -200,14 +191,6 @@ all - cleared in advanced[/i]
 [/div][/div]
 
 
-[div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@shadow                                                                                                                                           [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/J2CIhxX.png" style="max-width:100px;"]
-[b]@edward                                                                                                  [/b][/div][/td][td][div][img src="https://i.imgur.com/mS6yHny.png" style="max-width:100px;"]
-[b]@sutton                                                                                                  [/b][/div][/td][/tr][/tbody][/table]
-[/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
-
-[/div][/div]
-
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]SHELBY                                                                                               [/div][div align="center"][div style="width:547px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.ibb.co/Bjf72S6/pax-av-3.png" style="max-width:100px;"]
 [b]@shelby                                                                                                             [/b][/div][/td][/tr][/tbody][/table]
@@ -217,17 +200,14 @@ all - cleared in advanced[/i]
 
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@sophi                                                                                                                                           [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://64.media.tumblr.com/f7f4015668f8da13a53cac0b78190a4b/613eec0af22fd2f5-e9/s250x400/3da4e66b3c71c8fc9bde4e59308fbdb59ad925fc.jpg"]
-[b]@clyde                                                                                                [/b][/div][/td][td][div][img src="https://i.imgur.com/onsUeHV.jpg" style="max-width:100px;"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/onsUeHV.jpg" style="max-width:100px;"]
 [b]@tiernan                                                                                                [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
 
 [/div][/div]
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@sora                                                                                                         [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/cO9cm9N.png"]
-[b]@breeze                                                                                               [/b][/div][/td][td][div][img src="https://i.imgur.com/BXcgANa.jpg" style="max-width:100px;"]
-[b]@namuunaa                                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/LDfPFmC.png" style="max-width:100px;"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/LDfPFmC.png" style="max-width:100px;"]
 [b]@rose                                                    [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/Mnfr1KX.png"]
 [b]@vasilia                                                                                               [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]publication restrictions: 

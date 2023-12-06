@@ -202,9 +202,8 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSISTANT ARCHIVIST[/b][/div]
 [i]assist archivists[/i]
-@breeze                                 
 @kaylee 
-    @nessa
+@nessa
 @richard     [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]GUARD[/b][/div]
 [i]protect the museum[/i]
@@ -633,7 +632,7 @@ Naomi Nakamura Higuchi de Watanabe[/div][div style="margin-left:10px;margin-righ
 @rue                                                                                             [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BOUNTY HUNTER[/b][/div]
 [i]hunt down targets for money (do not kill)[/i]
-@clyde                 
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CON ARTIST/GRIFTER[/b][/div]
 [i]masters of lying and getting what they want[/i]
@@ -678,7 +677,6 @@ Naomi Nakamura Higuchi de Watanabe[/div][div style="margin-left:10px;margin-righ
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INFORMATION BROKER[/b][/div]
 [i]gather all sorts of information and will tell you for the right price[/i]
 @rose                
-@clyde                
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL CREATURE DEALER[/b][/div]
 [i]illegally sell magical creatures[/i]
