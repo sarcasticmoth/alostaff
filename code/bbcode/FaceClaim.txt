@@ -73,21 +73,21 @@ COLE, finn
 COLEMAN, zendaya
 [b]@rue                                                                                                                                                                                                    [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/5Jbq1UJ.png" style="max-width:100px;"]
 COLLINS, lily
-[b]@lyra                                                                                                                                                                                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/M2xu0kP.png" style="max-width:100px;"]
+[b]@lyra                                                                                                                                                                                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/ou80Y3r.jpg" style="max-width:100px;"]
+COOKSON, sophie
+[b]@holly[/b][/div][/td][td][div][img src="https://i.imgur.com/M2xu0kP.png" style="max-width:100px;"]
 [div]CRAVALHO, auli'i
 [b]@kaylee                                                                                                                                                                                             [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/bl7ySZu.png"]
 DADDARIO, alexandra
 [b]@sienna                                                                                                                                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/gSYdswb.png" style="max-width:100px;"]
 DADDARIO, matthew
-[b]@jamesp                                                                                                                                                                                                  [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/3f5hNke.png"]
+[b]@jamesp                                                                                                                                                                                                  [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/3f5hNke.png"]
 [div]DE GRAAF, lauren
-[b]@bryelle                                                                                                                                                                                             [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/8gtnYrU.png" style="max-width:100px;"]
+[b]@bryelle                                                                                                                                                                                             [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/8gtnYrU.png" style="max-width:100px;"]
 DE SCHRYVER, willem
 [b]@scorpius                                                                                                                                                                                                [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/ApSIY4M.png"]
 DEHAAN, dane
 [b]@renard                                                                                                                                                                                                  [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
 [b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
 last, first
