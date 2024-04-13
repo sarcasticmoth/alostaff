@@ -4,14 +4,19 @@
 [i]Not all businesses in the magical world are located in the magical districts. These are the shops currently with their own boards at Alohomora. We are always striving to add more diversity and add more, so if you have any suggestions, message a staff member.[/i]
 
 [spoiler]
-[div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]96th AT THE SHARD[/b][/div]
+[div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]96 AT THE SHARD[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located in london, england[/i]
 
+[div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]OWNER[/b][/div]
 [i]owner of the bar[/i]
-@lyra                                                                                                                                 
-[/div]
+@lyra                                                                                                                     
+[/div][div style="margin-left:10px;margin-right:10px;"]
+[div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
+[i]run the bar and alcoholic drinks[/i]
+@tag[/div][/div]
+
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]CLUB INDIGO[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located in london, england[/i]
@@ -22,7 +27,8 @@
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ASSISTANT MANAGER[/b][/div]
 [i]run the club[/i]
-@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+@tag
+[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]DJ[/b][/div]
 [i]create music mixes and entertain clubgoers[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -31,7 +37,8 @@
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDERS[/b][/div]
 [i]run the bar and alcoholic drinks[/i]
-@frankie                                                                                    [/div][/div]
+@frankie[/div][/div]
+
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]FLOBBERWORM AND LETTUCE[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
 [i]located on L.I.F.E. Campus, Scotland[/i]
@@ -279,7 +286,8 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HIGH PROFILE CASE REPORTER[/b][/div]
 [i]handle very public cases[/i]
-@damian                                                   - Investigative Journalist, Political Corruption[/div][div style="margin-left:10px;margin-right:10px;"]
+@damian                                                   - Investigative Journalist, Political Corruption
+@jimmie - Junior Investigative Journalist[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]REPORTERS[/b][/div]
 [i]report all other news cases[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
@@ -288,7 +296,7 @@ run the lab in authenticating and restoring artifacts[/i]
 @raphael                                                                            [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]those wanting to get into news but needing experience[/i]
-@jimmie                                                                            [/div]
+@tag[/div]
 
 [div style="font-weight:bold;font:16px Georgia;"]SPORTS[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SENIOR SPORTS DIRECTOR[/b][/div]
@@ -316,19 +324,19 @@ run the lab in authenticating and restoring artifacts[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]FACT CHECKER[/b][/div]
 [i]make sure reporters aren't making things up[/i]
-@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+@evy[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ADVERTISEMENT LIAISON[/b][/div]
 [i]work with those interested in advertising in the newspaper[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]POLITICAL CORRESPONDENT[/b][/div]
 [i]handles all political related news[/i]
-@tag[/div][div style="margin-left:10px;margin-right:10px;"]
+@evy[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERNATIONAL NEWS COORDINATOR[/b][/div]
 [i]handles all international related news[/i]
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]INTERN[/b][/div]
 [i]those wanting to get into news but needing experience[/i]
-@evy                           [/div]
+@tag[/div]
 [/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]HOLOPAINEN-ROSIER RECORDS[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]
@@ -438,9 +446,11 @@ Jackson Blishwick
 @tag[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]CREW[/b][/div]
 [i]those that work anywhere in the shows (pick what you want to do!)[/i]
-@hanna                                                                                                             - costume designer
-@monday                                                                             - intern
-@vivian                                                      - Host of Potterwatch[/div][div style="margin-left:10px;margin-right:10px;"]
+@hanna - costume designer
+@monday - intern
+@vivian - Host of Potterwatch
+@lupin - Consultant
+[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]MAJOR ACTOR/ACTRESS[/b][/div]
 [i]WADA graduate required
 
@@ -720,7 +730,8 @@ they were in Azkaban for some reason or another and now they are FREE[/i]
 @alfie                                                        [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]ARTIST[/b][/div]
 [i]create pieces of art for a living[/i]
-@yas          
+@lupin
+@yas
 Iliana Amador Blishwick[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]AUTHOR[/b][/div]
 [i]write novels, short stories, comics, etc[/i]
