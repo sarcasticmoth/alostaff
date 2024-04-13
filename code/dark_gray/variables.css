@@ -1,0 +1,34 @@
+/* Punki's Variables */
+@pale-gray-1: #2C2F33; /* Main background color */
+@pale-gray-2: #23272A; /* Secondary background color */
+@pale-gray-3: #23272A; /* Border color */
+@gray-1: #CCCCCC; /* Text */
+@gray-2: #CCCCCC; /* Text */
+@blue-1: #99AAB5; /* Link color and some accents */
+@blue-2: #899CA9; /* Link hover color and most accents */
+@white: #FFFFFF;
+@banner-text: @white; /* Banner text color */
+@decorative-font: "Josefin Sans"; /* Large font */
+@small-font: "Raleway"; /* Smaller text font */
+@banner-image-1: "https://i.imgur.com/IAplz9f.jpg"; /* 950 pixels x 500 pixels for all four */
+@seamless: "https://i.imgur.com/GlbGcSd.png"; /* Please make this a seamless aka tileable picture */
+@about-picture: "https://i.imgur.com/aV8Ax0v.jpg"; /* 350 pixels by 250 pixels */
+@staff-picture: "https://i.imgur.com/nuBTF2J.jpg"; /* 700 pixels by 100 pixels */
+@awards-picture: "https://i.imgur.com/IN0GQNX.jpg"; /* 50 pixels by 400 pixels */
+@nav-picture: "https://i.imgur.com/XRePE79.jpg"; /* 300 pixels by 50 pixels */
+@credit-picture: "https://i.imgur.com/EY9affx.jpg"; /* 500 pixels by 260 pixels */
+@event-picture: "https://i.imgur.com/Ve249Sh.png"; /* 290 pixels by 130 pixels */
+@first-staffer: "https://i.imgur.com/9yaBKbB.png"; /* sora */ /* 60 x 60 for all six */
+@second-staffer: "https://i.imgur.com/zSZHip2.png"; /* lisa */
+@third-staffer: "https://i.imgur.com/wXOsbOM.png"; /* vanessa */
+@fourth-staffer: "https://i.imgur.com/OoeY8w3.png"; /* ana */
+@fifth-staffer: "https://i.imgur.com/l4e7BbC.png"; /* audrey */
+@sixth-staffer: "https://i.imgur.com/RA4DuQ8.png"; /* seph */
+@first-award: "https://i.imgur.com/XD4FQfb.jpg"; /* 160 x 100 MOTY */
+@second-award: "https://i.imgur.com/FGohfQO.jpg"; /* 160 x 100 SOTY */
+@third-award: "https://i.imgur.com/PyBCenS.jpg"; /* 160 x 100 COTY */
+@fourth-award: "https://i.imgur.com/Xh1hPG8.png"; /* 160 x 100 Special Services*/
+/* @default-board-image: 'https://i.imgur.com/V5QFAO7.jpg'; */
+@default-board-image: "https://i.imgur.com/V5QFAO7.jpg"; /* 300 pixels by 120 pixels */
+@default-miniprofile-image: "https://i.imgur.com/Ly23gW6.jpg"; /* 250 pixels by 400 pixels */
+@default-miniprofile-smaller-image: "https://i.imgur.com/Thxg9xq.jpg"; /* 190 pixels by 100 pixels */
