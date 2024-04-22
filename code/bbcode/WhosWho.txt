@@ -2,13 +2,6 @@
 [div style="width:600px;padding:10px;background-color:rgb(243, 243, 243);margin-top:-10px;"][div style="width:585px;margin-top:5px;font:10px Verdana;"][div style="padding:5px;background-color:rgb(255, 255, 255);text-align:center;font:24px Georgia;border-bottom:1px solid #FCCA46;"][font color="#555555"]whos[/font][font color="#FCCA46"]who[/font][/div][table style="color:rgb(85, 85, 85);"][tbody][tr][td][div style="text-align:center;"]
 OOC character listing
 
-[div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@ali                                                                                                     [/div][div align="center"][div style="width:547px;overflow:auto;"][attr="class","scrollbox2"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://64.media.tumblr.com/5ba35a1b52b6130a612e3e6a49e27677/7883f9d8c3b6bab1-15/s100x200/db73e5b70457e57587299e4fb4276af428c7c741.jpg" style="max-width:100px;"]
-[b]@sav                                                                                                                  [/b][/div][/td][/tr][/tbody][/table]
-[/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
-
-[/div][/div]
-
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@ana                                                                                                                                                 [/div][div align="center"][div style="width:530px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.pinimg.com/originals/19/0c/d1/190cd17be351f680b3503b931d66d864.jpg" style="max-width:100px;"]
 [b]@amy                 [/b][/div][/td][td][div][img src="https://i.imgur.com/O19dG5m.png" style="max-width:100px;"]
@@ -83,8 +76,7 @@ OOC character listing
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@cino             [/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/qPe1FyL.jpg"]
-[b]@andrew             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/GMu0rdo.jpg"]
-[b]@jewel             [/b][/div][/td][/tr][/tbody][/table]
+[b]@andrew             [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
 
 [/div][/div]
@@ -188,8 +180,7 @@ all - cleared in advanced[/i]
 
 [div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@ohheysammy                     [/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"][attr="class","scrollbox2"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/VJXKLY6.jpg" style="max-width:100px;"]
-[b]@esthergarnet                                                                                                                               [/b][/div][/td][td][div][img src="https://i.imgur.com/nlQteVh.jpg" style="max-width:100px;"]
-[b]@marcello             [/b][/div][/td][td][div][img src="https://iili.io/H18RylI.jpg" style="max-width:100px;"]
+[b]@esthergarnet                                                                                                                               [/b][/div][/td][td][div][img src="https://iili.io/H18RylI.jpg" style="max-width:100px;"]
 [b]@peggy               [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
 
@@ -217,13 +208,6 @@ all - cleared in advanced[/i]
 [b]@vasilia                                                                                                    [/b][/div][/td][/tr][/tbody][/table]
 [/div][/div][div style="text-align:center;"][i]publication restrictions: 
 [/i]@rose                                                        - cleared in advance
-
-[/div][/div]
-
-[div style="background-color:#ffffff;padding:5px;text-align:justify;width:565px;"][div style="text-align:center;padding-bottom:3px;font:18px Georgia;border-bottom:solid 1px #FCCA46;"]@modsuzie                   [/div][div align="center"][div style="width:530px;height:150px;overflow:auto;"][attr="class","scrollbox2"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/bd5jM7A.jpg"]
-[b]@mac                                                                                                                               [/b][/div][/td][/tr][/tbody][/table]
-[/div][/div][div style="text-align:center;"][i]no publication restrictions[/i]
 
 [/div][/div]
 

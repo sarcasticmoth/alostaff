@@ -21,9 +21,7 @@ last, first
 last, first
 [b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]A,B,C,D
 [/div][div align="center"]
-[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://64.media.tumblr.com/5ba35a1b52b6130a612e3e6a49e27677/7883f9d8c3b6bab1-15/s100x200/db73e5b70457e57587299e4fb4276af428c7c741.jpg"]
-ABLACK, raymond
-[b]@sav                                                                                                                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/iKJQmnl.png" style="max-width:100px;"]
+[table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/iKJQmnl.png" style="max-width:100px;"]
 ABU DEIF, salma
 [b]@yas                                                                                                                                                                                                                                 [/b][/div][/td][td][div][img src="https://i.imgur.com/wKpDzFN.png" style="max-width:100px;"]
 ARANTES, bia
@@ -31,9 +29,9 @@ ARANTES, bia
 ARMITAGE, richard
 [b]@harry                                                                                                                                                                          [/b][/div][/td][td][div][img src="https://i.imgur.com/UbYCnK0.png" style="max-width:100px;"]
 AVANTIKA
-[b]@geethanjali                                                                                                                                                                          [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/WIMPLO2.jpg" style="max-width:100px;"]
+[b]@geethanjali                                                                                                                                                                          [/b][/div][/td][td][div][img src="https://i.imgur.com/WIMPLO2.jpg" style="max-width:100px;"]
 BAILEY, jonathan
-[b]@ewan                                                                                          [/b][/div][/td][td][div][img src="https://i.imgur.com/DG41kPI.jpg" style="max-width:100px;"]
+[b]@ewan                                                                                          [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/DG41kPI.jpg" style="max-width:100px;"]
 BARNES, ben
 [b]@damian                                                                                                                               [/b][/div][/td][td][div][img src="https://i.imgur.com/XoOFCTo.png" style="max-width:100px;"]
 BIERSACK, andy
@@ -41,9 +39,9 @@ BIERSACK, andy
 BISHIL, summer
 [b]@bianca                                                                                                                                                                        [/b][/div][/td][td][div][img src="https://i.imgur.com/ACA0p8I.png" style="max-width:100px;"]
 BLANCHARD, rowan
-[b]@maxima                                                                                                                                                                        [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/Hs6fiNw.png"]
+[b]@maxima                                                                                                                                                                        [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/Hs6fiNw.png"]
 BLOOM, orlando
-[b]@cas                                                                                                                                                                        [/b][/div][/td][td][div][img src="https://i.imgur.com/IGjAc8K.png" style="max-width:100px;"]
+[b]@cas                                                                                                                                                                        [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/IGjAc8K.png" style="max-width:100px;"]
 [div]BOE, alisha
 [b]@samira                                                                                                                                                                                                [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/bL8o1vx.png" style="max-width:100px;"]
 BOYNTON, lucy
@@ -51,9 +49,9 @@ BOYNTON, lucy
 BOZ, alina
 [b]@dreama                                                                      [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/sseqES0.png"]
 BRODY, Adam
-[b]@alfie                                                                                                                                                                                                     [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/INEuUM0.png"]
+[b]@alfie                                                                                                                                                                                                     [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/INEuUM0.png"]
 [div]CAFFREY, neve
-[b]@nova                                                                                                                                                                                                [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/mRPGZ88.png"]
+[b]@nova                                                                                                                                                                                                [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/mRPGZ88.png"]
 CAPALDI, lewis
 [b]@duke[/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/qYFrYcg.png"]
 [div]CAVILL, henry
@@ -61,9 +59,9 @@ CAPALDI, lewis
 CHALAMET, timothee
 [b]@elijah                                                                                                                                                                                                   [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/0xjqRi9.png"]
 CHAN, gemma
-[b]@xiulan                                                                                                                                                                                              [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/ENAfjJc.jpg"]
+[b]@xiulan                                                                                                                                                                                              [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/ENAfjJc.jpg"]
 CHASTAIN, jessica
-[b]@ginny                                                                                                                                                                                              [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/A4SRJmr.png"]
+[b]@ginny                                                                                                                                                                                              [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/A4SRJmr.png"]
 CLAFLIN, sam
 [b]@rob                                                                                                                                                                                                    [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/A9xnYw8.png"]
 CLARKE, emilia
@@ -71,9 +69,9 @@ CLARKE, emilia
 COLE, finn
 [b]@nathaniel                                                                                                                                     [/b][/div][/td][td][div][img src="https://i.imgur.com/14xbZMZ.png" style="max-width:100px;"]
 COLEMAN, zendaya
-[b]@rue                                                                                                                                                                                                    [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/5Jbq1UJ.png" style="max-width:100px;"]
+[b]@rue                                                                                                                                                                                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/5Jbq1UJ.png" style="max-width:100px;"]
 COLLINS, lily
-[b]@lyra                                                                                                                                                                                                    [/b][/div][/td][td][div][img src="https://i.imgur.com/7ZoUwx0.jpg" style="max-width:100px;"]
+[b]@lyra                                                                                                                                                                                                    [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/7ZoUwx0.jpg" style="max-width:100px;"]
 COOKE, olivia
 [b]@kristine[/b][/div][/td][td][div][img src="https://i.imgur.com/ou80Y3r.jpg" style="max-width:100px;"]
 COOKSON, sophie
@@ -81,9 +79,9 @@ COOKSON, sophie
 [div]CRAVALHO, auli'i
 [b]@kaylee                                                                                                                                                                                             [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/bl7ySZu.png"]
 DADDARIO, alexandra
-[b]@sienna                                                                                                                                                                                                   [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/gSYdswb.png" style="max-width:100px;"]
+[b]@sienna                                                                                                                                                                                                   [/b][/div][/td][td][div][img src="https://i.imgur.com/gSYdswb.png" style="max-width:100px;"]
 DADDARIO, matthew
-[b]@jamesp                                                                                                                                                                                                  [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/3f5hNke.png"]
+[b]@jamesp                                                                                                                                                                                                  [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/3f5hNke.png"]
 [div]DE GRAAF, lauren
 [b]@bryelle                                                                                                                                                                                             [/b][/div][/div][/td][td][div][img src="https://i.imgur.com/8gtnYrU.png" style="max-width:100px;"]
 DE SCHRYVER, willem
@@ -91,7 +89,9 @@ DE SCHRYVER, willem
 DEHAAN, dane
 [b]@renard                                                                                                                                                                                                  [/b][/div][/td][td][div][img src="https://i.imgur.com/KYT9qSf.jpg" style="max-width:100px;"]
 DEIDRICK, casey
-[b]@lupin[/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]E,F,G,H[/div]
+[b]@lupin[/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
+last, first
+[b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]E,F,G,H[/div]
 [div align="center"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/nWxj3K8.png"]
 EILISH, billie
@@ -122,17 +122,7 @@ HEMMINGS, luke
 [div]HOLBROOK, boyd
 [b]@octavian                                                                                                                                                                                  [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/RptvOBv.png"]
 HOLDEN-RIED, kris
-[b]@charles                                                                                                                                                                                       [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/bd5jM7A.jpg" style="max-width:100px;"]
-HOLLAND, tom
-[b]@mac                                                                                         [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][td][div][img src="https://via.placeholder.com/100/09f/fff.png" style="max-width:100px;"]
-last, first
-[b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div]
+[b]@charles                                                                                                                                                                                       [/b][/div][/td][/tr][/tbody][/table][/div]
 [/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]I,J,K,L[/div]
 [div align="center"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/miy749X.png"]
@@ -258,11 +248,9 @@ SILVERS, diana
 SINK, sadie
 [b]@idele                                  [/b][/div][/td][td][div][img src="https://i.imgur.com/WwufiN1.jpg" style="max-width:100px;"]
 SKELTON, sophie
-[b]@brigh                                             [/b][/div][/td][td][div][img src="https://i.imgur.com/nlQteVh.jpg" style="max-width:100px;"]
-STAN, sebastian
-[b]@marcello                                   [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img src="https://i.imgur.com/X9VoFKB.jpg" style="max-width:100px;"]
+[b]@brigh                                             [/b][/div][/td][td][div][img src="https://i.imgur.com/X9VoFKB.jpg" style="max-width:100px;"]
 STEINFELD, hailee
-[b]@lea                                             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/0kwPKSR.png"]
+[b]@lea                                             [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/0kwPKSR.png"]
 [div]STEWART, kristen
 [b]@zen                                             [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/onsUeHV.jpg"]
 STORM, alex
@@ -270,9 +258,9 @@ STORM, alex
 SUEDE, chay
 [b]@oberon                                     [/b][/div][/td][td][div][img src="https://i.imgur.com/W6p06DA.png" style="max-width:100px;"]
 [div]SWIFT, taylor
-[b]@hanna                                             [/b][/div][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/rRBlYAe.png"]
+[b]@hanna                                             [/b][/div][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/rRBlYAe.png"]
 TABU 
-[b]@parvati                                             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/85hMGVs.jpg"]
+[b]@parvati                                             [/b][/div][/td][/tr][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/85hMGVs.jpg"]
 TAMADA, momona
 [b]@reina                                             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/EpMKSU6.jpg"]
 TAYLOR-JOHNSON, aaron
@@ -280,7 +268,9 @@ TAYLOR-JOHNSON, aaron
 TAYLOR-JOY, anya
 [b]@rose                                             [/b][/div][/td][td][div][img style="max-width:100px;" src="https://i.imgur.com/WROSeje.jpg"]
 THWAITES, brenton
-[b]@gehry                                                               [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]U,V,W,X,Y,Z[/div]
+[b]@gehry                                                               [/b][/div][/td][td][div][img style="max-width:100px;" src="https://via.placeholder.com/100/09f/fff.png"]
+last, first
+[b]tag                                 [/b][/div][/td][/tr][/tbody][/table][/div][/div][/td][/tr][tr][td][div style="background-color:#ffffff;padding:10px;text-align:justify;"][div style="text-align:center;padding-bottom:3px;margin-bottom:-5px;font:18px Georgia;border-bottom:solid 1px #6F1D1B;"]U,V,W,X,Y,Z[/div]
 [div align="center"]
 [table style="text-align:center;font:12px;"][tbody][tr style="vertical-align:top;"][td][div][img style="max-width:100px;" src="https://i.imgur.com/fMap6X6.png"]
 WADSWORTH, benjamin
