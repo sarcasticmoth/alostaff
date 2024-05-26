@@ -85,7 +85,7 @@ CREATE TABLE "poll_voter" (
 -- CreateTable
 CREATE TABLE "post" (
     "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
-    "date" BIGINT,
+    "date" INTEGER,
     "edit_user_id" INTEGER,
     "last_edited" INTEGER,
     "message" TEXT,
