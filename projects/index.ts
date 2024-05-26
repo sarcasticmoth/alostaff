@@ -1,15 +1,24 @@
-import { PrismaClient } from "@prisma/client"
+import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
-async function main() {}
+async function main() {
+    console.log(`----- start main -----`);
 
-main((msg) => {
-    
-})
-    .catch((e) => {
-        throw e;
-    })
-    .finally(async() => {
-        await prisma.$disconnect();
-    });
+    console.log(`----- boards -----`);
+
+    var boards = await prisma.board.findMany();
+    console.log(`board count: ${boards.length}`);
+
+    console.log(`----- end main -----`);
+}
+
+main()
+  .then(async () => {
+    await prisma.$disconnect();
+  })
+  .catch(async (e) => {
+    console.error(e);
+    await prisma.$disconnect();
+    process.exit(1);
+  });
