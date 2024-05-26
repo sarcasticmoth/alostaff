@@ -7,3 +7,148 @@ datasource db {
   url      = "file:forum.db"
 }
 
+model avatar {
+  image_id Int
+  user_id  Int
+  user     user  @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  image    image @relation(fields: [image_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([image_id, user_id])
+}
+
+model board {
+  id                 Int         @id @default(autoincrement())
+  category_id        Int?
+  description        String?
+  name               String
+  parent_id          Int?
+  password_protected Boolean?
+  url                String?
+  board              board?      @relation("boardToboard", fields: [parent_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  other_board        board[]     @relation("boardToboard")
+  category           category?   @relation(fields: [category_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  moderator          moderator[]
+  thread             thread[]
+}
+
+model category {
+  id    Int     @id @default(autoincrement())
+  name  String
+  board board[]
+}
+
+model css {
+  id          Int     @id @default(autoincrement())
+  description String?
+  filename    String?
+  md5_hash    String?
+  url         String?
+}
+
+model image {
+  id          Int      @id @default(autoincrement())
+  description String?
+  filename    String?
+  md5_hash    String?
+  size        Int?
+  url         String?
+  avatar      avatar[]
+}
+
+model moderator {
+  board_id Int
+  user_id  Int
+  user     user  @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  board    board @relation(fields: [board_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([board_id, user_id])
+}
+
+model poll {
+  id          Int           @id @default(autoincrement())
+  name        String?
+  thread      thread        @relation(fields: [id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  poll_option poll_option[]
+  poll_voter  poll_voter[]
+}
+
+model poll_option {
+  id      Int     @id @default(autoincrement())
+  poll_id Int?
+  name    String?
+  votes   Int?
+  poll    poll?   @relation(fields: [poll_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model poll_voter {
+  poll_id Int
+  user_id Int
+  user    user @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  poll    poll @relation(fields: [poll_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([poll_id, user_id])
+}
+
+model post {
+  id                           Int     @id @default(autoincrement())
+  date                         Int?
+  edit_user_id                 Int?
+  last_edited                  Int?
+  message                      String?
+  thread_id                    Int
+  url                          String?
+  user_id                      Int
+  user_post_user_idTouser      user    @relation("post_user_idTouser", fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  thread                       thread  @relation(fields: [thread_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  user_post_edit_user_idTouser user?   @relation("post_edit_user_idTouser", fields: [edit_user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model shoutbox_post {
+  id      Int     @id @default(autoincrement())
+  date    Int?
+  message String?
+  user_id Int?
+  user    user?   @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model thread {
+  id           Int      @id @default(autoincrement())
+  announcement Boolean?
+  board_id     Int
+  locked       Boolean?
+  sticky       Boolean?
+  title        String?
+  url          String?
+  user_id      Int
+  views        Int?
+  poll         poll?
+  post         post[]
+  user         user     @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  board        board    @relation(fields: [board_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model user {
+  id                           Int             @id @default(autoincrement())
+  age                          Int?
+  birthdate                    String?
+  date_registered              Int?
+  email                        String?
+  played_by                    String?
+  gender                       String?
+  group                        String?
+  last_online                  Int?
+  latest_status                String?
+  location                     String?
+  name                         String?
+  post_count                   Int?
+  signature                    String?
+  url                          String?
+  username                     String?
+  avatar                       avatar[]
+  moderator                    moderator[]
+  poll_voter                   poll_voter[]
+  post_post_user_idTouser      post[]          @relation("post_user_idTouser")
+  post_post_edit_user_idTouser post[]          @relation("post_edit_user_idTouser")
+  shoutbox_post                shoutbox_post[]
+  thread                       thread[]
+}
