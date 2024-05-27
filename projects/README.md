@@ -11,3 +11,23 @@ npx prisma migrate dev --create-only
 
 npx prisma migrate dev
 ```
+
+## structure
+
+alo-data-app
+- public
+- - index.html
+- - styles.css
+- - scripts.js
+- src
+- - components
+- - - 
+- - services
+- - - somethingService.js
+- - utils
+- - - formatDate.js
+- - app.js
+- - index.js
+- package.json
+- README.md
+
