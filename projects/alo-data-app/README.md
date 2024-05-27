@@ -15,18 +15,11 @@ npx prisma migrate dev
 ## structure
 
 alo-data-app
-- public
-- - index.html
-- - styles.css
-- - scripts.js
 - src
-- - components
-- - - 
-- - services
-- - - somethingService.js
-- - utils
-- - - formatDate.js
-- - app.js
+- - controllers/
+- - models/
+- - routes/
+- - services/
 - - index.js
 - package.json
 - README.md

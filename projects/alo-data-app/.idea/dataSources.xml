@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="forum.db" uuid="9e852ad0-0210-436f-aa64-588e3227faa1">
+    <data-source source="LOCAL" name="forum.db" uuid="ab01198c-cae7-4f6a-9d2a-a38c2f5c113f">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:D:\Repo\sarcasticmoth\alostaff\projects\prisma\forum.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:D:\Repo\sarcasticmoth\alostaff\projects\alo-data-app\prisma\forum.db</jdbc-url>
       <jdbc-additional-properties>
         <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
       </jdbc-additional-properties>
