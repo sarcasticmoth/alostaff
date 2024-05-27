@@ -24,3 +24,6 @@ alo-data-app
 - package.json
 - README.md
 
+## sites
+
+https://ianodad.medium.com/building-a-mvc-application-with-nextjs-and-prisma-a4be9276b9f2

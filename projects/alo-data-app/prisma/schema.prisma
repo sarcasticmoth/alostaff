@@ -22,7 +22,6 @@ model board {
   description        String?
   name               String
   parent_id          Int?
-  password_protected Boolean?
   url                String?
   board              board?      @relation("boardToboard", fields: [parent_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
   other_board        board[]     @relation("boardToboard")
