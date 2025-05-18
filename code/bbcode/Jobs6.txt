@@ -92,11 +92,11 @@ Laurentius Malkin
 Tala Cruz[/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SEAMSTRESS[/b][/div]
 [i]tailor robes to sell, and custom fit robes for clients[/i]
-@lea    
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]SHOPKEEPER[/b][/div]
 [i]employees of the shop, help customers[/i]
-@lea    
+@tag
 [/div][/div]
 [div style="margin-left:10px;margin-right:10px;"][div style="font-style:normal;font-variant:normal;font-size:16px;line-height:normal;font-family:Georgia;border-bottom:1px solid #8B4972;text-align:center;text-transform:lowercase;margin-bottom:-10px;"][b]MAGICAL MENAGERIE[/b][/div]
 [div style="margin-left:10px;margin-right:10px;"]

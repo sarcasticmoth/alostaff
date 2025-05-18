@@ -52,7 +52,6 @@ to have a Patronus added just use this code:
 @jimmie                                       - dolphin
 @jimbo                                       - dove
 @kaylee                                       - hen
-@lea       - scops owl
 @lily                                       - St. Bernard
 [/div][/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font:12px Georgia;border-bottom:solid 1px #6F1D1B;text-align:left;text-transform:lowercase;margin-bottom:-10px;"]M, N, O, P[/div]

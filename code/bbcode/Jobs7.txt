@@ -877,7 +877,7 @@ trying to create new magical species is illegal but these individuals don't care
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]BARTENDER[/b][/div]
 [i]run the pub.[/i]
-@dreama                       
+@tag
 [/div][div style="margin-left:10px;margin-right:10px;"]
 [div style="font-style:normal;font-variant:normal;font-size:12px;line-height:normal;font-family:Georgia;border-bottom:1px solid rgb(163, 103, 168);text-align:left;text-transform:lowercase;margin-bottom:-10px;"][b]HOUSEKEEPR[/b][/div]
 [i]maintain the inn rooms for visitors.[/i]
